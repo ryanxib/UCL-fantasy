@@ -1,5 +1,11 @@
 # Log (newest first)
 
+## 2026-11-24 History run 2 results (step 10, ids 1135500-1158800)
+- 2,665 ids tried, 193 UCL contests. Still NO daily contest for MD1 and none for MD4 Tuesday. MD4 file unchanged (Wed, 7 games).
+- Likely FanTeam ran no dailies on those days. Not proven: a cluster smaller than 10 ids could be missed.
+- Final FanTeam daily coverage: MD1 0/18 games, MD2 14/18, MD3 14/18, MD4 7/18. The 18:45 CET games are never covered.
+- Gaps need another source. UEFA match + comp stats APIs answer from Actions (both 200): next research chat.
+
 ## 2026-11-24 History run 1 results (Action 45380700535, 34 min)
 - Scan 1137000-1170000 step 40, fine +-40: 157 UCL contests (seasonId 2026). Report: `data/clean/points/ucl_points_report_run1.md`.
 - Points files: MD2 678 players / 14 of 18 games (1143672 Tue, 1143711 Wed); MD3 687 / 14 of 18 (1148080, 1148891);

@@ -19,5 +19,7 @@ FanTeam (past contest ids via a scan; raw stats via `/fantasy_teams/{id}`), chec
 4. `team_latest.csv` includes `h2h_lay` rows: ignore in stage 2.
 5. `epl.dfs` has the name-key bug fixed here (Ø, ß, Ł dropped). Fix there in an EPL chat.
 6. Raw prices policy (option A): review at stage 4.
-7. Past FanTeam points per matchday: `history` Action started 24 Nov; read `data/clean/points/ucl_points_report.md`.
-   Points are a flag only until they lower projection error.
+7. Past FanTeam points: `data/clean/points/ucl_points_md{2,3,4}.csv`. Coverage MD1 0/18, MD2 14/18, MD3 14/18, MD4 7/18 games
+   (dailies skip 18:45 CET games; no dailies found for MD1 or MD4 Tue). Flag only until it lowers projection error.
+8. Fill gaps from UEFA: match.uefa.com and compstats.uefa.com answer from Actions. Research chat: map endpoints for
+   per-player per-match stats (minutes, goals, assists, shots, tackles, saves), all 18 games x MD1-4.
