@@ -43,3 +43,11 @@ Open (from EPL): does the full-match bonus need start and finish, or just being 
 - Yes/Over-only markets: 1/price includes the margin.
 - Match names on an accent-insensitive key (e.g. Bodø/Glimt, ŠK Slovan Bratislava).
 - The key is shared with the NBA and EPL repos. Log credits left after each run.
+- Cost of `fetch_props.py` (estimate from markets x regions, to be checked against real runs): about 21 credits per game + 4 per run.
+  A 9-game night about 190. Billing counts only markets that return data.
+- Not yet checked: coverage for the smallest clubs, real cost of a full 18-game pull.
+
+## Data policy (public repo)
+- Raw bookmaker prices: committed (owner decision A, 24 Nov 2026). Review at stage 4.
+- FanTeam standings: only rank, score, payout are saved. No user names, ids or entry names.
+- No keys, tokens, account details or personal names in any file or Action log.

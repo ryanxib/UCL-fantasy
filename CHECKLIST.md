@@ -4,8 +4,9 @@ Start of every chat: read NEXT.md, PLAN.md, last LOG.md entries. If the repo can
 Every file is public: no keys, tokens, account details or personal names. Ask before committing raw bookmaker data.
 
 ## Matchday (before lock)
-Pipeline not built yet (PLAN stages 1-3). Steps to be filled in as stages land:
-pool -> props (about a day before kick-off, log credits) -> projection (read warnings) -> calls -> lineups -> freeze before first kick-off -> commit.
+1. [ ] Tournament id(s) from the owner (contest Overview screenshot). Write ids to `requests/pool.txt`, push -> `pool` Action. Read `data/raw/fanteam/pool_last_run.txt`; check rules (budget, max per club, captain, safety net) v the screen
+2. [ ] Props on the day: write e.g. `--hours 30` to `requests/props.txt` (change the line, or the push will not trigger), push -> `props` Action. Read `data/raw/props/last_run.txt`; log credits left
+3. [ ] Projection, calls, lineups, freeze: not built yet (PLAN stages 2-3)
 
 ## Post-matchday
 1. [ ] Owner's screens (scores, ranks, cash line, prizes) -> file straight away (no personal names)

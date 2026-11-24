@@ -1,5 +1,20 @@
 # Log (newest first)
 
+## 2026-11-24 Stage 1: fetching built
+- Owner decision: raw bookmaker prices may be committed (option A). Review at stage 4.
+- Copied from `ryanxib/epl.dfs` commit `efa3cb9cdb1f31e21031b5c1a0e278d77de50dca`, adapted:
+  - `scripts/fetch_props.py`: sport key UCL; calls per UCL book coverage (anytime us,uk,eu; shots/SoT/assists us,eu;
+    assists alt + tackles alt + cards us,uk); extra team markets (btts, team totals, alt team totals, us,uk) on by default;
+    h2h + totals uk,eu (adds Pinnacle); default window 30 h; raw file `ucl_<stamp>.json.gz`.
+  - `scripts/fetch_pool.py`: contest JSON standings scrubbed to rank, score, payout (whitelist; public repo).
+  - `model/names.py`: FPL matcher and EPL alias list removed.
+  - `.github/workflows/props.yml`, `pool.yml`: also run on a push that changes `requests/props.txt` / `requests/pool.txt`
+    (this workspace cannot call the Actions API). Arguments checked by a pattern before reaching the shell. `team_lines` step dropped (stage 2).
+- BUG FIXED (also present in `epl.dfs`, not fixed there): `key()` turned "Ødegaard" into "degaard" and "Bodø" into "bod",
+  because NFKD does not split Ø, ß, Ł etc. Added a fold table in `names.py` and `fetch_props.py`.
+- Added `tests/test_stage1.py` (offline): all 4 pass.
+- Triggered the first `props` run (`--hours 30`): tonight's games only. Result below when it lands.
+
 ## 2026-11-24 Raw probe copied; key check Action
 - Owner approved committing raw bookmaker data for the probe. Copied `data/ref/ucl_props_probe_raw.json` from
   `ryanxib/epl.dfs`, branch `ucl-probe`, commit `fc6e3788d43f8bb0280fb0a725ae325f2dbf55f5` (unchanged, 420 KB). Checked: no key in it.

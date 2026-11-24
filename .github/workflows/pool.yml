@@ -1,0 +1,46 @@
+name: pool
+# Copied from ryanxib/epl.dfs .github/workflows/pool.yml (commit efa3cb9), adapted for UCL.
+# FanTeam pool + contest rules by tournament id. Two ways to run: Actions -> pool -> Run workflow (ids space separated),
+# or commit tournament ids to requests/pool.txt (Claude's route: this workspace cannot call the Actions API).
+# Output: data/raw/fanteam/pool_<id>_<date>.csv + contest_<id>.json (rules; standings scrubbed of user identity)
+# + data/ref/contests.csv (registry) + data/raw/fanteam/pool_last_run.txt
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: "FanTeam tournament id(s), space separated"
+        required: true
+  push:
+    branches: [main]
+    paths: [requests/pool.txt]
+permissions:
+  contents: write
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+jobs:
+  pool:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Fetch pool
+        env:
+          INPUT_IDS: ${{ github.event.inputs.ids }}
+        run: |
+          mkdir -p data/raw/fanteam
+          IDS="${INPUT_IDS:-$(head -1 requests/pool.txt 2>/dev/null)}"
+          echo "$IDS" | grep -Eq '^ *[0-9]+( +[0-9]+)* *$' || { echo "bad ids: $IDS" | tee data/raw/fanteam/pool_last_run.txt; exit 1; }
+          python scripts/fetch_pool.py $IDS 2>&1 | tee data/raw/fanteam/pool_last_run.txt; exit ${PIPESTATUS[0]}
+      - name: Commit and push
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A data
+          git commit -q -m "Pool $(date -u +'%F %H:%M')Z" || { echo "nothing to commit"; exit 0; }
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 10; done
+          exit 1

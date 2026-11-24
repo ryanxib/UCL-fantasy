@@ -1,0 +1,2 @@
+--hours 30
+# Arguments for the props Action (first line only). Commit a change to run it.

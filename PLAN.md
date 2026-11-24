@@ -7,11 +7,11 @@ One stage per build chat. A stage is done when its "done when" line is true and 
 README, NEXT, PLAN, LOG, METHOD, CHECKLIST. Props probe summary + script copied from `epl.dfs` (branch `ucl-probe`).
 Done when: files pushed to main, copy logged.
 
-## Stage 1. Fetching (Actions)
+## Stage 1. Fetching (Actions) (24 Nov 2026: built; props run once; pool waits for a tournament id)
 - Copy from `epl.dfs`: `fetch_props.py`, `fetch_pool.py`, `names.py` + `props` and `pool` workflows. Sport key `soccer_uefa_champs_league`.
 - Public repo: check no script prints the key or a request URL (Action logs are public).
-- Owner decision first: may bookmaker prices be committed to this public repo? If not, choose another route.
-- Owner sets the `ODDS_API` secret on this repo (same shared key).
+- Owner decision (24 Nov): raw bookmaker prices may be committed here (option A). Review at stage 4.
+- `ODDS_API` secret set and checked (24 Nov).
 Done when: `props` and `pool` have each run once on UCL with clean output, credits logged.
 
 ## Stage 2. Projection
