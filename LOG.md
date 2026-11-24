@@ -13,7 +13,13 @@
 - BUG FIXED (also present in `epl.dfs`, not fixed there): `key()` turned "Ødegaard" into "degaard" and "Bodø" into "bod",
   because NFKD does not split Ø, ß, Ł etc. Added a fold table in `names.py` and `fetch_props.py`.
 - Added `tests/test_stage1.py` (offline): all 4 pass.
-- Triggered the first `props` run (`--hours 30`): tonight's games only. Result below when it lands.
+- First `props` run, 24 Nov 09:35 UTC, `--hours 30` (tonight's 9 games): clean, no key in the log.
+  - Cost 178 credits (18660 -> 18482): 21 per game with props, 6 for a game without, 4 for team markets. Estimate held.
+  - Porto @ Feyenoord: NO player props at all (0 books), team markets fine. Real Betis @ Slovan Bratislava: only 21 players
+    priced (thin). Other games 36-49 players, 5-7 books on anytime scorer.
+  - Team markets: h2h and totals for all 9 games, 39-40 books on h2h. `team_latest.csv` also holds `h2h_lay` (exchange lay
+    prices) rows: stage 2 must ignore them.
+  - Team totals: 1-2 books per game (4-8 prices). Alternate team totals deeper (57-69 prices).
 
 ## 2026-11-24 Raw probe copied; key check Action
 - Owner approved committing raw bookmaker data for the probe. Copied `data/ref/ucl_props_probe_raw.json` from
