@@ -1,5 +1,15 @@
 # Log (newest first)
 
+## 2026-11-24 History run 1 results (Action 45380700535, 34 min)
+- Scan 1137000-1170000 step 40, fine +-40: 157 UCL contests (seasonId 2026). Report: `data/clean/points/ucl_points_report_run1.md`.
+- Points files: MD2 678 players / 14 of 18 games (1143672 Tue, 1143711 Wed); MD3 687 / 14 of 18 (1148080, 1148891);
+  MD4 348 / 7 of 18 (1158791, Wed only). MD1: no daily contest found.
+- Every daily contest found covers only the 20:00 CET games: the 4 early (18:45 CET) games per matchday have no FanTeam
+  daily points. MD5 contest 1170340 is the same. Fix is not a scan: needs another source (season game or UEFA).
+- Web sources probe (from the Action): UEFA match API (match.uefa.com) 200, UEFA comp stats API (compstats.uefa.com) 200.
+  Sofascore 403, FBref 403, FotMob 404 (wrong guess), uefa.com pages and UCL Fantasy feed timed out.
+- Run 2 started: ids 1135500-1158800 step 10, fine 10, MD1 and MD4 only.
+
 ## 2026-11-24 Coverage refresh + scoring-rules probe
 - New `scripts/coverage.py` + `coverage` Action (`requests/coverage.txt`): books per market per game, no prices, 1 credit
   per game. Output `data/ref/props_coverage.md` (+ history CSV, shows change v previous run from the next run on).
