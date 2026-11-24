@@ -1,0 +1,1952 @@
+{
+ "awayTeam": {
+  "associationId": "200039",
+  "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/ENG.svg",
+  "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/52683.png",
+  "confederationType": "UEFA",
+  "countryCode": "ENG",
+  "id": "52683",
+  "idProvider": "FAME",
+  "internationalName": "Aston Villa",
+  "isPlaceHolder": false,
+  "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52683.png",
+  "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/52683.png",
+  "organizationId": "252683",
+  "teamCode": "AVL",
+  "teamTypeDetail": "DOMESTIC_MEN_TEAM_A",
+  "translations": {
+   "countryName": {
+    "EN": "England",
+    "FR": "Angleterre",
+    "DE": "England",
+    "ES": "Inglaterra",
+    "PT": "Inglaterra",
+    "IT": "Inghilterra",
+    "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+    "ZH": "\u82f1\u683c\u5170",
+    "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+   },
+   "displayName": {
+    "EN": "Aston Villa",
+    "FR": "Aston Villa",
+    "DE": "Aston Villa",
+    "ES": "Aston Villa",
+    "PT": "Aston Villa",
+    "IT": "Aston Villa",
+    "RU": "\u0410\u0441\u0442\u043e\u043d \u0412\u0438\u043b\u043b\u0430",
+    "ZH": "\u963f\u65af\u987f\u7ef4\u62c9",
+    "AR": "\u0623\u0633\u062a\u0648\u0646 \u0641\u064a\u0644\u0627"
+   },
+   "displayOfficialName": {
+    "EN": "Aston Villa",
+    "FR": "Aston Villa",
+    "DE": "Aston Villa",
+    "ES": "Aston Villa",
+    "PT": "Aston Villa",
+    "IT": "Aston Villa",
+    "RU": "\u0410\u0441\u0442\u043e\u043d \u0412\u0438\u043b\u043b\u0430",
+    "ZH": "\u963f\u65af\u987f\u7ef4\u62c9",
+    "AR": "\u0623\u0633\u062a\u0648\u0646 \u0641\u064a\u0644\u0627"
+   },
+   "displayTeamCode": {
+    "EN": "AVL",
+    "FR": "AVL",
+    "DE": "AVL",
+    "ES": "AVL",
+    "PT": "AVL",
+    "IT": "AVL",
+    "RU": "AVL",
+    "ZH": "AVL",
+    "AR": "AVL"
+   },
+   "shortName": {
+    "EN": "Aston Villa",
+    "FR": "Aston Villa",
+    "DE": "Aston Villa",
+    "ES": "Aston Villa",
+    "PT": "Aston Villa",
+    "IT": "Aston Villa",
+    "RU": "\u0410\u0441\u0442\u043e\u043d \u0412\u0438\u043b\u043b\u0430",
+    "ZH": "Villa",
+    "AR": "\u0623\u0633\u062a\u0648\u0646 \u0641\u064a\u0644\u0627"
+   }
+  },
+  "typeIsNational": false,
+  "typeTeam": "DOMESTIC"
+ },
+ "competition": {
+  "age": "ADULT",
+  "code": "UCL",
+  "id": "1",
+  "images": {
+   "FULL_LOGO": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/color/full/1.svg"
+  },
+  "metaData": {
+   "name": "UEFA Champions League"
+  },
+  "region": "CONTINENTAL",
+  "sex": "MALE",
+  "sportsType": "FOOTBALL",
+  "teamCategory": "CLUB",
+  "translations": {
+   "name": {
+    "EN": "UEFA Champions League",
+    "FR": "UEFA Champions League",
+    "DE": "UEFA Champions League",
+    "ES": "UEFA Champions League",
+    "PT": "UEFA Champions League",
+    "IT": "UEFA Champions League",
+    "RU": "\u041b\u0438\u0433\u0430 \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u043e\u0432 \u0423\u0415\u0424\u0410",
+    "ZH": "\u6b27\u6d32\u51a0\u519b\u8054\u8d5b",
+    "AR": "\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627"
+   },
+   "prequalifyingName": {
+    "EN": "UEFA Champions League",
+    "FR": "UEFA Champions League",
+    "DE": "UEFA Champions League",
+    "ES": "UEFA Champions League",
+    "PT": "UEFA Champions League",
+    "IT": "UEFA Champions League",
+    "RU": "\u041b\u0438\u0433\u0430 \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u043e\u0432 \u0423\u0415\u0424\u0410",
+    "ZH": "\u6b27\u6d32\u51a0\u519b\u8054\u8d5b",
+    "AR": "\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627"
+   },
+   "qualifyingName": {
+    "EN": "UEFA Champions League",
+    "FR": "UEFA Champions League",
+    "DE": "UEFA Champions League",
+    "ES": "UEFA Champions League",
+    "PT": "UEFA Champions League",
+    "IT": "UEFA Champions League",
+    "RU": "\u041b\u0438\u0433\u0430 \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u043e\u0432 \u0423\u0415\u0424\u0410",
+    "ZH": "\u6b27\u6d32\u51a0\u519b\u8054\u8d5b",
+    "AR": "\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627"
+   },
+   "shortName": {},
+   "tournamentName": {
+    "EN": "UEFA Champions League",
+    "FR": "UEFA Champions League",
+    "DE": "UEFA Champions League",
+    "ES": "UEFA Champions League",
+    "PT": "UEFA Champions League",
+    "IT": "UEFA Champions League",
+    "RU": "\u041b\u0438\u0433\u0430 \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u043e\u0432 \u0423\u0415\u0424\u0410",
+    "ZH": "\u6b27\u6d32\u51a0\u519b\u8054\u8d5b",
+    "AR": "\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627"
+   }
+  },
+  "type": "CUP"
+ },
+ "competitionPhase": "TOURNAMENT",
+ "condition": {
+  "humidity": 90,
+  "pitchCondition": "EXCELLENT",
+  "temperature": 17,
+  "translations": {
+   "pitchConditionName": {
+    "EN": "excellent",
+    "FR": "impeccable",
+    "DE": "exzellent",
+    "ES": "excelente",
+    "PT": "excelente",
+    "IT": "eccellente",
+    "RU": "\u043f\u0440\u0435\u0432\u043e\u0441\u0445\u043e\u0434\u043d\u043e\u0435",
+    "ZH": "\u975e\u5e38\u597d",
+    "AR": "\u0645\u0645\u062a\u0627\u0632"
+   },
+   "weatherConditionName": {
+    "EN": "Rain",
+    "FR": "pluie",
+    "DE": "Regen",
+    "ES": "Lluvia",
+    "PT": "Chuva",
+    "IT": "Pioggia",
+    "RU": "\u0414\u043e\u0436\u0434\u044c",
+    "ZH": "\u6709\u96e8",
+    "AR": "\u0645\u0645\u0637\u0631"
+   }
+  },
+  "weatherCondition": "RAIN",
+  "windSpeed": 19
+ },
+ "fullTimeAt": "2026-09-08T18:39:01.931Z",
+ "group": {
+  "competitionId": "1",
+  "id": "2013887",
+  "metaData": {
+   "groupName": "League",
+   "groupShortName": "League"
+  },
+  "order": 1,
+  "phase": "TOURNAMENT",
+  "roundId": "2002239",
+  "seasonYear": "2027",
+  "teams": [
+   "52707",
+   "70691",
+   "63405",
+   "50051",
+   "52692",
+   "52498",
+   "52277",
+   "50037",
+   "50136",
+   "50138",
+   "52797",
+   "50137",
+   "52319",
+   "52758",
+   "52919",
+   "75797",
+   "59333",
+   "50080",
+   "52280",
+   "50062",
+   "52682",
+   "50064",
+   "50043",
+   "52265",
+   "52683",
+   "50067",
+   "79946",
+   "50124",
+   "50149",
+   "7889",
+   "2609356",
+   "50107",
+   "50129",
+   "52749",
+   "2603790",
+   "52747"
+  ],
+  "teamsQualifiedNumber": 24,
+  "translations": {
+   "name": {
+    "EN": "League",
+    "FR": "League",
+    "DE": "League",
+    "ES": "League",
+    "PT": "League",
+    "IT": "League",
+    "RU": "League",
+    "ZH": "League",
+    "AR": "League"
+   },
+   "shortName": {
+    "EN": "League",
+    "FR": "League",
+    "DE": "League",
+    "ES": "League",
+    "PT": "League",
+    "IT": "League",
+    "RU": "League",
+    "ZH": "League",
+    "AR": "League"
+   }
+  },
+  "type": "STANDARD"
+ },
+ "homeTeam": {
+  "associationId": "200013",
+  "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/BEL.svg",
+  "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/50043.png",
+  "confederationType": "UEFA",
+  "countryCode": "BEL",
+  "id": "50043",
+  "idProvider": "FAME",
+  "internationalName": "Club Brugge",
+  "isPlaceHolder": false,
+  "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50043.png",
+  "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/50043.png",
+  "organizationId": "250043",
+  "teamCode": "BRU",
+  "teamTypeDetail": "DOMESTIC_MEN_TEAM_A",
+  "translations": {
+   "countryName": {
+    "EN": "Belgium",
+    "FR": "Belgique",
+    "DE": "Belgien",
+    "ES": "B\u00e9lgica",
+    "PT": "B\u00e9lgica",
+    "IT": "Belgio",
+    "RU": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f",
+    "ZH": "\u6bd4\u5229\u65f6",
+    "AR": "\u0628\u0644\u062c\u064a\u0643\u0627"
+   },
+   "displayName": {
+    "EN": "Club Brugge",
+    "FR": "Club Brugge",
+    "DE": "Club Brugge",
+    "ES": "Club Brugge",
+    "PT": "Club Brugge",
+    "IT": "Club Brugge",
+    "RU": "\u0411\u0440\u044e\u0433\u0433\u0435",
+    "ZH": "\u5e03\u9c81\u65e5",
+    "AR": "\u0643\u0644\u0648\u0628 \u0628\u0631\u0648\u062c"
+   },
+   "displayOfficialName": {
+    "EN": "Club Brugge KV",
+    "FR": "Club Brugge KV",
+    "DE": "Club Brugge KV",
+    "ES": "Club Brugge KV",
+    "PT": "Club Brugge KV",
+    "IT": "Club Brugge KV",
+    "RU": "\u0411\u0440\u044e\u0433\u0433\u0435",
+    "ZH": "\u5e03\u9c81\u65e5",
+    "AR": "\u0643\u0644\u0648\u0628 \u0628\u0631\u0648\u062c"
+   },
+   "displayTeamCode": {
+    "EN": "BRU",
+    "FR": "BRU",
+    "DE": "BRU",
+    "ES": "BRU",
+    "PT": "BRU",
+    "IT": "BRU",
+    "RU": "BRU",
+    "ZH": "BRU",
+    "AR": "BRU"
+   },
+   "shortName": {
+    "EN": "Brugge",
+    "FR": "Brugge",
+    "DE": "Brugge",
+    "ES": "Brugge",
+    "PT": "Brugge",
+    "IT": "Brugge",
+    "RU": "\u0411\u0440\u044e\u0433\u0433\u0435",
+    "ZH": "Brugge",
+    "AR": "\u0628\u0631\u0648\u062c"
+   }
+  },
+  "typeIsNational": false,
+  "typeTeam": "DOMESTIC"
+ },
+ "id": "2049556",
+ "kickOffTime": {
+  "date": "2026-09-08",
+  "dateTime": "2026-09-08T16:45:00Z",
+  "utcOffsetInHours": 2
+ },
+ "lineupStatus": "TACTICAL_AVAILABLE",
+ "matchAttendance": 24286,
+ "matchday": {
+  "competitionId": "1",
+  "dateFrom": "2026-09-08T06:00:00+0000",
+  "dateTo": "2026-09-10T21:59:59+0000",
+  "format": "REGULAR",
+  "id": "36598",
+  "longName": "Matchday 1",
+  "name": "MD1",
+  "phase": "TOURNAMENT",
+  "roundId": "2002239",
+  "seasonYear": "2027",
+  "sequenceNumber": "1",
+  "translations": {
+   "longName": {
+    "EN": "Matchday 1",
+    "FR": "Journ\u00e9e 1",
+    "DE": "Spieltag 1",
+    "ES": "Jornada 1",
+    "PT": "Jornada 1",
+    "IT": "Giornata 1",
+    "RU": "\u0422\u0443\u0440 1",
+    "ZH": "\u6bd4\u8d5b\u65e5 1",
+    "AR": "\u0627\u0644\u062c\u0648\u0644\u0629 1"
+   },
+   "name": {
+    "EN": "MD 1",
+    "FR": "J 1",
+    "DE": "ST 1",
+    "ES": "JOR 1",
+    "PT": "J 1",
+    "IT": "G 1",
+    "RU": "\u0422\u0443\u0440 1",
+    "ZH": "\u6bd4\u8d5b\u65e5 1",
+    "AR": "MD 1"
+   }
+  },
+  "type": "MATCHDAY"
+ },
+ "playerEvents": {
+  "scorers": [
+   {
+    "goalType": "SCORED",
+    "id": "ac65fcba-d03c-41cf-a0fa-7d09f991e40b",
+    "phase": "FIRST_HALF",
+    "player": {
+     "age": "32",
+     "birthDate": "1994-10-18",
+     "clubId": "52683",
+     "clubJerseyNumber": "7",
+     "clubShirtName": "McGinn",
+     "countryCode": "SCO",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250058958",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250058958.jpg",
+     "internationalName": "John McGinn",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalJerseyNumber": "7",
+     "nationalShirtName": "McGinn",
+     "nationalTeamId": "117",
+     "translations": {
+      "countryName": {
+       "EN": "Scotland",
+       "FR": "\u00c9cosse",
+       "DE": "Schottland",
+       "ES": "Escocia",
+       "PT": "Esc\u00f3cia",
+       "IT": "Scozia",
+       "RU": "\u0428\u043e\u0442\u043b\u0430\u043d\u0434\u0438\u044f",
+       "ZH": "\u82cf\u683c\u5170",
+       "AR": "\u0627\u0633\u0643\u062a\u0644\u0646\u062f\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "John",
+       "FR": "John",
+       "DE": "John",
+       "ES": "John",
+       "PT": "John",
+       "IT": "John",
+       "RU": "\u0414\u0436\u043e\u043d",
+       "ZH": "\u7ea6\u7ff0",
+       "AR": "\u062c\u0648\u0646 "
+      },
+      "lastName": {
+       "EN": "McGinn",
+       "FR": "McGinn",
+       "DE": "McGinn",
+       "ES": "McGinn",
+       "PT": "McGinn",
+       "IT": "McGinn",
+       "RU": "\u041c\u0430\u043a\u0433\u0438\u043d\u043d",
+       "ZH": "\u9ea6\u91d1",
+       "AR": "\u0645\u0627\u0643\u062c\u064a\u0646"
+      },
+      "name": {
+       "EN": "John McGinn",
+       "FR": "John McGinn",
+       "DE": "John McGinn",
+       "ES": "John McGinn",
+       "PT": "John McGinn",
+       "IT": "John McGinn",
+       "RU": "\u0414\u0436\u043e\u043d \u041c\u0430\u043a\u0433\u0438\u043d\u043d",
+       "ZH": "\u7ea6\u7ff0\u00b7\u9ea6\u91d1",
+       "AR": "\u062c\u0648\u0646 \u0645\u0627\u0643\u062c\u064a\u0646"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "McGinn",
+       "FR": "McGinn",
+       "DE": "McGinn",
+       "ES": "McGinn",
+       "PT": "McGinn",
+       "IT": "McGinn",
+       "RU": "\u041c\u0430\u043a\u0433\u0438\u043d\u043d",
+       "ZH": "\u9ea6\u91d1",
+       "AR": "\u0645\u0627\u0643\u062c\u064a\u0646"
+      }
+     }
+    },
+    "teamId": "52683",
+    "teamIdProvider": "FAME",
+    "time": {
+     "minute": 11,
+     "second": 7
+    }
+   },
+   {
+    "goalType": "SCORED",
+    "id": "5109e09b-f393-412d-9db4-6cfe94877d87",
+    "phase": "FIRST_HALF",
+    "player": {
+     "age": "26",
+     "birthDate": "2000-02-29",
+     "clubId": "50043",
+     "clubJerseyNumber": "10",
+     "clubShirtName": "Vetlesen",
+     "countryCode": "NOR",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250115134",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250115134.jpg",
+     "internationalName": "Hugo Vetlesen",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalJerseyNumber": "15",
+     "nationalShirtName": "Vetlesen",
+     "nationalTeamId": "101",
+     "translations": {
+      "countryName": {
+       "EN": "Norway",
+       "FR": "Norv\u00e8ge",
+       "DE": "Norwegen",
+       "ES": "Noruega",
+       "PT": "Noruega",
+       "IT": "Norvegia",
+       "RU": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+       "ZH": "\u632a\u5a01",
+       "AR": "\u0627\u0644\u0646\u0631\u0648\u064a\u062c"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Hugo",
+       "FR": "Hugo",
+       "DE": "Hugo",
+       "ES": "Hugo",
+       "PT": "Hugo",
+       "IT": "Hugo",
+       "RU": "\u0425\u0443\u0433\u043e",
+       "ZH": "\u96e8\u679c",
+       "AR": "\u0647\u0648\u062c\u0648 "
+      },
+      "lastName": {
+       "EN": "Vetlesen",
+       "FR": "Vetlesen",
+       "DE": "Vetlesen",
+       "ES": "Vetlesen",
+       "PT": "Vetlesen",
+       "IT": "Vetlesen",
+       "RU": "\u0412\u0435\u0442\u043b\u0435\u0441\u0435\u043d",
+       "ZH": "\u7ef4\u7279\u52d2\u68ee",
+       "AR": "\u0641\u064a\u062a\u0644\u0633\u0646"
+      },
+      "name": {
+       "EN": "Hugo Vetlesen",
+       "FR": "Hugo Vetlesen",
+       "DE": "Hugo Vetlesen",
+       "ES": "Hugo Vetlesen",
+       "PT": "Hugo Vetlesen",
+       "IT": "Hugo Vetlesen",
+       "RU": "\u0425\u0443\u0433\u043e \u0412\u0435\u0442\u043b\u0435\u0441\u0435\u043d",
+       "ZH": "\u96e8\u679c\u00b7\u7ef4\u7279\u52d2\u68ee",
+       "AR": "\u0647\u0648\u062c\u0648 \u0641\u064a\u062a\u0644\u0633\u0646"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Vetlesen",
+       "FR": "Vetlesen",
+       "DE": "Vetlesen",
+       "ES": "Vetlesen",
+       "PT": "Vetlesen",
+       "IT": "Vetlesen",
+       "RU": "\u0412\u0435\u0442\u043b\u0435\u0441\u0435\u043d",
+       "ZH": "\u7ef4\u7279\u52d2\u68ee",
+       "AR": "\u0641\u064a\u062a\u0644\u0633\u0646"
+      }
+     }
+    },
+    "teamId": "50043",
+    "teamIdProvider": "FAME",
+    "time": {
+     "minute": 19,
+     "second": 47
+    }
+   },
+   {
+    "goalType": "SCORED",
+    "id": "abd88749-e200-4303-a3d7-938a9c74b360",
+    "phase": "FIRST_HALF",
+    "player": {
+     "age": "29",
+     "birthDate": "1996-12-25",
+     "clubId": "52683",
+     "clubJerseyNumber": "10",
+     "clubShirtName": "Buend\u00eda",
+     "countryCode": "ARG",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250080569",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250080569.jpg",
+     "internationalName": "Emiliano Buend\u00eda",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalJerseyNumber": "8",
+     "nationalShirtName": "Buendia",
+     "nationalTeamId": "6",
+     "translations": {
+      "countryName": {
+       "EN": "Argentina",
+       "FR": "Argentine",
+       "DE": "Argentinien",
+       "ES": "Argentina",
+       "PT": "Argentina",
+       "IT": "Argentina",
+       "RU": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430",
+       "ZH": "Argentina",
+       "AR": "\u0627\u0644\u0623\u0631\u062c\u0646\u062a\u064a\u0646"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Emiliano",
+       "FR": "Emiliano",
+       "DE": "Emiliano",
+       "ES": "Emiliano",
+       "PT": "Emiliano",
+       "IT": "Emiliano",
+       "RU": "\u042d\u043c\u0438\u043b\u0438\u0430\u043d\u043e",
+       "ZH": "\u57c3\u7c73\u5229\u4e9a\u8bfa",
+       "AR": "\u0625\u064a\u0645\u064a\u0644\u064a\u0627\u0646\u0648 "
+      },
+      "lastName": {
+       "EN": "Buend\u00eda",
+       "FR": "Buend\u00eda",
+       "DE": "Buend\u00eda",
+       "ES": "Buend\u00eda",
+       "PT": "Buend\u00eda",
+       "IT": "Buend\u00eda",
+       "RU": "\u0411\u0443\u044d\u043d\u0434\u0438\u044f",
+       "ZH": "\u5e03\u6069\u8fea\u4e9a",
+       "AR": "\u0628\u0648\u064a\u0646\u062f\u064a\u0627"
+      },
+      "name": {
+       "EN": "Emiliano Buend\u00eda",
+       "FR": "Emiliano Buend\u00eda",
+       "DE": "Emiliano Buend\u00eda",
+       "ES": "Emiliano Buend\u00eda",
+       "PT": "Emiliano Buend\u00eda",
+       "IT": "Emiliano Buend\u00eda",
+       "RU": "\u042d\u043c\u0438\u043b\u0438\u0430\u043d\u043e \u0411\u0443\u044d\u043d\u0434\u0438\u044f",
+       "ZH": " \u57c3\u7c73\u5229\u4e9a\u8bfa\u00b7\u5e03\u6069\u8fea\u4e9a\u00b7\u65af\u5854\u8482",
+       "AR": "\u0625\u064a\u0645\u064a\u0644\u064a\u0627\u0646\u0648 \u0628\u0648\u064a\u0646\u062f\u064a\u0627"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Buend\u00eda",
+       "FR": "Buend\u00eda",
+       "DE": "Buend\u00eda",
+       "ES": "Buend\u00eda",
+       "PT": "Buend\u00eda",
+       "IT": "Buend\u00eda",
+       "RU": "\u0411\u0443\u044d\u043d\u0434\u0438\u044f",
+       "ZH": "\u5e03\u6069\u8fea\u4e9a",
+       "AR": "\u0628\u0648\u064a\u0646\u062f\u064a\u0627"
+      }
+     }
+    },
+    "teamId": "52683",
+    "teamIdProvider": "FAME",
+    "time": {
+     "minute": 22,
+     "second": 9
+    }
+   },
+   {
+    "goalType": "SCORED",
+    "id": "831f6602-db53-4e0d-83de-2c6f97c9245b",
+    "phase": "FIRST_HALF",
+    "player": {
+     "age": "25",
+     "birthDate": "2001-06-20",
+     "clubId": "52683",
+     "clubJerseyNumber": "11",
+     "clubShirtName": "Jackson",
+     "countryCode": "SEN",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "FORWARD",
+     "gender": "MALE",
+     "id": "250163689",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250163689.jpg",
+     "internationalName": "Nicolas Jackson",
+     "nationalFieldPosition": "FORWARD",
+     "nationalJerseyNumber": "11",
+     "nationalShirtName": "Jackson",
+     "nationalTeamId": "118",
+     "translations": {
+      "countryName": {
+       "EN": "Senegal",
+       "FR": "S\u00e9n\u00e9gal",
+       "DE": "Senegal",
+       "ES": "Senegal",
+       "PT": "Senegal",
+       "IT": "Senegal",
+       "RU": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+       "ZH": "\u585e\u5185\u52a0\u5c14",
+       "AR": "\u0627\u0644\u0633\u0646\u063a\u0627\u0644"
+      },
+      "fieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "firstName": {
+       "EN": "Nicolas",
+       "FR": "Nicolas",
+       "DE": "Nicolas",
+       "ES": "Nicolas",
+       "PT": "Nicolas",
+       "IT": "Nicolas",
+       "RU": "\u041d\u0438\u043a\u043e\u043b\u044f",
+       "ZH": "\u5c3c\u53e4\u62c9\u65af",
+       "AR": "\u0646\u064a\u0643\u0648\u0644\u0627\u0633 "
+      },
+      "lastName": {
+       "EN": "Jackson",
+       "FR": "Jackson",
+       "DE": "Jackson",
+       "ES": "Jackson",
+       "PT": "Jackson",
+       "IT": "Jackson",
+       "RU": "\u0414\u0436\u0435\u043a\u0441\u043e\u043d",
+       "ZH": "\u6770\u514b\u900a",
+       "AR": "\u062c\u0627\u0643\u0633\u0648\u0646"
+      },
+      "name": {
+       "EN": "Nicolas Jackson",
+       "FR": "Nicolas Jackson",
+       "DE": "Nicolas Jackson",
+       "ES": "Nicolas Jackson",
+       "PT": "Nicolas Jackson",
+       "IT": "Nicolas Jackson",
+       "RU": "\u041d\u0438\u043a\u043e\u043b\u044f \u0414\u0436\u0435\u043a\u0441\u043e\u043d",
+       "ZH": "\u5c3c\u53e4\u62c9\u65af\u00b7\u6770\u514b\u900a",
+       "AR": "\u0646\u064a\u0643\u0648\u0644\u0627\u0633 \u062c\u0627\u0643\u0633\u0648\u0646"
+      },
+      "nationalFieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "shortName": {
+       "EN": "Jackson",
+       "FR": "Jackson",
+       "DE": "Jackson",
+       "ES": "Jackson",
+       "PT": "Jackson",
+       "IT": "Jackson",
+       "RU": "\u0414\u0436\u0435\u043a\u0441\u043e\u043d",
+       "ZH": "\u5c3c\u53e4\u62c9\u65af\u00b7\u6770\u514b\u900a",
+       "AR": "\u062c\u0627\u0643\u0633\u0648\u0646"
+      }
+     }
+    },
+    "teamId": "52683",
+    "teamIdProvider": "FAME",
+    "time": {
+     "minute": 43,
+     "second": 55
+    }
+   },
+   {
+    "goalType": "PENALTY",
+    "id": "fe59d16b-abef-434f-845b-51b110d49e59",
+    "phase": "SECOND_HALF",
+    "player": {
+     "age": "22",
+     "birthDate": "2004-08-20",
+     "clubId": "50043",
+     "clubJerseyNumber": "7",
+     "clubShirtName": "Tresoldi",
+     "countryCode": "GER",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "FORWARD",
+     "gender": "MALE",
+     "id": "250181849",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250181849.jpg",
+     "internationalName": "Nicol\u00f2 Tresoldi",
+     "nationalFieldPosition": "FORWARD",
+     "nationalJerseyNumber": "9",
+     "nationalShirtName": "Tresoldi",
+     "nationalTeamId": "200047",
+     "translations": {
+      "countryName": {
+       "EN": "Germany",
+       "FR": "Allemagne",
+       "DE": "Deutschland",
+       "ES": "Alemania",
+       "PT": "Alemanha",
+       "IT": "Germania",
+       "RU": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
+       "ZH": "\u5fb7\u56fd",
+       "AR": "\u0623\u0644\u0645\u0627\u0646\u064a\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "firstName": {
+       "EN": "Nicol\u00f2",
+       "FR": "Nicol\u00f2",
+       "DE": "Nicol\u00f2",
+       "ES": "Nicol\u00f2",
+       "PT": "Nicol\u00f2",
+       "IT": "Nicol\u00f2",
+       "RU": "\u041d\u0438\u043a\u043e\u043b\u043e",
+       "ZH": "\u5c3c\u79d1\u6d1b",
+       "AR": "\u0646\u064a\u0643\u0648\u0644\u0648 "
+      },
+      "lastName": {
+       "EN": "Tresoldi",
+       "FR": "Tresoldi",
+       "DE": "Tresoldi",
+       "ES": "Tresoldi",
+       "PT": "Tresoldi",
+       "IT": "Tresoldi",
+       "RU": "\u0422\u0440\u0435\u0437\u043e\u043b\u044c\u0434\u0438",
+       "ZH": "\u7279\u96f7\u7d22\u5c14\u8fea",
+       "AR": "\u062a\u0631\u064a\u0633\u0648\u0644\u062f\u064a"
+      },
+      "name": {
+       "EN": "Nicol\u00f2 Tresoldi",
+       "FR": "Nicol\u00f2 Tresoldi",
+       "DE": "Nicol\u00f2 Tresoldi",
+       "ES": "Nicol\u00f2 Tresoldi",
+       "PT": "Nicol\u00f2 Tresoldi",
+       "IT": "Nicol\u00f2 Tresoldi",
+       "RU": "\u041d\u0438\u043a\u043e\u043b\u043e \u0422\u0440\u0435\u0437\u043e\u043b\u044c\u0434\u0438",
+       "ZH": "\u5c3c\u79d1\u6d1b\u00b7\u7279\u96f7\u7d22\u5c14\u8fea",
+       "AR": "\u0646\u064a\u0643\u0648\u0644\u0648 \u062a\u0631\u064a\u0633\u0648\u0644\u062f\u064a"
+      },
+      "nationalFieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "shortName": {
+       "EN": "Tresoldi",
+       "FR": "Tresoldi",
+       "DE": "Tresoldi",
+       "ES": "Tresoldi",
+       "PT": "Tresoldi",
+       "IT": "Tresoldi",
+       "RU": "\u0422\u0440\u0435\u0437\u043e\u043b\u044c\u0434\u0438",
+       "ZH": "\u7279\u96f7\u7d22\u5c14\u8fea",
+       "AR": "\u062a\u0631\u064a\u0633\u0648\u0644\u062f\u064a"
+      }
+     }
+    },
+    "teamId": "50043",
+    "teamIdProvider": "FAME",
+    "time": {
+     "minute": 61,
+     "second": 26
+    }
+   }
+  ]
+ },
+ "playerOfTheMatch": {
+  "player": {
+   "age": "32",
+   "birthDate": "1994-10-18",
+   "clubId": "52683",
+   "clubJerseyNumber": "7",
+   "clubShirtName": "McGinn",
+   "countryCode": "SCO",
+   "detailedFieldPosition": "UNKNOWN",
+   "fieldPosition": "MIDFIELDER",
+   "gender": "MALE",
+   "id": "250058958",
+   "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250058958.jpg",
+   "internationalName": "John McGinn",
+   "nationalFieldPosition": "MIDFIELDER",
+   "nationalJerseyNumber": "7",
+   "nationalShirtName": "McGinn",
+   "nationalTeamId": "117",
+   "translations": {
+    "countryName": {
+     "EN": "Scotland",
+     "FR": "\u00c9cosse",
+     "DE": "Schottland",
+     "ES": "Escocia",
+     "PT": "Esc\u00f3cia",
+     "IT": "Scozia",
+     "RU": "\u0428\u043e\u0442\u043b\u0430\u043d\u0434\u0438\u044f",
+     "ZH": "\u82cf\u683c\u5170",
+     "AR": "\u0627\u0633\u0643\u062a\u0644\u0646\u062f\u0627"
+    },
+    "fieldPosition": {
+     "EN": "Midfielder",
+     "FR": "Milieu",
+     "DE": "Mittelfeldspieler",
+     "ES": "Centrocampista",
+     "PT": "M\u00e9dio",
+     "IT": "Centrocampista",
+     "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+     "ZH": "\u4e2d\u573a\u7403\u5458",
+     "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+    },
+    "firstName": {
+     "EN": "John",
+     "FR": "John",
+     "DE": "John",
+     "ES": "John",
+     "PT": "John",
+     "IT": "John",
+     "RU": "\u0414\u0436\u043e\u043d",
+     "ZH": "\u7ea6\u7ff0",
+     "AR": "\u062c\u0648\u0646 "
+    },
+    "lastName": {
+     "EN": "McGinn",
+     "FR": "McGinn",
+     "DE": "McGinn",
+     "ES": "McGinn",
+     "PT": "McGinn",
+     "IT": "McGinn",
+     "RU": "\u041c\u0430\u043a\u0433\u0438\u043d\u043d",
+     "ZH": "\u9ea6\u91d1",
+     "AR": "\u0645\u0627\u0643\u062c\u064a\u0646"
+    },
+    "name": {
+     "EN": "John McGinn",
+     "FR": "John McGinn",
+     "DE": "John McGinn",
+     "ES": "John McGinn",
+     "PT": "John McGinn",
+     "IT": "John McGinn",
+     "RU": "\u0414\u0436\u043e\u043d \u041c\u0430\u043a\u0433\u0438\u043d\u043d",
+     "ZH": "\u7ea6\u7ff0\u00b7\u9ea6\u91d1",
+     "AR": "\u062c\u0648\u0646 \u0645\u0627\u0643\u062c\u064a\u0646"
+    },
+    "nationalFieldPosition": {
+     "EN": "Midfielder",
+     "FR": "Milieu",
+     "DE": "Mittelfeldspieler",
+     "ES": "Centrocampista",
+     "PT": "M\u00e9dio",
+     "IT": "Centrocampista",
+     "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+     "ZH": "\u4e2d\u573a\u7403\u5458",
+     "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+    },
+    "shortName": {
+     "EN": "McGinn",
+     "FR": "McGinn",
+     "DE": "McGinn",
+     "ES": "McGinn",
+     "PT": "McGinn",
+     "IT": "McGinn",
+     "RU": "\u041c\u0430\u043a\u0433\u0438\u043d\u043d",
+     "ZH": "\u9ea6\u91d1",
+     "AR": "\u0645\u0627\u0643\u062c\u064a\u0646"
+    }
+   }
+  },
+  "teamId": "52683"
+ },
+ "referees": [
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/250177872.jpg"
+   },
+   "person": {
+    "countryCode": "SUI",
+    "gender": "MALE",
+    "id": "250177872",
+    "translations": {
+     "countryName": {
+      "EN": "Switzerland",
+      "FR": "Suisse",
+      "DE": "Schweiz",
+      "ES": "Suiza",
+      "PT": "Su\u00ed\u00e7a",
+      "IT": "Svizzera",
+      "RU": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+      "ZH": "\u745e\u58eb",
+      "AR": "\u0633\u0648\u064a\u0633\u0631\u0627"
+     },
+     "firstName": {
+      "EN": "Anojen",
+      "FR": "Anojen",
+      "DE": "Anojen",
+      "ES": "Anojen",
+      "PT": "Anojen",
+      "IT": "Anojen",
+      "RU": "\u0410\u043d\u043e\u0435\u043d",
+      "ZH": "Anojen",
+      "AR": "\u0623\u0646\u0648\u062c"
+     },
+     "lastName": {
+      "EN": "Kanagasingam",
+      "FR": "Kanagasingam",
+      "DE": "Kanagasingam",
+      "ES": "Kanagasingam",
+      "PT": "Kanagasingam",
+      "IT": "Kanagasingam",
+      "RU": "\u041a\u0430\u043d\u0430\u0433\u0430\u0441\u0438\u043d\u0433\u0430\u043c",
+      "ZH": "Kanagasingam",
+      "AR": "\u0643\u0627\u0646\u0627\u062c\u0627\u0633\u064a\u0646\u062c\u0627\u0645 "
+     },
+     "name": {
+      "EN": "Anojen Kanagasingam",
+      "FR": "Anojen Kanagasingam",
+      "DE": "Anojen Kanagasingam",
+      "ES": "Anojen Kanagasingam",
+      "PT": "Anojen Kanagasingam",
+      "IT": "Anojen Kanagasingam",
+      "RU": "\u0410\u043d\u043e\u0435\u043d \u041a\u0430\u043d\u0430\u0433\u0430\u0441\u0438\u043d\u0433\u0430\u043c",
+      "ZH": "Anojen Kanagasingam",
+      "AR": "\u0643\u0627\u0646\u0627\u062c\u0627\u0633\u064a\u0646\u062c\u0627\u0645 \u0623\u0646\u0648\u062c"
+     },
+     "shortName": {
+      "EN": "Kanagasingam",
+      "FR": "Kanagasingam",
+      "DE": "Kanagasingam",
+      "ES": "Kanagasingam",
+      "PT": "Kanagasingam",
+      "IT": "Kanagasingam",
+      "RU": "\u041a\u0430\u043d\u0430\u0433\u0430\u0441\u0438\u043d\u0433\u0430\u043c",
+      "ZH": "Kanagasingam",
+      "AR": "\u0643\u0627\u0646\u0627\u062c\u0627\u0633\u064a\u0646\u062c\u0627\u0645 "
+     }
+    }
+   },
+   "role": "FOURTH_OFFICIAL",
+   "translations": {
+    "roleName": {
+     "EN": "Fourth official",
+     "FR": "Quatri\u00e8me arbitre",
+     "DE": "Vierter Offizieller",
+     "ES": "Cuarto \u00e1rbitro",
+     "PT": "Quarto \u00e1rbitro",
+     "IT": "Quarto uomo",
+     "RU": "\u0427\u0435\u0442\u0432\u0435\u0440\u0442\u044b\u0439 \u0440\u0435\u0444\u0435\u0440\u0438",
+     "ZH": "Quarto \u00e1rbitro",
+     "AR": "\u0627\u0644\u062d\u0643\u0645 \u0627\u0644\u0631\u0627\u0628\u0639"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/250060970.jpg"
+   },
+   "person": {
+    "countryCode": "SUI",
+    "gender": "MALE",
+    "id": "250060970",
+    "translations": {
+     "countryName": {
+      "EN": "Switzerland",
+      "FR": "Suisse",
+      "DE": "Schweiz",
+      "ES": "Suiza",
+      "PT": "Su\u00ed\u00e7a",
+      "IT": "Svizzera",
+      "RU": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+      "ZH": "\u745e\u58eb",
+      "AR": "\u0633\u0648\u064a\u0633\u0631\u0627"
+     },
+     "firstName": {
+      "EN": "Fedayi",
+      "FR": "Fedayi",
+      "DE": "Fedayi",
+      "ES": "Fedayi",
+      "PT": "Fedayi",
+      "IT": "Fedayi",
+      "RU": "Fedayi",
+      "ZH": "Fedayi",
+      "AR": "\u0641\u064a\u062f\u0627\u064a\u064a "
+     },
+     "lastName": {
+      "EN": "San",
+      "FR": "San",
+      "DE": "San",
+      "ES": "San",
+      "PT": "San",
+      "IT": "San",
+      "RU": "San",
+      "ZH": "San",
+      "AR": "\u0633\u0627\u0646"
+     },
+     "name": {
+      "EN": "Fedayi San",
+      "FR": "Fedayi San",
+      "DE": "Fedayi San",
+      "ES": "Fedayi San",
+      "PT": "Fedayi San",
+      "IT": "Fedayi San",
+      "RU": "\u0424\u0435\u0434\u0430\u0439\u0438 \u0421\u0430\u043d",
+      "ZH": "\u8d39\u8fbe\u610f\u00b7\u5723",
+      "AR": "\u0641\u064a\u062f\u0627\u064a\u064a \u0633\u0627\u0646"
+     },
+     "shortName": {
+      "EN": "San",
+      "FR": "San",
+      "DE": "San",
+      "ES": "San",
+      "PT": "San",
+      "IT": "San",
+      "RU": "\u0421\u0430\u043d",
+      "ZH": "\u5723",
+      "AR": "\u0633\u0627\u0646"
+     }
+    }
+   },
+   "role": "VIDEO_ASSISTANT_REFEREE",
+   "translations": {
+    "roleName": {
+     "EN": "Video Assistant Referee",
+     "FR": "Arbitre assistant vid\u00e9o",
+     "DE": "Videoassistent",
+     "ES": "\u00c1rbitro Asistente de V\u00eddeo",
+     "PT": "V\u00eddeo \u00c1rbitro Assistente",
+     "IT": "Video Assistant Referee",
+     "RU": "\u0412\u0438\u0434\u0435\u043e\u043f\u043e\u043c\u043e\u0449\u043d\u0438\u043a \u0440\u0435\u0444\u0435\u0440\u0438",
+     "ZH": "V\u00eddeo \u00c1rbitro Assistente",
+     "AR": "\u062d\u0643\u0645 \u0627\u0644\u0641\u064a\u062f\u064a\u0648 \u0627\u0644\u0645\u0633\u0627\u0639\u062f"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/250068256.jpg"
+   },
+   "person": {
+    "countryCode": "SUI",
+    "gender": "MALE",
+    "id": "250068256",
+    "translations": {
+     "countryName": {
+      "EN": "Switzerland",
+      "FR": "Suisse",
+      "DE": "Schweiz",
+      "ES": "Suiza",
+      "PT": "Su\u00ed\u00e7a",
+      "IT": "Svizzera",
+      "RU": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+      "ZH": "\u745e\u58eb",
+      "AR": "\u0633\u0648\u064a\u0633\u0631\u0627"
+     },
+     "firstName": {
+      "EN": "Sandro",
+      "FR": "Sandro",
+      "DE": "Sandro",
+      "ES": "Sandro",
+      "PT": "Sandro",
+      "IT": "Sandro",
+      "RU": "\u0421\u0430\u043d\u0434\u0440\u043e",
+      "ZH": "Sandro",
+      "AR": "\u0633\u0627\u0646\u062f\u0631\u0648 "
+     },
+     "lastName": {
+      "EN": "Sch\u00e4rer",
+      "FR": "Sch\u00e4rer",
+      "DE": "Sch\u00e4rer",
+      "ES": "Sch\u00e4rer",
+      "PT": "Sch\u00e4rer",
+      "IT": "Sch\u00e4rer",
+      "RU": "\u0428\u0435\u0440\u0435\u0440",
+      "ZH": "Sch\u00e4rer",
+      "AR": "\u0634\u0627\u0631\u064a\u0631"
+     },
+     "name": {
+      "EN": "Sandro Sch\u00e4rer",
+      "FR": "Sandro Sch\u00e4rer",
+      "DE": "Sandro Sch\u00e4rer",
+      "ES": "Sandro Sch\u00e4rer",
+      "PT": "Sandro Sch\u00e4rer",
+      "IT": "Sandro Sch\u00e4rer",
+      "RU": "\u0421\u0430\u043d\u0434\u0440\u043e \u0428\u0435\u0440\u0435\u0440",
+      "ZH": "Sandro Sch\u00e4rer",
+      "AR": "\u0633\u0627\u0646\u062f\u0631\u0648 \u0634\u0627\u0631\u064a\u0631"
+     },
+     "shortName": {
+      "EN": "Sch\u00e4rer",
+      "FR": "Sch\u00e4rer",
+      "DE": "Sch\u00e4rer",
+      "ES": "Sch\u00e4rer",
+      "PT": "Sch\u00e4rer",
+      "IT": "Sch\u00e4rer",
+      "RU": "\u0428\u0435\u0440\u0435\u0440",
+      "ZH": "Sch\u00e4rer",
+      "AR": "\u0634\u0627\u0631\u064a\u0631"
+     }
+    }
+   },
+   "role": "REFEREE",
+   "translations": {
+    "roleName": {
+     "EN": "Referee",
+     "FR": "Arbitre",
+     "DE": "Schiedsrichter",
+     "ES": "\u00c1rbitro",
+     "PT": "\u00c1rbitro",
+     "IT": "Arbitro",
+     "RU": "\u0420\u0435\u0444\u0435\u0440\u0438",
+     "ZH": "\u00c1rbitro",
+     "AR": "\u0627\u0644\u062d\u0643\u0645"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/250120072.jpg"
+   },
+   "person": {
+    "countryCode": "SUI",
+    "gender": "MALE",
+    "id": "250120072",
+    "translations": {
+     "countryName": {
+      "EN": "Switzerland",
+      "FR": "Suisse",
+      "DE": "Schweiz",
+      "ES": "Suiza",
+      "PT": "Su\u00ed\u00e7a",
+      "IT": "Svizzera",
+      "RU": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+      "ZH": "\u745e\u58eb",
+      "AR": "\u0633\u0648\u064a\u0633\u0631\u0627"
+     },
+     "firstName": {
+      "EN": "Jonas",
+      "FR": "Jonas",
+      "DE": "Jonas",
+      "ES": "Jonas",
+      "PT": "Jonas",
+      "IT": "Jonas",
+      "RU": "Jonas",
+      "ZH": "Jonas",
+      "AR": "\u062c\u0648\u0646\u0627\u0633 "
+     },
+     "lastName": {
+      "EN": "Erni",
+      "FR": "Erni",
+      "DE": "Erni",
+      "ES": "Erni",
+      "PT": "Erni",
+      "IT": "Erni",
+      "RU": "Erni",
+      "ZH": "Erni",
+      "AR": "\u0625\u0631\u0646\u064a"
+     },
+     "name": {
+      "EN": "Jonas Erni",
+      "FR": "Jonas Erni",
+      "DE": "Jonas Erni",
+      "ES": "Jonas Erni",
+      "PT": "Jonas Erni",
+      "IT": "Jonas Erni",
+      "RU": "\u0419\u043e\u043d\u0430\u0441 \u042d\u0440\u043d\u0438",
+      "ZH": "Jonas Erni",
+      "AR": "\u062c\u0648\u0646\u0627\u0633 \u0625\u0631\u0646\u064a"
+     },
+     "shortName": {
+      "EN": "Erni",
+      "FR": "Erni",
+      "DE": "Erni",
+      "ES": "Erni",
+      "PT": "Erni",
+      "IT": "Erni",
+      "RU": "\u042d\u0440\u043d\u0438",
+      "ZH": "Erni",
+      "AR": "\u0625\u0631\u0646\u064a"
+     }
+    }
+   },
+   "role": "ASSISTANT_REFEREE_TWO",
+   "translations": {
+    "roleName": {
+     "EN": "Assistant referee two",
+     "FR": "Arbitre assistant n\u00b02",
+     "DE": "Schiedsrichterassistent zwei",
+     "ES": "Segundo \u00e1rbitro asistente",
+     "PT": "\u00c1rbitro assistente 2",
+     "IT": "Guardalinee due",
+     "RU": "\u0410\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0440\u0435\u0444\u0435\u0440\u0438 2",
+     "ZH": "\u00c1rbitro-assistente 2",
+     "AR": "\u0645\u0633\u0627\u0639\u062f \u0627\u0644\u062d\u0643\u0645 \u0627\u0644\u062b\u0627\u0646\u064a"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/1903171.jpg"
+   },
+   "person": {
+    "countryCode": "ARM",
+    "gender": "MALE",
+    "id": "1903171",
+    "translations": {
+     "countryName": {
+      "EN": "Armenia",
+      "FR": "Arm\u00e9nie",
+      "DE": "Armenien",
+      "ES": "Armenia",
+      "PT": "Arm\u00e9nia",
+      "IT": "Armenia",
+      "RU": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f",
+      "ZH": "\u4e9a\u7f8e\u5c3c\u4e9a",
+      "AR": "\u0623\u0631\u0645\u064a\u0646\u064a\u0627"
+     },
+     "firstName": {
+      "EN": "Artur",
+      "FR": "Artur",
+      "DE": "Artur",
+      "ES": "Artur",
+      "PT": "Artur",
+      "IT": "Artur",
+      "RU": "Artur",
+      "ZH": "Artur",
+      "AR": "\u0623\u0631\u062a\u0648\u0631 "
+     },
+     "lastName": {
+      "EN": "Azaryan",
+      "FR": "Azaryan",
+      "DE": "Azaryan",
+      "ES": "Azaryan",
+      "PT": "Azaryan",
+      "IT": "Azaryan",
+      "RU": "Azaryan",
+      "ZH": "Azaryan",
+      "AR": "\u0623\u0632\u0627\u0631\u064a\u0627\u0646"
+     },
+     "name": {
+      "EN": "Artur Azaryan",
+      "FR": "Artur Azaryan",
+      "DE": "Artur Azaryan",
+      "ES": "Artur Azaryan",
+      "PT": "Artur Azaryan",
+      "IT": "Artur Azaryan",
+      "RU": "\u0410\u0440\u0442\u0443\u0440 \u0410\u0437\u0430\u0440\u044f\u043d",
+      "ZH": "Artur Azaryan",
+      "AR": "\u0623\u0631\u062a\u0648\u0631 \u0623\u0632\u0627\u0631\u064a\u0627\u0646"
+     },
+     "shortName": {
+      "EN": "Azaryan",
+      "FR": "Azaryan",
+      "DE": "Azaryan",
+      "ES": "Azaryan",
+      "PT": "Azaryan",
+      "IT": "Azaryan",
+      "RU": "\u0410\u0437\u0430\u0440\u044f\u043d",
+      "ZH": "Azaryan",
+      "AR": "\u0623\u0632\u0627\u0631\u064a\u0627\u0646"
+     }
+    }
+   },
+   "role": "UEFA_DELEGATE",
+   "translations": {
+    "roleName": {
+     "EN": "UEFA Delegate",
+     "FR": "D\u00e9l\u00e9gu\u00e9 ou d\u00e9l\u00e9gu\u00e9e UEFA",
+     "DE": "UEFA-Delegierter",
+     "ES": "Delegado UEFA",
+     "PT": "Delegado da UEFA",
+     "IT": "Delegata UEFA",
+     "RU": "\u0414\u0435\u043b\u0435\u0433\u0430\u0442 \u0423\u0415\u0424\u0410",
+     "ZH": "UEFA delegate",
+     "AR": "\u0645\u0646\u062f\u0648\u0628 UEFA"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/250061341.jpg"
+   },
+   "person": {
+    "countryCode": "SUI",
+    "gender": "MALE",
+    "id": "250061341",
+    "translations": {
+     "countryName": {
+      "EN": "Switzerland",
+      "FR": "Suisse",
+      "DE": "Schweiz",
+      "ES": "Suiza",
+      "PT": "Su\u00ed\u00e7a",
+      "IT": "Svizzera",
+      "RU": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f",
+      "ZH": "\u745e\u58eb",
+      "AR": "\u0633\u0648\u064a\u0633\u0631\u0627"
+     },
+     "firstName": {
+      "EN": "St\u00e9phane",
+      "FR": "St\u00e9phane",
+      "DE": "St\u00e9phane",
+      "ES": "St\u00e9phane",
+      "PT": "St\u00e9phane",
+      "IT": "St\u00e9phane",
+      "RU": "\u0421\u0442\u0435\u0444\u0430\u043d",
+      "ZH": "Stephane",
+      "AR": "\u0633\u062a\u064a\u0641\u0627\u0646 "
+     },
+     "lastName": {
+      "EN": "De Almeida",
+      "FR": "De Almeida",
+      "DE": "De Almeida",
+      "ES": "De Almeida",
+      "PT": "De Almeida",
+      "IT": "De Almeida",
+      "RU": "\u0434\u0435 \u0410\u043b\u043c\u0435\u0439\u0434\u0430",
+      "ZH": "De Almeida",
+      "AR": " \u062f\u064a \u0623\u0644\u0645\u064a\u062f\u0627"
+     },
+     "name": {
+      "EN": "St\u00e9phane De Almeida",
+      "FR": "St\u00e9phane De Almeida",
+      "DE": "St\u00e9phane De Almeida",
+      "ES": "St\u00e9phane De Almeida",
+      "PT": "St\u00e9phane De Almeida",
+      "IT": "St\u00e9phane De Almeida",
+      "RU": "\u0421\u0442\u0435\u0444\u0430\u043d \u0434\u0435 \u0410\u043b\u043c\u0435\u0439\u0434\u0430",
+      "ZH": "\u65af\u7279\u51e1\u00b7\u5fb7\u00b7\u963f\u5c14\u6885\u8fbe",
+      "AR": "\u0633\u062a\u064a\u0641\u0627\u0646 \u062f\u064a \u0623\u0644\u0645\u064a\u062f\u0627"
+     },
+     "shortName": {
+      "EN": "De Almeida",
+      "FR": "De Almeida",
+      "DE": "De Almeida",
+      "ES": "De Almeida",
+      "PT": "De Almeida",
+      "IT": "De Almeida",
+      "RU": "\u0434\u0435 \u0410\u043b\u043c\u0435\u0439\u0434\u0430",
+      "ZH": "\u5fb7\u00b7\u963f\u5c14\u6885\u8fbe",
+      "AR": " \u062f\u064a \u0623\u0644\u0645\u064a\u062f\u0627"
+     }
+    }
+   },
+   "role": "ASSISTANT_REFEREE_ONE",
+   "translations": {
+    "roleName": {
+     "EN": "Assistant referees",
+     "FR": "Arbitres assistants",
+     "DE": "Schiedsrichterassistenten",
+     "ES": "\u00c1rbitros asistentes",
+     "PT": "\u00c1rbitros assistentes",
+     "IT": "Assistenti arbitrali",
+     "RU": "\u0410\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442\u044b \u0440\u0435\u0444\u0435\u0440\u0438",
+     "ZH": "\u00c1rbitros assistentes",
+     "AR": "\u0627\u0644\u062d\u0643\u0627\u0645 \u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0648\u0646"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/262305.jpg"
+   },
+   "person": {
+    "countryCode": "GRE",
+    "gender": "MALE",
+    "id": "262305",
+    "translations": {
+     "countryName": {
+      "EN": "Greece",
+      "FR": "Gr\u00e8ce",
+      "DE": "Griechenland",
+      "ES": "Grecia",
+      "PT": "Gr\u00e9cia",
+      "IT": "Grecia",
+      "RU": "\u0413\u0440\u0435\u0446\u0438\u044f",
+      "ZH": "\u5e0c\u814a",
+      "AR": "\u0627\u0644\u064a\u0648\u0646\u0627\u0646"
+     },
+     "firstName": {
+      "EN": "Kyros",
+      "FR": "Kyros",
+      "DE": "Kyros",
+      "ES": "Kyros",
+      "PT": "Kyros",
+      "IT": "Kyros",
+      "RU": "\u041a\u0438\u0440\u043e\u0441",
+      "ZH": "Kyros",
+      "AR": "\u0643\u064a\u0631\u0648\u0633 "
+     },
+     "lastName": {
+      "EN": "Vassaras",
+      "FR": "Vassaras",
+      "DE": "Vassaras",
+      "ES": "Vassaras",
+      "PT": "Vassaras",
+      "IT": "Vassaras",
+      "RU": "\u0412\u0430\u0441\u0441\u0430\u0440\u0430\u0441",
+      "ZH": "VASSARAS",
+      "AR": "\u0641\u0627\u0633\u0627\u0631\u0627\u0633"
+     },
+     "name": {
+      "EN": "Kyros Vassaras",
+      "FR": "Kyros Vassaras",
+      "DE": "Kyros Vassaras",
+      "ES": "Kyros Vassaras",
+      "PT": "Kyros Vassaras",
+      "IT": "Kyros Vassaras",
+      "RU": "\u041a\u0438\u0440\u043e\u0441 \u0412\u0430\u0441\u0441\u0430\u0440\u0430\u0441",
+      "ZH": "\u5947\u7f57\u65af-\u74e6\u585e\u62c9\u65af",
+      "AR": "\u0643\u064a\u0631\u0648\u0633 \u0641\u0627\u0633\u0627\u0631\u0627\u0633"
+     },
+     "shortName": {
+      "EN": "Vassaras",
+      "FR": "Vassaras",
+      "DE": "Vassaras",
+      "ES": "Vassaras",
+      "PT": "Vassaras",
+      "IT": "Vassaras",
+      "RU": "\u0412\u0430\u0441\u0441\u0430\u0440\u0430\u0441",
+      "ZH": "\u74e6\u585e\u62c9\u65af",
+      "AR": "\u0641\u0627\u0633\u0627\u0631\u0627\u0633"
+     }
+    }
+   },
+   "role": "REFEREE_OBSERVER",
+   "translations": {
+    "roleName": {
+     "EN": "Referee observer",
+     "FR": "Observateur d'arbitres",
+     "DE": "Referee observer",
+     "ES": "Observador arbitral",
+     "PT": "Observador de \u00e1rbitro",
+     "IT": "Referee observer",
+     "RU": "\u0421\u0443\u0434\u0435\u0439\u0441\u043a\u0438\u0439 \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0442\u0435\u043b\u044c",
+     "ZH": "Referee observer",
+     "AR": "\u0645\u0631\u0627\u0642\u0628 \u0627\u0644\u062d\u0643\u0627\u0645"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/250014540.jpg"
+   },
+   "person": {
+    "countryCode": "GER",
+    "gender": "MALE",
+    "id": "250014540",
+    "translations": {
+     "countryName": {
+      "EN": "Germany",
+      "FR": "Allemagne",
+      "DE": "Deutschland",
+      "ES": "Alemania",
+      "PT": "Alemanha",
+      "IT": "Germania",
+      "RU": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f",
+      "ZH": "\u5fb7\u56fd",
+      "AR": "\u0623\u0644\u0645\u0627\u0646\u064a\u0627"
+     },
+     "firstName": {
+      "EN": "Bastian",
+      "FR": "Bastian",
+      "DE": "Bastian",
+      "ES": "Bastian",
+      "PT": "Bastian",
+      "IT": "Bastian",
+      "RU": "Bastian",
+      "ZH": "Bastian",
+      "AR": "\u0628\u0627\u0633\u062a\u064a\u0627\u0646 "
+     },
+     "lastName": {
+      "EN": "Dankert",
+      "FR": "Dankert",
+      "DE": "Dankert",
+      "ES": "Dankert",
+      "PT": "Dankert",
+      "IT": "Dankert",
+      "RU": "Dankert",
+      "ZH": "Dankert",
+      "AR": "\u062f\u0627\u0646\u0643\u064a\u0631\u062a"
+     },
+     "name": {
+      "EN": "Bastian Dankert",
+      "FR": "Bastian Dankert",
+      "DE": "Bastian Dankert",
+      "ES": "Bastian Dankert",
+      "PT": "Bastian Dankert",
+      "IT": "Bastian Dankert",
+      "RU": "\u0411\u0430\u0441\u0442\u0438\u0430\u043d \u0414\u0430\u043d\u043a\u0435\u0440\u0442",
+      "ZH": "\u5df4\u65af\u8482\u5b89\u00b7\u4e39\u79d1\u5c14\u7279",
+      "AR": "\u0628\u0627\u0633\u062a\u064a\u0627\u0646 \u062f\u0627\u0646\u0643\u064a\u0631\u062a"
+     },
+     "shortName": {
+      "EN": "Dankert",
+      "FR": "Dankert",
+      "DE": "Dankert",
+      "ES": "Dankert",
+      "PT": "Dankert",
+      "IT": "Dankert",
+      "RU": "\u0414\u0430\u043d\u043a\u0435\u0440\u0442",
+      "ZH": "\u4e39\u79d1\u5c14\u7279",
+      "AR": "\u062f\u0627\u0646\u0643\u064a\u0631\u062a"
+     }
+    }
+   },
+   "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+   "translations": {
+    "roleName": {
+     "EN": "Assistant Video Assistant Referee",
+     "FR": "Assistant de l'Arbitre Assistant Vid\u00e9o",
+     "DE": "Erster Assistent des Videoassistenten",
+     "ES": "Asistente del \u00c1rbitro Asistente de V\u00eddeo",
+     "PT": "Assistente de V\u00eddeo \u00c1rbitro Assistente",
+     "IT": "Assistente Video Assistant Referee",
+     "RU": "\u0410\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0432\u0438\u0434\u0435\u043e\u043f\u043e\u043c\u043e\u0449\u043d\u0438\u043a\u0430 \u0440\u0435\u0444\u0435\u0440\u0438",
+     "ZH": "Assistente de V\u00eddeo \u00c1rbitro Assistente",
+     "AR": "\u0645\u0633\u0627\u0639\u062f \u062d\u0643\u0645 \u0627\u0644\u0641\u064a\u062f\u064a\u0648 \u0627\u0644\u0645\u0633\u0627\u0639\u062f"
+    }
+   }
+  }
+ ],
+ "round": {
+  "active": true,
+  "benchGKCount": 12,
+  "benchPlayersCount": 12,
+  "benchStaffCount": 15,
+  "coefficientWinnerBonus": 0.0,
+  "competitionId": "1",
+  "dateFrom": "2026-09-08T06:00:00+0000",
+  "dateTo": "2027-01-27T22:59:59+0000",
+  "fieldPlayersCount": 11,
+  "groupCount": 1,
+  "id": "2002239",
+  "metaData": {
+   "name": "League Phase",
+   "type": "GROUP_STANDINGS"
+  },
+  "mode": "GROUP",
+  "modeDetail": "GROUP",
+  "orderInCompetition": 5,
+  "phase": "TOURNAMENT",
+  "seasonYear": "2027",
+  "secondaryType": "GROUP_PHASE",
+  "stadiumNameType": "OFFICIAL_NAME",
+  "standingsRankingFormulaId": "596",
+  "status": "CURRENT",
+  "substitutionCount": 5,
+  "teamCount": 36,
+  "teams": [
+   "52707",
+   "70691",
+   "63405",
+   "50051",
+   "52692",
+   "52498",
+   "52277",
+   "50037",
+   "50136",
+   "50138",
+   "52797",
+   "50137",
+   "52319",
+   "52758",
+   "52919",
+   "75797",
+   "59333",
+   "50080",
+   "52280",
+   "50062",
+   "52682",
+   "50064",
+   "50043",
+   "52265",
+   "52683",
+   "50067",
+   "79946",
+   "50124",
+   "50149",
+   "7889",
+   "2609356",
+   "50107",
+   "50129",
+   "52749",
+   "2603790",
+   "52747"
+  ],
+  "translations": {
+   "abbreviation": {
+    "EN": "LP",
+    "FR": "Ph. lig.",
+    "DE": "GP",
+    "ES": "FL",
+    "PT": "FL",
+    "IT": "FC",
+    "RU": "\u041e\u042d",
+    "ZH": "LP",
+    "AR": "LP"
+   },
+   "name": {
+    "EN": "League phase",
+    "FR": "Phase de ligue",
+    "DE": "Ligaphase",
+    "ES": "Fase liga",
+    "PT": "Fase da Liga",
+    "IT": "Fase campionato",
+    "RU": "\u041e\u0431\u0449\u0438\u0439 \u044d\u0442\u0430\u043f",
+    "ZH": "League phase",
+    "AR": "\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a"
+   },
+   "shortName": {
+    "EN": "League phase",
+    "FR": "Phase de ligue",
+    "DE": "Ligaphase",
+    "ES": "Fase liga",
+    "PT": "Fase da Liga",
+    "IT": "Fase campionato",
+    "RU": "\u041e\u0431\u0449\u0438\u0439 \u044d\u0442\u0430\u043f",
+    "ZH": "League phase",
+    "AR": "\u0645\u0631\u062d\u0644\u0629 \u0627\u0644\u062f\u0648\u0631\u064a"
+   }
+  }
+ },
+ "score": {
+  "regular": {
+   "away": 3,
+   "home": 2
+  },
+  "total": {
+   "away": 3,
+   "home": 2
+  }
+ },
+ "seasonYear": "2027",
+ "sessionNumber": 1,
+ "stadium": {
+  "address": "Olympialaan 74",
+  "capacity": 28288,
+  "city": {
+   "countryCode": "BEL",
+   "id": "1320",
+   "translations": {
+    "name": {
+     "EN": "Bruges",
+     "FR": "Bruges",
+     "DE": "Br\u00fcgge",
+     "ES": "Bruges",
+     "PT": "Bruges",
+     "IT": "Bruges",
+     "RU": "\u0411\u0440\u044e\u0433\u0433\u0435",
+     "ZH": "\u5e03\u9c81\u65e5",
+     "AR": "\u0628\u0631\u0648\u062c"
+    }
+   }
+  },
+  "countryCode": "BEL",
+  "geolocation": {
+   "latitude": 51.1933556,
+   "longitude": 3.1806222
+  },
+  "id": "63387",
+  "images": {
+   "MEDIUM_WIDE": "https://img.uefa.com/imgml/stadium/matchinfo/w1/63387.jpg",
+   "LARGE_ULTRA_WIDE": "https://img.uefa.com/imgml/stadium/matchinfo/uw/63387.jpg"
+  },
+  "openingDate": "1975-01-01",
+  "pitch": {
+   "length": 105,
+   "width": 68
+  },
+  "translations": {
+   "mediaName": {
+    "EN": "Jan Breydelstadion",
+    "FR": "Jan Breydelstadion",
+    "DE": "Jan Breydelstadion",
+    "ES": "Jan Breydelstadion",
+    "PT": "Jan Breydelstadion",
+    "IT": "Jan Breydelstadion",
+    "RU": "\u042f\u043d \u0411\u0440\u0435\u0439\u0434\u0435\u043b\u044c",
+    "ZH": "\u626c-\u5e03\u96f7\u5fb7\u5c14",
+    "AR": "\u0627\u0633\u062a\u0627\u062f \u064a\u0627\u0646 \u0628\u0631\u0627\u064a\u062f\u064a\u0644"
+   },
+   "name": {
+    "EN": "Jan Breydelstadion",
+    "FR": "Jan Breydelstadion",
+    "DE": "Jan Breydelstadion",
+    "ES": "Jan Breydelstadion",
+    "PT": "Jan Breydelstadion",
+    "IT": "Jan Breydelstadion",
+    "RU": "\u042f\u043d \u0411\u0440\u0435\u0439\u0434\u0435\u043b\u044c",
+    "ZH": "\u626c-\u5e03\u96f7\u5fb7\u5c14",
+    "AR": "\u0627\u0633\u062a\u0627\u062f \u064a\u0627\u0646 \u0628\u0631\u0627\u064a\u062f\u064a\u0644"
+   },
+   "officialName": {
+    "EN": "Jan Breydelstadion",
+    "FR": "Jan Breydelstadion",
+    "DE": "Jan Breydelstadion",
+    "ES": "Jan Breydelstadion",
+    "PT": "Jan Breydelstadion",
+    "IT": "Jan Breydelstadion",
+    "RU": "\u042f\u043d \u0411\u0440\u0435\u0439\u0434\u0435\u043b\u044c",
+    "ZH": "\u626c-\u5e03\u96f7\u5fb7\u5c14",
+    "AR": "\u0627\u0633\u062a\u0627\u062f \u064a\u0627\u0646 \u0628\u0631\u0627\u064a\u062f\u064a\u0644"
+   },
+   "specialEventsName": {
+    "EN": "Jan Breydelstadion",
+    "FR": "Jan Breydelstadion",
+    "DE": "Jan Breydelstadion",
+    "ES": "Jan Breydelstadion",
+    "PT": "Jan Breydelstadion",
+    "IT": "Jan Breydelstadion",
+    "RU": "\u042f\u043d \u0411\u0440\u0435\u0439\u0434\u0435\u043b\u044c",
+    "ZH": "\u626c-\u5e03\u96f7\u5fb7\u5c14",
+    "AR": "\u0627\u0633\u062a\u0627\u062f \u064a\u0627\u0646 \u0628\u0631\u0627\u064a\u062f\u064a\u0644"
+   },
+   "sponsorName": {
+    "EN": "No commercial name",
+    "FR": "No commercial name",
+    "DE": "No commercial name",
+    "ES": "No commercial name",
+    "PT": "No commercial name",
+    "IT": "No commercial name",
+    "RU": "\u042f\u043d \u0411\u0440\u0435\u0439\u0434\u0435\u043b\u044c",
+    "ZH": "No commercial name",
+    "AR": "No commercial name"
+   }
+  }
+ },
+ "status": "FINISHED",
+ "type": "GROUP_STAGE",
+ "winner": {
+  "match": {
+   "reason": "WIN_REGULAR",
+   "team": {
+    "associationId": "200039",
+    "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/ENG.svg",
+    "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/52683.png",
+    "confederationType": "UEFA",
+    "countryCode": "ENG",
+    "id": "52683",
+    "idProvider": "FAME",
+    "internationalName": "Aston Villa",
+    "isPlaceHolder": false,
+    "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52683.png",
+    "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/52683.png",
+    "organizationId": "252683",
+    "teamCode": "AVL",
+    "teamTypeDetail": "DOMESTIC_MEN_TEAM_A",
+    "translations": {
+     "countryName": {
+      "EN": "England",
+      "FR": "Angleterre",
+      "DE": "England",
+      "ES": "Inglaterra",
+      "PT": "Inglaterra",
+      "IT": "Inghilterra",
+      "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+      "ZH": "\u82f1\u683c\u5170",
+      "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+     },
+     "displayName": {
+      "EN": "Aston Villa",
+      "FR": "Aston Villa",
+      "DE": "Aston Villa",
+      "ES": "Aston Villa",
+      "PT": "Aston Villa",
+      "IT": "Aston Villa",
+      "RU": "\u0410\u0441\u0442\u043e\u043d \u0412\u0438\u043b\u043b\u0430",
+      "ZH": "\u963f\u65af\u987f\u7ef4\u62c9",
+      "AR": "\u0623\u0633\u062a\u0648\u0646 \u0641\u064a\u0644\u0627"
+     },
+     "displayOfficialName": {
+      "EN": "Aston Villa",
+      "FR": "Aston Villa",
+      "DE": "Aston Villa",
+      "ES": "Aston Villa",
+      "PT": "Aston Villa",
+      "IT": "Aston Villa",
+      "RU": "\u0410\u0441\u0442\u043e\u043d \u0412\u0438\u043b\u043b\u0430",
+      "ZH": "\u963f\u65af\u987f\u7ef4\u62c9",
+      "AR": "\u0623\u0633\u062a\u0648\u0646 \u0641\u064a\u0644\u0627"
+     },
+     "displayTeamCode": {
+      "EN": "AVL",
+      "FR": "AVL",
+      "DE": "AVL",
+      "ES": "AVL",
+      "PT": "AVL",
+      "IT": "AVL",
+      "RU": "AVL",
+      "ZH": "AVL",
+      "AR": "AVL"
+     },
+     "shortName": {
+      "EN": "Aston Villa",
+      "FR": "Aston Villa",
+      "DE": "Aston Villa",
+      "ES": "Aston Villa",
+      "PT": "Aston Villa",
+      "IT": "Aston Villa",
+      "RU": "\u0410\u0441\u0442\u043e\u043d \u0412\u0438\u043b\u043b\u0430",
+      "ZH": "Villa",
+      "AR": "\u0623\u0633\u062a\u0648\u0646 \u0641\u064a\u0644\u0627"
+     }
+    },
+    "typeIsNational": false,
+    "typeTeam": "DOMESTIC"
+   }
+  }
+ }
+}

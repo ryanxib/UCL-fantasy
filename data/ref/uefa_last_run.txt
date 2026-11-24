@@ -1,16 +1,16 @@
-# UEFA API probe 2026-11-24 12:51 UTC
+# UEFA API probe 2026-11-24 12:52 UTC
 
 - match list: 234 matches, 162 finished; statuses ['FINISHED', 'UPCOMING']
-- probe match: 2048621 ('Sabah', 'The New Saints', '2026-07-07T16:00:00Z')
+- probe match: 2049556 ('Club Brugge', 'Aston Villa', '2026-09-08T16:45:00Z')
 
 endpoint | status | bytes | items
 ---|---|---|---
-match | 200 | 36631 | dict: awayTeam,behindClosedDoors,competition,competitionPhase,condition,fullTimeAt,homeTeam,id,kickOffTime,leg
-lineups | 200 | 87477 | dict: awayTeam,homeTeam,lineupStatus,matchId
+match | 200 | 34397 | dict: awayTeam,competition,competitionPhase,condition,fullTimeAt,group,homeTeam,id,kickOffTime,lineupStatus
+lineups | 200 | 86336 | dict: awayTeam,homeTeam,lineupStatus,matchId
 events | 400 | 0 | 
-matchstats_v1_players | 200 | 208998 | list 45
-matchstats_v2_players | 200 | 38183 | list 45
-matchstats_v1_teams | 200 | 15276 | list 2
+matchstats_v1_players | 200 | 5285052 | list 44
+matchstats_v2_players | 200 | 1100656 | list 44
+matchstats_v1_teams | 200 | 351238 | list 2
 compstats_player_stats_match | 404 | 0 | 
 compstats_ranking_match | 200 | 273689 | list 50
 compstats_ranking_season | 200 | 273689 | list 50
