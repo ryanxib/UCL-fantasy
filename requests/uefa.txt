@@ -1,0 +1,2 @@
+auto
+# UEFA probe: first line = UEFA match id or auto. Commit a change to run it.

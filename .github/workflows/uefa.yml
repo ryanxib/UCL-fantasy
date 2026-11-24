@@ -1,0 +1,45 @@
+name: uefa
+# UEFA API probe (match list + candidate per-match player stats endpoints). UEFA is blocked from the chat workspace.
+# Run: commit to requests/uefa.txt (first line: match id, or "auto"), or Actions -> uefa -> Run workflow.
+# Output: data/ref/uefa_probe.md, data/ref/uefa_matches.csv, data/ref/uefa_samples/*.json
+on:
+  workflow_dispatch:
+    inputs:
+      match:
+        description: "UEFA match id or auto"
+        required: false
+        default: auto
+  push:
+    branches: [main]
+    paths: [requests/uefa.txt]
+permissions:
+  contents: write
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+jobs:
+  uefa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Probe
+        env:
+          INPUT_MATCH: ${{ github.event.inputs.match }}
+        run: |
+          M="${INPUT_MATCH:-$(head -1 requests/uefa.txt 2>/dev/null)}"
+          echo "$M" | grep -Eq '^ *([0-9]+|auto) *$' || { echo "bad arg: $M" | tee data/ref/uefa_last_run.txt; exit 1; }
+          [ "$M" = auto ] && M=""
+          python scripts/probe_uefa.py $M 2>&1 | tee data/ref/uefa_last_run.txt; exit ${PIPESTATUS[0]}
+      - name: Commit and push
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A data
+          git commit -q -m "UEFA probe $(date -u +'%F %H:%M')Z" || { echo "nothing to commit"; exit 0; }
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 10; done
+          exit 1
