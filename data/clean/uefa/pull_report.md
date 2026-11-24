@@ -1,0 +1,81 @@
+# UEFA player stats pull 2026-11-24 12:54 UTC
+
+- 234 matches in list; 72 finished league-phase matches in MD1,MD2,MD3,MD4
+- MD1 Club Brugge v Aston Villa (2049556): 44 stat rows, 0 in lineup without stats
+- MD1 AEK Athens v LASK (2049558): 43 stat rows, 0 in lineup without stats
+- MD1 Real Madrid v Inter (2049553): 44 stat rows, 0 in lineup without stats
+- MD1 B. Dortmund v Villarreal (2049554): 43 stat rows, 0 in lineup without stats
+- MD1 Porto v Man City (2049555): 45 stat rows, 0 in lineup without stats
+- MD1 Lille v Real Betis (2049557): 46 stat rows, 0 in lineup without stats
+- MD1 Barcelona v Feyenoord (2049561): 46 stat rows, 0 in lineup without stats
+- MD1 Stuttgart v Viking (2049564): 43 stat rows, 0 in lineup without stats
+- MD1 Paris v S. Bratislava (2049559): 46 stat rows, 0 in lineup without stats
+- MD1 Liverpool v Atleti (2049560): 45 stat rows, 0 in lineup without stats
+- MD1 Sporting CP v Galatasaray (2049562): 44 stat rows, 0 in lineup without stats
+- MD1 Napoli v Arsenal (2049563): 42 stat rows, 0 in lineup without stats
+- MD1 PSV v Shakhtar (2049567): 45 stat rows, 0 in lineup without stats
+- MD1 Fenerbahçe v Roma (2049568): 44 stat rows, 0 in lineup without stats
+- MD1 Bayern München v Bodø/Glimt (2049565): 43 stat rows, 0 in lineup without stats
+- MD1 Man Utd v Sabah (2049566): 45 stat rows, 0 in lineup without stats
+- MD1 Slavia Praha v Lens (2049569): 46 stat rows, 0 in lineup without stats
+- MD1 Como v Leipzig (2049570): 45 stat rows, 0 in lineup without stats
+- MD2 Lens v Sporting CP (2049577): 46 stat rows, 0 in lineup without stats
+- MD2 Sabah v Slavia Praha (2049579): 45 stat rows, 0 in lineup without stats
+- MD2 Inter v Club Brugge (2049571): 46 stat rows, 0 in lineup without stats
+- MD2 Arsenal v Lille (2049572): 46 stat rows, 0 in lineup without stats
+- MD2 Atleti v Man Utd (2049573): 46 stat rows, 0 in lineup without stats
+- MD2 Leipzig v PSV (2049574): 44 stat rows, 0 in lineup without stats
+- MD2 Villarreal v Napoli (2049575): 42 stat rows, 0 in lineup without stats
+- MD2 Galatasaray v Barcelona (2049576): 45 stat rows, 0 in lineup without stats
+- MD2 Viking v Bayern München (2049578): 46 stat rows, 0 in lineup without stats
+- MD2 Feyenoord v Como (2049584): 44 stat rows, 0 in lineup without stats
+- MD2 LASK v Liverpool (2049588): 43 stat rows, 0 in lineup without stats
+- MD2 Man City v Paris (2049580): 46 stat rows, 0 in lineup without stats
+- MD2 Roma v Real Madrid (2049581): 45 stat rows, 0 in lineup without stats
+- MD2 Aston Villa v Fenerbahçe (2049582): 43 stat rows, 0 in lineup without stats
+- MD2 Real Betis v Porto (2049583): 46 stat rows, 0 in lineup without stats
+- MD2 Bodø/Glimt v B. Dortmund (2049585): 42 stat rows, 0 in lineup without stats
+- MD2 Shakhtar v AEK Athens (2049586): 44 stat rows, 0 in lineup without stats
+- MD2 S. Bratislava v Stuttgart (2049587): 43 stat rows, 0 in lineup without stats
+- MD3 Fenerbahçe v Slavia Praha (2049595): 45 stat rows, 0 in lineup without stats
+- MD3 Sabah v B. Dortmund (2049597): 46 stat rows, 0 in lineup without stats
+- MD3 Paris v Barcelona (2049589): 46 stat rows, 0 in lineup without stats
+- MD3 Liverpool v Villarreal (2049590): 45 stat rows, 0 in lineup without stats
+- MD3 Man City v AEK Athens (2049591): 43 stat rows, 0 in lineup without stats
+- MD3 Roma v S. Bratislava (2049592): 45 stat rows, 0 in lineup without stats
+- MD3 Porto v PSV (2049593): 44 stat rows, 0 in lineup without stats
+- MD3 Napoli v Bodø/Glimt (2049594): 39 stat rows, 0 in lineup without stats
+- MD3 Stuttgart v Atleti (2049596): 45 stat rows, 0 in lineup without stats
+- MD3 Lille v Galatasaray (2049605): 44 stat rows, 0 in lineup without stats
+- MD3 Como v Man Utd (2049606): 42 stat rows, 0 in lineup without stats
+- MD3 Bayern München v Arsenal (2049598): 42 stat rows, 0 in lineup without stats
+- MD3 Real Madrid v Leipzig (2049599): 46 stat rows, 0 in lineup without stats
+- MD3 Inter v Shakhtar (2049600): 46 stat rows, 0 in lineup without stats
+- MD3 Sporting CP v LASK (2049601): 45 stat rows, 0 in lineup without stats
+- MD3 Aston Villa v Viking (2049602): 45 stat rows, 0 in lineup without stats
+- MD3 Club Brugge v Lens (2049603): 46 stat rows, 0 in lineup without stats
+- MD3 Real Betis v Feyenoord (2049604): 45 stat rows, 0 in lineup without stats
+- MD4 Shakhtar v Sporting CP (2049613): 46 stat rows, 0 in lineup without stats
+- MD4 Galatasaray v Stuttgart (2049614): 46 stat rows, 0 in lineup without stats
+- MD4 Barcelona v Aston Villa (2049607): 45 stat rows, 0 in lineup without stats
+- MD4 Atleti v Bayern München (2049608): 43 stat rows, 0 in lineup without stats
+- MD4 Man Utd v Roma (2049609): 43 stat rows, 0 in lineup without stats
+- MD4 Feyenoord v Inter (2049610): 46 stat rows, 0 in lineup without stats
+- MD4 Bodø/Glimt v Lille (2049611): 40 stat rows, 0 in lineup without stats
+- MD4 Villarreal v Paris (2049612): 42 stat rows, 0 in lineup without stats
+- MD4 LASK v S. Bratislava (2049615): 45 stat rows, 0 in lineup without stats
+- MD4 Fenerbahçe v Liverpool (2049620): 44 stat rows, 0 in lineup without stats
+- MD4 AEK Athens v Real Madrid (2049622): 44 stat rows, 0 in lineup without stats
+- MD4 B. Dortmund v Real Betis (2049616): 45 stat rows, 0 in lineup without stats
+- MD4 Porto v Napoli (2049617): 41 stat rows, 0 in lineup without stats
+- MD4 PSV v Club Brugge (2049618): 45 stat rows, 0 in lineup without stats
+- MD4 Leipzig v Man City (2049619): 45 stat rows, 0 in lineup without stats
+- MD4 Slavia Praha v Arsenal (2049621): 46 stat rows, 0 in lineup without stats
+- MD4 Lens v Como (2049623): 44 stat rows, 0 in lineup without stats
+- MD4 Viking v Sabah (2049624): 46 stat rows, 0 in lineup without stats
+
+- total rows 3196; with minutes > 0: 2259; rows without a lineup name: 2
+- MD1: 18 matches, 564 players with minutes, 564 with saves value, 564 with tackles value
+- MD2: 18 matches, 565 players with minutes, 565 with saves value, 565 with tackles value
+- MD3: 18 matches, 569 players with minutes, 569 with saves value, 569 with tackles value
+- MD4: 18 matches, 561 players with minutes, 561 with saves value, 561 with tackles value
