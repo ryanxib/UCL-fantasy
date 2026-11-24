@@ -1,5 +1,8 @@
 # Log (newest first)
 
+## 2026-11-24 Stage 2 spec written into PLAN.md
+- Inputs, 8 steps, outputs, checks, done-when. Open owner decision: fallback for games with no player props (step 7).
+
 ## 2026-11-24 Scoring confirmed for UCL
 - Owner sent 8 screenshots of the FanTeam football rules page. Transcribed: `data/manual/fanteam_rules_2026-11-24.md`.
 - Same table as EPL. New vs METHOD: own goal -2, caused penalty -2, scoring free kick -2, penalty miss -2, penalty save 5,
