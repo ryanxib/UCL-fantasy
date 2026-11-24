@@ -10,8 +10,8 @@ Stage 2 (projection), a new build chat. Or a research chat first: pull UCL 2026-
 FanTeam (past contest ids via a scan; raw stats via `/fantasy_teams/{id}`), check against FanTeam points.
 
 ## Open items
-1. Scoring TBC for UCL: the API has no points table (probe 24 Nov). Confirm by rebuilding a finished contest's points from
-   raw stats (`/fantasy_teams/{id}` realPlayerMatchStats v points), or a Rules tab screenshot. Check the SoT-on-goal rule too.
+1. Scoring CONFIRMED 24 Nov (rules screenshots + UEFA stats v FanTeam points, 93% match; METHOD.md). A goal is not also a
+   shot on target. Open: GK save count (UEFA runs 1-2 above FanTeam).
 2. Meaning of the screen icons "P", captain-style, shield on contest 1170340: TBC (likely captain + safety net).
 3. Coverage gaps: Porto @ Feyenoord still had no player props at 11:20 UTC (see `data/ref/props_coverage.md`) and is IN
    contest 1170340. Re-run `coverage` closer to kick-off (1 credit per game).
