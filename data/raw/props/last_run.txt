@@ -1,0 +1,84 @@
+run 2026-11-24 09:35Z
+9 games in the next 30h; credits left 18660
+Aston Villa @ Galatasaray  2026-11-24T17:45:00Z
+  player_goal_scorer_anytime (us,uk,eu): 5 books, 144 prices (used 3, left 18657)
+  player_shots,player_shots_on_target,player_assists (us,eu): 3 books, 507 prices (used 6, left 18651)
+  player_assists_alternate,player_tackles_alternate,player_to_receive_card (us,uk): 3 books, 289 prices (used 6, left 18645)
+  extra btts: 28 prices
+  extra team_totals: 4 prices
+  extra alternate_team_totals: 64 prices
+  extra (us,uk): 14 books (used 6, left 18639)
+LASK @ Bodø/Glimt  2026-11-24T17:45:00Z
+  player_goal_scorer_anytime (us,uk,eu): 6 books, 208 prices (used 3, left 18636)
+  player_shots,player_shots_on_target,player_assists (us,eu): 3 books, 616 prices (used 6, left 18630)
+  player_assists_alternate,player_tackles_alternate,player_to_receive_card (us,uk): 3 books, 298 prices (used 6, left 18624)
+  extra btts: 28 prices
+  extra team_totals: 8 prices
+  extra alternate_team_totals: 69 prices
+  extra (us,uk): 14 books (used 6, left 18618)
+AEK Athens @ Como  2026-11-24T20:00:00Z
+  player_goal_scorer_anytime (us,uk,eu): 6 books, 169 prices (used 3, left 18615)
+  player_shots,player_shots_on_target,player_assists (us,eu): 3 books, 446 prices (used 6, left 18609)
+  player_assists_alternate,player_tackles_alternate,player_to_receive_card (us,uk): 3 books, 248 prices (used 6, left 18603)
+  extra btts: 30 prices
+  extra team_totals: 8 prices
+  extra alternate_team_totals: 67 prices
+  extra (us,uk): 15 books (used 6, left 18597)
+Borussia Dortmund @ Arsenal  2026-11-24T20:00:00Z
+  player_goal_scorer_anytime (us,uk,eu): 5 books, 178 prices (used 3, left 18594)
+  player_shots,player_shots_on_target,player_assists (us,eu): 3 books, 615 prices (used 6, left 18588)
+  player_assists_alternate,player_tackles_alternate,player_to_receive_card (us,uk): 3 books, 353 prices (used 6, left 18582)
+  extra btts: 28 prices
+  extra team_totals: 4 prices
+  extra alternate_team_totals: 57 prices
+  extra (us,uk): 14 books (used 6, left 18576)
+Porto @ Feyenoord  2026-11-24T20:00:00Z
+  player_goal_scorer_anytime (us,uk,eu): 0 books, 0 prices (used 0, left 18576)
+  player_shots,player_shots_on_target,player_assists (us,eu): 0 books, 0 prices (used 0, left 18576)
+  player_assists_alternate,player_tackles_alternate,player_to_receive_card (us,uk): 0 books, 0 prices (used 0, left 18576)
+  extra btts: 30 prices
+  extra team_totals: 8 prices
+  extra alternate_team_totals: 61 prices
+  extra (us,uk): 15 books (used 6, left 18570)
+Napoli @ Manchester City  2026-11-24T20:00:00Z
+  player_goal_scorer_anytime (us,uk,eu): 6 books, 158 prices (used 3, left 18567)
+  player_shots,player_shots_on_target,player_assists (us,eu): 3 books, 549 prices (used 6, left 18561)
+  player_assists_alternate,player_tackles_alternate,player_to_receive_card (us,uk): 3 books, 298 prices (used 6, left 18555)
+  extra btts: 28 prices
+  extra team_totals: 4 prices
+  extra alternate_team_totals: 65 prices
+  extra (us,uk): 14 books (used 6, left 18549)
+PSV Eindhoven @ Real Madrid  2026-11-24T20:00:00Z
+  player_goal_scorer_anytime (us,uk,eu): 7 books, 247 prices (used 3, left 18546)
+  player_shots,player_shots_on_target,player_assists (us,eu): 3 books, 751 prices (used 6, left 18540)
+  player_assists_alternate,player_tackles_alternate,player_to_receive_card (us,uk): 3 books, 369 prices (used 6, left 18534)
+  extra btts: 30 prices
+  extra team_totals: 8 prices
+  extra alternate_team_totals: 66 prices
+  extra (us,uk): 15 books (used 6, left 18528)
+RC Lens @ RB Leipzig  2026-11-24T20:00:00Z
+  player_goal_scorer_anytime (us,uk,eu): 5 books, 176 prices (used 3, left 18525)
+  player_shots,player_shots_on_target,player_assists (us,eu): 3 books, 623 prices (used 6, left 18519)
+  player_assists_alternate,player_tackles_alternate,player_to_receive_card (us,uk): 3 books, 344 prices (used 6, left 18513)
+  extra btts: 28 prices
+  extra team_totals: 4 prices
+  extra alternate_team_totals: 68 prices
+  extra (us,uk): 14 books (used 6, left 18507)
+Real Betis @ ŠK Slovan Bratislava  2026-11-24T20:00:00Z
+  player_goal_scorer_anytime (us,uk,eu): 6 books, 99 prices (used 3, left 18504)
+  player_shots,player_shots_on_target,player_assists (us,eu): 3 books, 358 prices (used 6, left 18498)
+  player_assists_alternate,player_tackles_alternate,player_to_receive_card (us,uk): 3 books, 151 prices (used 6, left 18492)
+  extra btts: 30 prices
+  extra team_totals: 8 prices
+  extra alternate_team_totals: 65 prices
+  extra (us,uk): 15 books (used 6, left 18486)
+team markets: 9 games (used 4, left 18482)
+team_extra: 229 rows, markets ['alternate_team_totals', 'btts', 'team_totals']
+  player_assists: 241 rows, 241 players -> data/clean/props/player_assists_latest.csv
+  player_assists_alternate: 265 rows, 265 players -> data/clean/props/player_assists_alternate_latest.csv
+  player_goal_scorer_anytime: 312 rows, 312 players -> data/clean/props/player_goal_scorer_anytime_latest.csv
+  player_shots: 1364 rows, 283 players -> data/clean/props/player_shots_latest.csv
+  player_shots_on_target: 724 rows, 281 players -> data/clean/props/player_shots_on_target_latest.csv
+  player_tackles_alternate: 1356 rows, 264 players -> data/clean/props/player_tackles_alternate_latest.csv
+  player_to_receive_card: 317 rows, 317 players -> data/clean/props/player_to_receive_card_latest.csv
+CREDITS LEFT 18482
