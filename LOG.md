@@ -1,5 +1,22 @@
 # Log (newest first)
 
+## 2026-11-24 Coverage refresh + scoring-rules probe
+- New `scripts/coverage.py` + `coverage` Action (`requests/coverage.txt`): books per market per game, no prices, 1 credit
+  per game. Output `data/ref/props_coverage.md` (+ history CSV, shows change v previous run from the next run on).
+- Run 11:20 UTC, next 48 h (18 games): 18 credits, 18464 left.
+  - Porto @ Feyenoord: still NO player props (0 books, 2 h after the 09:35 pull and ~9 h before kick-off). Team markets fine.
+  - Tonight's other 8 games unchanged v 09:35: anytime scorer 5-7 books, shots/SoT 3, assists 1 (+2 alternates), tackles 1, cards 2.
+  - Wednesday's 9 games already have full player props (anytime 5-6 books). Liverpool @ Brugge SoT 2 books; Fenerbahce @ Shakhtar no saves.
+- New `scripts/probe_rules.py` + `probe_rules` Action: FanTeam has NO scoring table in its API. Tried 14 endpoints.
+  `/rule_versions/13`, `/rules/13`, `/scoring*`, `/match_collections/*` are 404. `/games/98781` and `/players?format=json`
+  give only `ruleVersion = 13`. `/white_labels/fanteam` points to a help-centre article ("fantasy-football-soccer-rules"),
+  not data. `playerChoices` in `/players?format=json` carries `totalPoints` and `lastPoints` per player (useful for the history work).
+- So the scoring can be confirmed only by data: raw stats v points on a finished UCL contest (history work), or the Rules tab.
+- Web search found no FanTeam rules page. A 2021 article (Fantasy Football Scout) says shot-on-target points are NOT given
+  when the shot is a goal or gives an assist. Not in METHOD's EPL table: added as TBC.
+- Both Actions now have their own concurrency group: in a shared group GitHub cancels a waiting job when a newer one queues
+  (the first coverage/probe runs were held behind the long `history` run).
+
 ## 2026-11-24 Research: past FanTeam points per matchday (in progress)
 - Owner: per-matchday FanTeam points (not season totals) as a guide where odds are thin. Also look for web stats sources.
 - MD dates (UEFA): MD1 8-10 Sep, MD2 13/14 Oct, MD3 20/21 Oct, MD4 3/4 Nov, MD5 24/25 Nov (not finished).

@@ -34,6 +34,8 @@ COM FCP FEY LEN MCI NAP PSV RBL RMA SLV.
 | Full-match bonus | - | - | +1 | +1 |
 Win while on pitch +0.3, loss -0.3. Yellow -1, red -3 (a red replaces a yellow). No FPL-style bonus points.
 Open (from EPL): does the full-match bonus need start and finish, or just being on at full time?
+TBC (2021 article, not FanTeam): no shot-on-target points when that shot is a goal or gives an assist. Check against data.
+The FanTeam API has no scoring table (probe 24 Nov, `data/ref/fanteam_rules_probe.md`): confirm scoring from raw stats v points.
 
 ## Model rules (v1)
 - Bookmaker prices first. Remove margin; mean of books.
