@@ -1,7 +1,5 @@
-- coarse: 826 ids, 642 found, 10 UCL
-- fine: +-40 around each hit; 1567 ids tried in total
-- UCL contests found: 157
+- coarse: 2331 ids, 1654 found, 22 UCL
+- fine: +-10 around each hit; 2665 ids tried in total
+- UCL contests found: 193
 - MD1: 0 finished UCL contests, 0 matches seen, chosen [] cover 0; 0 players, 0 with non-zero points
-- MD2: 65 finished UCL contests, 14 matches seen, chosen [1143672, 1143711] cover 14; 678 players, 430 with non-zero points
-- MD3: 60 finished UCL contests, 14 matches seen, chosen [1148080, 1148891] cover 14; 687 players, 432 with non-zero points
 - MD4: 18 finished UCL contests, 7 matches seen, chosen [1158791] cover 7; 348 players, 212 with non-zero points
