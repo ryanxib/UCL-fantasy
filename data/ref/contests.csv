@@ -1,0 +1,2 @@
+id,name,game_type,starts,buy_in,cost,currency,budget,max_per_club,captains,safety_net,entries_per_user,guaranteed,entrants,round,matches,teams,n_players,pool_file,pulled_utc
+1170340,Tuesday Main Event,football,2026-11-24T20:00:00.000Z,1.98,2.3,EUR,121,3,2,team,15,2012.50,172,5,7,"AEK,ARS,BET,BVB,COM,FCP,FEY,LEN,MCI,NAP,PSV,RBL,RMA,SLV",345,data/raw/fanteam/pool_1170340_2026-11-24.csv,2026-11-24T09:56Z

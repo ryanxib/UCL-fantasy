@@ -1,0 +1,2 @@
+1170340: 345 players -> data/raw/fanteam/pool_1170340_2026-11-24.csv; columns: ﻿Tournament,PlayerID,Name,FName,Club,Lineup,Position,Price
+1170340: Tuesday Main Event | buy-in 1.98 EUR | budget 121 | max/club 3 | captains 2 | safety net team | entries/user 15 | entrants 172 | matches 7 (AEK,ARS,BET,BVB,COM,FCP,FEY,LEN,MCI,NAP,PSV,RBL,RMA,SLV) | starts 2026-11-24T20:00:00.000Z

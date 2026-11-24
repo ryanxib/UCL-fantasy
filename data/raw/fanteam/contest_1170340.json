@@ -1,0 +1,883 @@
+{
+ "gameweeks": null,
+ "fantasyTeams": [
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  },
+  {
+   "rank": null,
+   "payout": 0,
+   "score": 0
+  }
+ ],
+ "tournament": {
+  "id": 1170340,
+  "tab": "admin_created",
+  "createdAt": "2026-11-18T12:42:31.386Z",
+  "registrationTime": "2026-11-24T20:00:00.000Z",
+  "userId": null,
+  "whiteLabelId": 1,
+  "gameId": 98781,
+  "hierarchy": "official",
+  "name": "Tuesday Main Event",
+  "maxFantasyTeams": 0,
+  "maxFantasyTeamsPerUser": 15,
+  "rakeRate": "0.00",
+  "cutRate": "14.00",
+  "currency": "EUR",
+  "guaranteedPrizePoolAmount": "2012.50",
+  "prizeDistributionRatio": 17,
+  "copies": 0,
+  "details": {
+   "budget": 121,
+   "captains": 2,
+   "safetyNet": "team",
+   "maxPlayersPerTeam": 3,
+   "substitutionTiming": "startOfMatch",
+   "cleanSheetStackPenalty": 1,
+   "cancellationCompensation": 0.5,
+   "network": true,
+   "transferType": "classic",
+   "welcomeWizard": null,
+   "betflexAiEnabled": true,
+   "beginner_friendly": true,
+   "miniLeaguesEnabled": false,
+   "prizeDistributions": [
+    {
+     "prizeScope": "total",
+     "scopeIndices": [
+      0
+     ],
+     "prizeDistributionMin": 0,
+     "prizeDistributionType": "normal",
+     "prizeDistributionRatio": 17,
+     "prizeDistributionWeight": 1
+    }
+   ],
+   "featuredTournaments": [
+    1170339
+   ],
+   "enableFixturesMatrix": false,
+   "prizeDistributionMin": 0,
+   "prizeDistributionWeight": 1
+  },
+  "winnerDeclaredAt": null,
+  "baseCurrencyMultiplier": "1.00000000",
+  "prizeDistributionType": "normal",
+  "clients": [
+   1,
+   3,
+   24,
+   97,
+   144,
+   145,
+   150,
+   151,
+   152,
+   154
+  ],
+  "matchCollectionId": 98781,
+  "buyIn": 1.98,
+  "rake": 0.32,
+  "cost": 2.3,
+  "type": "fantasy",
+  "gameType": "football",
+  "ruleVersion": 13,
+  "maxPlayersPerTeam": 3,
+  "substitutes": 0,
+  "goalkeeperSubstitutes": 0,
+  "budget": 121,
+  "maxTransfersPerGameweek": 0,
+  "maxTransfersTotal": null,
+  "captains": 2,
+  "transferPenalty": 4,
+  "passwordProtected": false,
+  "fantasyTeamsCount": "172",
+  "prizePoolAmount": "2012.50",
+  "status": "waiting"
+ },
+ "matchCollection": {
+  "id": 98781,
+  "late": "true",
+  "type": "fantasy",
+  "early": true,
+  "endTime": "2026-11-24T22:00:00+00:00",
+  "endTimes": {
+   "5": "2026-11-24T22:00:00+00:00"
+  },
+  "gameType": "football",
+  "metadata": {
+   "late": true,
+   "early": true,
+   "match_count": 7,
+   "has_non_bouts": true
+  },
+  "gameRules": {
+   "budget": 121,
+   "captains": 2,
+   "safetyNet": "team",
+   "maxPlayersPerTeam": 3,
+   "substitutionTiming": "startOfMatch",
+   "cleanSheetStackPenalty": 1,
+   "cancellationCompensation": 0.5
+  },
+  "gameScope": "single",
+  "gameweeks": [
+   5
+  ],
+  "seasonIds": [
+   2026
+  ],
+  "startTime": "2026-11-24T20:00:00+00:00",
+  "matchCount": 7,
+  "startTimes": {
+   "5": "2026-11-24T20:00:00+00:00"
+  },
+  "dreamTeamId": 134643660,
+  "hasNonBouts": "true",
+  "ruleVersion": 13
+ },
+ "tournamentBuyins": [
+  {
+   "id": "1170340|1|BGN",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "currency": "BGN",
+   "multiplier": 1.95,
+   "buyIn": 3.86,
+   "rake": 0.62,
+   "cost": 4.48
+  },
+  {
+   "id": "1170340|1|BRL",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "currency": "BRL",
+   "multiplier": 6.52173913,
+   "buyIn": 12.91,
+   "rake": 2.09,
+   "cost": 15
+  },
+  {
+   "id": "1170340|1|CAD",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "currency": "CAD",
+   "multiplier": 1.6,
+   "buyIn": 3.17,
+   "rake": 0.51,
+   "cost": 3.68
+  },
+  {
+   "id": "1170340|1|CNY",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "currency": "CNY",
+   "multiplier": 8,
+   "buyIn": 15.84,
+   "rake": 2.56,
+   "cost": 18.4
+  },
+  {
+   "id": "1170340|1|GBP",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "currency": "GBP",
+   "multiplier": 0.86956522,
+   "buyIn": 1.72,
+   "rake": 0.28,
+   "cost": 2
+  },
+  {
+   "id": "1170340|1|GHS",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "currency": "GHS",
+   "multiplier": 12.5,
+   "buyIn": 24.75,
+   "rake": 4,
+   "cost": 28.75
+  },
+  {
+   "id": "1170340|1|IDR",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "currency": "IDR",
+   "multiplier": 19000,
+   "buyIn": 37620,
+   "rake": 6080,
+   "cost": 43700
+  },
+  {
+   "id": "1170340|1|INR",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "currency": "INR",
+   "multiplier": 115,
+   "buyIn": 227.7,
+   "rake": 36.8,
+   "cost": 264.5
+  },
+  {
+   "id": "1170340|1|KZT",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "currency": "KZT",
+   "multiplier": 635,
+   "buyIn": 1257.3,
+   "rake": 203.2,
+   "cost": 1460.5
+  },
+  {
+   "id": "1170340|1|MXN",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "currency": "MXN",
+   "multiplier": 21.5,
+   "buyIn": 42.57,
+   "rake": 6.88,
+   "cost": 49.45
+  },
+  {
+   "id": "1170340|1|PHP",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "currency": "PHP",
+   "multiplier": 65,
+   "buyIn": 128.7,
+   "rake": 20.8,
+   "cost": 149.5
+  },
+  {
+   "id": "1170340|1|USD",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "currency": "USD",
+   "multiplier": 1,
+   "buyIn": 1.98,
+   "rake": 0.32,
+   "cost": 2.3
+  },
+  {
+   "id": "1170340|1|ZMW",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "currency": "ZMW",
+   "multiplier": 27.5,
+   "buyIn": 54.45,
+   "rake": 8.8,
+   "cost": 63.25
+  }
+ ],
+ "tournamentConnections": [
+  {
+   "id": "1170340|1",
+   "tournamentId": 1170340,
+   "whiteLabelId": 1,
+   "highlightPriority": null,
+   "clientFantasyTeamsCount": 40,
+   "clientEntrantsCount": 25
+  }
+ ],
+ "total": "172",
+ "realMatches": [
+  {
+   "id": 4498504,
+   "bout": 0,
+   "score": [
+    0,
+    0
+   ],
+   "status": "pending",
+   "details": {
+    "odds": {
+     "away": "2.4",
+     "draw": "3.7",
+     "home": "2.84",
+     "over": "1.64",
+     "score": 2.5,
+     "under": "2.35"
+    },
+    "subScore": [
+     0,
+     0
+    ],
+    "autoconfirm": true,
+    "lastUpdateAt": "2026-11-16T11:26:11.451Z",
+    "lastUpdateBy": "5caed137e598944611fca3dd",
+    "expectedGoals": [
+     1.45,
+     1.59
+    ],
+    "lineupFallback": "expected",
+    "teamLineupFallbacks": {},
+    "totalScoreWithoutShootouts": [
+     0,
+     0
+    ]
+   },
+   "gameweek": 5,
+   "seasonId": 2026,
+   "sportyId": "6a9322724aa746109cbc5040",
+   "startTime": "2026-11-24T20:00:00+00:00",
+   "updatedAt": "2026-11-20T10:25:50.559+00:00",
+   "realTeamIds": [
+    125004,
+    125016
+   ]
+  },
+  {
+   "id": 4498498,
+   "bout": 0,
+   "score": [
+    0,
+    0
+   ],
+   "status": "pending",
+   "details": {
+    "uid": "19873716",
+    "odds": {
+     "away": "7.47",
+     "draw": "4.98",
+     "home": "1.50",
+     "over": "1.88",
+     "score": 2.5,
+     "under": "2.14"
+    },
+    "user": "5ab2600d13ea192ddb5a379a",
+    "settle": {
+     "periods": []
+    },
+    "subScore": [
+     0,
+     0
+    ],
+    "autoconfirm": true,
+    "lastUpdateAt": "2026-11-24T09:07:37.621Z",
+    "lastUpdateBy": "5ab2600d13ea192ddb5a379a",
+    "expectedGoals": [
+     2.03,
+     0.78
+    ],
+    "lineupFallback": "expected",
+    "teamLineupFallbacks": {
+     "6a91271edd0d6228bc063b31": "unexpected",
+     "6a91271edd0d6272a2063b1d": "unexpected"
+    },
+    "totalScoreWithoutShootouts": [
+     0,
+     0
+    ]
+   },
+   "gameweek": 5,
+   "seasonId": 2026,
+   "sportyId": "6a9322724aa746465abc5047",
+   "startTime": "2026-11-24T20:00:00+00:00",
+   "updatedAt": "2026-11-24T09:07:39.606+00:00",
+   "realTeamIds": [
+    125012,
+    124997
+   ]
+  },
+  {
+   "id": 4498502,
+   "bout": 0,
+   "score": [
+    0,
+    0
+   ],
+   "status": "pending",
+   "details": {
+    "uid": "19873718",
+    "odds": {
+     "away": "1.43",
+     "draw": "5.58",
+     "home": "8.22",
+     "over": "1.67",
+     "score": 2.5,
+     "under": "2.49"
+    },
+    "user": "5ab2600d13ea192ddb5a379a",
+    "settle": {
+     "periods": []
+    },
+    "subScore": [
+     0,
+     0
+    ],
+    "autoconfirm": true,
+    "lastUpdateAt": "2026-11-24T09:38:45.114Z",
+    "lastUpdateBy": "5ab2600d13ea192ddb5a379a",
+    "expectedGoals": [
+     0.83,
+     2.27
+    ],
+    "lineupFallback": "expected",
+    "teamLineupFallbacks": {
+     "6a91271edd0d6219bd063b23": "unexpected",
+     "6a91271edd0d623a08063b32": "unexpected"
+    },
+    "totalScoreWithoutShootouts": [
+     0,
+     0
+    ]
+   },
+   "gameweek": 5,
+   "seasonId": 2026,
+   "sportyId": "6a9322724aa7464bf4bc5035",
+   "startTime": "2026-11-24T20:00:00+00:00",
+   "updatedAt": "2026-11-24T09:38:47.059+00:00",
+   "realTeamIds": [
+    125006,
+    125013
+   ]
+  },
+  {
+   "id": 4498499,
+   "bout": 0,
+   "score": [
+    0,
+    0
+   ],
+   "status": "pending",
+   "details": {
+    "uid": "19873719",
+    "odds": {
+     "away": "8.92",
+     "draw": "5.74",
+     "home": "1.40",
+     "over": "1.68",
+     "score": 2.5,
+     "under": "2.48"
+    },
+    "user": "5ab2600d13ea192ddb5a379a",
+    "settle": {
+     "periods": []
+    },
+    "subScore": [
+     0,
+     0
+    ],
+    "autoconfirm": true,
+    "lastUpdateAt": "2026-11-24T09:09:10.010Z",
+    "lastUpdateBy": "5ab2600d13ea192ddb5a379a",
+    "expectedGoals": [
+     2.3,
+     0.79
+    ],
+    "lineupFallback": "expected",
+    "teamLineupFallbacks": {
+     "6a91271edd0d62281a063b1b": "unexpected",
+     "6a91271edd0d62b9ea063b30": "unexpected"
+    },
+    "totalScoreWithoutShootouts": [
+     0,
+     0
+    ]
+   },
+   "gameweek": 5,
+   "seasonId": 2026,
+   "sportyId": "6a9322724aa7461ef5bc5026",
+   "startTime": "2026-11-24T20:00:00+00:00",
+   "updatedAt": "2026-11-24T09:09:11.738+00:00",
+   "realTeamIds": [
+    124988,
+    125003
+   ]
+  },
+  {
+   "id": 4498501,
+   "bout": 0,
+   "score": [
+    0,
+    0
+   ],
+   "status": "pending",
+   "details": {
+    "odds": {
+     "away": "5.50",
+     "draw": "5.03",
+     "home": "1.61",
+     "over": "1.57",
+     "score": 2.5,
+     "under": "2.75"
+    },
+    "subScore": [
+     0,
+     0
+    ],
+    "autoconfirm": true,
+    "lastUpdateAt": "2026-11-16T11:13:46.741Z",
+    "lastUpdateBy": "5caed137e598944611fca3dd",
+    "expectedGoals": [
+     2.18,
+     1.1
+    ],
+    "lineupFallback": "expected",
+    "teamLineupFallbacks": {},
+    "totalScoreWithoutShootouts": [
+     0,
+     0
+    ]
+   },
+   "gameweek": 5,
+   "seasonId": 2026,
+   "sportyId": "6a9322724aa7463c49bc507c",
+   "startTime": "2026-11-24T20:00:00+00:00",
+   "updatedAt": "2026-11-20T10:25:50.559+00:00",
+   "realTeamIds": [
+    124989,
+    125011
+   ]
+  },
+  {
+   "id": 4498503,
+   "bout": 0,
+   "score": [
+    0,
+    0
+   ],
+   "status": "pending",
+   "details": {
+    "odds": {
+     "away": "7.29",
+     "draw": "5.38",
+     "home": "1.48",
+     "over": "1.65",
+     "score": 2.5,
+     "under": "2.55"
+    },
+    "subScore": [
+     0,
+     0
+    ],
+    "autoconfirm": true,
+    "lastUpdateAt": "2026-11-16T11:22:07.354Z",
+    "lastUpdateBy": "5caed137e598944611fca3dd",
+    "expectedGoals": [
+     2.24,
+     0.9
+    ],
+    "lineupFallback": "expected",
+    "teamLineupFallbacks": {},
+    "totalScoreWithoutShootouts": [
+     0,
+     0
+    ]
+   },
+   "gameweek": 5,
+   "seasonId": 2026,
+   "sportyId": "6a9322724aa7460000bc5086",
+   "startTime": "2026-11-24T20:00:00+00:00",
+   "updatedAt": "2026-11-20T10:25:50.559+00:00",
+   "realTeamIds": [
+    124984,
+    125001
+   ]
+  },
+  {
+   "id": 4498500,
+   "bout": 0,
+   "score": [
+    0,
+    0
+   ],
+   "status": "pending",
+   "details": {
+    "uid": "19873720",
+    "odds": {
+     "away": "6.98",
+     "draw": "5.55",
+     "home": "1.48",
+     "over": "1.54",
+     "score": 2.5,
+     "under": "2.85"
+    },
+    "user": "5ab2600d13ea192ddb5a379a",
+    "settle": {
+     "periods": []
+    },
+    "subScore": [
+     0,
+     0
+    ],
+    "autoconfirm": true,
+    "lastUpdateAt": "2026-11-24T09:15:30.190Z",
+    "lastUpdateBy": "5ab2600d13ea192ddb5a379a",
+    "expectedGoals": [
+     2.35,
+     0.99
+    ],
+    "lineupFallback": "expected",
+    "teamLineupFallbacks": {
+     "6a91271edd0d6283b4063b21": "unexpected",
+     "6a91271edd0d62ab35063b19": "unexpected"
+    },
+    "totalScoreWithoutShootouts": [
+     0,
+     0
+    ]
+   },
+   "gameweek": 5,
+   "seasonId": 2026,
+   "sportyId": "6a9322724aa74670a0bc5053",
+   "startTime": "2026-11-24T20:00:00+00:00",
+   "updatedAt": "2026-11-24T09:15:32.389+00:00",
+   "realTeamIds": [
+    125005,
+    124986
+   ]
+  }
+ ],
+ "realTeams": [
+  {
+   "id": 125004,
+   "abbr": "FEY",
+   "name": "Feyenoord",
+   "extra": {},
+   "shirtId": 40330,
+   "emblemId": 40303,
+   "sportyId": "6a91271edd0d626899063b20",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40330.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40303.svg"
+  },
+  {
+   "id": 125016,
+   "abbr": "FCP",
+   "name": "Porto",
+   "extra": {},
+   "shirtId": 40339,
+   "emblemId": 40312,
+   "sportyId": "6a91271edd0d62125b063b34",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40339.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40312.svg"
+  },
+  {
+   "id": 125012,
+   "abbr": "ARS",
+   "name": "Arsenal",
+   "extra": {},
+   "shirtId": 40269,
+   "emblemId": 32964,
+   "sportyId": "6a91271edd0d6272a2063b1d",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40269.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/32964.svg"
+  },
+  {
+   "id": 124997,
+   "abbr": "BVB",
+   "name": "Borussia Dortmund",
+   "extra": {},
+   "shirtId": 40325,
+   "emblemId": 40298,
+   "sportyId": "6a91271edd0d6228bc063b31",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40325.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40298.svg"
+  },
+  {
+   "id": 125006,
+   "abbr": "SLV",
+   "name": "Slovan Bratislava",
+   "extra": {},
+   "shirtId": 40332,
+   "emblemId": 40305,
+   "sportyId": "6a91271edd0d6219bd063b23",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40332.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40305.svg"
+  },
+  {
+   "id": 125013,
+   "abbr": "BET",
+   "name": "Betis",
+   "extra": {},
+   "shirtId": 40336,
+   "emblemId": 40309,
+   "sportyId": "6a91271edd0d623a08063b32",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40336.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40309.svg"
+  },
+  {
+   "id": 124988,
+   "abbr": "MCI",
+   "name": "Manchester City",
+   "extra": {},
+   "shirtId": 40268,
+   "emblemId": 32611,
+   "sportyId": "6a91271edd0d62281a063b1b",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40268.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/32611.svg"
+  },
+  {
+   "id": 125003,
+   "abbr": "NAP",
+   "name": "Napoli",
+   "extra": {},
+   "shirtId": 40329,
+   "emblemId": 40302,
+   "sportyId": "6a91271edd0d62b9ea063b30",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40329.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40302.svg"
+  },
+  {
+   "id": 124989,
+   "abbr": "RBL",
+   "name": "RB Leipzig",
+   "extra": {},
+   "shirtId": 40318,
+   "emblemId": 40292,
+   "sportyId": "6a91271edd0d62407c063b1c",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40318.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40292.svg"
+  },
+  {
+   "id": 125011,
+   "abbr": "LEN",
+   "name": "Lens",
+   "extra": {},
+   "shirtId": 40335,
+   "emblemId": 40308,
+   "sportyId": "6a91271edd0d623a36063b2e",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40335.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40308.svg"
+  },
+  {
+   "id": 124984,
+   "abbr": "COM",
+   "name": "Como",
+   "extra": {},
+   "shirtId": 40314,
+   "emblemId": 40288,
+   "sportyId": "6a91271edd0d62f1a0063b17",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40314.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40288.svg"
+  },
+  {
+   "id": 125001,
+   "abbr": "AEK",
+   "name": "AEK",
+   "extra": {
+    "shortTeamName": "AEK"
+   },
+   "shirtId": 36665,
+   "emblemId": 36664,
+   "sportyId": "6a91271edd0d625525063b26",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/36665.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/36664.svg"
+  },
+  {
+   "id": 125005,
+   "abbr": "RMA",
+   "name": "Real Madrid",
+   "extra": {},
+   "shirtId": 40331,
+   "emblemId": 40304,
+   "sportyId": "6a91271edd0d6283b4063b21",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40331.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40304.svg"
+  },
+  {
+   "id": 124986,
+   "abbr": "PSV",
+   "name": "PSV",
+   "extra": {},
+   "shirtId": 40316,
+   "emblemId": 40290,
+   "sportyId": "6a91271edd0d62ab35063b19",
+   "shirtUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40316.svg",
+   "emblemUrl": "https://fantasy.assets.scoutgg.net/uploads/assets/40290.svg"
+  }
+ ],
+ "round": 5
+}

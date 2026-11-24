@@ -1,0 +1,346 @@
+﻿Tournament,PlayerID,Name,FName,Club,Lineup,Position,Price
+1170340,4721009,Rota,Lazaros,AEK,expected,defender,4
+1170340,4721010,Kaloskamis,Dimitrios,AEK,unexpected,midfielder,3.7
+1170340,4721011,Relvas,Filipe,AEK,expected,defender,3.8
+1170340,4721012,Balamotis,Marios,AEK,unexpected,goalkeeper,4.2
+1170340,4721013,Mantalos,Petros,AEK,expected,midfielder,4.7
+1170340,4721014,Moukoudi,Harold,AEK,expected,defender,3.9
+1170340,4721015,Marin,Răzvan,AEK,possible,midfielder,5.4
+1170340,4721017,Strakosha,Thomas,AEK,unexpected,goalkeeper,4.3
+1170340,4721018,Kairinen,Kaan,AEK,expected,midfielder,4.1
+1170340,4721020,Vida,Domagoj,AEK,unexpected,defender,3.6
+1170340,4721021,Pilios,Stavros,AEK,expected,defender,4.5
+1170340,4721022,Gacinovic,Mijat,AEK,expected,midfielder,5
+1170340,4721023,Brignoli,Alberto,AEK,expected,goalkeeper,4.4
+1170340,4721024,Vitális,Milán,AEK,unexpected,midfielder,4.6
+1170340,4721025,Lykogiannis,Charalampos,AEK,unexpected,defender,3.7
+1170340,4721026,Majer,Lovro,AEK,expected,midfielder,5.5
+1170340,4721027,Arriaga,Kervin,AEK,expected,midfielder,4.2
+1170340,4721030,Koita,Aboubakary,AEK,suspended,midfielder,5.8
+1170340,4721031,Zubkov,Oleksandr,AEK,injured,midfielder,4.9
+1170340,4721032,Zini,Zini,AEK,unexpected,forward,5.3
+1170340,4721034,Varga,Barnabás,AEK,possible,forward,5.1
+1170340,4721035,Jović,Luka,AEK,expected,forward,5.6
+1170340,4721036,Mosquera,Cristhian,ARS,unexpected,defender,11
+1170340,4721037,Guimarães,Bruno,ARS,unexpected,midfielder,11.1
+1170340,4721038,Rice,Declan,ARS,expected,midfielder,11.9
+1170340,4721039,Konsa,Ezri,ARS,expected,defender,11.4
+1170340,4721040,Saliba ,William,ARS,unexpected,defender,11.5
+1170340,4721041,Gabriel,,ARS,expected,defender,11.8
+1170340,4721042,Zubimendi,Martín,ARS,injured,midfielder,10.9
+1170340,4721043,Lewis-Skelly,Myles,ARS,possible,defender,11.1
+1170340,4721044,Raya,David,ARS,injured,goalkeeper,12
+1170340,4721045,Nwaneri,Ethan,BVB,possible,midfielder,4.2
+1170340,4721046,White,Ben,ARS,expected,defender,11.3
+1170340,4721047,Ødegaard ,Martin,ARS,expected,midfielder,12.6
+1170340,4721048,Hincapié,Piero,ARS,possible,defender,11.2
+1170340,4721049,Calafiori,Riccardo,ARS,expected,defender,11.6
+1170340,4721050,Arrizabalaga,Kepa,ARS,expected,goalkeeper,11.9
+1170340,4721051,Meslier,Illan,ARS,unexpected,goalkeeper,11.8
+1170340,4721054,Timber ,Jurriën,ARS,possible,defender,11.7
+1170340,4721055,Eze,Eberechi,ARS,expected,midfielder,12.8
+1170340,4721056,Merino,Mikel,ARS,expected,midfielder,11.2
+1170340,4721057,Madueke,Noni,ARS,expected,midfielder,12.4
+1170340,4721058,Saka,Bukayo,ARS,injured,midfielder,12.9
+1170340,4721060,Tzolis,Christos,ARS,unexpected,midfielder,11.5
+1170340,4721062,Havertz,Kai,ARS,expected,forward,12.1
+1170340,4721063,Gyökeres,Viktor,ARS,possible,forward,12.7
+1170340,4721164,Ezzalzouli,Abde,BET,expected,midfielder,14.4
+1170340,4721165,Fornals,Pablo,BET,possible,midfielder,13.6
+1170340,4721166,Bartra,Marc,BET,possible,defender,11.5
+1170340,4721167,Roca,Marc,BET,possible,midfielder,10.6
+1170340,4721168,Bernal,Facundo,BET,expected,midfielder,10.4
+1170340,4721169,F.García,Fran,BET,unexpected,defender,11
+1170340,4721170,Isco,Isco,BET,expected,midfielder,14.2
+1170340,4721171,Fidalgo,Álvaro,BET,unexpected,midfielder,10.3
+1170340,4721172,Gómez,Valentín,BET,expected,defender,10.6
+1170340,4721173,Conde ,Diego,BET,unexpected,goalkeeper,11.3
+1170340,4721174,Ortiz,Ángel,BET,expected,defender,10.7
+1170340,4721175,Riquelme,Rodrigo,BET,unexpected,midfielder,13.2
+1170340,4721176,Llorente,Diego,BET,expected,defender,10.4
+1170340,4721177,Natan,Natan,BET,expected,defender,10.8
+1170340,4721178,Valles,Álvaro,BET,expected,goalkeeper,11.4
+1170340,4721179,Bellerín,Héctor,BET,unexpected,defender,10.9
+1170340,4721180,Deossa,Nelson,BET,expected,midfielder,10.5
+1170340,4721181,Lo Celso,Giovani,BET,unexpected,midfielder,12.1
+1170340,4721182,Firpo,Junior,BET,unexpected,defender,10.5
+1170340,4721184,Antony,Antony,BET,expected,midfielder,13.8
+1170340,4721185,Losada,Iker,BET,unexpected,midfielder,11.9
+1170340,4721186,Ruibal,Aitor,BET,unexpected,midfielder,13.1
+1170340,4721188,Parrott,Troy,BET,expected,forward,13.7
+1170340,4721189,Hernández,Cucho,BET,unexpected,forward,13.4
+1170340,4721216,Sabitzer,Marcel,BVB,unexpected,midfielder,4.1
+1170340,4721217,Ostrzinski,Silas,BVB,unexpected,goalkeeper,4.7
+1170340,4721218,Svensson,Daniel,BVB,expected,defender,4.5
+1170340,4721219,Bensebaini,Ramy,BVB,expected,defender,4.3
+1170340,4721220,Meyer,Alexander,BVB,unexpected,goalkeeper,4.8
+1170340,4721221,Guirassy,Serhou,BVB,unexpected,forward,5.3
+1170340,4721222,Beier,Maximilian,BVB,possible,forward,4.8
+1170340,4721223,Mane,Filippo,BVB,unexpected,defender,3.8
+1170340,4721224,Bellingham,Jobe,BVB,expected,midfielder,4.3
+1170340,4721225,Silva,Fábio,BVB,expected,forward,5
+1170340,4721226,Veerman,Joey,BVB,expected,midfielder,4.4
+1170340,4721227,Karetsas,Konstantinos,BVB,expected,midfielder,4.7
+1170340,4721228,Prates,Kauã,BVB,unexpected,defender,3.9
+1170340,4721229,Nmecha,Felix,BVB,expected,midfielder,4.5
+1170340,4721230,Schlotterbeck ,Nico,BVB,expected,defender,4.1
+1170340,4721231,Inácio,Samuele,BVB,injured,midfielder,4.6
+1170340,4721232,Ryerson,Julian,BVB,expected,defender,4.6
+1170340,4721233,Anton,Waldemar,BVB,expected,defender,4.4
+1170340,4721234,Gadou,Joane,BVB,possible,defender,4.2
+1170340,4721235,Chukwuemeka,Carney,BVB,unexpected,midfielder,3.9
+1170340,4721237,Reggiani,Luca,BVB,unexpected,defender,4
+1170340,4721239,Kobel,Gregor,BVB,expected,goalkeeper,4.9
+1170340,4721267,Diao,Assane,COM,injured,midfielder,13.7
+1170340,4721268,Paz,Nico,COM,expected,midfielder,14.9
+1170340,4721269,Liberali,Mattia,COM,unexpected,midfielder,13.2
+1170340,4721271,Chalobah,Trevoh,COM,injured,defender,10.3
+1170340,4721273,Ramón,Jacobo,COM,expected,defender,11.3
+1170340,4721274,Dossena,Alberto,COM,unexpected,defender,10.1
+1170340,4721275,Butez,Jean,COM,expected,goalkeeper,11
+1170340,4721276,Kaiki,Kaiki,COM,unexpected,defender,10.4
+1170340,4721277,Da Cunha ,Lucas,COM,expected,midfielder,13.4
+1170340,4721278,Caqueret,Maxence,COM,expected,midfielder,12
+1170340,4721280,Perrone,Máximo,COM,expected,midfielder,13.5
+1170340,4721281,Couto,Yan,COM,expected,defender,10.7
+1170340,4721282,Smolcic,Ivan,COM,possible,defender,10.2
+1170340,4721284,Valle,Álex,COM,expected,defender,10.6
+1170340,4721286,Kempf,Marc Oliver ,COM,expected,defender,10.5
+1170340,4721287,Baturina,Martin,COM,possible,midfielder,13.9
+1170340,4721289,Milla,Luis,COM,expected,midfielder,10.4
+1170340,4721291,Rodríguez,Jesús,COM,injured,midfielder,12.5
+1170340,4721295,Douvikas,Anastasios,COM,expected,forward,14.7
+1170340,4721325,Moder ,Jakub,FEY,injured,midfielder,6.7
+1170340,4721326,Kraaijeveld,Thijs,FEY,expected,defender,6.8
+1170340,4721328,Nieuwkoop ,Bart,FEY,injured,defender,6.6
+1170340,4721329,Steijn,Sem,FEY,possible,midfielder,8.8
+1170340,4721330,Vanhoutte,Charles,FEY,expected,midfielder,6.9
+1170340,4721331,Ernst,Tjark,FEY,expected,goalkeeper,7.9
+1170340,4721333,van den Elshout,Tobias,FEY,unexpected,midfielder,7.8
+1170340,4721334,Mármol,Mika,FEY,expected,defender,7.3
+1170340,4721335,Watanabe ,Tsuyoshi,FEY,possible,defender,7.1
+1170340,4721336,Hadj Moussa,Anis,FEY,expected,midfielder,9.2
+1170340,4721337,St. Juste,Jeremiah,FEY,injured,defender,7.2
+1170340,4721338,Targhalline,Oussama,FEY,expected,midfielder,8.1
+1170340,4721339,López,Javi,FEY,expected,defender,7
+1170340,4721340,Borges,Gonçalo,FEY,unexpected,midfielder,8.3
+1170340,4721341,Bossin,Liam,FEY,unexpected,goalkeeper,7.8
+1170340,4721342,Valente ,Luciano,FEY,expected,midfielder,9.1
+1170340,4721343,Diarra,Gaoussou,FEY,possible,midfielder,8.5
+1170340,4721344,Bos ,Jordan,FEY,injured,defender,7.5
+1170340,4721346,Deijl,Mats,FEY,unexpected,defender,6.7
+1170340,4721347,Read,Givairo,FEY,expected,defender,7.4
+1170340,4721348,Zechiël,Gjivai,FEY,expected,midfielder,9
+1170340,4721349,Smal ,Gijs,FEY,injured,defender,6.9
+1170340,4721350,van Persie ,Shaqueel,FEY,unexpected,forward,8
+1170340,4721353,Ferri,Nacho,FEY,expected,forward,8.6
+1170340,4721430,Thauvin,Florian,LEN,expected,midfielder,7
+1170340,4721432,Aguilar,Ruben,LEN,expected,defender,4.9
+1170340,4721433,Baidoo ,Samson,LEN,expected,defender,4
+1170340,4721434,Cuisance,Michaël,LEN,expected,midfielder,4.5
+1170340,4721435,Gorgelin,Mathieu,LEN,unexpected,goalkeeper,4.7
+1170340,4721436,Haidara,Amadou,LEN,expected,midfielder,4.6
+1170340,4721437,Sima,Abdallah,LEN,injured,midfielder,6.6
+1170340,4721438,Gradit ,Jonathan,LEN,unexpected,defender,3.7
+1170340,4721439,Titraoui,Yassine,LEN,possible,midfielder,5.5
+1170340,4721440,Antonio,Kyllian,LEN,expected,defender,4.1
+1170340,4721442,Gurtner,Régis,LEN,unexpected,goalkeeper,4.6
+1170340,4721443,Abdulhamid,Saud,LEN,possible,defender,4.3
+1170340,4721444,Ganiou,Ismaëlo,LEN,injured,defender,4.2
+1170340,4721445,Risser,Robin,LEN,expected,goalkeeper,4.8
+1170340,4721446,Celik ,Nidal,LEN,unexpected,defender,3.6
+1170340,4721447,Hazard,Thorgan,LEN,expected,midfielder,6
+1170340,4721448,Bulatovic,Andrija,LEN,unexpected,midfielder,5.7
+1170340,4721449,Udol,Matthieu,LEN,expected,defender,4.4
+1170340,4721450,Skoras,Michal,LEN,expected,midfielder,6.2
+1170340,4721451,Édouard,Odsonne,LEN,injured,forward,6.7
+1170340,4721453,Ivanović,Franjo,LEN,expected,forward,6.5
+1170340,4721454,Sotoca,Florian,LEN,possible,forward,5.6
+1170340,4721509,Khusanov,Abdukodir,MCI,expected,defender,10.7
+1170340,4721510,Reis,Vitor,MCI,unexpected,defender,10.6
+1170340,4721511,Foden,Phil,MCI,expected,midfielder,14.7
+1170340,4721513,O'Reilly,Nico,MCI,possible,defender,11
+1170340,4721514,Anderson,Elliot,MCI,expected,midfielder,13.2
+1170340,4721515,Aït-Nouri,Rayan,MCI,unexpected,defender,10.8
+1170340,4721516,Lewis,Rico,MCI,unexpected,defender,10.9
+1170340,4721517,Nunes,Matheus,MCI,expected,defender,11.3
+1170340,4721519,Guéhi,Marc,MCI,expected,defender,11.2
+1170340,4721520,Rulli,Gerónimo,MCI,unexpected,goalkeeper,11.6
+1170340,4721521,Dias,Rúben,MCI,unexpected,defender,11.1
+1170340,4721522,Donnarumma,Gianluigi,MCI,expected,goalkeeper,11.7
+1170340,4721523,Gvardiol,Josko,MCI,expected,defender,11.4
+1170340,4721524,Kovacic,Mateo,MCI,unexpected,midfielder,10.7
+1170340,4721525,Bettinelli,Marcus,MCI,unexpected,goalkeeper,11.5
+1170340,4721528,Cherki,Rayan,MCI,expected,midfielder,14.5
+1170340,4721530,Semenyo,Antoine,MCI,injured,midfielder,14.3
+1170340,4721531,Bouaddi,Ayyoub,MCI,possible,midfielder,10.8
+1170340,4721532,Haaland,Erling,MCI,expected,forward,15.2
+1170340,4721533,Doku ,Jérémy,MCI,possible,midfielder,13.4
+1170340,4721565,Milinković-Savić,Vanja,NAP,expected,goalkeeper,4
+1170340,4721566,McTominay,Scott,NAP,expected,midfielder,5.2
+1170340,4721567,Rrahmani,Amir,NAP,expected,defender,3.6
+1170340,4721568,Beukema,Sam,NAP,expected,defender,3.1
+1170340,4721569,Olivera,Mathías,NAP,unexpected,defender,3.3
+1170340,4721570,Gilmour,Billy,NAP,expected,midfielder,3.3
+1170340,4721571,Spinazzola,Leonardo,NAP,injured,defender,3.5
+1170340,4721573,Di Lorenzo ,Giovanni,NAP,injured,defender,3.4
+1170340,4721574,Anguissa,Frank,NAP,expected,midfielder,3.1
+1170340,4721575,De Bruyne,Kevin,NAP,expected,midfielder,4.8
+1170340,4721576,Contini,Nikita,NAP,unexpected,goalkeeper,3.9
+1170340,4721577,Marín,Rafa,NAP,expected,defender,3.2
+1170340,4721578,Neres,David,NAP,unexpected,midfielder,4.2
+1170340,4721579,Lobotka,Stanislav,NAP,injured,midfielder,3.2
+1170340,4721580,Badiashile,Benoît,NAP,injured,defender,3
+1170340,4721581,Vergara,Antonio,NAP,injured,midfielder,4.3
+1170340,4721582,Meret,Alex,NAP,injured,goalkeeper,4.1
+1170340,4721584,Lang,Noa,NAP,expected,midfielder,4.1
+1170340,4721587,Politano,Matteo,NAP,expected,midfielder,4.7
+1170340,4721588,Santos,Alisson,NAP,injured,midfielder,4.4
+1170340,4721590,Lucca,Lorenzo,NAP,unexpected,forward,4
+1170340,4721591,Giovane,Giovane,NAP,possible,forward,4.5
+1170340,4721592,Højlund,Rasmus,NAP,expected,forward,4.9
+1170340,4721594,Sanusi,Zaidu,FCP,possible,defender,7.4
+1170340,4721595,Varela,Alan,FCP,unexpected,midfielder,8.6
+1170340,4721596,Veiga,Gabri,FCP,expected,midfielder,10
+1170340,4721597,Pérez,Nehuén,FCP,unexpected,defender,7.6
+1170340,4721598,Froholdt,Victor,FCP,expected,midfielder,9
+1170340,4721599,Bednarek,Jan,FCP,expected,defender,8
+1170340,4721600,Costa,Alberto,FCP,expected,defender,7.8
+1170340,4721601,Pietuszewski,Oskar,FCP,unexpected,midfielder,8.4
+1170340,4721602,Hwang,In-beom,FCP,unexpected,midfielder,7.5
+1170340,4721603,Sainz,Borja,FCP,expected,midfielder,9.4
+1170340,4721604,Rosario,Pablo,FCP,expected,midfielder,8.7
+1170340,4721605,Moura,Francisco,FCP,possible,defender,7.5
+1170340,4721606,Afonso,João,FCP,unexpected,goalkeeper,8
+1170340,4721607,Ramos,Cláudio,FCP,unexpected,goalkeeper,8.2
+1170340,4721608,Costa ,Diogo,FCP,expected,goalkeeper,8.3
+1170340,4721609,Fernandes,Martim,FCP,expected,defender,7.7
+1170340,4721611,Kiwior,Jakub,FCP,expected,defender,8.1
+1170340,4721613,Pepê,Pepê,FCP,expected,midfielder,9.6
+1170340,4721614,Gomes,William,FCP,injured,midfielder,9.3
+1170340,4721615,Fofana,Seko,FCP,unexpected,midfielder,7.4
+1170340,4721616,Silva,André,FCP,expected,forward,8.8
+1170340,4721617,Aghehowa ,Samu,FCP,possible,forward,10.1
+1170340,4721644,Smolenaars,Tijn,PSV,unexpected,goalkeeper,3.6
+1170340,4721645,Júnior,Mauro,PSV,expected,defender,3
+1170340,4721647,van Bommel,Ruben,PSV,expected,midfielder,5.5
+1170340,4721648,Olij,Nick,PSV,unexpected,goalkeeper,3.7
+1170340,4721650,Dest,Sergiño,PSV,expected,defender,3.3
+1170340,4721651,Geertruida,Lutsharel,PSV,expected,defender,2.9
+1170340,4721652,Obispo,Armando,PSV,expected,defender,3.1
+1170340,4721653,Sildillia,Kiliann,PSV,unexpected,defender,2.5
+1170340,4721654,Fernandez,Noah,PSV,unexpected,midfielder,4
+1170340,4721655,Flamingo,Ryan,PSV,unexpected,defender,2.6
+1170340,4721656,Gasiorowski,Yarek,PSV,possible,defender,2.7
+1170340,4721657,Til,Guus,PSV,expected,midfielder,6.3
+1170340,4721658,Kostic,Filip,PSV,expected,defender,2.8
+1170340,4721659,Wanner,Paul,PSV,unexpected,midfielder,5.3
+1170340,4721660,Sano,Kodai,PSV,expected,midfielder,4.5
+1170340,4721661,Kovar,Matej,PSV,expected,goalkeeper,3.8
+1170340,4721662,Perisic,Ivan,PSV,expected,midfielder,6.1
+1170340,4721663,Bajraktarevic,Esmir,PSV,possible,midfielder,5.6
+1170340,4721664,Man,Dennis,PSV,unexpected,midfielder,5.7
+1170340,4721666,Pepi,Ricardo,PSV,possible,forward,6
+1170340,4721667,Pléa,Alassane,PSV,unexpected,forward,4.9
+1170340,4721670,Mijnans,Sven,PSV,expected,midfielder,5.9
+1170340,4721672,Henrichs,Benjamin,RBL,unexpected,defender,9.2
+1170340,4721673,Gomis,Tidiam,RBL,possible,midfielder,12.1
+1170340,4721674,Estève,Maxime,RBL,unexpected,defender,9.3
+1170340,4721676,Maksimovic,Andrija,RBL,unexpected,midfielder,12
+1170340,4721677,Reitz,Rocco,RBL,unexpected,midfielder,11.4
+1170340,4721678,Raum,David,RBL,expected,defender,9.6
+1170340,4721679,Klostermann,Lukas,RBL,unexpected,defender,9
+1170340,4721680,Orbán,Willi,RBL,expected,defender,9.5
+1170340,4721681,Baumgartner,Christoph,RBL,expected,midfielder,13.8
+1170340,4721683,Ouédraogo,Assan,RBL,injured,midfielder,12.5
+1170340,4721684,Baku,Ridle,RBL,expected,defender,9.8
+1170340,4721686,Seiwald,Nicolas,RBL,unexpected,midfielder,9.3
+1170340,4721688,Finkgräfe,Max,RBL,injured,defender,9.1
+1170340,4721689,Nyland,Ørjan,RBL,unexpected,goalkeeper,9.7
+1170340,4721690,Vandevoordt,Maarten,RBL,expected,goalkeeper,9.9
+1170340,4721691,Nusa,Antonio,RBL,expected,midfielder,13.4
+1170340,4721692,Lukeba,Castello,RBL,expected,defender,9.4
+1170340,4721693,Gruda,Brajan,RBL,expected,midfielder,13.6
+1170340,4721694,Banzuzi,Ezechiel,RBL,expected,midfielder,9.2
+1170340,4721696,Bakayoko,Johan,RBL,unexpected,midfielder,12.8
+1170340,4721697,Rômulo,Rômulo,RBL,expected,forward,13
+1170340,4721699,Nkunku,Christopher,RBL,possible,forward,13.7
+1170340,4721700,Rüdiger,Antonio,RMA,possible,defender,8.9
+1170340,4721701,Carreras,Álvaro,RMA,unexpected,defender,8.6
+1170340,4721702,Lunin,Andriy,RMA,unexpected,goalkeeper,9.4
+1170340,4721703,Courtois,Thibaut,RMA,expected,goalkeeper,9.5
+1170340,4721704,Militão ,Éder,RMA,possible,defender,8.5
+1170340,4721705,Huijsen,Dean,RMA,expected,defender,8.7
+1170340,4721706,Asencio ,Raúl,RMA,injured,defender,8.4
+1170340,4721708,Rodrygo,Rodrygo,RMA,injured,midfielder,13.1
+1170340,4721709,Cucurella,Marc,RMA,expected,defender,9.3
+1170340,4721710,Konaté,Ibrahima,RMA,expected,defender,8.8
+1170340,4721711,Valverde ,Federico,RMA,expected,midfielder,13.9
+1170340,4721712,Alexander-Arnold,Trent,RMA,unexpected,defender,9
+1170340,4721713,Güler,Arda,RMA,expected,midfielder,14.8
+1170340,4721714,Camavinga,Eduardo,RMA,expected,midfielder,8.4
+1170340,4721716,Dumfries,Denzel,RMA,expected,defender,9.2
+1170340,4721717,Tchouaméni,Aurélien,RMA,possible,midfielder,8.5
+1170340,4721718,Bellingham,Jude,RMA,expected,midfielder,15
+1170340,4721719,Vinicius Junior,Vinicius Junior,RMA,expected,midfielder,14.3
+1170340,4721720,Pitarch ,Thiago,RMA,unexpected,midfielder,8.3
+1170340,4721721,Díaz,Brahim,RMA,unexpected,midfielder,14
+1170340,4721722,Silva,Bernardo,RMA,possible,midfielder,12.6
+1170340,4721723,Diomande,Yan,RMA,possible,midfielder,14.6
+1170340,4721724,Espí,Carlos,RMA,unexpected,forward,13.5
+1170340,4721725,Mbappé ,Kylian,RMA,expected,forward,15.5
+1170340,4721726,Endrick,Endrick,RMA,injured,forward,14.1
+1170340,4721727,El Aynaoui,Neil,RBL,expected,midfielder,12.2
+1170340,4721839,Popovic,Aleksandar,SLV,expected,goalkeeper,4.2
+1170340,4721840,Ibrahim,Rahim,SLV,possible,midfielder,4.4
+1170340,4721841,Martínez,Cristian,SLV,expected,midfielder,3.9
+1170340,4721842,Marcelli,Nino,SLV,expected,midfielder,5
+1170340,4721843,Pokorný,Peter,SLV,unexpected,midfielder,4
+1170340,4721844,Kozlovsky,Samuel,SLV,expected,defender,3.3
+1170340,4721845,Wimmer,Kevin,SLV,expected,defender,3.2
+1170340,4721846,Bajric,Kenan,SLV,unexpected,defender,3.5
+1170340,4721847,Gajdos,Artur,SLV,injured,midfielder,4.5
+1170340,4721848,Markovic,Svetozar,SLV,expected,defender,3.6
+1170340,4721849,Ignatenko,Danylo,SLV,unexpected,midfielder,3.3
+1170340,4721850,Macik,Matus,SLV,unexpected,goalkeeper,4.1
+1170340,4721851,Mustafic,Alen,SLV,expected,midfielder,4.2
+1170340,4721852,Takac,Dominik,SLV,unexpected,goalkeeper,4.3
+1170340,4721853,Matsuoka,Daiki,SLV,unexpected,midfielder,3.5
+1170340,4721854,Blackman,César,SLV,expected,defender,3.8
+1170340,4721855,Cruz,Sandro,SLV,unexpected,defender,3.7
+1170340,4721856,Yirajang,Alasana,SLV,unexpected,midfielder,4.9
+1170340,4721857,Barseghyan,Tigran,SLV,expected,midfielder,5.3
+1170340,4721858,Maros,Alexej,SLV,possible,midfielder,4.6
+1170340,4721859,Su.Camara,Suleiman,SLV,injured,midfielder,5.4
+1170340,4721862,Cerepkai,Roman,SLV,unexpected,forward,4.7
+1170340,4721864,Šporar,Andraz,SLV,expected,forward,5.1
+1170340,4722566,Ricci,Samuele,COM,possible,midfielder,10.2
+1170340,4725121,Allan,Allan,MCI,unexpected,midfielder,12.5
+1170340,4725122,Gimenez ,Santiago,FCP,unexpected,forward,9.2
+1170340,4725123,Souza,Souza,FCP,unexpected,defender,7.3
+1170340,4725124,Kadile,Junior,LEN,unexpected,midfielder,5.9
+1170340,4725125,Guiu,Marc,RBL,injured,forward,12.6
+1170340,4725128,Todibo,Jean-Clair,LEN,possible,defender,3.8
+1170340,4725129,Kean,Moise,COM,injured,forward,12.9
+1170340,4725130,Sánchez,Robert,COM,unexpected,goalkeeper,10.9
+1170340,4725132,Ndiaye,Iliman,MCI,expected,midfielder,13.9
+1170340,4725133,Fernández,Enzo,MCI,expected,midfielder,13.7
+1170340,4725134,Ceballos,Dani,BET,injured,midfielder,12.3
+1170340,4725377,Kastenmeier,Florian,FEY,unexpected,goalkeeper,7.7
+1170340,4725378,Nelson,Reiss,FEY,unexpected,midfielder,7.7
+1170340,4725382,Sa.Camara,Sahmkou,SLV,expected,defender,3.4
+1170340,4725450,Santos,Ayoni,PSV,unexpected,midfielder,5
+1170340,4725451,Ouaissa,Sami,PSV,injured,midfielder,5.1
+1170340,4725452,Lammers,Sam,PSV,unexpected,forward,5.4
+1170340,4725943,Mário,João,AEK,injured,midfielder,4.8
+1170340,4725946,Sagnan,Souleymane,LEN,unexpected,defender,3.9
+1170340,4725947,Favasuli,Constantino,NAP,unexpected,defender,2.9
+1170340,4729296,Wessels,Tijme,FEY,unexpected,defender,6.5
+1170340,4731044,Mesloub,Mezian,LEN,unexpected,midfielder,6.4
+1170340,4741583,Schaken,Jerayno,FEY,unexpected,midfielder,6.8
+1170340,4744265,Samba,Floyd,MCI,unexpected,forward,11.9
+1170340,4744673,Braithwaite,Kaden,MCI,unexpected,defender,10.5
+1170340,4749829,Tomanek,Robert,SLV,unexpected,defender,3.1
+1170340,4749831,Hofstädter,Leo,SLV,unexpected,midfielder,3.6
+1170340,4751777,Papaccioli,Matteo,COM,unexpected,midfielder,10.3
+1170340,4751851,Morante,José Antonio ,BET,injured,forward,11.6
