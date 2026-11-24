@@ -1,5 +1,14 @@
 # Log (newest first)
 
+## 2026-11-24 Stage 1 done: first pool run
+- Owner sent contest 1170340 (Tuesday Main Event GW5). Overview screen saved: `data/manual/contest_1170340_screen.md`.
+- `pool` Action via `requests/pool.txt`: clean. 345 players, contest JSON saved, row in `data/ref/contests.csv`.
+- Rules from JSON (confirmed for this contest): budget 121, max 3 per club, captain 2x, safety net "team", subs at start
+  of match, clean-sheet stack penalty on, 15 entries per user, 172 entrants at pull time, rule version 13. Written to METHOD.md.
+- The contest covers only the 7 games at 20:00 UTC (not the 17:45 games). It includes Porto @ Feyenoord, which had no player props.
+- Privacy check of the saved JSON: standings rows hold only rank, score, payout. No user names or ids elsewhere.
+- Lineup column today: 154 expected, 41 possible, 111 unexpected, 38 injured, 1 suspended.
+
 ## 2026-11-24 Stage 1: fetching built
 - Owner decision: raw bookmaker prices may be committed (option A). Review at stage 4.
 - Copied from `ryanxib/epl.dfs` commit `efa3cb9cdb1f31e21031b5c1a0e278d77de50dca`, adapted:

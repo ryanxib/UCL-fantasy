@@ -10,6 +10,16 @@
 confirmed for EPL). Confirm against the first UCL contest's rules JSON before trusting it here.
 Per contest, always read from the rules JSON: budget, max per club, captain multiplier, safety net.
 
+### Seen in contest JSON (CONFIRMED for that contest)
+| Contest | Matches | Budget | Max/club | Captain | Safety net | Subs timing | CS stack penalty | Entries/user | Prize ratio | Rule version |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1170340 Tuesday Main Event GW5 (24 Nov, 20:00 UTC games only) | 7 | 121 | 3 | 2.0x | team | start of match | on (1) | 15 | 17 | 13 |
+Rule version 13 is the same number as the EPL contests (`epl.dfs` data/ref/fanteam_api.md). That points to the same
+scoring, but the JSON does not list points per event: scoring stays TBC until the Rules tab is checked.
+Pool CSV for UCL: Tournament, PlayerID, Name, FName, Club (3-letter code), Lineup (expected / possible / unexpected /
+injured / suspended), Position (goalkeeper / defender / midfielder / forward), Price. Club codes for GW5: AEK ARS BET BVB
+COM FCP FEY LEN MCI NAP PSV RBL RMA SLV.
+
 ### Scoring (EPL, confirmed there; TBC for UCL)
 | Event | GK | DEF | MID | FWD |
 |---|---|---|---|---|
