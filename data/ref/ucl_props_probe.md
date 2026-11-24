@@ -1,0 +1,183 @@
+# UCL Odds API probe
+Sport keys matching: [('soccer_efl_champ', 'Championship', True), ('soccer_uefa_champs_league', 'UEFA Champions League', True), ('soccer_uefa_champs_league_qualification', 'UEFA Champions League Qualification', False), ('soccer_uefa_champs_league_women', 'UEFA Champions League Women', False), ('soccer_uefa_european_championship', 'UEFA Euro', False)]
+Events listed: 18 (credits left 18764)
+- 2026-11-24T17:45:00Z Aston Villa @ Galatasaray id=e422af92d1fc06c0a330838c1c2f2e08
+- 2026-11-24T17:45:00Z LASK @ Bodø/Glimt id=50b80f3ebd38bf63663b11ae0afc575b
+- 2026-11-24T20:00:00Z AEK Athens @ Como id=ba719e378ac366262013bdb51a06aa6f
+- 2026-11-24T20:00:00Z Borussia Dortmund @ Arsenal id=aee4e3c225603397ab52de3d066b566b
+- 2026-11-24T20:00:00Z Porto @ Feyenoord id=9a2ebad454db4ab3d53b89e96c79847a
+- 2026-11-24T20:00:00Z Napoli @ Manchester City id=b9f00a4d399ec661e733857c9d5fb2dc
+- 2026-11-24T20:00:00Z PSV Eindhoven @ Real Madrid id=3fb5e4a792cf34a0459efcb79a11a785
+- 2026-11-24T20:00:00Z RC Lens @ RB Leipzig id=aea973c122c91837c15e066c757c747f
+- 2026-11-24T20:00:00Z Real Betis @ ŠK Slovan Bratislava id=8e93849b4c1ccbf1c207836d5c470150
+- 2026-11-25T17:45:00Z Barcelona @ Sabah FK id=e6fa007f93e0cef004be920f96ee95ba
+- 2026-11-25T17:45:00Z Villarreal @ Slavia Praha id=a7c87fac9e9cbcfc02ad0e0b29ca89e2
+- 2026-11-25T20:00:00Z AS Roma @ Paris Saint Germain id=14007bc0605bce3bd164b132254ba24c
+- 2026-11-25T20:00:00Z Viking FK @ Atlético Madrid id=b1af6789fe6db7aab18a2945ce56f035
+- 2026-11-25T20:00:00Z Bayern Munich @ Lille id=0ee2cfddf20153779cd2cc3e1f1f879f
+- 2026-11-25T20:00:00Z Liverpool @ Club Brugge id=99459b90f3e732106e09585bf94b36b4
+- 2026-11-25T20:00:00Z Fenerbahce @ Shakhtar Donetsk id=49c66d76bc4085e63a181179cc47ef4d
+- 2026-11-25T20:00:00Z VfB Stuttgart @ Inter Milan id=e7e64568f6af00d395a3fdfc27de8ae3
+- 2026-11-25T20:00:00Z Manchester United @ Sporting Lisbon id=01a61442fe04f8751b62eb251f234079
+
+## Markets for Aston Villa @ Galatasaray (2026-11-24T17:45:00Z) credits left 18763
+- alternate_spreads: 6 books: betrivers, coolbet, draftkings, fanduel, onexbet, pinnacle
+- alternate_spreads_cards: 2 books: draftkings, pinnacle
+- alternate_spreads_corners: 2 books: draftkings, pinnacle
+- alternate_spreads_h1: 2 books: onexbet, pinnacle
+- alternate_spreads_h2: 1 books: onexbet
+- alternate_team_totals: 4 books: betrivers, betway, draftkings, fanduel
+- alternate_team_totals_corners: 5 books: betrivers, betway, draftkings, fanduel, pinnacle
+- alternate_team_totals_h1: 2 books: betway, fanduel
+- alternate_totals: 14 books: betrivers, betway, codere_it, coolbet, coral, draftkings, fanduel, ladbrokes_uk, leovegas, livescorebet, onexbet, pinnacle, virginbet, williamhill
+- alternate_totals_cards: 3 books: betway, draftkings, pinnacle
+- alternate_totals_corners: 6 books: betrivers, betway, draftkings, fanduel, leovegas, pinnacle
+- alternate_totals_corners_h1: 4 books: betrivers, betway, draftkings, fanduel
+- alternate_totals_h1: 8 books: betrivers, betway, fanduel, leovegas, livescorebet, onexbet, pinnacle, virginbet
+- alternate_totals_h2: 3 books: betrivers, leovegas, onexbet
+- btts: 16 books: betfair_sb_uk, betfred_uk, betmgm, betrivers, betway, coral, draftkings, fanduel, ladbrokes_uk, leovegas, livescorebet, matchbook, onexbet, pinnacle, virginbet, williamhill
+- btts_h1: 5 books: betrivers, betway, fanduel, onexbet, pinnacle
+- btts_h2: 2 books: betrivers, onexbet
+- corners_1x2: 4 books: betrivers, betway, draftkings, fanduel
+- correct_score: 3 books: betrivers, betway, pinnacle
+- correct_score_h1: 3 books: betrivers, betway, pinnacle
+- double_chance: 12 books: betfair_sb_uk, betrivers, betway, codere_it, draftkings, fanduel, livescorebet, marathonbet, onexbet, pinnacle, virginbet, williamhill
+- double_chance_h1: 4 books: betrivers, betway, onexbet, pinnacle
+- double_chance_h2: 2 books: betrivers, onexbet
+- draw_no_bet: 10 books: betfair_sb_uk, betrivers, betway, coral, draftkings, fanduel, ladbrokes_uk, livescorebet, pinnacle, virginbet
+- draw_no_bet_h1: 2 books: betway, pinnacle
+- h2h: 48 books: betanysports, betclic_fr, betfair_ex_eu, betfair_ex_uk, betfair_sb_uk, betfred_uk, betmgm, betonlineag, betrivers, betsson, betus, betvictor, betway, bovada, boylesports, casumo, codere_it, coolbet, coral, draftkings, fanatics, fanduel, grosvenor, gtbets, ladbrokes_uk, leovegas, leovegas_se, livescorebet, lowvig, marathonbet, matchbook, mybookieag, nordicbet, onexbet, paddypower, pinnacle, pmu_fr, skybet, smarkets, sport888, unibet_fr, unibet_nl, unibet_se, unibet_uk, virginbet, williamhill, winamax_de, winamax_fr
+- h2h_3_way: 48 books: betanysports, betclic_fr, betfair_ex_eu, betfair_ex_uk, betfair_sb_uk, betfred_uk, betmgm, betonlineag, betrivers, betsson, betus, betvictor, betway, bovada, boylesports, casumo, codere_it, coolbet, coral, draftkings, fanatics, fanduel, grosvenor, gtbets, ladbrokes_uk, leovegas, leovegas_se, livescorebet, lowvig, marathonbet, matchbook, mybookieag, nordicbet, onexbet, paddypower, pinnacle, pmu_fr, skybet, smarkets, sport888, unibet_fr, unibet_nl, unibet_se, unibet_uk, virginbet, williamhill, winamax_de, winamax_fr
+- h2h_3_way_h1: 3 books: betway, onexbet, pinnacle
+- h2h_3_way_h2: 1 books: onexbet
+- h2h_3_way_lay: 4 books: betfair_ex_eu, betfair_ex_uk, matchbook, smarkets
+- h2h_h1: 7 books: betrivers, coral, draftkings, fanduel, gtbets, ladbrokes_uk, pinnacle
+- h2h_h2: 2 books: betrivers, draftkings
+- h2h_lay: 4 books: betfair_ex_eu, betfair_ex_uk, matchbook, smarkets
+- halftime_fulltime: 3 books: betrivers, betway, fanduel
+- odd_even: 2 books: betway, pinnacle
+- odd_even_h1: 2 books: betway, pinnacle
+- player_assists: 1 books: fanduel
+- player_assists_alternate: 2 books: betrivers, betway
+- player_first_goal_scorer: 5 books: betrivers, betway, draftkings, fanduel, onexbet
+- player_fouls: 1 books: draftkings
+- player_fouls_alternate: 1 books: betway
+- player_goal_scorer_anytime: 5 books: betrivers, betway, draftkings, fanduel, onexbet
+- player_goalie_saves_alternate: 2 books: draftkings, onexbet
+- player_goals_alternate: 5 books: betrivers, betway, draftkings, fanduel, onexbet
+- player_last_goal_scorer: 3 books: betway, draftkings, onexbet
+- player_shots: 3 books: betrivers, fanduel, onexbet
+- player_shots_alternate: 2 books: betway, draftkings
+- player_shots_on_target: 3 books: betrivers, fanduel, onexbet
+- player_shots_on_target_alternate: 2 books: betway, draftkings
+- player_tackles_alternate: 1 books: draftkings
+- player_to_receive_card: 2 books: betway, draftkings
+- player_to_receive_red_card: 1 books: draftkings
+- player_to_score_or_assist: 2 books: betway, fanduel
+- spreads: 13 books: betanysports, betonlineag, betus, bovada, coolbet, fanduel, gtbets, lowvig, marathonbet, matchbook, mybookieag, onexbet, pinnacle
+- spreads_h1: 3 books: betrivers, gtbets, pinnacle
+- team_totals: 1 books: fanduel
+- team_totals_h1: 2 books: betrivers, fanduel
+- totals: 24 books: betanysports, betmgm, betonlineag, betrivers, betsson, betus, bovada, casumo, codere_it, coolbet, grosvenor, gtbets, leovegas, leovegas_se, lowvig, marathonbet, mybookieag, nordicbet, onexbet, pinnacle, pmu_fr, unibet_nl, unibet_se, williamhill
+- totals_h1: 4 books: fanduel, gtbets, leovegas, pinnacle
+- totals_h2: 1 books: leovegas
+
+### Player market depth (credits left 18712)
+- player_assists: 24 players, books=['fanduel'], outcome types=['Over'], lines=[0.5]
+- player_assists_alternate: 33 players, books=['betrivers', 'betway'], outcome types=['Over'], lines=[0.5]
+- player_first_goal_scorer: 36 players, books=['betrivers', 'betway', 'draftkings', 'fanduel', 'onexbet'], outcome types=['Yes'], lines=[]
+- player_fouls: 37 players, books=['draftkings'], outcome types=['Over'], lines=[0.5, 1.5]
+- player_fouls_alternate: 29 players, books=['betway'], outcome types=['Over'], lines=[0.5, 1.5, 2.5, 3.5, 4.5]
+- player_goal_scorer_anytime: 36 players, books=['betrivers', 'betway', 'draftkings', 'fanduel', 'onexbet'], outcome types=['Yes'], lines=[]
+- player_goalie_saves_alternate: 4 players, books=['draftkings', 'onexbet'], outcome types=['Over'], lines=[1.5, 2.5, 3.5, 4.5, 5.5, 6.5]
+- player_goals_alternate: 35 players, books=['betrivers', 'betway', 'draftkings', 'fanduel', 'onexbet'], outcome types=['Over'], lines=[1.5, 2.5, 3.5]
+- player_last_goal_scorer: 35 players, books=['betway', 'draftkings', 'onexbet'], outcome types=['Yes'], lines=[]
+- player_shots: 35 players, books=['betrivers', 'fanduel', 'onexbet'], outcome types=['Over'], lines=[0.5, 1.5, 2.5, 3.5, 4.5, 5.5, 6.5, 7.5]
+- player_shots_alternate: 35 players, books=['betway', 'draftkings'], outcome types=['Over'], lines=[0.5, 1.5, 2.5, 3.5, 4.5, 5.5, 6.5, 7.5]
+- player_shots_on_target: 35 players, books=['betrivers', 'fanduel', 'onexbet'], outcome types=['Over'], lines=[0.5, 1.5, 2.5, 3.5]
+- player_shots_on_target_alternate: 35 players, books=['betway', 'draftkings'], outcome types=['Over'], lines=[0.5, 1.5, 2.5, 3.5]
+- player_tackles_alternate: 33 players, books=['draftkings'], outcome types=['Over'], lines=[0.5, 1.5, 2.5, 3.5, 4.5, 5.5, 6.5, 7.5]
+- player_to_receive_card: 39 players, books=['betway', 'draftkings'], outcome types=['Yes'], lines=[]
+- player_to_receive_red_card: 37 players, books=['draftkings'], outcome types=['Yes'], lines=[]
+- player_to_score_or_assist: 34 players, books=['betway', 'fanduel'], outcome types=['Yes'], lines=[]
+
+## Markets for LASK @ Bodø/Glimt (2026-11-24T17:45:00Z) credits left 18711
+- alternate_spreads: 6 books: betrivers, coolbet, draftkings, fanduel, onexbet, pinnacle
+- alternate_spreads_cards: 2 books: draftkings, pinnacle
+- alternate_spreads_corners: 3 books: draftkings, mybookieag, pinnacle
+- alternate_spreads_h1: 2 books: onexbet, pinnacle
+- alternate_spreads_h2: 1 books: onexbet
+- alternate_team_totals: 4 books: betrivers, betway, draftkings, fanduel
+- alternate_team_totals_corners: 5 books: betrivers, betway, draftkings, fanduel, pinnacle
+- alternate_team_totals_h1: 2 books: betway, fanduel
+- alternate_totals: 12 books: betrivers, betway, codere_it, coolbet, coral, draftkings, fanduel, ladbrokes_uk, leovegas, onexbet, pinnacle, williamhill
+- alternate_totals_cards: 4 books: betway, draftkings, mybookieag, pinnacle
+- alternate_totals_corners: 7 books: betrivers, betway, draftkings, fanduel, leovegas, mybookieag, pinnacle
+- alternate_totals_corners_h1: 5 books: betrivers, betway, draftkings, fanduel, mybookieag
+- alternate_totals_h1: 8 books: betrivers, betway, fanduel, leovegas, livescorebet, onexbet, pinnacle, virginbet
+- alternate_totals_h2: 3 books: betrivers, leovegas, onexbet
+- btts: 16 books: betfred_uk, betmgm, betrivers, betway, coral, draftkings, fanduel, ladbrokes_uk, leovegas, livescorebet, matchbook, mybookieag, onexbet, pinnacle, virginbet, williamhill
+- btts_h1: 5 books: betrivers, betway, fanduel, onexbet, pinnacle
+- btts_h2: 2 books: betrivers, onexbet
+- corners_1x2: 4 books: betrivers, betway, draftkings, fanduel
+- correct_score: 4 books: betrivers, betway, mybookieag, pinnacle
+- correct_score_h1: 3 books: betrivers, betway, pinnacle
+- double_chance: 12 books: betrivers, betway, codere_it, draftkings, fanduel, livescorebet, marathonbet, mybookieag, onexbet, pinnacle, virginbet, williamhill
+- double_chance_h1: 5 books: betrivers, betway, mybookieag, onexbet, pinnacle
+- double_chance_h2: 2 books: betrivers, onexbet
+- draw_no_bet: 10 books: betrivers, betway, coral, draftkings, fanduel, ladbrokes_uk, livescorebet, mybookieag, pinnacle, virginbet
+- draw_no_bet_h1: 3 books: betway, mybookieag, pinnacle
+- h2h: 48 books: betanysports, betclic_fr, betfair_ex_eu, betfair_ex_uk, betfred_uk, betmgm, betonlineag, betrivers, betsson, betus, betvictor, betway, bovada, boylesports, casumo, codere_it, coolbet, coral, draftkings, fanatics, fanduel, grosvenor, gtbets, ladbrokes_uk, leovegas, leovegas_se, livescorebet, lowvig, marathonbet, matchbook, mybookieag, nordicbet, onexbet, paddypower, pinnacle, pmu_fr, skybet, smarkets, sport888, unibet_fr, unibet_nl, unibet_se, unibet_uk, virginbet, williamhill, williamhill_us, winamax_de, winamax_fr
+- h2h_3_way: 48 books: betanysports, betclic_fr, betfair_ex_eu, betfair_ex_uk, betfred_uk, betmgm, betonlineag, betrivers, betsson, betus, betvictor, betway, bovada, boylesports, casumo, codere_it, coolbet, coral, draftkings, fanatics, fanduel, grosvenor, gtbets, ladbrokes_uk, leovegas, leovegas_se, livescorebet, lowvig, marathonbet, matchbook, mybookieag, nordicbet, onexbet, paddypower, pinnacle, pmu_fr, skybet, smarkets, sport888, unibet_fr, unibet_nl, unibet_se, unibet_uk, virginbet, williamhill, williamhill_us, winamax_de, winamax_fr
+- h2h_3_way_h1: 3 books: betway, onexbet, pinnacle
+- h2h_3_way_h2: 2 books: mybookieag, onexbet
+- h2h_3_way_lay: 4 books: betfair_ex_eu, betfair_ex_uk, matchbook, smarkets
+- h2h_h1: 7 books: betrivers, coral, draftkings, fanduel, gtbets, ladbrokes_uk, pinnacle
+- h2h_h2: 2 books: betrivers, draftkings
+- h2h_lay: 4 books: betfair_ex_eu, betfair_ex_uk, matchbook, smarkets
+- halftime_fulltime: 4 books: betrivers, betway, fanduel, mybookieag
+- odd_even: 2 books: betway, pinnacle
+- odd_even_h1: 2 books: betway, pinnacle
+- player_assists: 1 books: fanduel
+- player_assists_alternate: 2 books: betrivers, betway
+- player_first_goal_scorer: 6 books: betrivers, betway, draftkings, fanduel, mybookieag, onexbet
+- player_fouls: 1 books: draftkings
+- player_fouls_alternate: 1 books: betway
+- player_goal_scorer_anytime: 6 books: betrivers, betway, draftkings, fanduel, mybookieag, onexbet
+- player_goalie_saves_alternate: 2 books: draftkings, onexbet
+- player_goals_alternate: 5 books: betrivers, betway, draftkings, fanduel, onexbet
+- player_last_goal_scorer: 4 books: betway, draftkings, mybookieag, onexbet
+- player_shots: 3 books: betrivers, fanduel, onexbet
+- player_shots_alternate: 2 books: betway, draftkings
+- player_shots_on_target: 3 books: betrivers, fanduel, onexbet
+- player_shots_on_target_alternate: 2 books: betway, draftkings
+- player_tackles_alternate: 1 books: draftkings
+- player_to_receive_card: 2 books: betway, draftkings
+- player_to_receive_red_card: 1 books: draftkings
+- player_to_score_or_assist: 2 books: betway, fanduel
+- spreads: 13 books: betanysports, betonlineag, betus, bovada, coolbet, fanduel, gtbets, lowvig, marathonbet, matchbook, mybookieag, onexbet, pinnacle
+- spreads_h1: 4 books: betrivers, gtbets, mybookieag, pinnacle
+- team_totals: 2 books: fanduel, mybookieag
+- team_totals_h1: 3 books: betrivers, fanduel, mybookieag
+- totals: 25 books: betanysports, betmgm, betonlineag, betrivers, betsson, betus, bovada, casumo, codere_it, coolbet, fanduel, grosvenor, gtbets, leovegas, leovegas_se, lowvig, marathonbet, mybookieag, nordicbet, onexbet, pinnacle, pmu_fr, unibet_nl, unibet_se, williamhill
+- totals_h1: 4 books: fanduel, gtbets, leovegas, pinnacle
+- totals_h2: 1 books: leovegas
+
+### Player market depth (credits left 18660)
+- player_assists: 34 players, books=['fanduel'], outcome types=['Over'], lines=[0.5]
+- player_assists_alternate: 33 players, books=['betrivers', 'betway'], outcome types=['Over'], lines=[0.5]
+- player_first_goal_scorer: 42 players, books=['betrivers', 'betway', 'draftkings', 'fanduel', 'mybookieag', 'onexbet'], outcome types=['Yes'], lines=[]
+- player_fouls: 36 players, books=['draftkings'], outcome types=['Over'], lines=[0.5, 1.5]
+- player_fouls_alternate: 30 players, books=['betway'], outcome types=['Over'], lines=[0.5, 1.5, 2.5, 3.5, 4.5]
+- player_goal_scorer_anytime: 42 players, books=['betrivers', 'betway', 'draftkings', 'fanduel', 'mybookieag', 'onexbet'], outcome types=['Yes'], lines=[]
+- player_goalie_saves_alternate: 3 players, books=['draftkings', 'onexbet'], outcome types=['Over'], lines=[0.5, 1.5, 2.5, 3.5, 4.5, 5.5]
+- player_goals_alternate: 42 players, books=['betrivers', 'betway', 'draftkings', 'fanduel', 'onexbet'], outcome types=['Over'], lines=[1.5, 2.5, 3.5]
+- player_last_goal_scorer: 42 players, books=['betway', 'draftkings', 'mybookieag', 'onexbet'], outcome types=['Yes'], lines=[]
+- player_shots: 37 players, books=['betrivers', 'fanduel', 'onexbet'], outcome types=['Over'], lines=[0.5, 1.5, 2.5, 3.5, 4.5, 5.5, 6.5, 7.5]
+- player_shots_alternate: 35 players, books=['betway', 'draftkings'], outcome types=['Over'], lines=[0.5, 1.5, 2.5, 3.5, 4.5, 5.5, 6.5, 7.5]
+- player_shots_on_target: 37 players, books=['betrivers', 'fanduel', 'onexbet'], outcome types=['Over'], lines=[0.5, 1.5, 2.5, 3.5, 4.5]
+- player_shots_on_target_alternate: 35 players, books=['betway', 'draftkings'], outcome types=['Over'], lines=[0.5, 1.5, 2.5, 3.5, 4.5]
+- player_tackles_alternate: 34 players, books=['draftkings'], outcome types=['Over'], lines=[0.5, 1.5, 2.5, 3.5, 4.5, 5.5, 6.5]
+- player_to_receive_card: 40 players, books=['betway', 'draftkings'], outcome types=['Yes'], lines=[]
+- player_to_receive_red_card: 40 players, books=['draftkings'], outcome types=['Yes'], lines=[]
+- player_to_score_or_assist: 36 players, books=['betway', 'fanduel'], outcome types=['Yes'], lines=[]
