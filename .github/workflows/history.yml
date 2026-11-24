@@ -1,0 +1,47 @@
+name: history
+# FanTeam points per player for past UCL matchdays (scan for contest ids, then pull pools) + web stats sources probe.
+# Run: commit args to requests/history.txt (first line: START END STEP FINE GWS), or Actions -> history -> Run workflow.
+# Output: data/ref/scan/ucl_scan_*.csv, data/clean/points/ucl_points_md*.csv + ucl_points_report.md, data/ref/web_sources_probe.md
+on:
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "START END STEP FINE GWS"
+        required: true
+  push:
+    branches: [main]
+    paths: [requests/history.txt]
+permissions:
+  contents: write
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+jobs:
+  history:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Web sources probe
+        continue-on-error: true
+        run: python scripts/probe_web_sources.py
+      - name: Scan and pull points
+        env:
+          INPUT_ARGS: ${{ github.event.inputs.args }}
+        run: |
+          mkdir -p data/clean/points
+          ARGS="${INPUT_ARGS:-$(head -1 requests/history.txt 2>/dev/null)}"
+          echo "$ARGS" | grep -Eq '^ *[0-9]+ +[0-9]+ +[0-9]+ +[0-9]+ +[0-9]+(,[0-9]+)* *$' || { echo "bad args: $ARGS" | tee data/clean/points/history_last_run.txt; exit 1; }
+          python scripts/scan_ucl.py $ARGS 2>&1 | tee data/clean/points/history_last_run.txt; exit ${PIPESTATUS[0]}
+      - name: Commit and push
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A data
+          git commit -q -m "History $(date -u +'%F %H:%M')Z" || { echo "nothing to commit"; exit 0; }
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 10; done
+          exit 1

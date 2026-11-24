@@ -1,5 +1,14 @@
 # Log (newest first)
 
+## 2026-11-24 Research: past FanTeam points per matchday (in progress)
+- Owner: per-matchday FanTeam points (not season totals) as a guide where odds are thin. Also look for web stats sources.
+- MD dates (UEFA): MD1 8-10 Sep, MD2 13/14 Oct, MD3 20/21 Oct, MD4 3/4 Nov, MD5 24/25 Nov (not finished).
+- UCL contests on FanTeam: gameType football, matchCollection.seasonIds = [2026] (contest 1170340). EPL season id is 2004.
+- New: `scripts/scan_ucl.py` (scan adapted from `ryanxib/epl.dfs` scripts/scan_tournaments.py, commit efa3cb9),
+  `scripts/probe_web_sources.py`, `history` Action (runs on a push to `requests/history.txt`). Writes only contest
+  meta and player points: no user names or ids. Offline test on contest 1170340 files: passes.
+- Points are a new factor: flag only, until it lowers the error on saved projections.
+
 ## 2026-11-24 Research: per-player match stats from FanTeam
 - Question: can we pull every UCL player match stat for MD1-5 from FanTeam? Answer in `data/ref/fanteam_stats_access.md`.
 - Short answer: points per player yes (finished contest pool CSV); full stat breakdown only for players inside pulled entries.

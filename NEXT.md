@@ -17,4 +17,5 @@ FanTeam (past contest ids via a scan; raw stats via `/fantasy_teams/{id}`), chec
 4. `team_latest.csv` includes `h2h_lay` rows: ignore in stage 2.
 5. `epl.dfs` has the name-key bug fixed here (Ø, ß, Ł dropped). Fix there in an EPL chat.
 6. Raw prices policy (option A): review at stage 4.
-7. Past FanTeam points per matchday: see `data/ref/fanteam_stats_access.md` (research chat 24 Nov in progress).
+7. Past FanTeam points per matchday: `history` Action started 24 Nov; read `data/clean/points/ucl_points_report.md`.
+   Points are a flag only until they lower projection error.
