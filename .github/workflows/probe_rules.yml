@@ -9,7 +9,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: data-commit
+  group: probe-rules
   cancel-in-progress: false
 jobs:
   probe:

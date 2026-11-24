@@ -9,7 +9,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: data-commit
+  group: coverage
   cancel-in-progress: false
 jobs:
   coverage:
