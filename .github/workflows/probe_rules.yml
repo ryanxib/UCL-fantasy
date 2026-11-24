@@ -1,0 +1,31 @@
+name: probe_rules
+# One-off: where FanTeam publishes scoring (+ optional id scan; the history Action already scans for past UCL contests). No key needed.
+# Run: commit a change to requests/probe_rules.txt (first line: "<tournament_id> <scan_from> <scan_to> <step>").
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [requests/probe_rules.txt]
+permissions:
+  contents: write
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - run: |
+          ARGS="$(head -1 requests/probe_rules.txt)"
+          echo "$ARGS" | grep -Eq '^ *[0-9]+ [0-9]+ [0-9]+ [0-9]+ *$' || { echo "bad args"; exit 1; }
+          python scripts/probe_rules.py $ARGS 2>&1 | tail -60 > data/ref/probe_rules_last_run.txt; exit ${PIPESTATUS[0]}
+      - if: always()
+        run: |
+          git config user.name github-actions; git config user.email github-actions@users.noreply.github.com
+          git add -A data
+          git commit -q -m "Rules probe $(date -u +'%F %H:%M')Z" || exit 0
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 10; done; exit 1

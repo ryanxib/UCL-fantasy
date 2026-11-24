@@ -1,0 +1,33 @@
+name: coverage
+# Odds API coverage check (books per market per game, no prices). About 1 credit per game. Shared key: log credits.
+# Run: Actions -> Run workflow, or commit a change to requests/coverage.txt (first line = arguments, e.g. "--hours 48").
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [requests/coverage.txt]
+permissions:
+  contents: write
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.11"}
+      - env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API }}
+        run: |
+          ARGS="$(head -1 requests/coverage.txt 2>/dev/null)"
+          echo "$ARGS" | grep -Eq '^ *(--hours [0-9]{1,3})? *$' || { echo "bad args"; exit 1; }
+          python scripts/coverage.py $ARGS 2>&1 | tee data/ref/coverage_last_run.txt; exit ${PIPESTATUS[0]}
+      - if: always()
+        run: |
+          git config user.name github-actions; git config user.email github-actions@users.noreply.github.com
+          git add -A data
+          git commit -q -m "Coverage $(date -u +'%F %H:%M')Z" || exit 0
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 10; done; exit 1
