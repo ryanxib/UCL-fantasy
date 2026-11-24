@@ -1,0 +1,38 @@
+name: uefa_stats
+# UEFA API probe (match list + candidate per-match player stats endpoints). UEFA is blocked from the chat workspace.
+# Run: commit to requests/uefa_stats.txt (first line: matchdays, e.g. 1,2,3,4).
+# Output: data/clean/uefa/player_match.csv, data/clean/uefa/pull_report.md
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [requests/uefa_stats.txt]
+permissions:
+  contents: write
+concurrency:
+  group: data-commit
+  cancel-in-progress: false
+jobs:
+  uefa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Pull
+        run: |
+          mkdir -p data/clean/uefa
+          M="$(head -1 requests/uefa_stats.txt 2>/dev/null)"
+          echo "$M" | grep -Eq '^[0-9]+(,[0-9]+)*$' || { echo "bad arg: $M" | tee data/clean/uefa/last_run.txt; exit 1; }
+          python scripts/fetch_uefa_stats.py $M 2>&1 | tee data/clean/uefa/last_run.txt; exit ${PIPESTATUS[0]}
+      - name: Commit and push
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A data
+          git commit -q -m "UEFA stats $(date -u +'%F %H:%M')Z" || { echo "nothing to commit"; exit 0; }
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 10; done
+          exit 1
