@@ -1,5 +1,11 @@
 # Log (newest first)
 
+## 2026-11-24 Research: per-player match stats from FanTeam
+- Question: can we pull every UCL player match stat for MD1-5 from FanTeam? Answer in `data/ref/fanteam_stats_access.md`.
+- Short answer: points per player yes (finished contest pool CSV); full stat breakdown only for players inside pulled entries.
+- MD5 is not finished: tonight's 9 games are its first half. Only MD1-4 can be pulled now.
+- Desk research only (FanTeam blocked from this workspace). Nothing fetched. No code changed.
+
 ## 2026-11-24 Stage 1 done: first pool run
 - Owner sent contest 1170340 (Tuesday Main Event GW5). Overview screen saved: `data/manual/contest_1170340_screen.md`.
 - `pool` Action via `requests/pool.txt`: clean. 345 players, contest JSON saved, row in `data/ref/contests.csv`.
