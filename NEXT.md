@@ -23,4 +23,5 @@ FanTeam (past contest ids via a scan; raw stats via `/fantasy_teams/{id}`), chec
    (dailies skip 18:45 CET games; no dailies found for MD1 or MD4 Tue). Flag only until it lowers projection error.
 8. UEFA stats MD1-4 DONE: `data/clean/uefa/player_match.csv` (all 72 games; minutes, goals, assists, SoT, saves, tackles, CS,
    cards). After each matchday: commit `requests/uefa_stats.txt` with the new matchday list to refresh.
-   Open: link UEFA ids to FanTeam ids (stage 2); convert to FanTeam points once UCL scoring is confirmed.
+   Linked to FanTeam ids for MD2-4 (`data/clean/points/link_uefa_fanteam.csv`). Next: points from stats for all players
+   (needs goal times for subs: UEFA events/lineups) in stage 2.

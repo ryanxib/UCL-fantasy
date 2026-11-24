@@ -1,0 +1,1066 @@
+md,fanteam_id,uefa_id,fanteam_name,uefa_name,club
+2,4721037,250138893,Guimarães,Bruno Guimarães,ARS
+2,4721038,250083732,Rice,Declan Rice,ARS
+2,4721039,250123068,Konsa,Ezri Konsa,ARS
+2,4721041,250131901,Gabriel,Gabriel,ARS
+2,4721044,250171278,Raya,David Raya,ARS
+2,4721046,250156002,White,Ben White,ARS
+2,4721047,250081341,Ødegaard ,Martin Ødegaard,ARS
+2,4721054,250101728,Timber ,Jurriën Timber,ARS
+2,4721055,250134376,Eze,Eberechi Eze,ARS
+2,4721056,250080572,Merino,Mikel Merino,ARS
+2,4721057,250113134,Madueke,Noni Madueke,ARS
+2,4721058,250106939,Saka,Bukayo Saka,ARS
+2,4721061,250106649,Jesus,Gabriel Jesus,BAR
+2,4721062,250087938,Havertz,Kai Havertz,ARS
+2,4721063,250105927,Gyökeres,Viktor Gyökeres,ARS
+2,4721092,250042422,Grimaldo,Alejandro Grimaldo,ATM
+2,4721093,250112513,Le Normand,Robin Le Normand,ATM
+2,4721096,250012069,Oblak,Jan Oblak,ATM
+2,4721097,250153634,Simeone,Giuliano Simeone,ATM
+2,4721098,250194472,Pubill,Marc Pubill,ATM
+2,4721099,250092668,Hancko,Dávid Hancko,ATM
+2,4721102,250106963,Baena,Álex Baena,ATM
+2,4721103,250079670,Llorente,Marcos Llorente,ATM
+2,4721105,250139036,Barrios,Pablo Barrios,ATM
+2,4721106,250144325,Romero,Cristian Romero,ATM
+2,4721107,250150915,Cardoso,Johnny Cardoso,ATM
+2,4721109,250101557,Hjulmand,Morten Hjulmand,ATM
+2,4721110,250099258,Lookman,Ademola Lookman,ATM
+2,4721111,250121584,Lee,Kang-in Lee,ATM
+2,4721114,250172668,Alvarez,Julián Alvarez,ATM
+2,4721117,250024746,Cancelo,João Cancelo,BAR
+2,4721119,250197801,Martín,Gerard Martín,BAR
+2,4721120,250118131,García,Joan García,BAR
+2,4721123,250081720,Olmo,Dani Olmo,BAR
+2,4721124,250190383,Bernal,Marc Bernal,BAR
+2,4721125,250103561,García,Eric García,BAR
+2,4721127,250176453,Cubarsí,Pau Cubarsí,BAR
+2,4721131,250082664,Rodri,Rodri,BAR
+2,4721132,250164780,López,Fermín López,BAR
+2,4721134,250139255,Gavi,Gavi,BAR
+2,4721135,250096309,Koundé,Jules Koundé,BAR
+2,4721136,250143693,Pedri,Pedri,BAR
+2,4721138,250127347,Adeyemi,Karim Adeyemi,BAR
+2,4721139,250117036,Gordon,Anthony Gordon,BAR
+2,4721140,250176450,Yamal,Lamine Yamal,BAR
+2,4721141,250201120,Karl,Lennart Karl,FCB
+2,4721142,250162325,Kim,Minjae Kim,FCB
+2,4721143,250112220,Stanisic,Josip Stanišić,FCB
+2,4721145,250181455,Ito,Hiroki Ito,FCB
+2,4721146,250065413,Laimer,Konrad Laimer,FCB
+2,4721147,250070417,Kimmich,Joshua Kimmich,FCB
+2,4721148,250055660,Tah,Jonathan Tah,FCB
+2,4721149,250079545,Upamecano,Dayot Upamecano,FCB
+2,4721151,250128120,Davies,Alphonso Davies,FCB
+2,4721153,250190350,Brown,Nathaniel Brown,FCB
+2,4721155,250153936,Urbig,Jonas Urbig,FCB
+2,4721157,250168211,Bischof,Tom Bischof,FCB
+2,4721158,250132811,Díaz,Luis Díaz,FCB
+2,4721159,250134320,Saibari,Ismael Saibari,FCB
+2,4721161,250171184,Olise,Michael Olise,FCB
+2,4721162,250016833,Kane,Harry Kane,FCB
+2,4721242,97746,Sommer,Yann Sommer,BRU
+2,4721243,250192955,Diakhon,Mamadou Diakhon,BRU
+2,4721245,250197263,Lee,Han-beom Lee,BRU
+2,4721246,250163786,Seys,Joaquin Seys,BRU
+2,4721247,250138985,Sabbe,Kyriani Sabbe,BRU
+2,4721249,250153677,Spileers,Jorne Spileers,BRU
+2,4721251,250053044,Mechele,Brandon Mechele,BRU
+2,4721252,250115134,Vetlesen,Hugo Vetlesen,BRU
+2,4721253,250064188,Vanaken,Hans Vanaken,BRU
+2,4721254,250138957,Forbs,Carlos Forbs,BRU
+2,4721255,250165376,Potts,Freddie Potts,BRU
+2,4721256,250128898,Siquet,Hugo Siquet,BRU
+2,4721261,250160006,Lemaréchal,Félix Lemaréchal,BRU
+2,4721262,250200748,Virgili,Jan Virgili,BRU
+2,4721264,250181849,Tresoldi,Nicolò Tresoldi,BRU
+2,4721266,250138982,Vermant,Romeo Vermant,BRU
+2,4721352,250181460,Ueda,Ayase Ueda,LOSC
+2,4721354,250117015,Jakobs,Ismail Jakobs,GAL
+2,4721355,250158929,Yılmaz,Barış Alper Yılmaz,GAL
+2,4721356,250118286,Torreira,Lucas Torreira,GAL
+2,4721359,250134357,Lemina,Mario Lemina,GAL
+2,4721360,250099374,Sánchez,Davinson Sánchez,GAL
+2,4721365,250163343,Elmalı,Eren Elmalı,GAL
+2,4721368,250199220,Sara,Gabriel Sara,GAL
+2,4721369,250065179,Sallai,Roland Sallai,GAL
+2,4721371,250078452,Çakır,Uğurcan Çakır,GAL
+2,4721372,250063984,Sané,Leroy Sané,GAL
+2,4721373,250103764,Akgün,Yunus Akgün,GAL
+2,4721374,250136342,Ugochukwu,Lesley Ugochukwu,GAL
+2,4721376,250216977,Nhaga,Renato Nhaga,GAL
+2,4721378,250224345,Batrakov,Aleksei Batrakov,GAL
+2,4721379,250132987,Osimhen,Victor Osimhen,GAL
+2,4721381,250068805,Thuram,Marcus Thuram,INT
+2,4721384,250163404,Esposito,Pio Esposito,INT
+2,4721386,250024370,Zielinski,Piotr Zieliński,INT
+2,4721387,250022829,Çalhanoğlu,Hakan Çalhanoğlu,INT
+2,4721390,250066739,Barella,Nicolò Barella,INT
+2,4721392,250173062,Bonny,Ange-Yoan Bonny,INT
+2,4721394,250135339,Sučić,Petar Sučić,INT
+2,4721395,250085369,Akanji,Manuel Akanji,INT
+2,4721396,250118281,Martínez ,Lautaro Martínez,INT
+2,4721397,250096761,Martínez,Josep Martínez,INT
+2,4721398,250171293,Spence,Djed Spence,INT
+2,4721399,250056189,Dimarco,Federico Dimarco,INT
+2,4721400,250163409,Stanković,Aleksandar Stanković,INT
+2,4721402,250091199,Bastoni,Alessandro Bastoni,INT
+2,4721404,250136353,Diouf,Andy Diouf,INT
+2,4721405,250116951,Bisseck,Yann Bisseck,INT
+2,4721455,250102646,Özer,Berke Özer,LOSC
+2,4721456,250025791,André,Benjamin André,LOSC
+2,4721457,250146610,Sahraoui,Osame Sahraoui,LOSC
+2,4721459,250128943,Haraldsson,Hákon Haraldsson,LOSC
+2,4721463,250198114,Mukau,Ngal'Ayel Mukau,LOSC
+2,4721465,250068803,Perraud,Romain Perraud,LOSC
+2,4721467,250057690,Bentaleb,Nabil Bentaleb,LOSC
+2,4721469,250130418,Ngoy,Nathan Ngoy,LOSC
+2,4721470,250188247,Alexsandro,Alexsandro,LOSC
+2,4721472,250066559,Verdonk,Calvin Verdonk,LOSC
+2,4721474,250201719,Diaoune,Soriba Diaoune,LOSC
+2,4721478,250112700,Bakwa,Dilane Bakwa,LOSC
+2,4721482,250020851,Giroud,Olivier Giroud,LOSC
+2,4721534,250189295,Heaven,Ayden Heaven,MUN
+2,4721538,250081628,Dalot,Diogo Dalot,MUN
+2,4721540,250165232,Yoro,Leny Yoro,MUN
+2,4721542,250075007,Maguire,Harry Maguire,MUN
+2,4721544,250132803,Martínez,Lisandro Martínez,MUN
+2,4721545,250118908,Lammens,Senne Lammens,MUN
+2,4721552,250088246,Rashford,Marcus Rashford,MUN
+2,4721553,250076240,Mount ,Mason Mount,MUN
+2,4721554,250078886,Fernandes ,Bruno Fernandes,MUN
+2,4721555,250137260,Mbeumo,Bryan Mbeumo,MUN
+2,4721556,250182090,Santos,Andrey Santos,MUN
+2,4721557,250121405,Diallo ,Amad Diallo,MUN
+2,4721558,250110943,Cunha,Matheus Cunha,MUN
+2,4721560,250106762,Zirkzee,Joshua Zirkzee,MUN
+2,4721561,250064006,Tielemans,Youri Tielemans,MUN
+2,4721562,250188249,Baleba,Carlos Baleba,MUN
+2,4721565,250065792,Milinković-Savić,Vanja Milinković-Savić,NAP
+2,4721566,250088240,McTominay,Scott McTominay,NAP
+2,4721567,250059233,Rrahmani,Amir Rrahmani,NAP
+2,4721570,250107117,Gilmour,Billy Gilmour,NAP
+2,4721571,250020885,Spinazzola,Leonardo Spinazzola,NAP
+2,4721573,250064229,Di Lorenzo ,Giovanni Di Lorenzo,NAP
+2,4721575,250008901,De Bruyne,Kevin De Bruyne,NAP
+2,4721577,250129412,Marín,Rafa Marín,NAP
+2,4721578,250106648,Neres,David Neres,NAP
+2,4721579,250055982,Lobotka,Stanislav Lobotka,NAP
+2,4721580,250113290,Badiashile,Benoît Badiashile,NAP
+2,4721584,250091165,Lang,Noa Lang,NAP
+2,4721587,250050381,Politano,Matteo Politano,NAP
+2,4721590,250164476,Lucca,Lorenzo Lucca,NAP
+2,4721592,250130221,Højlund,Rasmus Højlund,NAP
+2,4721645,250122213,Júnior,Mauro Júnior,PSV
+2,4721647,250187458,van Bommel,Ruben van Bommel,PSV
+2,4721650,250112998,Dest,Sergiño Dest,PSV
+2,4721651,250104075,Geertruida,Lutsharel Geertruida,PSV
+2,4721652,250088117,Obispo,Armando Obispo,PSV
+2,4721655,250189506,Flamingo,Ryan Flamingo,PSV
+2,4721656,250171006,Gasiorowski,Yarek Gasiorowski,PSV
+2,4721657,250099671,Til,Guus Til,PSV
+2,4721658,250024301,Kostic,Filip Kostić,PSV
+2,4721660,250218556,Sano,Kodai Sano,PSV
+2,4721661,250117491,Kovar,Matěj Kovář,PSV
+2,4721662,103310,Perisic,Ivan Perišić,PSV
+2,4721670,250172703,Mijnans,Sven Mijnans,PSV
+2,4721673,250183342,Gomis,Tidiam Gomis,RBL
+2,4721677,250144303,Reitz,Rocco Reitz,RBL
+2,4721678,250110361,Raum,David Raum,RBL
+2,4721679,250058260,Klostermann,Lukas Klostermann,RBL
+2,4721680,250051754,Orbán,Willi Orbán,RBL
+2,4721684,250104720,Baku,Ridle Baku,RBL
+2,4721686,250114167,Seiwald,Nicolas Seiwald,RBL
+2,4721690,250118787,Vandevoordt,Maarten Vandevoordt,RBL
+2,4721691,250163400,Nusa,Antonio Nusa,RBL
+2,4721692,250124068,Lukeba,Castello Lukeba,RBL
+2,4721693,250178786,Gruda,Brajan Gruda,RBL
+2,4721694,250171161,Banzuzi,Ezechiel Banzuzi,RBL
+2,4721697,250221087,Rômulo,Rômulo Cardoso,RBL
+2,4721699,250076654,Nkunku,Christopher Nkunku,RBL
+2,4721727,250187059,El Aynaoui,Neil El Aynaoui,RBL
+2,4721893,1905505,Østbø,Arild Østbø,VIK
+2,4721895,250103750,Daland,Jesper Daland,VIK
+2,4721896,250139481,Falchener,Henrik Falchener,VIK
+2,4721898,250174059,Stensness,Gianni Stensness,VIK
+2,4721902,250138504,Bell,Joe Bell,VIK
+2,4721903,250144866,Heggheim,Henrik Heggheim,VIK
+2,4721904,250055970,Vevatne,Viljar Vevatne,VIK
+2,4721909,250117864,Askildsen,Kristoffer Askildsen,VIK
+2,4721912,250174185,Kvia-Egeskog,Simen Kvia-Egeskog,VIK
+2,4721914,250169944,Moi,Tobias Moi,VIK
+2,4721915,250051338,Tripic,Zlatko Tripić,VIK
+2,4721919,250145630,Christiansen,Peter Christiansen,VIK
+2,4721924,250210287,Júnior,Luiz Júnior,VIL
+2,4721925,250144229,Gueye,Pape Gueye,VIL
+2,4721926,250164935,Veiga,Renato Veiga,VIL
+2,4721927,250210289,Cardona,Sergi Cardona,VIL
+2,4721928,250210288,Navarro,Pau Navarro,VIL
+2,4721929,250188006,Mouriño,Santiago Mouriño,VIL
+2,4721930,250147278,Foyth,Juan Foyth,VIL
+2,4721931,250168991,Moleiro,Alberto Moleiro,VIL
+2,4721932,250188937,Comesaña,Santi Comesaña,VIL
+2,4721933,250209023,Freeman,Alex Freeman,VIL
+2,4721936,250177929,Romero,Carlos Romero,VIL
+2,4721940,250075625,Pérez,Ayoze Pérez,VIL
+2,4721941,250074565,Moreno,Gerard Moreno,VIL
+2,4721942,250209018,Saliba,Nathan Saliba,VIL
+2,4721944,250195532,Oluwaseyi,Tani Oluwaseyi,VIL
+2,4721945,250155025,Mikautadze,Georges Mikautadze,VIL
+2,4722565,250089228,Leao,Rafael Leão,GAL
+2,4725127,250129343,Kjærgaard,Maurits Kjærgaard,LOSC
+2,4725131,250102035,David,Jonathan David,ATM
+2,4725380,250102068,Botheim,Erik Botheim,VIK
+2,4725450,250218836,Santos,Ayoni Santos,PSV
+2,4725948,250065289,Bjørdal,Henrik Bjørdal,VIK
+2,4721009,250143747,Rota,Lazaros Rota,AEK
+2,4721011,250210435,Relvas,Filipe Relvas,AEK
+2,4721014,250066898,Moukoudi,Harold Moukoudi,AEK
+2,4721015,250055294,Marin,Răzvan Marin,AEK
+2,4721018,250079003,Kairinen,Kaan Kairinen,AEK
+2,4721021,250187689,Pilios,Stavros Pilios,AEK
+2,4721022,250042749,Gacinovic,Mijat Gaćinović,AEK
+2,4721023,250085391,Brignoli,Alberto Brignoli,AEK
+2,4721024,250126069,Vitális,Milán Vitális,AEK
+2,4721026,250098470,Majer,Lovro Majer,AEK
+2,4721030,250110953,Koita,Aboubakary Koita,AEK
+2,4721031,250064446,Zubkov,Oleksandr Zubkov,AEK
+2,4721032,250187664,Zini,Zini,AEK
+2,4721034,250183450,Varga,Barnabás Varga,AEK
+2,4721035,250058244,Jović,Luka Jović,AEK
+2,4721045,250170117,Nwaneri,Ethan Nwaneri,BVB
+2,4721068,250058958,McGinn ,John McGinn,AVL
+2,4721069,250007655,Barkley,Ross Barkley,AVL
+2,4721070,250091722,Kamara,Boubacar Kamara,AVL
+2,4721071,250218560,Suzuki,Zion Suzuki,AVL
+2,4721073,250135496,Garnacho,Alejandro Garnacho,AVL
+2,4721074,250123067,Wan-Bissaka,Aaron Wan-Bissaka,AVL
+2,4721076,250055905,Lindelöf,Victor Lindelöf,AVL
+2,4721077,250169376,Cash,Matty Cash,AVL
+2,4721079,250088461,Torres,Pau Torres,AVL
+2,4721083,250192993,Manzambi,Johan Manzambi,AVL
+2,4721085,250221088,Alysson,Alysson,AVL
+2,4721086,250194571,Gomes,João Gomes,AVL
+2,4721087,250041771,Goretzka,Leon Goretzka,AVL
+2,4721090,250067629,Abraham,Tammy Abraham,AVL
+2,4721164,250174874,Ezzalzouli,Abde Ezzalzouli,BET
+2,4721165,250092715,Fornals,Pablo Fornals,BET
+2,4721166,250010245,Bartra,Marc Bartra,BET
+2,4721167,250123073,Roca,Marc Roca,BET
+2,4721168,250221822,Bernal,Facundo Bernal,BET
+2,4721170,150711837,Isco,Isco,BET
+2,4721174,250178134,Ortiz,Ángel Ortiz,BET
+2,4721175,250101313,Riquelme,Rodrigo Riquelme,BET
+2,4721177,250187998,Natan,Natan,BET
+2,4721178,250212322,Valles,Álvaro Vallés,BET
+2,4721180,250212313,Deossa,Nelson Deossa,BET
+2,4721184,250144211,Antony,Antony,BET
+2,4721188,250109003,Parrott,Troy Parrott,BET
+2,4721189,250212316,Hernández,Cucho Hernández,BET
+2,4721190,250141864,Haikin,Nikita Haikin,BOD
+2,4721193,250109274,Gundersen,Jostein Gundersen,BOD
+2,4721194,250104207,Bjørkan,Fredrik Bjørkan,BOD
+2,4721195,250084903,Aleesami,Haitam Aleesami,BOD
+2,4721198,250173424,Sjøvold,Fredrik Sjøvold,BOD
+2,4721199,250065292,Berg,Patrick Berg,BOD
+2,4721203,250141862,Fet,Sondre Brunstad Fet,BOD
+2,4721204,250129159,Auklend,Sondre Auklend,BOD
+2,4721205,250104487,Hauge,Jens Petter Hauge,BOD
+2,4721208,250187645,Blomberg,Ole Didrik Blomberg,BOD
+2,4721211,250117917,Brynhildsen,Ola Brynhildsen,BOD
+2,4721214,250078507,Helmersen,Andreas Helmersen,BOD
+2,4721218,250156423,Svensson,Daniel Svensson,BVB
+2,4721219,250119677,Bensebaini,Ramy Bensebaini,BVB
+2,4721221,250080553,Guirassy,Serhou Guirassy,BVB
+2,4721222,250124222,Beier,Maximilian Beier,BVB
+2,4721224,250167832,Bellingham,Jobe Bellingham,BVB
+2,4721225,250113350,Silva,Fábio Silva,BVB
+2,4721226,250105890,Veerman,Joey Veerman,BVB
+2,4721227,250182174,Karetsas,Konstantinos Karetsas,BVB
+2,4721229,250112224,Nmecha,Felix Nmecha,BVB
+2,4721231,250200715,Inácio,Samuele Inácio,BVB
+2,4721232,250092517,Ryerson,Julian Ryerson,BVB
+2,4721233,250101238,Anton,Waldemar Anton,BVB
+2,4721234,250177594,Gadou,Joane Gadou,BVB
+2,4721235,250169276,Chukwuemeka,Carney Chukwuemeka,BVB
+2,4721239,250069832,Kobel,Gregor Kobel,BVB
+2,4721296,250086090,Semedo,Nélson Semedo,FEN
+2,4721298,250116767,Greenwood,Mason Greenwood,FEN
+2,4721300,250135831,Brown,Archie Brown,FEN
+2,4721302,250118077,Aydın,Oğuz Aydın,FEN
+2,4721304,250041563,Škriniar ,Milan Škriniar,FEN
+2,4721305,250027008,Aké,Nathan Aké,FEN
+2,4721308,250174144,Yüksek,İsmail Yüksek,FEN
+2,4721310,250122927,Guendouzi,Mattéo Guendouzi,FEN
+2,4721315,250073809,Ederson,Ederson,FEN
+2,4721320,250187184,Nene ,Dorgeles Nene,FEN
+2,4721322,250046542,Can Kahveci,İrfan Can Kahveci,FEN
+2,4721323,250010802,Lukaku,Romelu Lukaku,FEN
+2,4721324,250059699,Muriqi,Vedat Muriqi,FEN
+2,4721509,250187698,Khusanov,Abdukodir Khusanov,MCI
+2,4721513,250165221,O'Reilly,Nico O’Reilly,MCI
+2,4721514,250117617,Anderson,Elliot Anderson,MCI
+2,4721517,250145803,Nunes,Matheus Nunes,MCI
+2,4721519,250086928,Guéhi,Marc Guéhi,MCI
+2,4721521,250058220,Dias,Rúben Dias,MCI
+2,4721522,250078922,Donnarumma,Gianluigi Donnarumma,MCI
+2,4721523,250127284,Gvardiol,Joško Gvardiol,MCI
+2,4721528,250124063,Cherki,Rayan Cherki,MCI
+2,4721530,250181717,Semenyo,Antoine Semenyo,MCI
+2,4721531,250191448,Bouaddi,Ayyoub Bouaddi,MCI
+2,4721532,250103758,Haaland,Erling Haaland,MCI
+2,4721533,250113142,Doku ,Jeremy Doku,MCI
+2,4721595,250188256,Varela,Alan Varela,FCP
+2,4721596,250153874,Veiga,Gabriel Veiga,FCP
+2,4721598,250169957,Froholdt,Victor Froholdt,FCP
+2,4721600,250174182,Costa,Alberto Costa,FCP
+2,4721601,250191115,Pietuszewski,Oskar Pietuszewski,FCP
+2,4721602,250134536,Hwang,Inbeom Hwang,FCP
+2,4721603,250137272,Sainz,Borja Sainz,FCP
+2,4721604,250097271,Rosario,Pablo Rosario,FCP
+2,4721605,250112138,Moura,Francisco Moura,FCP
+2,4721608,250076675,Costa ,Diogo Costa,FCP
+2,4721609,250163559,Fernandes,Martim Fernandes,FCP
+2,4721611,250105681,Kiwior,Jakub Kiwior,FCP
+2,4721613,250159919,Pepê,Pepê,FCP
+2,4721616,250042521,Silva,André Silva,FCP
+2,4721617,250186228,Aghehowa ,Samu,FCP
+2,4721619,250063803,Hernández,Lucas Hernández,PSG
+2,4721620,250101444,Vitinha,Vitinha,PSG
+2,4721621,250164991,Neves,João Neves,PSG
+2,4721622,250136465,Mendes,Nuno Mendes,PSG
+2,4721623,250153849,Zaïre-Emery,Warren Zaïre-Emery,PSG
+2,4721627,250115436,Ruiz,Fabián Ruiz,PSG
+2,4721628,250064064,Marquinhos,Marquinhos,PSG
+2,4721629,250174126,Pacho,Willian Pacho,PSG
+2,4721630,250088061,Hakimi,Achraf Hakimi,PSG
+2,4721631,250090101,Safonov,Matvei Safonov,PSG
+2,4721633,250193442,Beraldo,Lucas Beraldo,PSG
+2,4721634,250162177,Doué,Désiré Doué,PSG
+2,4721635,250101808,Kvaratskhelia,Khvicha Kvaratskhelia,PSG
+2,4721639,250190117,Mbaye,Ibrahim Mbaye,AVL
+2,4721640,250160436,Akliouche,Maghnes Akliouche,PSG
+2,4721641,250066886,Dembélé,Ousmane Dembélé,PSG
+2,4721642,250088320,Torres,Ferran Torres,PSG
+2,4721700,250028211,Rüdiger,Antonio Rüdiger,RMA
+2,4721701,250153945,Carreras,Álvaro Carreras,RMA
+2,4721703,250011668,Courtois,Thibaut Courtois,RMA
+2,4721709,250076168,Cucurella,Marc Cucurella,RMA
+2,4721710,250091013,Konaté,Ibrahima Konaté,RMA
+2,4721711,250101284,Valverde ,Federico Valverde,RMA
+2,4721713,250161881,Güler,Arda Güler,RMA
+2,4721716,250112690,Dumfries,Denzel Dumfries,RMA
+2,4721717,250105244,Tchouaméni,Aurélien Tchouaméni,RMA
+2,4721718,250128377,Bellingham,Jude Bellingham,RMA
+2,4721719,250121533,Vinicius Junior,Vinícius Júnior,RMA
+2,4721722,250059115,Silva,Bernardo Silva,RMA
+2,4721723,250220373,Diomande,Yan Diomande,RMA
+2,4721724,250223168,Espí,Carlos Espí,RMA
+2,4721725,250076574,Mbappé ,Kylian Mbappé,RMA
+2,4721726,250194573,Endrick,Endrick,RMA
+2,4721729,250177837,Mora,Rodrigo Mora,ROM
+2,4721731,250058930,Gollini,Pierluigi Gollini,ROM
+2,4721732,250140929,Soulé,Matías Soulé,ROM
+2,4721733,250172673,Molina,Nahuel Molina,ROM
+2,4721734,250129645,Koulierakis,Konstantinos Koulierakis,ROM
+2,4721735,250070130,Pellegrini ,Lorenzo Pellegrini,ROM
+2,4721737,250212323,Wesley,Wesley França,ROM
+2,4721739,250075982,Mancini,Gianluca Mancini,ROM
+2,4721740,250183335,Pisilli,Niccolò Pisilli,ROM
+2,4721744,250063940,Hermoso,Mario Hermoso,ROM
+2,4721745,250132062,Koné,Manu Koné,ROM
+2,4721746,250122785,Ndicka,Evan N'Dicka,ROM
+2,4721748,250086333,Dybala,Paulo Dybala,ROM
+2,4721749,250081555,Malen,Donyell Malen,ROM
+2,4721777,250193518,Gomes,Marlon Gomes,SHK
+2,4721784,250123440,Nazaryna,Yehor Nazaryna,SHK
+2,4721787,250121017,Riznyk,Dmytro Riznyk,SHK
+2,4721788,250176491,Tobias,Vinícius Tobías,SHK
+2,4721789,250134776,Ocheretko,Oleh Ocheretko,SHK
+2,4721791,250187672,Henrique,Pedro Henrique,SHK
+2,4721792,250087118,Bondar,Valeriy Bondar,SHK
+2,4721793,250212206,Isaque,Isaque,SHK
+2,4721795,250220576,Mendoza,Gleiker Mendoza,SHK
+2,4721798,250209228,Alisson,Alisson Santana,SHK
+2,4721800,250144964,Pedrinho,Pedrinho,SHK
+2,4721802,250211402,Ferreira,Lucas Ferreira,SHK
+2,4721804,250212190,Meirelles,Luca Meirelles,SHK
+2,4721805,250209227,Elias,Kauã Elias,SHK
+2,4721841,250221031,Martínez,Cristian Martínez,SLV
+2,4721842,250183092,Marcelli,Nino Marcelli,SLV
+2,4721843,250114171,Pokorný,Peter Pokorný,SLV
+2,4721845,250043066,Wimmer,Kevin Wimmer,SLV
+2,4721846,250061721,Bajric,Kenan Bajrić,SLV
+2,4721847,250139101,Gajdos,Artur Gajdoš,SLV
+2,4721848,250105502,Markovic,Svetozar Marković,SLV
+2,4721851,250116759,Mustafic,Alen Mustafić,SLV
+2,4721852,250157134,Takac,Dominik Takáč,SLV
+2,4721854,250131541,Blackman,César Blackman,SLV
+2,4721855,250116653,Cruz,Sandro Cruz,SLV
+2,4721856,250210296,Yirajang,Alasana Yirajang,SLV
+2,4721857,250013022,Barseghyan,Tigran Barseghyan,SLV
+2,4721862,250117638,Cerepkai,Roman Čerepkai,SLV
+2,4721864,250050391,Šporar,Andraž Šporar,SLV
+2,4722531,250163689,Jackson,Nicolas Jackson,AVL
+2,4722534,250106750,Hendriks,Ramon Hendriks,VFB
+2,4722537,250170132,Jeltsch,Finn Jeltsch,VFB
+2,4722538,250136347,Assignon ,Lorenz Assignon,VFB
+2,4722539,250107477,Chabot,Jeff Chabot,VFB
+2,4722543,250192048,Führich ,Chris Führich,VFB
+2,4722544,250127538,Vagnoman,Josha Vagnoman,VFB
+2,4722545,250164450,Sauer ,Leo Sauer,VFB
+2,4722546,250101240,Prömel,Grischa Prömel,VFB
+2,4722547,250196709,Karazor,Atakan Karazor,VFB
+2,4722550,250154129,El Khannouss,Bilal El Khannouss,VFB
+2,4722552,250070418,Bredlow,Fabian Bredlow,VFB
+2,4722553,250112217,Stiller,Angelo Stiller,VFB
+2,4722557,250138382,Leweling,Jamie Leweling,VFB
+2,4722560,250079383,Demirovic,Ermedin Demirović,VFB
+2,4722561,250194673,Undav ,Deniz Undav,VFB
+2,4722563,250168144,Pejcinovic,Dženan Pejčinović,VFB
+2,4723769,250128118,Balerdi,Leonardo Balerdi,ROM
+2,4723820,250014709,de Roon,Marten de Roon,ROM
+2,4725122,250177879,Gimenez ,Santiago Giménez,FCP
+2,4725132,250181626,Ndiaye,Iliman Ndiaye,MCI
+2,4725133,250174838,Fernández,Enzo Fernández,MCI
+2,4725134,250086709,Ceballos,Dani Ceballos,BET
+2,4725943,250014109,Mário,João Mário,AEK
+2,4725945,250129575,Elmaz,Bartuğ Elmaz,FEN
+3,4721009,250143747,Rota,Lazaros Rota,AEK
+3,4721011,250210435,Relvas,Filipe Relvas,AEK
+3,4721014,250066898,Moukoudi,Harold Moukoudi,AEK
+3,4721015,250055294,Marin,Răzvan Marin,AEK
+3,4721021,250187689,Pilios,Stavros Pilios,AEK
+3,4721022,250042749,Gacinovic,Mijat Gaćinović,AEK
+3,4721023,250085391,Brignoli,Alberto Brignoli,AEK
+3,4721024,250126069,Vitális,Milán Vitális,AEK
+3,4721026,250098470,Majer,Lovro Majer,AEK
+3,4721027,250197123,Arriaga,Kervin Arriaga,AEK
+3,4721030,250110953,Koita,Aboubakary Koita,AEK
+3,4721031,250064446,Zubkov,Oleksandr Zubkov,AEK
+3,4721032,250187664,Zini,Zini,AEK
+3,4721034,250183450,Varga,Barnabás Varga,AEK
+3,4721035,250058244,Jović,Luka Jović,AEK
+3,4721092,250042422,Grimaldo,Alejandro Grimaldo,ATM
+3,4721093,250112513,Le Normand,Robin Le Normand,ATM
+3,4721096,250012069,Oblak,Jan Oblak,ATM
+3,4721097,250153634,Simeone,Giuliano Simeone,ATM
+3,4721098,250194472,Pubill,Marc Pubill,ATM
+3,4721099,250092668,Hancko,Dávid Hancko,ATM
+3,4721102,250106963,Baena,Álex Baena,ATM
+3,4721103,250079670,Llorente,Marcos Llorente,ATM
+3,4721105,250139036,Barrios,Pablo Barrios,ATM
+3,4721107,250150915,Cardoso,Johnny Cardoso,ATM
+3,4721108,250216944,Vargas,Obed Vargas,ATM
+3,4721109,250101557,Hjulmand,Morten Hjulmand,ATM
+3,4721110,250099258,Lookman,Ademola Lookman,ATM
+3,4721114,250172668,Alvarez,Julián Alvarez,ATM
+3,4721115,250061361,Sørloth,Alexander Sørloth,ATM
+3,4721117,250024746,Cancelo,João Cancelo,BAR
+3,4721119,250197801,Martín,Gerard Martín,BAR
+3,4721120,250118131,García,Joan García,BAR
+3,4721122,250112880,Raphinha,Raphinha,BAR
+3,4721123,250081720,Olmo,Dani Olmo,BAR
+3,4721124,250190383,Bernal,Marc Bernal,BAR
+3,4721126,250135416,Balde,Alejandro Balde,BAR
+3,4721127,250176453,Cubarsí,Pau Cubarsí,BAR
+3,4721128,250190377,Espart,Xavi Espart,BAR
+3,4721131,250082664,Rodri,Rodri,BAR
+3,4721132,250164780,López,Fermín López,BAR
+3,4721134,250139255,Gavi,Gavi,BAR
+3,4721136,250143693,Pedri,Pedri,BAR
+3,4721138,250127347,Adeyemi,Karim Adeyemi,BAR
+3,4721139,250117036,Gordon,Anthony Gordon,BAR
+3,4721140,250176450,Yamal,Lamine Yamal,BAR
+3,4721190,250141864,Haikin,Nikita Haikin,BOD
+3,4721193,250109274,Gundersen,Jostein Gundersen,BOD
+3,4721194,250104207,Bjørkan,Fredrik Bjørkan,BOD
+3,4721195,250084903,Aleesami,Haitam Aleesami,BOD
+3,4721197,250134063,Bjortuft,Odin Bjørtuft,BOD
+3,4721198,250173424,Sjøvold,Fredrik Sjøvold,BOD
+3,4721199,250065292,Berg,Patrick Berg,BOD
+3,4721201,250138384,Määttä,Isak Määttä,BOD
+3,4721203,250141862,Fet,Sondre Brunstad Fet,BOD
+3,4721204,250129159,Auklend,Sondre Auklend,BOD
+3,4721205,250104487,Hauge,Jens Petter Hauge,BOD
+3,4721206,250141867,Saltnes,Ulrik Saltnes,BOD
+3,4721208,250187645,Blomberg,Ole Didrik Blomberg,BOD
+3,4721210,250160883,Mvuka,Joel Mvuka,BOD
+3,4721211,250117917,Brynhildsen,Ola Brynhildsen,BOD
+3,4721214,250078507,Helmersen,Andreas Helmersen,BOD
+3,4721483,250200248,Nyoni,Trey Nyoni,LIV
+3,4721487,250096849,Gakpo,Cody Gakpo,LIV
+3,4721489,50327420,van Dijk ,Virgil van Dijk,LIV
+3,4721490,250177928,Jacquet,Jérémy Jacquet,LIV
+3,4721491,250172672,Mac Allister,Alexis Mac Allister,LIV
+3,4721492,250139445,Wirtz,Florian Wirtz,LIV
+3,4721493,250076631,Tsimikas,Kostas Tsimikas,LIV
+3,4721494,250134170,Araujo,Ronald Araújo,LIV
+3,4721496,250099867,Alisson,Alisson Becker,LIV
+3,4721501,250113001,Gravenberch,Ryan Gravenberch,LIV
+3,4721503,250058215,Gomez ,Joe Gomez,LIV
+3,4721505,250195782,Ngumoha,Rio Ngumoha,LIV
+3,4721507,250089868,Isak,Alexander Isak,LIV
+3,4721509,250187698,Khusanov,Abdukodir Khusanov,MCI
+3,4721510,250205653,Reis,Vitor Reis,MCI
+3,4721511,250101534,Foden,Phil Foden,MCI
+3,4721514,250117617,Anderson,Elliot Anderson,MCI
+3,4721515,250127436,Aït-Nouri,Rayan Aït-Nouri,MCI
+3,4721516,250139207,Lewis,Rico Lewis,MCI
+3,4721521,250058220,Dias,Rúben Dias,MCI
+3,4721522,250078922,Donnarumma,Gianluigi Donnarumma,MCI
+3,4721523,250127284,Gvardiol,Joško Gvardiol,MCI
+3,4721528,250124063,Cherki,Rayan Cherki,MCI
+3,4721566,250088240,McTominay,Scott McTominay,NAP
+3,4721567,250059233,Rrahmani,Amir Rrahmani,NAP
+3,4721568,250161248,Beukema,Sam Beukema,NAP
+3,4721569,250134196,Olivera,Mathías Olivera,NAP
+3,4721571,250020885,Spinazzola,Leonardo Spinazzola,NAP
+3,4721573,250064229,Di Lorenzo ,Giovanni Di Lorenzo,NAP
+3,4721574,250086987,Anguissa,Frank Anguissa,NAP
+3,4721575,250008901,De Bruyne,Kevin De Bruyne,NAP
+3,4721577,250129412,Marín,Rafa Marín,NAP
+3,4721579,250055982,Lobotka,Stanislav Lobotka,NAP
+3,4721582,250066753,Meret,Alex Meret,NAP
+3,4721584,250091165,Lang,Noa Lang,NAP
+3,4721587,250050381,Politano,Matteo Politano,NAP
+3,4721591,250222131,Giovane,Giovane,NAP
+3,4721592,250130221,Højlund,Rasmus Højlund,NAP
+3,4721594,250144327,Sanusi,Zaidu Sanusi,FCP
+3,4721596,250153874,Veiga,Gabriel Veiga,FCP
+3,4721598,250169957,Froholdt,Victor Froholdt,FCP
+3,4721599,250056266,Bednarek,Jan Bednarek,FCP
+3,4721600,250174182,Costa,Alberto Costa,FCP
+3,4721601,250191115,Pietuszewski,Oskar Pietuszewski,FCP
+3,4721602,250134536,Hwang,Inbeom Hwang,FCP
+3,4721603,250137272,Sainz,Borja Sainz,FCP
+3,4721604,250097271,Rosario,Pablo Rosario,FCP
+3,4721608,250076675,Costa ,Diogo Costa,FCP
+3,4721611,250105681,Kiwior,Jakub Kiwior,FCP
+3,4721613,250159919,Pepê,Pepê,FCP
+3,4721615,250042773,Fofana,Seko Fofana,FCP
+3,4721616,250042521,Silva,André Silva,FCP
+3,4721617,250186228,Aghehowa ,Samu,FCP
+3,4721619,250063803,Hernández,Lucas Hernández,PSG
+3,4721620,250101444,Vitinha,Vitinha,PSG
+3,4721621,250164991,Neves,João Neves,PSG
+3,4721623,250153849,Zaïre-Emery,Warren Zaïre-Emery,PSG
+3,4721624,250119185,Zabarnyi,Illia Zabarnyi,PSG
+3,4721625,250134138,Barcola,Bradley Barcola,LIV
+3,4721627,250115436,Ruiz,Fabián Ruiz,PSG
+3,4721628,250064064,Marquinhos,Marquinhos,PSG
+3,4721629,250174126,Pacho,Willian Pacho,PSG
+3,4721630,250088061,Hakimi,Achraf Hakimi,PSG
+3,4721631,250090101,Safonov,Matvei Safonov,PSG
+3,4721634,250162177,Doué,Désiré Doué,PSG
+3,4721635,250101808,Kvaratskhelia,Khvicha Kvaratskhelia,PSG
+3,4721636,250177597,Mayulu,Senny Mayulu,PSG
+3,4721640,250160436,Akliouche,Maghnes Akliouche,PSG
+3,4721641,250066886,Dembélé,Ousmane Dembélé,PSG
+3,4721642,250088320,Torres,Ferran Torres,PSG
+3,4721645,250122213,Júnior,Mauro Júnior,PSV
+3,4721650,250112998,Dest,Sergiño Dest,PSV
+3,4721651,250104075,Geertruida,Lutsharel Geertruida,PSV
+3,4721652,250088117,Obispo,Armando Obispo,PSV
+3,4721654,250192037,Fernandez,Noah Fernandez,PSV
+3,4721655,250189506,Flamingo,Ryan Flamingo,PSV
+3,4721656,250171006,Gasiorowski,Yarek Gasiorowski,PSV
+3,4721657,250099671,Til,Guus Til,PSV
+3,4721658,250024301,Kostic,Filip Kostić,PSV
+3,4721660,250218556,Sano,Kodai Sano,PSV
+3,4721661,250117491,Kovar,Matěj Kovář,PSV
+3,4721662,103310,Perisic,Ivan Perišić,PSV
+3,4721663,250200525,Bajraktarevic,Esmir Bajraktarević,PSV
+3,4721664,250104534,Man,Dennis Man,PSV
+3,4721670,250172703,Mijnans,Sven Mijnans,PSV
+3,4721729,250177837,Mora,Rodrigo Mora,ROM
+3,4721730,250166174,Ghilardi,Daniele Ghilardi,ROM
+3,4721731,250058930,Gollini,Pierluigi Gollini,ROM
+3,4721732,250140929,Soulé,Matías Soulé,ROM
+3,4721733,250172673,Molina,Nahuel Molina,ROM
+3,4721734,250129645,Koulierakis,Konstantinos Koulierakis,ROM
+3,4721735,250070130,Pellegrini ,Lorenzo Pellegrini,ROM
+3,4721737,250212323,Wesley,Wesley França,ROM
+3,4721739,250075982,Mancini,Gianluca Mancini,ROM
+3,4721740,250183335,Pisilli,Niccolò Pisilli,ROM
+3,4721744,250063940,Hermoso,Mario Hermoso,ROM
+3,4721747,250123555,Rensch ,Devyne Rensch,ROM
+3,4721749,250081555,Malen,Donyell Malen,ROM
+3,4721751,250196543,Castro,Santiago Castro,ROM
+3,4721840,250210294,Ibrahim,Rahim Ibrahim,SLV
+3,4721841,250221031,Martínez,Cristian Martínez,SLV
+3,4721842,250183092,Marcelli,Nino Marcelli,SLV
+3,4721843,250114171,Pokorný,Peter Pokorný,SLV
+3,4721845,250043066,Wimmer,Kevin Wimmer,SLV
+3,4721846,250061721,Bajric,Kenan Bajrić,SLV
+3,4721847,250139101,Gajdos,Artur Gajdoš,SLV
+3,4721848,250105502,Markovic,Svetozar Marković,SLV
+3,4721851,250116759,Mustafic,Alen Mustafić,SLV
+3,4721852,250157134,Takac,Dominik Takáč,SLV
+3,4721854,250131541,Blackman,César Blackman,SLV
+3,4721855,250116653,Cruz,Sandro Cruz,SLV
+3,4721856,250210296,Yirajang,Alasana Yirajang,SLV
+3,4721857,250013022,Barseghyan,Tigran Barseghyan,SLV
+3,4721858,250193070,Maros,Alexej Maroš,SLV
+3,4721925,250144229,Gueye,Pape Gueye,VIL
+3,4721926,250164935,Veiga,Renato Veiga,VIL
+3,4721927,250210289,Cardona,Sergi Cardona,VIL
+3,4721928,250210288,Navarro,Pau Navarro,VIL
+3,4721929,250188006,Mouriño,Santiago Mouriño,VIL
+3,4721930,250147278,Foyth,Juan Foyth,VIL
+3,4721931,250168991,Moleiro,Alberto Moleiro,VIL
+3,4721932,250188937,Comesaña,Santi Comesaña,VIL
+3,4721933,250209023,Freeman,Alex Freeman,VIL
+3,4721934,102420,Gulácsi,Péter Gulácsi,VIL
+3,4721937,250173127,Buchanan,Tajon Buchanan,VIL
+3,4721940,250075625,Pérez,Ayoze Pérez,VIL
+3,4721941,250074565,Moreno,Gerard Moreno,VIL
+3,4721942,250209018,Saliba,Nathan Saliba,VIL
+3,4721944,250195532,Oluwaseyi,Tani Oluwaseyi,VIL
+3,4721945,250155025,Mikautadze,Georges Mikautadze,VIL
+3,4722533,250090766,Mittelstädt,Maximilian Mittelstädt,VFB
+3,4722534,250106750,Hendriks,Ramon Hendriks,VFB
+3,4722536,250170952,Seimen ,Dennis Seimen,VFB
+3,4722538,250136347,Assignon ,Lorenz Assignon,VFB
+3,4722539,250107477,Chabot,Jeff Chabot,VFB
+3,4722543,250192048,Führich ,Chris Führich,VFB
+3,4722544,250127538,Vagnoman,Josha Vagnoman,VFB
+3,4722545,250164450,Sauer ,Leo Sauer,VFB
+3,4722546,250101240,Prömel,Grischa Prömel,VFB
+3,4722550,250154129,El Khannouss,Bilal El Khannouss,VFB
+3,4722553,250112217,Stiller,Angelo Stiller,VFB
+3,4722557,250138382,Leweling,Jamie Leweling,VFB
+3,4722560,250079383,Demirovic,Ermedin Demirović,VFB
+3,4722561,250194673,Undav ,Deniz Undav,VFB
+3,4722563,250168144,Pejcinovic,Dženan Pejčinović,VFB
+3,4723769,250128118,Balerdi,Leonardo Balerdi,ROM
+3,4723820,250014709,de Roon,Marten de Roon,ROM
+3,4725121,250225023,Allan,Allan Elias,MCI
+3,4725123,250224970,Souza,Souza,FCP
+3,4725131,250102035,David,Jonathan David,ATM
+3,4725133,250174838,Fernández,Enzo Fernández,MCI
+3,4725943,250014109,Mário,João Mário,AEK
+3,4729496,250164834,Koumas,Lewis Koumas,LIV
+3,4721037,250138893,Guimarães,Bruno Guimarães,ARS
+3,4721038,250083732,Rice,Declan Rice,ARS
+3,4721039,250123068,Konsa,Ezri Konsa,ARS
+3,4721041,250131901,Gabriel,Gabriel,ARS
+3,4721043,250181082,Lewis-Skelly,Myles Lewis-Skelly,ARS
+3,4721044,250171278,Raya,David Raya,ARS
+3,4721047,250081341,Ødegaard ,Martin Ødegaard,ARS
+3,4721049,250113392,Calafiori,Riccardo Calafiori,ARS
+3,4721054,250101728,Timber ,Jurriën Timber,ARS
+3,4721055,250134376,Eze,Eberechi Eze,ARS
+3,4721056,250080572,Merino,Mikel Merino,ARS
+3,4721057,250113134,Madueke,Noni Madueke,ARS
+3,4721058,250106939,Saka,Bukayo Saka,ARS
+3,4721062,250087938,Havertz,Kai Havertz,ARS
+3,4721063,250105927,Gyökeres,Viktor Gyökeres,ARS
+3,4721064,250199792,Hemmings,George Hemmings,AVL
+3,4721067,250133856,Mings,Tyrone Mings,AVL
+3,4721068,250058958,McGinn ,John McGinn,AVL
+3,4721069,250007655,Barkley,Ross Barkley,AVL
+3,4721071,250218560,Suzuki,Zion Suzuki,AVL
+3,4721073,250135496,Garnacho,Alejandro Garnacho,AVL
+3,4721076,250055905,Lindelöf,Victor Lindelöf,AVL
+3,4721077,250169376,Cash,Matty Cash,AVL
+3,4721079,250088461,Torres,Pau Torres,AVL
+3,4721082,250080569,Buendía,Emiliano Buendía,AVL
+3,4721085,250221088,Alysson,Alysson,AVL
+3,4721086,250194571,Gomes,João Gomes,AVL
+3,4721087,250041771,Goretzka,Leon Goretzka,AVL
+3,4721090,250067629,Abraham,Tammy Abraham,AVL
+3,4721141,250201120,Karl,Lennart Karl,FCB
+3,4721142,250162325,Kim,Minjae Kim,FCB
+3,4721143,250112220,Stanisic,Josip Stanišić,FCB
+3,4721144,250163777,Pavlovic,Aleksandar Pavlović,FCB
+3,4721146,250065413,Laimer,Konrad Laimer,FCB
+3,4721148,250055660,Tah,Jonathan Tah,FCB
+3,4721149,250079545,Upamecano,Dayot Upamecano,FCB
+3,4721151,250128120,Davies,Alphonso Davies,FCB
+3,4721153,250190350,Brown,Nathaniel Brown,FCB
+3,4721156,97923,Neuer,Manuel Neuer,FCB
+3,4721157,250168211,Bischof,Tom Bischof,FCB
+3,4721158,250132811,Díaz,Luis Díaz,FCB
+3,4721159,250134320,Saibari,Ismael Saibari,FCB
+3,4721160,250041770,Gnabry,Serge Gnabry,FCB
+3,4721162,250016833,Kane,Harry Kane,FCB
+3,4721164,250174874,Ezzalzouli,Abde Ezzalzouli,BET
+3,4721165,250092715,Fornals,Pablo Fornals,BET
+3,4721166,250010245,Bartra,Marc Bartra,BET
+3,4721167,250123073,Roca,Marc Roca,BET
+3,4721170,150711837,Isco,Isco,BET
+3,4721174,250178134,Ortiz,Ángel Ortiz,BET
+3,4721175,250101313,Riquelme,Rodrigo Riquelme,BET
+3,4721177,250187998,Natan,Natan,BET
+3,4721178,250212322,Valles,Álvaro Vallés,BET
+3,4721179,250047082,Bellerín,Héctor Bellerín,BET
+3,4721180,250212313,Deossa,Nelson Deossa,BET
+3,4721181,250100013,Lo Celso,Giovani Lo Celso,BET
+3,4721184,250144211,Antony,Antony,BET
+3,4721188,250109003,Parrott,Troy Parrott,BET
+3,4721242,97746,Sommer,Yann Sommer,BRU
+3,4721243,250192955,Diakhon,Mamadou Diakhon,BRU
+3,4721246,250163786,Seys,Joaquin Seys,BRU
+3,4721247,250138985,Sabbe,Kyriani Sabbe,BRU
+3,4721249,250153677,Spileers,Jorne Spileers,BRU
+3,4721251,250053044,Mechele,Brandon Mechele,BRU
+3,4721252,250115134,Vetlesen,Hugo Vetlesen,BRU
+3,4721253,250064188,Vanaken,Hans Vanaken,BRU
+3,4721254,250138957,Forbs,Carlos Forbs,BRU
+3,4721255,250165376,Potts,Freddie Potts,BRU
+3,4721256,250128898,Siquet,Hugo Siquet,BRU
+3,4721261,250160006,Lemaréchal,Félix Lemaréchal,BRU
+3,4721262,250200748,Virgili,Jan Virgili,BRU
+3,4721264,250181849,Tresoldi,Nicolò Tresoldi,BRU
+3,4721266,250138982,Vermant,Romeo Vermant,BRU
+3,4721329,250174850,Steijn,Sem Steijn,FEY
+3,4721330,250187845,Vanhoutte,Charles Vanhoutte,FEY
+3,4721331,250128150,Ernst,Tjark Ernst,FEY
+3,4721333,250193618,van den Elshout,Tobias van den Elshout ,FEY
+3,4721334,250123956,Mármol,Mika Mármol,FEY
+3,4721335,250187148,Watanabe ,Tsuyoshi Watanabe,FEY
+3,4721336,250198119,Hadj Moussa,Anis Hadj Moussa,FEY
+3,4721337,250087967,St. Juste,Jerry St. Juste,FEY
+3,4721338,250163878,Targhalline,Oussama Targhalline,FEY
+3,4721339,250126914,López,Javi López,FEY
+3,4721342,250208803,Valente ,Luciano Valente,FEY
+3,4721343,250210895,Diarra,Gaoussou Diarra,FEY
+3,4721347,250183808,Read,Givairo Read,FEY
+3,4721348,250178067,Zechiël,Gjivai Zechiël,FEY
+3,4721353,250176378,Ferri,Nacho Ferri,FEY
+3,4721381,250068805,Thuram,Marcus Thuram,INT
+3,4721386,250024370,Zielinski,Piotr Zieliński,INT
+3,4721387,250022829,Çalhanoğlu,Hakan Çalhanoğlu,INT
+3,4721390,250066739,Barella,Nicolò Barella,INT
+3,4721391,250146919,Henrique,Luis Henrique,INT
+3,4721392,250173062,Bonny,Ange-Yoan Bonny,INT
+3,4721393,98023,Mkhitaryan,Henrikh Mkhitaryan,INT
+3,4721394,250135339,Sučić,Petar Sučić,INT
+3,4721395,250085369,Akanji,Manuel Akanji,INT
+3,4721397,250096761,Martínez,Josep Martínez,INT
+3,4721398,250171293,Spence,Djed Spence,INT
+3,4721399,250056189,Dimarco,Federico Dimarco,INT
+3,4721401,250188223,Augusto,Carlos Augusto,INT
+3,4721402,250091199,Bastoni,Alessandro Bastoni,INT
+3,4721404,250136353,Diouf,Andy Diouf,INT
+3,4721405,250116951,Bisseck,Yann Bisseck,INT
+3,4721407,250065421,Schützenauer,Tobias Schützenauer,ASK
+3,4721409,250133203,Andrade,Andrés Andrade,ASK
+3,4721410,250188376,Jungwirth,Lukas Jungwirth,ASK
+3,4721411,250137804,Mbuyamba,Xavier Mbuyamba,ASK
+3,4721414,250197947,Dibango,Yvan Dibango,ASK
+3,4721416,250116667,Jørgensen,Kasper Jørgensen,ASK
+3,4721417,250159904,Flecker,Florian Flecker,ASK
+3,4721419,250174644,Usor,Moses Usor,ASK
+3,4721421,250223201,Adeniran,Samuel Adeniran,ASK
+3,4721422,250130771,Danek,Kryštof Daněk,ASK
+3,4721425,250050403,Schöpf,Alessandro Schöpf,ASK
+3,4721427,250143322,Ljubicic,Robert Ljubičić,ASK
+3,4721428,250162184,Lang,Christoph Lang,ASK
+3,4721429,250055894,Horvath,Sascha Horvath,ASK
+3,4721430,250050319,Thauvin,Florian Thauvin,LEN
+3,4721432,250061132,Aguilar,Ruben Aguilar,LEN
+3,4721433,250139010,Baidoo ,Samson Baidoo,LEN
+3,4721434,250091018,Cuisance,Mickaël Cuisance,LEN
+3,4721436,250102866,Haidara,Amadou Haidara,LEN
+3,4721439,250209953,Titraoui,Yacine Titraoui,LEN
+3,4721440,250189812,Antonio,Kyllian Antonio,LEN
+3,4721443,250181167,Abdulhamid,Saud Abdulhamid,LEN
+3,4721445,250181514,Risser,Robin Risser,LEN
+3,4721447,250012551,Hazard,Thorgan Hazard,LEN
+3,4721449,250221057,Udol,Matthieu Udol,LEN
+3,4721450,250105686,Skoras,Michał Skóraś,LEN
+3,4721451,250076641,Édouard,Odsonne Édouard,LEN
+3,4721453,250169350,Ivanović,Franjo Ivanović,LEN
+3,4721639,250190117,Mbaye,Ibrahim Mbaye,AVL
+3,4721673,250183342,Gomis,Tidiam Gomis,RBL
+3,4721676,250177722,Maksimovic,Andrija Maksimović,RBL
+3,4721677,250144303,Reitz,Rocco Reitz,RBL
+3,4721678,250110361,Raum,David Raum,RBL
+3,4721680,250051754,Orbán,Willi Orbán,RBL
+3,4721681,250089289,Baumgartner,Christoph Baumgartner,RBL
+3,4721684,250104720,Baku,Ridle Baku,RBL
+3,4721686,250114167,Seiwald,Nicolas Seiwald,RBL
+3,4721688,250162917,Finkgräfe,Max Finkgräfe,RBL
+3,4721690,250118787,Vandevoordt,Maarten Vandevoordt,RBL
+3,4721691,250163400,Nusa,Antonio Nusa,RBL
+3,4721692,250124068,Lukeba,Castello Lukeba,RBL
+3,4721693,250178786,Gruda,Brajan Gruda,RBL
+3,4721697,250221087,Rômulo,Rômulo Cardoso,RBL
+3,4721699,250076654,Nkunku,Christopher Nkunku,RBL
+3,4721700,250028211,Rüdiger,Antonio Rüdiger,RMA
+3,4721701,250153945,Carreras,Álvaro Carreras,RMA
+3,4721703,250011668,Courtois,Thibaut Courtois,RMA
+3,4721705,250194474,Huijsen,Dean Huijsen,RMA
+3,4721709,250076168,Cucurella,Marc Cucurella,RMA
+3,4721711,250101284,Valverde ,Federico Valverde,RMA
+3,4721713,250161881,Güler,Arda Güler,RMA
+3,4721714,250128270,Camavinga,Eduardo Camavinga,RMA
+3,4721718,250128377,Bellingham,Jude Bellingham,RMA
+3,4721719,250121533,Vinicius Junior,Vinícius Júnior,RMA
+3,4721721,250088039,Díaz,Brahim Díaz,RMA
+3,4721722,250059115,Silva,Bernardo Silva,RMA
+3,4721723,250220373,Diomande,Yan Diomande,RMA
+3,4721724,250223168,Espí,Carlos Espí,RMA
+3,4721725,250076574,Mbappé ,Kylian Mbappé,RMA
+3,4721726,250194573,Endrick,Endrick,RMA
+3,4721727,250187059,El Aynaoui,Neil El Aynaoui,RBL
+3,4721777,250193518,Gomes,Marlon Gomes,SHK
+3,4721784,250123440,Nazaryna,Yehor Nazaryna,SHK
+3,4721787,250121017,Riznyk,Dmytro Riznyk,SHK
+3,4721788,250176491,Tobias,Vinícius Tobías,SHK
+3,4721789,250134776,Ocheretko,Oleh Ocheretko,SHK
+3,4721791,250187672,Henrique,Pedro Henrique,SHK
+3,4721792,250087118,Bondar,Valeriy Bondar,SHK
+3,4721793,250212206,Isaque,Isaque,SHK
+3,4721795,250220576,Mendoza,Gleiker Mendoza,SHK
+3,4721798,250209228,Alisson,Alisson Santana,SHK
+3,4721800,250144964,Pedrinho,Pedrinho,SHK
+3,4721803,250224146,Bruninho,Bruninho,SHK
+3,4721805,250209227,Elias,Kauã Elias,SHK
+3,4721806,250128222,Traoré,Lassina Traoré,SHK
+3,4721866,250117415,Quaresma,Eduardo Quaresma,SCP
+3,4721868,250145845,Catamo,Geny Catamo,SCP
+3,4721871,250200231,Araújo,Maximiliano Araújo,SCP
+3,4721876,250130006,Altimira,Sergi Altimira,SCP
+3,4721877,250136464,Inácio,Gonçalo Inácio,SCP
+3,4721879,250179137,Fresneda,Iván Fresneda,SCP
+3,4721883,250180059,Simões ,João Simões,SCP
+3,4721887,250208842,Doumbia,Issa Doumbia,SCP
+3,4721888,250198116,Irankunda,Nestory Irankunda,SCP
+3,4721889,250216956,Guilherme,Luis Guilherme,SCP
+3,4721891,250127400,Ioannidis,Fotis Ioannidis,SCP
+3,4721892,250147458,Suárez,Luis Suárez,SCP
+3,4721893,1905505,Østbø,Arild Østbø,VIK
+3,4721895,250103750,Daland,Jesper Daland,VIK
+3,4721898,250174059,Stensness,Gianni Stensness,VIK
+3,4721902,250138504,Bell,Joe Bell,VIK
+3,4721903,250144866,Heggheim,Henrik Heggheim,VIK
+3,4721907,250196225,Auklend,Vetle Auklend,VIK
+3,4721909,250117864,Askildsen,Kristoffer Askildsen,VIK
+3,4721912,250174185,Kvia-Egeskog,Simen Kvia-Egeskog,VIK
+3,4721914,250169944,Moi,Tobias Moi,VIK
+3,4721915,250051338,Tripic,Zlatko Tripić,VIK
+3,4721917,250215287,Cosic,Amin Cosic,VIK
+3,4721919,250145630,Christiansen,Peter Christiansen,VIK
+3,4722531,250163689,Jackson,Nicolas Jackson,AVL
+3,4722567,250224837,Pereira,Kaique Pereira,SCP
+3,4723768,250116789,Kalajdzic,Sasa Kalajdzic,ASK
+3,4725124,250118957,Kadile,Junior Kadile,LEN
+3,4725128,250128268,Todibo,Jean-Clair Todibo,LEN
+3,4725134,250086709,Ceballos,Dani Ceballos,BET
+3,4725379,250201827,Bassey,Essiën Bassey,VIK
+3,4725380,250102068,Botheim,Erik Botheim,VIK
+3,4725384,250192702,Derry,Jesse Derry,SCP
+3,4725948,250065289,Bjørdal,Henrik Bjørdal,VIK
+4,4721036,250129972,Mosquera,Cristhian Mosquera,ARS
+4,4721038,250083732,Rice,Declan Rice,ARS
+4,4721039,250123068,Konsa,Ezri Konsa,ARS
+4,4721041,250131901,Gabriel,Gabriel,ARS
+4,4721042,250143679,Zubimendi,Martín Zubimendi,ARS
+4,4721044,250171278,Raya,David Raya,ARS
+4,4721045,250170117,Nwaneri,Ethan Nwaneri,BVB
+4,4721046,250156002,White,Ben White,ARS
+4,4721047,250081341,Ødegaard ,Martin Ødegaard,ARS
+4,4721048,250163454,Hincapié,Piero Hincapié,ARS
+4,4721054,250101728,Timber ,Jurriën Timber,ARS
+4,4721055,250134376,Eze,Eberechi Eze,ARS
+4,4721056,250080572,Merino,Mikel Merino,ARS
+4,4721057,250113134,Madueke,Noni Madueke,ARS
+4,4721060,250124460,Tzolis,Christos Tzolis,ARS
+4,4721063,250105927,Gyökeres,Viktor Gyökeres,ARS
+4,4721164,250174874,Ezzalzouli,Abde Ezzalzouli,BET
+4,4721167,250123073,Roca,Marc Roca,BET
+4,4721168,250221822,Bernal,Facundo Bernal,BET
+4,4721170,150711837,Isco,Isco,BET
+4,4721172,250212314,Gómez,Valentín Gómez,BET
+4,4721174,250178134,Ortiz,Ángel Ortiz,BET
+4,4721176,250057121,Llorente,Diego Llorente,BET
+4,4721177,250187998,Natan,Natan,BET
+4,4721178,250212322,Valles,Álvaro Vallés,BET
+4,4721180,250212313,Deossa,Nelson Deossa,BET
+4,4721184,250144211,Antony,Antony,BET
+4,4721186,250163279,Ruibal,Aitor Ruibal,BET
+4,4721188,250109003,Parrott,Troy Parrott,BET
+4,4721218,250156423,Svensson,Daniel Svensson,BVB
+4,4721219,250119677,Bensebaini,Ramy Bensebaini,BVB
+4,4721221,250080553,Guirassy,Serhou Guirassy,BVB
+4,4721222,250124222,Beier,Maximilian Beier,BVB
+4,4721224,250167832,Bellingham,Jobe Bellingham,BVB
+4,4721225,250113350,Silva,Fábio Silva,BVB
+4,4721226,250105890,Veerman,Joey Veerman,BVB
+4,4721227,250182174,Karetsas,Konstantinos Karetsas,BVB
+4,4721229,250112224,Nmecha,Felix Nmecha,BVB
+4,4721230,250134856,Schlotterbeck ,Nico Schlotterbeck,BVB
+4,4721232,250092517,Ryerson,Julian Ryerson,BVB
+4,4721233,250101238,Anton,Waldemar Anton,BVB
+4,4721234,250177594,Gadou,Joane Gadou,BVB
+4,4721235,250169276,Chukwuemeka,Carney Chukwuemeka,BVB
+4,4721239,250069832,Kobel,Gregor Kobel,BVB
+4,4721242,97746,Sommer,Yann Sommer,BRU
+4,4721243,250192955,Diakhon,Mamadou Diakhon,BRU
+4,4721246,250163786,Seys,Joaquin Seys,BRU
+4,4721247,250138985,Sabbe,Kyriani Sabbe,BRU
+4,4721249,250153677,Spileers,Jorne Spileers,BRU
+4,4721251,250053044,Mechele,Brandon Mechele,BRU
+4,4721252,250115134,Vetlesen,Hugo Vetlesen,BRU
+4,4721253,250064188,Vanaken,Hans Vanaken,BRU
+4,4721254,250138957,Forbs,Carlos Forbs,BRU
+4,4721255,250165376,Potts,Freddie Potts,BRU
+4,4721256,250128898,Siquet,Hugo Siquet,BRU
+4,4721261,250160006,Lemaréchal,Félix Lemaréchal,BRU
+4,4721262,250200748,Virgili,Jan Virgili,BRU
+4,4721264,250181849,Tresoldi,Nicolò Tresoldi,BRU
+4,4721266,250138982,Vermant,Romeo Vermant,BRU
+4,4721268,250153621,Paz,Nico Paz,COM
+4,4721269,250182962,Liberali,Mattia Liberali,COM
+4,4721273,250176488,Ramón,Jacobo Ramón,COM
+4,4721275,250074004,Butez,Jean Butez,COM
+4,4721277,250116003,Da Cunha ,Lucas Da Cunha,COM
+4,4721280,250182150,Perrone,Máximo Perrone,COM
+4,4721281,250163731,Couto,Yan Couto,COM
+4,4721282,250113686,Smolcic,Ivan Smolčić,COM
+4,4721284,250164785,Valle,Àlex Valle,COM
+4,4721286,250046524,Kempf,Marc-Oliver Kempf,COM
+4,4721287,250140940,Baturina,Martin Baturina,COM
+4,4721289,250063509,Milla,Luis Milla,COM
+4,4721295,250116683,Douvikas,Tasos Douvikas,COM
+4,4721430,250050319,Thauvin,Florian Thauvin,LEN
+4,4721432,250061132,Aguilar,Ruben Aguilar,LEN
+4,4721433,250139010,Baidoo ,Samson Baidoo,LEN
+4,4721434,250091018,Cuisance,Mickaël Cuisance,LEN
+4,4721436,250102866,Haidara,Amadou Haidara,LEN
+4,4721440,250189812,Antonio,Kyllian Antonio,LEN
+4,4721443,250181167,Abdulhamid,Saud Abdulhamid,LEN
+4,4721445,250181514,Risser,Robin Risser,LEN
+4,4721447,250012551,Hazard,Thorgan Hazard,LEN
+4,4721448,250173262,Bulatovic,Andrija Bulatović,LEN
+4,4721449,250221057,Udol,Matthieu Udol,LEN
+4,4721450,250105686,Skoras,Michał Skóraś,LEN
+4,4721453,250169350,Ivanović,Franjo Ivanović,LEN
+4,4721509,250187698,Khusanov,Abdukodir Khusanov,MCI
+4,4721511,250101534,Foden,Phil Foden,MCI
+4,4721513,250165221,O'Reilly,Nico O’Reilly,MCI
+4,4721514,250117617,Anderson,Elliot Anderson,MCI
+4,4721517,250145803,Nunes,Matheus Nunes,MCI
+4,4721519,250086928,Guéhi,Marc Guéhi,MCI
+4,4721521,250058220,Dias,Rúben Dias,MCI
+4,4721522,250078922,Donnarumma,Gianluigi Donnarumma,MCI
+4,4721524,250023551,Kovacic,Mateo Kovačić,MCI
+4,4721528,250124063,Cherki,Rayan Cherki,MCI
+4,4721531,250191448,Bouaddi,Ayyoub Bouaddi,MCI
+4,4721532,250103758,Haaland,Erling Haaland,MCI
+4,4721533,250113142,Doku ,Jeremy Doku,MCI
+4,4721566,250088240,McTominay,Scott McTominay,NAP
+4,4721567,250059233,Rrahmani,Amir Rrahmani,NAP
+4,4721568,250161248,Beukema,Sam Beukema,NAP
+4,4721570,250107117,Gilmour,Billy Gilmour,NAP
+4,4721574,250086987,Anguissa,Frank Anguissa,NAP
+4,4721575,250008901,De Bruyne,Kevin De Bruyne,NAP
+4,4721577,250129412,Marín,Rafa Marín,NAP
+4,4721581,250165363,Vergara,Antonio Vergara,NAP
+4,4721582,250066753,Meret,Alex Meret,NAP
+4,4721584,250091165,Lang,Noa Lang,NAP
+4,4721587,250050381,Politano,Matteo Politano,NAP
+4,4721590,250164476,Lucca,Lorenzo Lucca,NAP
+4,4721591,250222131,Giovane,Giovane,NAP
+4,4721592,250130221,Højlund,Rasmus Højlund,NAP
+4,4721594,250144327,Sanusi,Zaidu Sanusi,FCP
+4,4721596,250153874,Veiga,Gabriel Veiga,FCP
+4,4721598,250169957,Froholdt,Victor Froholdt,FCP
+4,4721599,250056266,Bednarek,Jan Bednarek,FCP
+4,4721600,250174182,Costa,Alberto Costa,FCP
+4,4721602,250134536,Hwang,Inbeom Hwang,FCP
+4,4721603,250137272,Sainz,Borja Sainz,FCP
+4,4721604,250097271,Rosario,Pablo Rosario,FCP
+4,4721608,250076675,Costa ,Diogo Costa,FCP
+4,4721609,250163559,Fernandes,Martim Fernandes,FCP
+4,4721611,250105681,Kiwior,Jakub Kiwior,FCP
+4,4721613,250159919,Pepê,Pepê,FCP
+4,4721615,250042773,Fofana,Seko Fofana,FCP
+4,4721616,250042521,Silva,André Silva,FCP
+4,4721617,250186228,Aghehowa ,Samu,FCP
+4,4721645,250122213,Júnior,Mauro Júnior,PSV
+4,4721647,250187458,van Bommel,Ruben van Bommel,PSV
+4,4721650,250112998,Dest,Sergiño Dest,PSV
+4,4721651,250104075,Geertruida,Lutsharel Geertruida,PSV
+4,4721652,250088117,Obispo,Armando Obispo,PSV
+4,4721657,250099671,Til,Guus Til,PSV
+4,4721658,250024301,Kostic,Filip Kostić,PSV
+4,4721660,250218556,Sano,Kodai Sano,PSV
+4,4721661,250117491,Kovar,Matěj Kovář,PSV
+4,4721662,103310,Perisic,Ivan Perišić,PSV
+4,4721663,250200525,Bajraktarevic,Esmir Bajraktarević,PSV
+4,4721666,250187620,Pepi,Ricardo Pepi,PSV
+4,4721670,250172703,Mijnans,Sven Mijnans,PSV
+4,4721672,250058258,Henrichs,Benjamin Henrichs,RBL
+4,4721673,250183342,Gomis,Tidiam Gomis,RBL
+4,4721677,250144303,Reitz,Rocco Reitz,RBL
+4,4721678,250110361,Raum,David Raum,RBL
+4,4721680,250051754,Orbán,Willi Orbán,RBL
+4,4721681,250089289,Baumgartner,Christoph Baumgartner,RBL
+4,4721684,250104720,Baku,Ridle Baku,RBL
+4,4721686,250114167,Seiwald,Nicolas Seiwald,RBL
+4,4721690,250118787,Vandevoordt,Maarten Vandevoordt,RBL
+4,4721691,250163400,Nusa,Antonio Nusa,RBL
+4,4721692,250124068,Lukeba,Castello Lukeba,RBL
+4,4721693,250178786,Gruda,Brajan Gruda,RBL
+4,4721694,250171161,Banzuzi,Ezechiel Banzuzi,RBL
+4,4721697,250221087,Rômulo,Rômulo Cardoso,RBL
+4,4721699,250076654,Nkunku,Christopher Nkunku,RBL
+4,4721727,250187059,El Aynaoui,Neil El Aynaoui,RBL
+4,4721752,250090285,Puchacz,Tymoteusz Puchacz,SABA
+4,4721753,250209341,Solvet,Steve Solvet,SABA
+4,4721754,250186986,Dashdamirov,Rahman Dashdamirov,SABA
+4,4721757,250221230,McCarthy,Aden McCarthy,SABA
+4,4721758,250059361,Pokatilov,Stas Pokatilov,SABA
+4,4721761,250209340,Rakhmonaliev,Umarali Rakhmonaliev,SABA
+4,4721764,250188243,Zedadka,Akim Zedadka,SABA
+4,4721767,250110583,Lepinjica,Ivan Lepinjica,SABA
+4,4721768,250169206,Aliyev ,Khayal Aliyev,SABA
+4,4721770,250042209,Simic,Veljko Simić,SABA
+4,4721771,250196599,Nwachukwu,Christian Nwachukwu,SABA
+4,4721773,250221487,Severina,Xander Severina,SABA
+4,4721775,250081185,Mickels,Joy-Lance Mickels,SABA
+4,4721776,250198298,Mbina,Orphé Mbina,SABA
+4,4721809,250124916,Zima,David Zima,SLA
+4,4721811,250223131,N'Guessan,Ange N'Guessan,SLA
+4,4721812,250170001,Konecny,Mikuláš Konečný,SLA
+4,4721814,250215254,Domchak,Nazar Domchak,SLA
+4,4721816,250190353,Chaloupek,Štěpán Chaloupek,SLA
+4,4721818,250115749,Vlcek,Tomáš Vlček,SLA
+4,4721820,250166772,Jurásek ,David Jurásek,SLA
+4,4721821,250077931,Sadílek,Michal Sadílek,SLA
+4,4721823,250054481,Holes,Tomáš Holeš,SLA
+4,4721825,250210225,Moses,David Moses,SLA
+4,4721828,250211977,Suleiman,Mubarak Suleiman,SLA
+4,4721829,250158167,Sturm,Danijel Šturm,SLA
+4,4721830,250212505,Nowak,Wiktor Nowak,SLA
+4,4721832,250223128,Ayaosi,Emmanuel Ayaosi,SLA
+4,4721833,250223130,Kubiak ,Oskar Kubiak,SLA
+4,4721836,250092161,Chytil,Mojmír Chytil,SLA
+4,4721893,1905505,Østbø,Arild Østbø,VIK
+4,4721896,250139481,Falchener,Henrik Falchener,VIK
+4,4721898,250174059,Stensness,Gianni Stensness,VIK
+4,4721903,250144866,Heggheim,Henrik Heggheim,VIK
+4,4721907,250196225,Auklend,Vetle Auklend,VIK
+4,4721908,250210217,Hansen,Jakob Hansen,VIK
+4,4721909,250117864,Askildsen,Kristoffer Askildsen,VIK
+4,4721912,250174185,Kvia-Egeskog,Simen Kvia-Egeskog,VIK
+4,4721914,250169944,Moi,Tobias Moi,VIK
+4,4721915,250051338,Tripic,Zlatko Tripić,VIK
+4,4721916,250203364,Fuglestad,Niklas Fuglestad,VIK
+4,4721919,250145630,Christiansen,Peter Christiansen,VIK
+4,4722566,250117839,Ricci,Samuele Ricci,COM
+4,4725121,250225023,Allan,Allan Elias,MCI
+4,4725122,250177879,Gimenez ,Santiago Giménez,FCP
+4,4725124,250118957,Kadile,Junior Kadile,LEN
+4,4725132,250181626,Ndiaye,Iliman Ndiaye,MCI
+4,4725133,250174838,Fernández,Enzo Fernández,MCI
+4,4725134,250086709,Ceballos,Dani Ceballos,BET
+4,4725380,250102068,Botheim,Erik Botheim,VIK
+4,4725458,250225045,Queiroz,Du Queiroz,SABA
+4,4725948,250065289,Bjørdal,Henrik Bjørdal,VIK
+4,4731044,250208751,Mesloub,Mezian Mesloub Soares,LEN

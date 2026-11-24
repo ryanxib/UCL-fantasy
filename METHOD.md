@@ -6,8 +6,7 @@
 - Lead with the answer. Say what is checked, what is assumed, what is missing. Never invent a number that should come from data.
 
 ## Contest rules (FanTeam UCL 2026-27)
-**All TBC.** Working assumption: same scoring as FanTeam EPL (copied below from `epl.dfs` METHOD.md, where it is
-confirmed for EPL). Confirm against the first UCL contest's rules JSON before trusting it here.
+Scoring CONFIRMED 24 Nov 2026 (see below).
 Per contest, always read from the rules JSON: budget, max per club, captain multiplier, safety net.
 
 ### Seen in contest JSON (CONFIRMED for that contest)
@@ -20,22 +19,29 @@ Pool CSV for UCL: Tournament, PlayerID, Name, FName, Club (3-letter code), Lineu
 injured / suspended), Position (goalkeeper / defender / midfielder / forward), Price. Club codes for GW5: AEK ARS BET BVB
 COM FCP FEY LEN MCI NAP PSV RBL RMA SLV.
 
-### Scoring (EPL, confirmed there; TBC for UCL)
+### Scoring (CONFIRMED for UCL, 24 Nov 2026: rules page + data check)
+Source: FanTeam football rules page, owner screenshots `data/manual/fanteam_rules_2026-11-24.md`. Same table as EPL.
+Data check `scripts/check_scoring.py` -> `data/ref/scoring_check.md`: UEFA stats scored with this table v FanTeam points,
+MD2-4, 543 player-matches with full information: 93% match exactly or within the +-0.3 impact term; mean residual 0.00.
 | Event | GK | DEF | MID | FWD |
 |---|---|---|---|---|
 | Appearance | 1 | 1 | 1 | 1 |
-| 60+ minutes (extra) | +1 | +1 | +1 | +1 |
+| 60+ full minutes (extra) | +1 | +1 | +1 | +1 |
 | Goal | 8 | 6 | 5 | 4 |
-| Assist | 3 | 3 | 3 | 3 |
-| Clean sheet (while on the pitch; subbed off after 60 keeps it) | 4 | 4 | 1 | 0 |
+| Assist (fantasy assist) | 3 | 3 | 3 | 3 |
+| Clean sheet (60+ min on pitch) | 4 | 4 | 1 | 0 |
 | Goals conceded while on pitch | -1 per 2 | -1 per 2 | 0 | 0 |
-| Shot on target | 1.0 (not modelled) | 0.6 | 0.4 | 0.4 |
-| Save | 0.5 each | - | - | - |
-| Full-match bonus | - | - | +1 | +1 |
-Win while on pitch +0.3, loss -0.3. Yellow -1, red -3 (a red replaces a yellow). No FPL-style bonus points.
-Open (from EPL): does the full-match bonus need start and finish, or just being on at full time?
-TBC (2021 article, not FanTeam): no shot-on-target points when that shot is a goal or gives an assist. Check against data.
-The FanTeam API has no scoring table (probe 24 Nov, `data/ref/fanteam_rules_probe.md`): confirm scoring from raw stats v points.
+| Shot on target (a goal is NOT also a shot on target) | 1.0 | 0.6 | 0.4 | 0.4 |
+| Save | 0.5 | - | - | - |
+| Penalty save | 5 | - | - | - |
+| Played full match (started, not subbed off) | - | - | +1 | +1 |
+All: yellow -1, red -3, own goal -2, caused a penalty -2, caused a scoring free kick -2, penalty miss -2.
+Impact: +0.3 if the team won the time the player was on the pitch, -0.3 if it lost. Captain 2x (contest JSON).
+Fantasy assist is wider than the official assist: winning a penalty or free kick that is scored, rebounds off the post,
+forcing an own goal. Seen in data: +3.0/+3.3 residuals = one extra fantasy assist.
+Data notes (24 Nov): UEFA `minutes_played_official` = 60 can be under 60 full minutes (no 60+ point; 2 cases). UEFA GK
+`saves` often run 1-2 above FanTeam's save count: do not use UEFA saves as FanTeam saves without a correction.
+UEFA per-player `goals_conceded` is 0 for outfield players: use team score + time on pitch instead.
 
 ## Model rules (v1)
 - Bookmaker prices first. Remove margin; mean of books.

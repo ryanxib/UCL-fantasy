@@ -1,5 +1,17 @@
 # Log (newest first)
 
+## 2026-11-24 Scoring confirmed for UCL
+- Owner sent 8 screenshots of the FanTeam football rules page. Transcribed: `data/manual/fanteam_rules_2026-11-24.md`.
+- Same table as EPL. New vs METHOD: own goal -2, caused penalty -2, scoring free kick -2, penalty miss -2, penalty save 5,
+  60+ means 60 FULL minutes, full match = started and not subbed off, a goal is not also a shot on target. METHOD.md updated.
+- Data check (`scripts/check_scoring.py` -> `data/ref/scoring_check.md`): UEFA MD2-4 stats scored with the table v FanTeam
+  points. 1,065 linked player-matches (club codes 70/70 mapped, 17 non-zero FanTeam players not linked). Of 543 with full
+  information (on for the whole match, or forwards): 93% exact or off by the 0.3 impact term; mean residual 0.00.
+  Rest explained: extra fantasy assists (+3), UEFA GK saves 1-2 above FanTeam's, 60 official minutes < 60 full minutes,
+  penalty misses / caused penalties not in our stat set.
+- First run used UEFA per-player goals_conceded: it is 0 for outfield players. Fixed: opponent final score for full-match rows.
+- New: `data/clean/points/link_uefa_fanteam.csv` (UEFA id <-> FanTeam id, MD2-4). Starting point for stage 2 linking.
+
 ## 2026-11-24 UEFA per-player per-match stats, MD1-4 (research)
 - Probe (`uefa` Action, `scripts/probe_uefa.py`): found the per-match player stats endpoint. Facts in `data/ref/uefa_api.md`.
 - Pull (`uefa_stats` Action, `scripts/fetch_uefa_stats.py`): `data/clean/uefa/player_match.csv`, report `pull_report.md`.
