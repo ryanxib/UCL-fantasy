@@ -1,0 +1,5017 @@
+{
+ "awayTeam": {
+  "bench": [
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 30,
+    "player": {
+     "age": "21",
+     "birthDate": "2005-08-04",
+     "clubId": "60457",
+     "clubJerseyNumber": "30",
+     "clubShirtName": "Edwards",
+     "countryCode": "ENG",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "GOALKEEPER",
+     "gender": "MALE",
+     "id": "250186685",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250186685.jpg",
+     "internationalName": "Jack Edwards",
+     "nationalFieldPosition": "GOALKEEPER",
+     "nationalShirtName": "Edwards",
+     "translations": {
+      "countryName": {
+       "EN": "England",
+       "FR": "Angleterre",
+       "DE": "England",
+       "ES": "Inglaterra",
+       "PT": "Inglaterra",
+       "IT": "Inghilterra",
+       "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+       "ZH": "\u82f1\u683c\u5170",
+       "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Goalkeeper",
+       "FR": "Gardien",
+       "DE": "Torh\u00fcter",
+       "ES": "Portero",
+       "PT": "Guarda-redes",
+       "IT": "Portiere",
+       "RU": "\u0412\u0440\u0430\u0442\u0430\u0440\u044c",
+       "ZH": "\u5b88\u95e8\u5458",
+       "AR": "\u062d\u0627\u0631\u0633 \u0645\u0631\u0645\u0649"
+      },
+      "firstName": {
+       "EN": "Jack",
+       "FR": "Jack",
+       "DE": "Jack",
+       "ES": "Jack",
+       "PT": "Jack",
+       "IT": "Jack",
+       "RU": "\u0414\u0436\u0435\u043a",
+       "ZH": "Jack",
+       "AR": "\u062c\u0627\u0643 "
+      },
+      "lastName": {
+       "EN": "Edwards",
+       "FR": "Edwards",
+       "DE": "Edwards",
+       "ES": "Edwards",
+       "PT": "Edwards",
+       "IT": "Edwards",
+       "RU": "\u042d\u0434\u0432\u0430\u0440\u0434\u0441",
+       "ZH": "Edwards",
+       "AR": "\u0625\u062f\u0648\u0627\u0631\u062f\u0632"
+      },
+      "name": {
+       "EN": "Jack Edwards",
+       "FR": "Jack Edwards",
+       "DE": "Jack Edwards",
+       "ES": "Jack Edwards",
+       "PT": "Jack Edwards",
+       "IT": "Jack Edwards",
+       "RU": "\u0414\u0436\u0435\u043a \u042d\u0434\u0432\u0430\u0440\u0434\u0441",
+       "ZH": "Jack Edwards",
+       "AR": "\u062c\u0627\u0643 \u0625\u062f\u0648\u0627\u0631\u062f\u0632"
+      },
+      "nationalFieldPosition": {
+       "EN": "Goalkeeper",
+       "FR": "Gardien",
+       "DE": "Torh\u00fcter",
+       "ES": "Portero",
+       "PT": "Guarda-redes",
+       "IT": "Portiere",
+       "RU": "\u0412\u0440\u0430\u0442\u0430\u0440\u044c",
+       "ZH": "\u5b88\u95e8\u5458",
+       "AR": "\u062d\u0627\u0631\u0633 \u0645\u0631\u0645\u0649"
+      },
+      "shortName": {
+       "EN": "Edwards",
+       "FR": "Edwards",
+       "DE": "Edwards",
+       "ES": "Edwards",
+       "PT": "Edwards",
+       "IT": "Edwards",
+       "RU": "\u042d\u0434\u0432\u0430\u0440\u0434\u0441",
+       "ZH": "Edwards",
+       "AR": "\u0625\u062f\u0648\u0627\u0631\u062f\u0632"
+      }
+     }
+    },
+    "type": "GOALKEEPER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 3,
+    "player": {
+     "age": "19",
+     "birthDate": "2006-12-01",
+     "clubId": "60457",
+     "clubJerseyNumber": "3",
+     "clubShirtName": "Godwin",
+     "countryCode": "ENG",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250221474",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250221474.jpg",
+     "internationalName": "Isaac Godwin",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalShirtName": "Godwin",
+     "translations": {
+      "countryName": {
+       "EN": "England",
+       "FR": "Angleterre",
+       "DE": "England",
+       "ES": "Inglaterra",
+       "PT": "Inglaterra",
+       "IT": "Inghilterra",
+       "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+       "ZH": "\u82f1\u683c\u5170",
+       "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Isaac",
+       "FR": "Isaac",
+       "DE": "Isaac",
+       "ES": "Isaac",
+       "PT": "Isaac",
+       "IT": "Isaac",
+       "RU": "\u0410\u0439\u0437\u0435\u043a",
+       "ZH": "Isaac",
+       "AR": "\u0625\u0633\u062d\u0627\u0642 "
+      },
+      "lastName": {
+       "EN": "Godwin",
+       "FR": "Godwin",
+       "DE": "Godwin",
+       "ES": "Godwin",
+       "PT": "Godwin",
+       "IT": "Godwin",
+       "RU": "\u0413\u043e\u0434\u0443\u0438\u043d",
+       "ZH": "Godwin",
+       "AR": "\u062c\u0648\u062f\u0648\u064a\u0646"
+      },
+      "name": {
+       "EN": "Isaac Godwin",
+       "FR": "Isaac Godwin",
+       "DE": "Isaac Godwin",
+       "ES": "Isaac Godwin",
+       "PT": "Isaac Godwin",
+       "IT": "Isaac Godwin",
+       "RU": "\u0410\u0439\u0437\u0435\u043a \u0413\u043e\u0434\u0443\u0438\u043d",
+       "ZH": "Isaac Godwin",
+       "AR": "\u0625\u0633\u062d\u0627\u0642 \u062c\u0648\u062f\u0648\u064a\u0646"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "Godwin",
+       "FR": "Godwin",
+       "DE": "Godwin",
+       "ES": "Godwin",
+       "PT": "Godwin",
+       "IT": "Godwin",
+       "RU": "\u0413\u043e\u0434\u0443\u0438\u043d",
+       "ZH": "Godwin",
+       "AR": "\u062c\u0648\u062f\u0648\u064a\u0646"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 8,
+    "player": {
+     "age": "33",
+     "birthDate": "1993-03-05",
+     "clubId": "60457",
+     "clubJerseyNumber": "8",
+     "clubShirtName": "Brobbel",
+     "countryCode": "ENG",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250058997",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250058997.jpg",
+     "internationalName": "Ryan Brobbel",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalShirtName": "Brobbell",
+     "nationalTeamId": "200063",
+     "translations": {
+      "countryName": {
+       "EN": "England",
+       "FR": "Angleterre",
+       "DE": "England",
+       "ES": "Inglaterra",
+       "PT": "Inglaterra",
+       "IT": "Inghilterra",
+       "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+       "ZH": "\u82f1\u683c\u5170",
+       "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Ryan",
+       "FR": "Ryan",
+       "DE": "Ryan",
+       "ES": "Ryan",
+       "PT": "Ryan",
+       "IT": "Ryan",
+       "RU": "\u0420\u0430\u0439\u0430\u043d",
+       "ZH": "\u745e\u6069",
+       "AR": "\u0631\u064a\u0627\u0646 "
+      },
+      "lastName": {
+       "EN": "Brobbel",
+       "FR": "Brobbel",
+       "DE": "Brobbel",
+       "ES": "Brobbel",
+       "PT": "Brobbel",
+       "IT": "Brobbel",
+       "RU": "\u0411\u0440\u043e\u0431\u0431\u0435\u043b",
+       "ZH": "\u5e03\u6d1b\u8d1d\u5c14",
+       "AR": "\u0628\u0631\u0648\u0628\u064a\u0644"
+      },
+      "name": {
+       "EN": "Ryan Brobbel",
+       "FR": "Ryan Brobbel",
+       "DE": "Ryan Brobbel",
+       "ES": "Ryan Brobbel",
+       "PT": "Ryan Brobbel",
+       "IT": "Ryan Brobbel",
+       "RU": "\u0420\u0430\u0439\u0430\u043d \u0411\u0440\u043e\u0431\u0431\u0435\u043b",
+       "ZH": "\u745e\u6069\u00b7\u5e03\u6d1b\u8d1d\u5c14",
+       "AR": "\u0631\u064a\u0627\u0646 \u0628\u0631\u0648\u0628\u064a\u0644"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Brobbel",
+       "FR": "Brobbel",
+       "DE": "Brobbel",
+       "ES": "Brobbel",
+       "PT": "Brobbel",
+       "IT": "Brobbel",
+       "RU": "\u0411\u0440\u043e\u0431\u0431\u0435\u043b",
+       "ZH": "\u5e03\u6d1b\u8d1d\u5c14",
+       "AR": "\u0628\u0631\u0648\u0628\u064a\u0644"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 12,
+    "player": {
+     "age": "23",
+     "birthDate": "2003-09-25",
+     "clubId": "60457",
+     "clubJerseyNumber": "12",
+     "clubShirtName": "Godsmark-Ford",
+     "countryCode": "ENG",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250209409",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250209409.jpg",
+     "internationalName": "Harvey Godsmark-Ford",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalShirtName": "Godsmark-Ford",
+     "translations": {
+      "countryName": {
+       "EN": "England",
+       "FR": "Angleterre",
+       "DE": "England",
+       "ES": "Inglaterra",
+       "PT": "Inglaterra",
+       "IT": "Inghilterra",
+       "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+       "ZH": "\u82f1\u683c\u5170",
+       "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Harvey",
+       "FR": "Harvey",
+       "DE": "Harvey",
+       "ES": "Harvey",
+       "PT": "Harvey",
+       "IT": "Harvey",
+       "RU": "\u0425\u0430\u0440\u0432\u0438",
+       "ZH": "Harvey",
+       "AR": "\u0647\u0627\u0631\u0641\u064a "
+      },
+      "lastName": {
+       "EN": "Godsmark-Ford",
+       "FR": "Godsmark-Ford",
+       "DE": "Godsmark-Ford",
+       "ES": "Godsmark-Ford",
+       "PT": "Godsmark-Ford",
+       "IT": "Godsmark-Ford",
+       "RU": "\u0413\u043e\u0434\u0441\u043c\u0430\u0440\u043a-\u0424\u043e\u0440\u0434",
+       "ZH": "Godsmark-Ford",
+       "AR": "\u062c\u0648\u062f\u0633\u0645\u0627\u0631\u0643-\u0641\u0648\u0631\u062f"
+      },
+      "name": {
+       "EN": "Harvey Godsmark-Ford",
+       "FR": "Harvey Godsmark-Ford",
+       "DE": "Harvey Godsmark-Ford",
+       "ES": "Harvey Godsmark-Ford",
+       "PT": "Harvey Godsmark-Ford",
+       "IT": "Harvey Godsmark-Ford",
+       "RU": "\u0425\u0430\u0440\u0432\u0438 \u0413\u043e\u0434\u0441\u043c\u0430\u0440\u043a-\u0424\u043e\u0440\u0434",
+       "ZH": "Harvey Godsmark-Ford",
+       "AR": "\u0647\u0627\u0631\u0641\u064a \u062c\u0648\u062f\u0633\u0645\u0627\u0631\u0643-\u0641\u0648\u0631\u062f"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "Godsmark-Ford",
+       "FR": "Godsmark-Ford",
+       "DE": "Godsmark-Ford",
+       "ES": "Godsmark-Ford",
+       "PT": "Godsmark-Ford",
+       "IT": "Godsmark-Ford",
+       "RU": "\u0413\u043e\u0434\u0441\u043c\u0430\u0440\u043a-\u0424\u043e\u0440\u0434",
+       "ZH": "Godsmark-Ford",
+       "AR": "\u062c\u0648\u062f\u0633\u0645\u0627\u0631\u0643-\u0641\u0648\u0631\u062f"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 22,
+    "player": {
+     "age": "31",
+     "birthDate": "1995-06-28",
+     "clubId": "60457",
+     "clubJerseyNumber": "22",
+     "clubShirtName": "Davies",
+     "countryCode": "WAL",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250141377",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250141377.jpg",
+     "internationalName": "Daniel Davies",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalShirtName": "Davies",
+     "translations": {
+      "countryName": {
+       "EN": "Wales",
+       "FR": "Pays de Galles",
+       "DE": "Wales",
+       "ES": "Gales",
+       "PT": "Pa\u00eds de Gales",
+       "IT": "Galles",
+       "RU": "\u0423\u044d\u043b\u044c\u0441",
+       "ZH": "\u5a01\u5c14\u58eb",
+       "AR": "\u0648\u064a\u0644\u0632"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Daniel",
+       "FR": "Daniel",
+       "DE": "Daniel",
+       "ES": "Daniel",
+       "PT": "Daniel",
+       "IT": "Daniel",
+       "RU": "\u0414\u044d\u043d\u0438\u044d\u043b",
+       "ZH": "Daniel",
+       "AR": "\u062f\u0627\u0646\u064a\u0627\u0644 "
+      },
+      "lastName": {
+       "EN": "Davies",
+       "FR": "Davies",
+       "DE": "Davies",
+       "ES": "Davies",
+       "PT": "Davies",
+       "IT": "Davies",
+       "RU": "\u0414\u044d\u0432\u0438\u0441",
+       "ZH": "Davies",
+       "AR": "\u062f\u064a\u0641\u064a\u0632"
+      },
+      "name": {
+       "EN": "Daniel Davies",
+       "FR": "Daniel Davies",
+       "DE": "Daniel Davies",
+       "ES": "Daniel Davies",
+       "PT": "Daniel Davies",
+       "IT": "Daniel Davies",
+       "RU": "\u0414\u044d\u043d\u0438\u044d\u043b \u0414\u044d\u0432\u0438\u0441",
+       "ZH": "Daniel Davies",
+       "AR": "\u062f\u0627\u0646\u064a\u0627\u0644 \u062f\u064a\u0641\u064a\u0632"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "D. Davies",
+       "FR": "D. Davies",
+       "DE": "D. Davies",
+       "ES": "D. Davies",
+       "PT": "D. Davies",
+       "IT": "D. Davies",
+       "RU": "\u0414. \u0414\u044d\u0432\u0438\u0441",
+       "ZH": "D. Davies",
+       "AR": "\u062f\u064a\u0641\u064a\u0632"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 23,
+    "player": {
+     "age": "21",
+     "birthDate": "2005-02-05",
+     "clubId": "60457",
+     "clubJerseyNumber": "23",
+     "clubShirtName": "Nolan",
+     "countryCode": "IRL",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250221119",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250221119.jpg",
+     "internationalName": "Zach Nolan",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalShirtName": "Nolan",
+     "translations": {
+      "countryName": {
+       "EN": "Republic of Ireland",
+       "FR": "Eire",
+       "DE": "Republik Irland",
+       "ES": "Rep\u00fablica de Irlanda",
+       "PT": "Rep\u00fablica da Irlanda",
+       "IT": "Repubblica d'Irlanda",
+       "RU": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+       "ZH": "\u7231\u5c14\u5170",
+       "AR": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0623\u064a\u0631\u0644\u0646\u062f\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Zach",
+       "FR": "Zach",
+       "DE": "Zach",
+       "ES": "Zach",
+       "PT": "Zach",
+       "IT": "Zach",
+       "RU": "\u0417\u0430\u043a",
+       "ZH": "Zach",
+       "AR": "\u0632\u0627\u0643 "
+      },
+      "lastName": {
+       "EN": "Nolan",
+       "FR": "Nolan",
+       "DE": "Nolan",
+       "ES": "Nolan",
+       "PT": "Nolan",
+       "IT": "Nolan",
+       "RU": "\u041d\u043e\u043b\u0430\u043d",
+       "ZH": "Nolan",
+       "AR": "\u0646\u0648\u0644\u0627\u0646"
+      },
+      "name": {
+       "EN": "Zach Nolan",
+       "FR": "Zach Nolan",
+       "DE": "Zach Nolan",
+       "ES": "Zach Nolan",
+       "PT": "Zach Nolan",
+       "IT": "Zach Nolan",
+       "RU": "\u0417\u0430\u043a \u041d\u043e\u043b\u0430\u043d",
+       "ZH": "Zach Nolan",
+       "AR": "\u0632\u0627\u0643 \u0646\u0648\u0644\u0627\u0646"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "Nolan",
+       "FR": "Nolan",
+       "DE": "Nolan",
+       "ES": "Nolan",
+       "PT": "Nolan",
+       "IT": "Nolan",
+       "RU": "\u041d\u043e\u043b\u0430\u043d",
+       "ZH": "Nolan",
+       "AR": "\u0646\u0648\u0644\u0627\u0646"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 24,
+    "player": {
+     "age": "22",
+     "birthDate": "2004-10-31",
+     "clubId": "60457",
+     "clubJerseyNumber": "24",
+     "clubShirtName": "Nadin",
+     "countryCode": "ENG",
+     "fieldPosition": "FORWARD",
+     "gender": "MALE",
+     "id": "250209410",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250209410.jpg",
+     "internationalName": "Jack Nadin",
+     "nationalFieldPosition": "FORWARD",
+     "nationalShirtName": "Nadin",
+     "translations": {
+      "countryName": {
+       "EN": "England",
+       "FR": "Angleterre",
+       "DE": "England",
+       "ES": "Inglaterra",
+       "PT": "Inglaterra",
+       "IT": "Inghilterra",
+       "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+       "ZH": "\u82f1\u683c\u5170",
+       "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "firstName": {
+       "EN": "Jack",
+       "FR": "Jack",
+       "DE": "Jack",
+       "ES": "Jack",
+       "PT": "Jack",
+       "IT": "Jack",
+       "RU": "\u0414\u0436\u0435\u043a",
+       "ZH": "Jack",
+       "AR": "\u062c\u0627\u0643 "
+      },
+      "lastName": {
+       "EN": "Nadin",
+       "FR": "Nadin",
+       "DE": "Nadin",
+       "ES": "Nadin",
+       "PT": "Nadin",
+       "IT": "Nadin",
+       "RU": "\u041d\u044d\u0434\u0438\u043d",
+       "ZH": "Nadin",
+       "AR": "\u0646\u0627\u062f\u064a\u0646"
+      },
+      "name": {
+       "EN": "Jack Nadin",
+       "FR": "Jack Nadin",
+       "DE": "Jack Nadin",
+       "ES": "Jack Nadin",
+       "PT": "Jack Nadin",
+       "IT": "Jack Nadin",
+       "RU": "\u0414\u0436\u0435\u043a \u041d\u044d\u0434\u0438\u043d",
+       "ZH": "Jack Nadin",
+       "AR": "\u062c\u0627\u0643 \u0646\u0627\u062f\u064a\u0646"
+      },
+      "nationalFieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "shortName": {
+       "EN": "Nadin",
+       "FR": "Nadin",
+       "DE": "Nadin",
+       "ES": "Nadin",
+       "PT": "Nadin",
+       "IT": "Nadin",
+       "RU": "\u041d\u044d\u0434\u0438\u043d",
+       "ZH": "Nadin",
+       "AR": "\u0646\u0627\u062f\u064a\u0646"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 26,
+    "player": {
+     "age": "21",
+     "birthDate": "2005-11-21",
+     "clubId": "60457",
+     "clubJerseyNumber": "26",
+     "clubShirtName": "Phillips",
+     "countryCode": "WAL",
+     "fieldPosition": "FORWARD",
+     "gender": "MALE",
+     "id": "250209412",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250209412.jpg",
+     "internationalName": "Louis Phillips",
+     "nationalFieldPosition": "FORWARD",
+     "nationalShirtName": "Philippe",
+     "translations": {
+      "countryName": {
+       "EN": "Wales",
+       "FR": "Pays de Galles",
+       "DE": "Wales",
+       "ES": "Gales",
+       "PT": "Pa\u00eds de Gales",
+       "IT": "Galles",
+       "RU": "\u0423\u044d\u043b\u044c\u0441",
+       "ZH": "\u5a01\u5c14\u58eb",
+       "AR": "\u0648\u064a\u0644\u0632"
+      },
+      "fieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "firstName": {
+       "EN": "Louis",
+       "FR": "Louis",
+       "DE": "Louis",
+       "ES": "Louis",
+       "PT": "Louis",
+       "IT": "Louis",
+       "RU": "\u041b\u0443\u0438",
+       "ZH": "Louis",
+       "AR": "\u0644\u0648\u064a\u0633 "
+      },
+      "lastName": {
+       "EN": "Phillips",
+       "FR": "Phillips",
+       "DE": "Phillips",
+       "ES": "Phillips",
+       "PT": "Phillips",
+       "IT": "Phillips",
+       "RU": "\u0424\u0438\u043b\u043b\u0438\u043f\u0441",
+       "ZH": "Phillips",
+       "AR": "\u0641\u064a\u0644\u064a\u0628\u0633"
+      },
+      "name": {
+       "EN": "Louis Phillips",
+       "FR": "Louis Phillips",
+       "DE": "Louis Phillips",
+       "ES": "Louis Phillips",
+       "PT": "Louis Phillips",
+       "IT": "Louis Phillips",
+       "RU": "\u041b\u0443\u0438 \u0424\u0438\u043b\u043b\u0438\u043f\u0441",
+       "ZH": "Louis Phillips",
+       "AR": "\u0644\u0648\u064a\u0633 \u0641\u064a\u0644\u064a\u0628\u0633"
+      },
+      "nationalFieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "shortName": {
+       "EN": "Phillips",
+       "FR": "Phillips",
+       "DE": "Phillips",
+       "ES": "Phillips",
+       "PT": "Phillips",
+       "IT": "Phillips",
+       "RU": "\u0424\u0438\u043b\u043b\u0438\u043f\u0441",
+       "ZH": "Phillips",
+       "AR": "\u0641\u064a\u0644\u064a\u0628\u0633"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 27,
+    "player": {
+     "age": "22",
+     "birthDate": "2003-12-17",
+     "clubId": "60457",
+     "clubJerseyNumber": "27",
+     "clubShirtName": "Canavan",
+     "countryCode": "ENG",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250157295",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250157295.jpg",
+     "internationalName": "Jake Canavan",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalShirtName": "Canavan",
+     "translations": {
+      "countryName": {
+       "EN": "England",
+       "FR": "Angleterre",
+       "DE": "England",
+       "ES": "Inglaterra",
+       "PT": "Inglaterra",
+       "IT": "Inghilterra",
+       "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+       "ZH": "\u82f1\u683c\u5170",
+       "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Jake",
+       "FR": "Jake",
+       "DE": "Jake",
+       "ES": "Jake",
+       "PT": "Jake",
+       "IT": "Jake",
+       "RU": "\u0414\u0436\u0435\u0439\u043a",
+       "ZH": "Jake",
+       "AR": "\u062c\u064a\u0643 "
+      },
+      "lastName": {
+       "EN": "Canavan",
+       "FR": "Canavan",
+       "DE": "Canavan",
+       "ES": "Canavan",
+       "PT": "Canavan",
+       "IT": "Canavan",
+       "RU": "\u041a\u044d\u043d\u0430\u0432\u0430\u043d",
+       "ZH": "Canavan",
+       "AR": "\u0643\u0627\u0646\u0627\u0641\u0627\u0646"
+      },
+      "name": {
+       "EN": "Jake Canavan",
+       "FR": "Jake Canavan",
+       "DE": "Jake Canavan",
+       "ES": "Jake Canavan",
+       "PT": "Jake Canavan",
+       "IT": "Jake Canavan",
+       "RU": "\u0414\u0436\u0435\u0439\u043a \u041a\u044d\u043d\u0430\u0432\u0430\u043d",
+       "ZH": "Jake Canavan",
+       "AR": "\u062c\u064a\u0643 \u0643\u0627\u0646\u0627\u0641\u0627\u0646"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Canavan",
+       "FR": "Canavan",
+       "DE": "Canavan",
+       "ES": "Canavan",
+       "PT": "Canavan",
+       "IT": "Canavan",
+       "RU": "\u041a\u044d\u043d\u0430\u0432\u0430\u043d",
+       "ZH": "Canavan",
+       "AR": "\u0643\u0627\u0646\u0627\u0641\u0627\u0646"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 31,
+    "player": {
+     "age": "22",
+     "birthDate": "2003-11-30",
+     "clubId": "60457",
+     "clubJerseyNumber": "31",
+     "clubShirtName": "Woollam",
+     "countryCode": "ENG",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250173994",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250173994.jpg",
+     "internationalName": "Ben Woollam",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalShirtName": "Woollam",
+     "translations": {
+      "countryName": {
+       "EN": "England",
+       "FR": "Angleterre",
+       "DE": "England",
+       "ES": "Inglaterra",
+       "PT": "Inglaterra",
+       "IT": "Inghilterra",
+       "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+       "ZH": "\u82f1\u683c\u5170",
+       "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Ben",
+       "FR": "Ben",
+       "DE": "Ben",
+       "ES": "Ben",
+       "PT": "Ben",
+       "IT": "Ben",
+       "RU": "\u0411\u0435\u043d",
+       "ZH": "Ben",
+       "AR": "\u0628\u0646\u064a\u0627\u0645\u064a\u0646 "
+      },
+      "lastName": {
+       "EN": "Woollam",
+       "FR": "Woollam",
+       "DE": "Woollam",
+       "ES": "Woollam",
+       "PT": "Woollam",
+       "IT": "Woollam",
+       "RU": "\u0412\u0443\u043b\u043b\u044d\u043c",
+       "ZH": "Woollam",
+       "AR": "\u0648\u0648\u0644\u0627\u0645"
+      },
+      "name": {
+       "EN": "Ben Woollam",
+       "FR": "Ben Woollam",
+       "DE": "Ben Woollam",
+       "ES": "Ben Woollam",
+       "PT": "Ben Woollam",
+       "IT": "Ben Woollam",
+       "RU": "\u0411\u0435\u043d \u0412\u0443\u043b\u043b\u044d\u043c",
+       "ZH": "Ben Woollam",
+       "AR": "\u0628\u0646\u064a\u0627\u0645\u064a\u0646 \u0648\u0648\u0644\u0627\u0645"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "Woollam",
+       "FR": "Woollam",
+       "DE": "Woollam",
+       "ES": "Woollam",
+       "PT": "Woollam",
+       "IT": "Woollam",
+       "RU": "\u0412\u0443\u043b\u043b\u044d\u043c",
+       "ZH": "Woollam",
+       "AR": "\u0648\u0648\u0644\u0627\u0645"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 34,
+    "player": {
+     "age": "22",
+     "birthDate": "2003-12-19",
+     "clubId": "60457",
+     "clubJerseyNumber": "34",
+     "clubShirtName": "Lock",
+     "countryCode": "WAL",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250173991",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250173991.jpg",
+     "internationalName": "Joshua Lock",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalShirtName": "Lock",
+     "translations": {
+      "countryName": {
+       "EN": "Wales",
+       "FR": "Pays de Galles",
+       "DE": "Wales",
+       "ES": "Gales",
+       "PT": "Pa\u00eds de Gales",
+       "IT": "Galles",
+       "RU": "\u0423\u044d\u043b\u044c\u0441",
+       "ZH": "\u5a01\u5c14\u58eb",
+       "AR": "\u0648\u064a\u0644\u0632"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Joshua",
+       "FR": "Joshua",
+       "DE": "Joshua",
+       "ES": "Joshua",
+       "PT": "Joshua",
+       "IT": "Joshua",
+       "RU": "\u0414\u0436\u043e\u0448\u0443\u0430",
+       "ZH": "Joshua",
+       "AR": "\u062c\u0648\u0634\u0648\u0627 "
+      },
+      "lastName": {
+       "EN": "Lock",
+       "FR": "Lock",
+       "DE": "Lock",
+       "ES": "Lock",
+       "PT": "Lock",
+       "IT": "Lock",
+       "RU": "\u041b\u043e\u043a",
+       "ZH": "Lock",
+       "AR": "\u0644\u0648\u0643"
+      },
+      "name": {
+       "EN": "Joshua Lock",
+       "FR": "Joshua Lock",
+       "DE": "Joshua Lock",
+       "ES": "Joshua Lock",
+       "PT": "Joshua Lock",
+       "IT": "Joshua Lock",
+       "RU": "\u0414\u0436\u043e\u0448\u0443\u0430 \u041b\u043e\u043a",
+       "ZH": "Joshua Lock",
+       "AR": "\u062c\u0648\u0634\u0648\u0627 \u0644\u0648\u0643"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Lock",
+       "FR": "Lock",
+       "DE": "Lock",
+       "ES": "Lock",
+       "PT": "Lock",
+       "IT": "Lock",
+       "RU": "\u041b\u043e\u043a",
+       "ZH": "Lock",
+       "AR": "\u0644\u0648\u0643"
+      }
+     }
+    },
+    "type": "PLAYER"
+   }
+  ],
+  "coaches": [
+   {
+    "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250016123.jpg",
+    "person": {
+     "countryCode": "ENG",
+     "gender": "MALE",
+     "id": "250016123",
+     "translations": {
+      "countryName": {
+       "EN": "England",
+       "FR": "Angleterre",
+       "DE": "England",
+       "ES": "Inglaterra",
+       "PT": "Inglaterra",
+       "IT": "Inghilterra",
+       "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+       "ZH": "\u82f1\u683c\u5170",
+       "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+      },
+      "firstName": {
+       "EN": "Craig",
+       "FR": "Craig",
+       "DE": "Craig",
+       "ES": "Craig",
+       "PT": "Craig",
+       "IT": "Craig",
+       "RU": "Craig",
+       "ZH": "Craig",
+       "AR": "\u0643\u0631\u064a\u062c "
+      },
+      "lastName": {
+       "EN": "Harrison",
+       "FR": "Harrison",
+       "DE": "Harrison",
+       "ES": "Harrison",
+       "PT": "Harrison",
+       "IT": "Harrison",
+       "RU": "Harrison",
+       "ZH": "Harrison",
+       "AR": "\u0647\u0627\u0631\u064a\u0633\u0648\u0646"
+      },
+      "name": {
+       "EN": "Craig Harrison",
+       "FR": "Craig Harrison",
+       "DE": "Craig Harrison",
+       "ES": "Craig Harrison",
+       "PT": "Craig Harrison",
+       "IT": "Craig Harrison",
+       "RU": "\u041a\u0440\u0435\u0439\u0433 \u0425\u0430\u0440\u0440\u0438\u0441\u043e\u043d",
+       "ZH": "Craig Harrison",
+       "AR": "\u0643\u0631\u064a\u062c \u0647\u0627\u0631\u064a\u0633\u0648\u0646"
+      },
+      "shortName": {
+       "EN": "Harrison",
+       "FR": "Harrison",
+       "DE": "Harrison",
+       "ES": "Harrison",
+       "PT": "Harrison",
+       "IT": "Harrison",
+       "RU": "\u0425\u0430\u0440\u0440\u0438\u0441\u043e\u043d",
+       "ZH": "Harrison",
+       "AR": "\u0647\u0627\u0631\u064a\u0633\u0648\u0646"
+      }
+     }
+    },
+    "role": "COACH",
+    "translations": {
+     "role": {
+      "EN": "Coach",
+      "FR": "Entra\u00eeneur",
+      "DE": "Trainer",
+      "ES": "Entrenador",
+      "PT": "Treinador",
+      "IT": "Allenatore",
+      "RU": "\u0422\u0440\u0435\u043d\u0435\u0440",
+      "ZH": "Treinador",
+      "AR": "\u0645\u062f\u064a\u0631 \u0641\u0646\u064a"
+     }
+    }
+   }
+  ],
+  "field": [
+   {
+    "fieldCoordinate": {
+     "x": 500,
+     "y": 50
+    },
+    "fspFieldCoordinate": {
+     "x": 4725,
+     "y": 0
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 1,
+    "player": {
+     "age": "26",
+     "birthDate": "2000-09-10",
+     "clubId": "60457",
+     "clubJerseyNumber": "1",
+     "clubShirtName": "Shepperd",
+     "countryCode": "WAL",
+     "fieldPosition": "GOALKEEPER",
+     "gender": "MALE",
+     "id": "250156231",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250156231.jpg",
+     "internationalName": "Nathan Shepperd",
+     "nationalFieldPosition": "GOALKEEPER",
+     "nationalJerseyNumber": "21",
+     "nationalShirtName": "Shepperd",
+     "nationalTeamId": "200144",
+     "translations": {
+      "countryName": {
+       "EN": "Wales",
+       "FR": "Pays de Galles",
+       "DE": "Wales",
+       "ES": "Gales",
+       "PT": "Pa\u00eds de Gales",
+       "IT": "Galles",
+       "RU": "\u0423\u044d\u043b\u044c\u0441",
+       "ZH": "\u5a01\u5c14\u58eb",
+       "AR": "\u0648\u064a\u0644\u0632"
+      },
+      "fieldPosition": {
+       "EN": "Goalkeeper",
+       "FR": "Gardien",
+       "DE": "Torh\u00fcter",
+       "ES": "Portero",
+       "PT": "Guarda-redes",
+       "IT": "Portiere",
+       "RU": "\u0412\u0440\u0430\u0442\u0430\u0440\u044c",
+       "ZH": "\u5b88\u95e8\u5458",
+       "AR": "\u062d\u0627\u0631\u0633 \u0645\u0631\u0645\u0649"
+      },
+      "firstName": {
+       "EN": "Nathan",
+       "FR": "Nathan",
+       "DE": "Nathan",
+       "ES": "Nathan",
+       "PT": "Nathan",
+       "IT": "Nathan",
+       "RU": "\u041d\u0435\u0439\u0442\u0430\u043d",
+       "ZH": "Nathan",
+       "AR": "\u0646\u0627\u062b\u0627\u0646 "
+      },
+      "lastName": {
+       "EN": "Shepperd",
+       "FR": "Shepperd",
+       "DE": "Shepperd",
+       "ES": "Shepperd",
+       "PT": "Shepperd",
+       "IT": "Shepperd",
+       "RU": "\u0428\u0435\u043f\u043f\u0435\u0440\u0434",
+       "ZH": "Shepperd",
+       "AR": "\u0634\u064a\u0628\u0631\u062f"
+      },
+      "name": {
+       "EN": "Nathan Shepperd",
+       "FR": "Nathan Shepperd",
+       "DE": "Nathan Shepperd",
+       "ES": "Nathan Shepperd",
+       "PT": "Nathan Shepperd",
+       "IT": "Nathan Shepperd",
+       "RU": "\u041d\u0435\u0439\u0442\u0430\u043d \u0428\u0435\u043f\u043f\u0435\u0440\u0434",
+       "ZH": "Nathan Shepperd",
+       "AR": "\u0646\u0627\u062b\u0627\u0646 \u0634\u064a\u0628\u0631\u062f"
+      },
+      "nationalFieldPosition": {
+       "EN": "Goalkeeper",
+       "FR": "Gardien",
+       "DE": "Torh\u00fcter",
+       "ES": "Portero",
+       "PT": "Guarda-redes",
+       "IT": "Portiere",
+       "RU": "\u0412\u0440\u0430\u0442\u0430\u0440\u044c",
+       "ZH": "\u5b88\u95e8\u5458",
+       "AR": "\u062d\u0627\u0631\u0633 \u0645\u0631\u0645\u0649"
+      },
+      "shortName": {
+       "EN": "Shepperd",
+       "FR": "Shepperd",
+       "DE": "Shepperd",
+       "ES": "Shepperd",
+       "PT": "Shepperd",
+       "IT": "Shepperd",
+       "RU": "\u0428\u0435\u043f\u043f\u0435\u0440\u0434",
+       "ZH": "Shepperd",
+       "AR": "\u0634\u064a\u0628\u0631\u062f"
+      }
+     }
+    },
+    "type": "GOALKEEPER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 500,
+     "y": 500
+    },
+    "fspFieldCoordinate": {
+     "x": 0,
+     "y": 0
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 4,
+    "player": {
+     "age": "23",
+     "birthDate": "2003-05-05",
+     "clubId": "60457",
+     "clubJerseyNumber": "4",
+     "clubShirtName": "Corness",
+     "countryCode": "ENG",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250124395",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250124395.jpg",
+     "internationalName": "Dominic Corness",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalShirtName": "Corness",
+     "translations": {
+      "countryName": {
+       "EN": "England",
+       "FR": "Angleterre",
+       "DE": "England",
+       "ES": "Inglaterra",
+       "PT": "Inglaterra",
+       "IT": "Inghilterra",
+       "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+       "ZH": "\u82f1\u683c\u5170",
+       "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Dominic",
+       "FR": "Dominic",
+       "DE": "Dominic",
+       "ES": "Dominic",
+       "PT": "Dominic",
+       "IT": "Dominic",
+       "RU": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a",
+       "ZH": "\u591a\u7c73\u5c3c\u514b",
+       "AR": "\u062f\u0648\u0645\u064a\u0646\u064a\u0643 "
+      },
+      "lastName": {
+       "EN": "Corness",
+       "FR": "Corness",
+       "DE": "Corness",
+       "ES": "Corness",
+       "PT": "Corness",
+       "IT": "Corness",
+       "RU": "\u041a\u043e\u0440\u043d\u0435\u0441\u0441",
+       "ZH": "\u79d1\u5185\u65af",
+       "AR": "\u0643\u0648\u0631\u0646\u064a\u0633"
+      },
+      "name": {
+       "EN": "Dominic Corness",
+       "FR": "Dominic Corness",
+       "DE": "Dominic Corness",
+       "ES": "Dominic Corness",
+       "PT": "Dominic Corness",
+       "IT": "Dominic Corness",
+       "RU": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a \u041a\u043e\u0440\u043d\u0435\u0441\u0441",
+       "ZH": "\u591a\u7c73\u5c3c\u514b\u00b7\u79d1\u5185\u65af",
+       "AR": "\u062f\u0648\u0645\u064a\u0646\u064a\u0643 \u0643\u0648\u0631\u0646\u064a\u0633"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Corness",
+       "FR": "Corness",
+       "DE": "Corness",
+       "ES": "Corness",
+       "PT": "Corness",
+       "IT": "Corness",
+       "RU": "\u041a\u043e\u0440\u043d\u0435\u0441\u0441",
+       "ZH": "\u79d1\u5185\u65af",
+       "AR": "\u0643\u0648\u0631\u0646\u064a\u0633"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 600,
+     "y": 250
+    },
+    "fspFieldCoordinate": {
+     "x": 2625,
+     "y": -680
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 6,
+    "player": {
+     "age": "27",
+     "birthDate": "1999-09-29",
+     "clubId": "60457",
+     "clubJerseyNumber": "6",
+     "clubShirtName": "Bodenham",
+     "countryCode": "WAL",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250116632",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250116632.jpg",
+     "internationalName": "Jack Bodenham",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalJerseyNumber": "18",
+     "nationalShirtName": "Bodenham",
+     "nationalTeamId": "300144",
+     "translations": {
+      "countryName": {
+       "EN": "Wales",
+       "FR": "Pays de Galles",
+       "DE": "Wales",
+       "ES": "Gales",
+       "PT": "Pa\u00eds de Gales",
+       "IT": "Galles",
+       "RU": "\u0423\u044d\u043b\u044c\u0441",
+       "ZH": "\u5a01\u5c14\u58eb",
+       "AR": "\u0648\u064a\u0644\u0632"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Jack",
+       "FR": "Jack",
+       "DE": "Jack",
+       "ES": "Jack",
+       "PT": "Jack",
+       "IT": "Jack",
+       "RU": "\u0414\u0436\u0435\u043a",
+       "ZH": "Jack, Tomas",
+       "AR": "\u062c\u0627\u0643 "
+      },
+      "lastName": {
+       "EN": "Bodenham",
+       "FR": "Bodenham",
+       "DE": "Bodenham",
+       "ES": "Bodenham",
+       "PT": "Bodenham",
+       "IT": "Bodenham",
+       "RU": "\u0411\u043e\u0434\u0435\u043d\u0435\u043c",
+       "ZH": "Bodenham",
+       "AR": "\u0628\u0648\u062f\u0646\u0647\u0627\u0645"
+      },
+      "name": {
+       "EN": "Jack Bodenham",
+       "FR": "Jack Bodenham",
+       "DE": "Jack Bodenham",
+       "ES": "Jack Bodenham",
+       "PT": "Jack Bodenham",
+       "IT": "Jack Bodenham",
+       "RU": "\u0414\u0436\u0435\u043a \u0411\u043e\u0434\u0435\u043d\u0435\u043c",
+       "ZH": "Jack, Tomas Bodenham",
+       "AR": "\u062c\u0627\u0643 \u0628\u0648\u062f\u0646\u0647\u0627\u0645"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "Bodenham",
+       "FR": "Bodenham",
+       "DE": "Bodenham",
+       "ES": "Bodenham",
+       "PT": "Bodenham",
+       "IT": "Bodenham",
+       "RU": "\u0411\u043e\u0434\u0435\u043d\u0435\u043c",
+       "ZH": "Bodenham",
+       "AR": "\u0628\u0648\u062f\u0646\u0647\u0627\u0645"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 800,
+     "y": 250
+    },
+    "fspFieldCoordinate": {
+     "x": 2625,
+     "y": -2040
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 10,
+    "player": {
+     "age": "35",
+     "birthDate": "1991-03-02",
+     "clubId": "60457",
+     "clubJerseyNumber": "10",
+     "clubShirtName": "Redmond",
+     "countryCode": "ENG",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250120246",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250120246.jpg",
+     "internationalName": "Daniel Redmond",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalShirtName": "Redmond",
+     "translations": {
+      "countryName": {
+       "EN": "England",
+       "FR": "Angleterre",
+       "DE": "England",
+       "ES": "Inglaterra",
+       "PT": "Inglaterra",
+       "IT": "Inghilterra",
+       "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+       "ZH": "\u82f1\u683c\u5170",
+       "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Daniel",
+       "FR": "Daniel",
+       "DE": "Daniel",
+       "ES": "Daniel",
+       "PT": "Daniel",
+       "IT": "Daniel",
+       "RU": "\u0414\u044d\u043d\u0438\u044d\u043b",
+       "ZH": "Daniel",
+       "AR": "\u062f\u0627\u0646\u064a\u0627\u0644 "
+      },
+      "lastName": {
+       "EN": "Redmond",
+       "FR": "Redmond",
+       "DE": "Redmond",
+       "ES": "Redmond",
+       "PT": "Redmond",
+       "IT": "Redmond",
+       "RU": "\u0420\u0435\u0434\u043c\u043e\u043d\u0434",
+       "ZH": "Redmond",
+       "AR": "\u0631\u064a\u062f\u0645\u0648\u0646\u062f"
+      },
+      "name": {
+       "EN": "Daniel Redmond",
+       "FR": "Daniel Redmond",
+       "DE": "Daniel Redmond",
+       "ES": "Daniel Redmond",
+       "PT": "Daniel Redmond",
+       "IT": "Daniel Redmond",
+       "RU": "\u0414\u044d\u043d\u0438\u044d\u043b \u0420\u0435\u0434\u043c\u043e\u043d\u0434",
+       "ZH": "Daniel Redmond",
+       "AR": "\u062f\u0627\u0646\u064a\u0627\u0644 \u0631\u064a\u062f\u0645\u0648\u0646\u062f"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Redmond",
+       "FR": "Redmond",
+       "DE": "Redmond",
+       "ES": "Redmond",
+       "PT": "Redmond",
+       "IT": "Redmond",
+       "RU": "\u0420\u0435\u0434\u043c\u043e\u043d\u0434",
+       "ZH": "Redmond",
+       "AR": "\u0631\u064a\u062f\u0645\u0648\u0646\u062f"
+      }
+     }
+    },
+    "type": "CAPTAIN"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 200,
+     "y": 250
+    },
+    "fspFieldCoordinate": {
+     "x": 2625,
+     "y": 2040
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 14,
+    "player": {
+     "age": "25",
+     "birthDate": "2001-04-19",
+     "clubId": "60457",
+     "clubJerseyNumber": "14",
+     "clubShirtName": "Williams",
+     "countryCode": "WAL",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250147059",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250147059.jpg",
+     "internationalName": "Daniel Williams",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalJerseyNumber": "8",
+     "nationalShirtName": "Williams",
+     "nationalTeamId": "200144",
+     "translations": {
+      "countryName": {
+       "EN": "Wales",
+       "FR": "Pays de Galles",
+       "DE": "Wales",
+       "ES": "Gales",
+       "PT": "Pa\u00eds de Gales",
+       "IT": "Galles",
+       "RU": "\u0423\u044d\u043b\u044c\u0441",
+       "ZH": "\u5a01\u5c14\u58eb",
+       "AR": "\u0648\u064a\u0644\u0632"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Daniel",
+       "FR": "Daniel",
+       "DE": "Daniel",
+       "ES": "Daniel",
+       "PT": "Daniel",
+       "IT": "Daniel",
+       "RU": "\u0414\u044d\u043d",
+       "ZH": "\u4e39\u5c3c\u5c14",
+       "AR": "\u062f\u0627\u0646\u064a\u0627\u0644 "
+      },
+      "lastName": {
+       "EN": "Williams",
+       "FR": "Williams",
+       "DE": "Williams",
+       "ES": "Williams",
+       "PT": "Williams",
+       "IT": "Williams",
+       "RU": "\u0423\u0438\u043b\u044c\u044f\u043c\u0441",
+       "ZH": "\u5a01\u5ec9\u59c6\u65af",
+       "AR": "\u0648\u064a\u0644\u064a\u0627\u0645\u0632"
+      },
+      "name": {
+       "EN": "Daniel Williams",
+       "FR": "Daniel Williams",
+       "DE": "Daniel Williams",
+       "ES": "Daniel Williams",
+       "PT": "Daniel Williams",
+       "IT": "Daniel Williams",
+       "RU": "\u0414\u044d\u043d \u0423\u0438\u043b\u044c\u044f\u043c\u0441",
+       "ZH": "\u4e39\u5c3c\u5c14-\u5a01\u5ec9\u59c6\u65af",
+       "AR": "\u062f\u0627\u0646\u064a\u0627\u0644 \u0648\u064a\u0644\u064a\u0627\u0645\u0632"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Williams",
+       "FR": "Williams",
+       "DE": "Williams",
+       "ES": "Williams",
+       "PT": "Williams",
+       "IT": "Williams",
+       "RU": "\u0414. \u0423\u0438\u043b\u044c\u044f\u043c\u0441",
+       "ZH": "\u5a01\u5ec9\u59c6\u65af",
+       "AR": "\u0648\u064a\u0644\u064a\u0627\u0645\u0632"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 700,
+     "y": 500
+    },
+    "fspFieldCoordinate": {
+     "x": 0,
+     "y": -1360
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 15,
+    "player": {
+     "age": "24",
+     "birthDate": "2002-03-27",
+     "clubId": "60457",
+     "clubJerseyNumber": "15",
+     "clubShirtName": "Farrell",
+     "countryCode": "IRL",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250221118",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250221118.jpg",
+     "internationalName": "Eoin Farrell",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalShirtName": "Farrell",
+     "translations": {
+      "countryName": {
+       "EN": "Republic of Ireland",
+       "FR": "Eire",
+       "DE": "Republik Irland",
+       "ES": "Rep\u00fablica de Irlanda",
+       "PT": "Rep\u00fablica da Irlanda",
+       "IT": "Repubblica d'Irlanda",
+       "RU": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+       "ZH": "\u7231\u5c14\u5170",
+       "AR": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0623\u064a\u0631\u0644\u0646\u062f\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Eoin",
+       "FR": "Eoin",
+       "DE": "Eoin",
+       "ES": "Eoin",
+       "PT": "Eoin",
+       "IT": "Eoin",
+       "RU": "\u041e\u0443\u044d\u043d",
+       "ZH": "Eoin",
+       "AR": "\u0625\u0648\u064a\u0646 "
+      },
+      "lastName": {
+       "EN": "Farrell",
+       "FR": "Farrell",
+       "DE": "Farrell",
+       "ES": "Farrell",
+       "PT": "Farrell",
+       "IT": "Farrell",
+       "RU": "\u0424\u0430\u0440\u0440\u0435\u043b\u043b",
+       "ZH": "Farrell",
+       "AR": "\u0641\u0627\u0631\u064a\u0644"
+      },
+      "name": {
+       "EN": "Eoin Farrell",
+       "FR": "Eoin Farrell",
+       "DE": "Eoin Farrell",
+       "ES": "Eoin Farrell",
+       "PT": "Eoin Farrell",
+       "IT": "Eoin Farrell",
+       "RU": "\u041e\u0443\u044d\u043d \u0424\u0430\u0440\u0440\u0435\u043b\u043b",
+       "ZH": "Eoin Farrell",
+       "AR": "\u0625\u0648\u064a\u0646 \u0641\u0627\u0631\u064a\u0644"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Farrell",
+       "FR": "Farrell",
+       "DE": "Farrell",
+       "ES": "Farrell",
+       "PT": "Farrell",
+       "IT": "Farrell",
+       "RU": "\u0424\u0430\u0440\u0440\u0435\u043b\u043b",
+       "ZH": "Farrell",
+       "AR": "\u0641\u0627\u0631\u064a\u0644"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 400,
+     "y": 250
+    },
+    "fspFieldCoordinate": {
+     "x": 2625,
+     "y": 680
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 16,
+    "player": {
+     "age": "24",
+     "birthDate": "2002-03-13",
+     "clubId": "60457",
+     "clubJerseyNumber": "16",
+     "clubShirtName": "Simeu",
+     "countryCode": "ENG",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250113116",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250113116.jpg",
+     "internationalName": "Dynel Simeu",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalJerseyNumber": "17",
+     "nationalShirtName": "Simeu",
+     "nationalTeamId": "400039",
+     "translations": {
+      "countryName": {
+       "EN": "England",
+       "FR": "Angleterre",
+       "DE": "England",
+       "ES": "Inglaterra",
+       "PT": "Inglaterra",
+       "IT": "Inghilterra",
+       "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+       "ZH": "\u82f1\u683c\u5170",
+       "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Dynel",
+       "FR": "Dynel",
+       "DE": "Dynel",
+       "ES": "Dynel",
+       "PT": "Dynel",
+       "IT": "Dynel",
+       "RU": "\u0414\u0430\u0439\u043d\u0435\u043b",
+       "ZH": "Dynel",
+       "AR": "\u062f\u064a\u0646\u064a\u0644 "
+      },
+      "lastName": {
+       "EN": "Simeu",
+       "FR": "Simeu",
+       "DE": "Simeu",
+       "ES": "Simeu",
+       "PT": "Simeu",
+       "IT": "Simeu",
+       "RU": "\u0421\u0438\u043c\u0435\u0443",
+       "ZH": "Simeu",
+       "AR": "\u0633\u064a\u0645\u064a\u0648"
+      },
+      "name": {
+       "EN": "Dynel Simeu",
+       "FR": "Dynel Simeu",
+       "DE": "Dynel Simeu",
+       "ES": "Dynel Simeu",
+       "PT": "Dynel Simeu",
+       "IT": "Dynel Simeu",
+       "RU": "\u0414\u0430\u0439\u043d\u0435\u043b \u0421\u0438\u043c\u0435\u0443",
+       "ZH": "Dynel Simeu",
+       "AR": "\u062f\u064a\u0646\u064a\u0644 \u0633\u064a\u0645\u064a\u0648"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "Simeu",
+       "FR": "Simeu",
+       "DE": "Simeu",
+       "ES": "Simeu",
+       "PT": "Simeu",
+       "IT": "Simeu",
+       "RU": "\u0421\u0438\u043c\u0435\u0443",
+       "ZH": "Simeu",
+       "AR": "\u0633\u064a\u0645\u064a\u0648"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 500,
+     "y": 800
+    },
+    "fspFieldCoordinate": {
+     "x": -3150,
+     "y": 0
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 17,
+    "player": {
+     "age": "33",
+     "birthDate": "1992-12-13",
+     "clubId": "60457",
+     "clubJerseyNumber": "17",
+     "clubShirtName": "Williams",
+     "countryCode": "ENG",
+     "fieldPosition": "FORWARD",
+     "gender": "MALE",
+     "id": "250157299",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250157299.jpg",
+     "internationalName": "Jordan Williams",
+     "nationalFieldPosition": "FORWARD",
+     "nationalShirtName": "J.Williams",
+     "translations": {
+      "countryName": {
+       "EN": "England",
+       "FR": "Angleterre",
+       "DE": "England",
+       "ES": "Inglaterra",
+       "PT": "Inglaterra",
+       "IT": "Inghilterra",
+       "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+       "ZH": "\u82f1\u683c\u5170",
+       "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "firstName": {
+       "EN": "Jordan",
+       "FR": "Jordan",
+       "DE": "Jordan",
+       "ES": "Jordan",
+       "PT": "Jordan",
+       "IT": "Jordan",
+       "RU": "\u0414\u0436\u043e\u0440\u0434\u0430\u043d",
+       "ZH": "Jordan",
+       "AR": "\u062c\u0648\u0631\u062f\u0627\u0646 "
+      },
+      "lastName": {
+       "EN": "Williams",
+       "FR": "Williams",
+       "DE": "Williams",
+       "ES": "Williams",
+       "PT": "Williams",
+       "IT": "Williams",
+       "RU": "\u0423\u0438\u043b\u044c\u044f\u043c\u0441",
+       "ZH": "Williams",
+       "AR": "\u0648\u064a\u0644\u064a\u0627\u0645\u0632"
+      },
+      "name": {
+       "EN": "Jordan Williams",
+       "FR": "Jordan Williams",
+       "DE": "Jordan Williams",
+       "ES": "Jordan Williams",
+       "PT": "Jordan Williams",
+       "IT": "Jordan Williams",
+       "RU": "\u0414\u0436\u043e\u0440\u0434\u0430\u043d \u0423\u0438\u043b\u044c\u044f\u043c\u0441",
+       "ZH": "Jordan Williams",
+       "AR": "\u062c\u0648\u0631\u062f\u0627\u0646 \u0648\u064a\u0644\u064a\u0627\u0645\u0632"
+      },
+      "nationalFieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "shortName": {
+       "EN": "J. Williams",
+       "FR": "J. Williams",
+       "DE": "J. Williams",
+       "ES": "J. Williams",
+       "PT": "J. Williams",
+       "IT": "J. Williams",
+       "RU": "\u0414\u0436. \u0423\u0438\u043b\u044c\u044f\u043c\u0441",
+       "ZH": "J. Williams",
+       "AR": "\u0648\u064a\u0644\u064a\u0627\u0645\u0632"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 700,
+     "y": 800
+    },
+    "fspFieldCoordinate": {
+     "x": -3150,
+     "y": -1360
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 19,
+    "player": {
+     "age": "26",
+     "birthDate": "2000-10-14",
+     "clubId": "60457",
+     "clubJerseyNumber": "19",
+     "clubShirtName": "Clark",
+     "countryCode": "ENG",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250109786",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250109786.jpg",
+     "internationalName": "Ben Clark",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalShirtName": "Clark",
+     "translations": {
+      "countryName": {
+       "EN": "England",
+       "FR": "Angleterre",
+       "DE": "England",
+       "ES": "Inglaterra",
+       "PT": "Inglaterra",
+       "IT": "Inghilterra",
+       "RU": "\u0410\u043d\u0433\u043b\u0438\u044f",
+       "ZH": "\u82f1\u683c\u5170",
+       "AR": "\u0625\u0646\u062c\u0644\u062a\u0631\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Ben",
+       "FR": "Ben",
+       "DE": "Ben",
+       "ES": "Ben",
+       "PT": "Ben",
+       "IT": "Ben",
+       "RU": "\u0411\u0435\u043d",
+       "ZH": "Ben",
+       "AR": "\u0628\u0646 "
+      },
+      "lastName": {
+       "EN": "Clark",
+       "FR": "Clark",
+       "DE": "Clark",
+       "ES": "Clark",
+       "PT": "Clark",
+       "IT": "Clark",
+       "RU": "\u041a\u043b\u0430\u0440\u043a",
+       "ZH": "Clark",
+       "AR": "\u0643\u0644\u0627\u0631\u0643"
+      },
+      "name": {
+       "EN": "Ben Clark",
+       "FR": "Ben Clark",
+       "DE": "Ben Clark",
+       "ES": "Ben Clark",
+       "PT": "Ben Clark",
+       "IT": "Ben Clark",
+       "RU": "\u0411\u0435\u043d \u041a\u043b\u0430\u0440\u043a",
+       "ZH": "Ben Clark",
+       "AR": "\u0628\u0646 \u0643\u0644\u0627\u0631\u0643"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Clark",
+       "FR": "Clark",
+       "DE": "Clark",
+       "ES": "Clark",
+       "PT": "Clark",
+       "IT": "Clark",
+       "RU": "\u041a\u043b\u0430\u0440\u043a",
+       "ZH": "Clark",
+       "AR": "\u0643\u0644\u0627\u0631\u0643"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 300,
+     "y": 800
+    },
+    "fspFieldCoordinate": {
+     "x": -3150,
+     "y": 1360
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 20,
+    "player": {
+     "age": "25",
+     "birthDate": "2001-09-21",
+     "clubId": "60457",
+     "clubJerseyNumber": "20",
+     "clubShirtName": "Hughes",
+     "countryCode": "WAL",
+     "fieldPosition": "FORWARD",
+     "gender": "MALE",
+     "id": "250108248",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250108248.jpg",
+     "internationalName": "Rhys Hughes",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalJerseyNumber": "10",
+     "nationalShirtName": "Hughes",
+     "nationalTeamId": "200144",
+     "translations": {
+      "countryName": {
+       "EN": "Wales",
+       "FR": "Pays de Galles",
+       "DE": "Wales",
+       "ES": "Gales",
+       "PT": "Pa\u00eds de Gales",
+       "IT": "Galles",
+       "RU": "\u0423\u044d\u043b\u044c\u0441",
+       "ZH": "\u5a01\u5c14\u58eb",
+       "AR": "\u0648\u064a\u0644\u0632"
+      },
+      "fieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "firstName": {
+       "EN": "Rhys",
+       "FR": "Rhys",
+       "DE": "Rhys",
+       "ES": "Rhys",
+       "PT": "Rhys",
+       "IT": "Rhys",
+       "RU": "\u0420\u0438\u0441",
+       "ZH": "Rhys",
+       "AR": "\u0631\u064a\u0633 "
+      },
+      "lastName": {
+       "EN": "Hughes",
+       "FR": "Hughes",
+       "DE": "Hughes",
+       "ES": "Hughes",
+       "PT": "Hughes",
+       "IT": "Hughes",
+       "RU": "\u0425\u044c\u044e\u0437",
+       "ZH": "Hughes",
+       "AR": "\u0647\u064a\u0648\u0632"
+      },
+      "name": {
+       "EN": "Rhys Hughes",
+       "FR": "Rhys Hughes",
+       "DE": "Rhys Hughes",
+       "ES": "Rhys Hughes",
+       "PT": "Rhys Hughes",
+       "IT": "Rhys Hughes",
+       "RU": "\u0420\u0438\u0441 \u0425\u044c\u044e\u0437",
+       "ZH": "Rhys Hughes",
+       "AR": "\u0631\u064a\u0633 \u0647\u064a\u0648\u0632"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Hughes",
+       "FR": "Hughes",
+       "DE": "Hughes",
+       "ES": "Hughes",
+       "PT": "Hughes",
+       "IT": "Hughes",
+       "RU": "\u0425\u044c\u044e\u0437",
+       "ZH": "Hughes",
+       "AR": "\u0647\u064a\u0648\u0632"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 300,
+     "y": 500
+    },
+    "fspFieldCoordinate": {
+     "x": 0,
+     "y": 1360
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 21,
+    "player": {
+     "age": "28",
+     "birthDate": "1998-05-15",
+     "clubId": "60457",
+     "clubJerseyNumber": "21",
+     "clubShirtName": "Smith",
+     "countryCode": "WAL",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250141881",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250141881.jpg",
+     "internationalName": "Leo Smith",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalShirtName": "Smith",
+     "translations": {
+      "countryName": {
+       "EN": "Wales",
+       "FR": "Pays de Galles",
+       "DE": "Wales",
+       "ES": "Gales",
+       "PT": "Pa\u00eds de Gales",
+       "IT": "Galles",
+       "RU": "\u0423\u044d\u043b\u044c\u0441",
+       "ZH": "\u5a01\u5c14\u58eb",
+       "AR": "\u0648\u064a\u0644\u0632"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Leo",
+       "FR": "Leo",
+       "DE": "Leo",
+       "ES": "Leo",
+       "PT": "Leo",
+       "IT": "Leo",
+       "RU": "\u041b\u0435\u043e",
+       "ZH": "Leo",
+       "AR": "\u0644\u064a\u0648 "
+      },
+      "lastName": {
+       "EN": "Smith",
+       "FR": "Smith",
+       "DE": "Smith",
+       "ES": "Smith",
+       "PT": "Smith",
+       "IT": "Smith",
+       "RU": "\u0421\u043c\u0438\u0442",
+       "ZH": "Smith",
+       "AR": "\u0633\u0645\u064a\u062b"
+      },
+      "name": {
+       "EN": "Leo Smith",
+       "FR": "Leo Smith",
+       "DE": "Leo Smith",
+       "ES": "Leo Smith",
+       "PT": "Leo Smith",
+       "IT": "Leo Smith",
+       "RU": "\u041b\u0435\u043e \u0421\u043c\u0438\u0442",
+       "ZH": "Leo Smith",
+       "AR": "\u0644\u064a\u0648 \u0633\u0645\u064a\u062b"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Smith",
+       "FR": "Smith",
+       "DE": "Smith",
+       "ES": "Smith",
+       "PT": "Smith",
+       "IT": "Smith",
+       "RU": "\u0421\u043c\u0438\u0442",
+       "ZH": "Smith",
+       "AR": "\u0633\u0645\u064a\u062b"
+      }
+     }
+    },
+    "type": "PLAYER"
+   }
+  ],
+  "shirtColor": "#008000",
+  "team": {
+   "associationId": "200144",
+   "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/WAL.svg",
+   "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/60457.png",
+   "confederationType": "UEFA",
+   "countryCode": "WAL",
+   "id": "60457",
+   "idProvider": "FAME",
+   "internationalName": "The New Saints",
+   "isPlaceHolder": false,
+   "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/60457.png",
+   "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/60457.png",
+   "organizationId": "260457",
+   "teamCode": "TNS",
+   "teamTypeDetail": "DOMESTIC_MEN_TEAM_A",
+   "translations": {
+    "countryName": {
+     "EN": "Wales",
+     "FR": "Pays de Galles",
+     "DE": "Wales",
+     "ES": "Gales",
+     "PT": "Pa\u00eds de Gales",
+     "IT": "Galles",
+     "RU": "\u0423\u044d\u043b\u044c\u0441",
+     "ZH": "\u5a01\u5c14\u58eb",
+     "AR": "\u0648\u064a\u0644\u0632"
+    },
+    "displayName": {
+     "EN": "The New Saints",
+     "FR": "The New Saints",
+     "DE": "The New Saints",
+     "ES": "The New Saints",
+     "PT": "The New Saints",
+     "IT": "The New Saints",
+     "RU": "\u0422\u041d\u0421",
+     "ZH": "\u65b0\u5723\u5f92",
+     "AR": "\u0630\u0627 \u0646\u064a\u0648 \u0633\u064a\u0646\u062a\u0633"
+    },
+    "displayOfficialName": {
+     "EN": "The New Saints FC",
+     "FR": "The New Saints FC",
+     "DE": "The New Saints FC",
+     "ES": "The New Saints FC",
+     "PT": "The New Saints FC",
+     "IT": "The New Saints FC",
+     "RU": "\u0422\u041d\u0421",
+     "ZH": "\u65b0\u5723\u5f92",
+     "AR": "\u0630\u0627 \u0646\u064a\u0648 \u0633\u064a\u0646\u062a\u0633"
+    },
+    "displayTeamCode": {
+     "EN": "TNS",
+     "FR": "TNS",
+     "DE": "TNS",
+     "ES": "TNS",
+     "PT": "TNS",
+     "IT": "TNS",
+     "RU": "TNS",
+     "ZH": "TNS",
+     "AR": "TNS"
+    },
+    "shortName": {
+     "EN": "TNS",
+     "FR": "TNS",
+     "DE": "TNS",
+     "ES": "TNS",
+     "PT": "TNS",
+     "IT": "TNS",
+     "RU": "\u0422\u041d\u0421",
+     "ZH": "\u65b0\u5723\u5f92",
+     "AR": "TNS"
+    }
+   },
+   "typeIsNational": false,
+   "typeTeam": "DOMESTIC"
+  }
+ },
+ "homeTeam": {
+  "bench": [
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 1,
+    "player": {
+     "age": "23",
+     "birthDate": "2003-01-20",
+     "clubId": "2609356",
+     "clubJerseyNumber": "1",
+     "clubShirtName": "RAMAZANOV",
+     "countryCode": "AZE",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "GOALKEEPER",
+     "gender": "MALE",
+     "id": "250138479",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250138479.jpg",
+     "internationalName": "Amin Ramazanov",
+     "nationalFieldPosition": "GOALKEEPER",
+     "nationalJerseyNumber": "22",
+     "nationalShirtName": "Ramazanov",
+     "nationalTeamId": "257154",
+     "translations": {
+      "countryName": {
+       "EN": "Azerbaijan",
+       "FR": "Azerba\u00efdjan",
+       "DE": "Aserbaidschan",
+       "ES": "Azerbaiy\u00e1n",
+       "PT": "Azerbaij\u00e3o",
+       "IT": "Azerbaigian",
+       "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+       "ZH": "\u963f\u8d5b\u62dc\u7586",
+       "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+      },
+      "fieldPosition": {
+       "EN": "Goalkeeper",
+       "FR": "Gardien",
+       "DE": "Torh\u00fcter",
+       "ES": "Portero",
+       "PT": "Guarda-redes",
+       "IT": "Portiere",
+       "RU": "\u0412\u0440\u0430\u0442\u0430\u0440\u044c",
+       "ZH": "\u5b88\u95e8\u5458",
+       "AR": "\u062d\u0627\u0631\u0633 \u0645\u0631\u0645\u0649"
+      },
+      "firstName": {
+       "EN": "Amin",
+       "FR": "Amin",
+       "DE": "Amin",
+       "ES": "Amin",
+       "PT": "Amin",
+       "IT": "Amin",
+       "RU": "\u0410\u043c\u0438\u043d",
+       "ZH": "\u963f\u660e",
+       "AR": "\u0623\u0645\u064a\u0646 "
+      },
+      "lastName": {
+       "EN": "Ramazanov",
+       "FR": "Ramazanov",
+       "DE": "Ramazanov",
+       "ES": "Ramazanov",
+       "PT": "Ramazanov",
+       "IT": "Ramazanov",
+       "RU": "\u0420\u0430\u043c\u0430\u0437\u0430\u043d\u043e\u0432",
+       "ZH": "\u62c9\u9a6c\u624e\u8bfa\u592b",
+       "AR": "\u0631\u0645\u0636\u0627\u0646\u0648\u0641"
+      },
+      "name": {
+       "EN": "Amin Ramazanov",
+       "FR": "Amin Ramazanov",
+       "DE": "Amin Ramazanov",
+       "ES": "Amin Ramazanov",
+       "PT": "Amin Ramazanov",
+       "IT": "Amin Ramazanov",
+       "RU": "\u0410\u043c\u0438\u043d \u0420\u0430\u043c\u0430\u0437\u0430\u043d\u043e\u0432",
+       "ZH": "\u963f\u660e\u00b7\u62c9\u9a6c\u624e\u8bfa\u592b",
+       "AR": "\u0623\u0645\u064a\u0646 \u0631\u0645\u0636\u0627\u0646\u0648\u0641"
+      },
+      "nationalFieldPosition": {
+       "EN": "Goalkeeper",
+       "FR": "Gardien",
+       "DE": "Torh\u00fcter",
+       "ES": "Portero",
+       "PT": "Guarda-redes",
+       "IT": "Portiere",
+       "RU": "\u0412\u0440\u0430\u0442\u0430\u0440\u044c",
+       "ZH": "\u5b88\u95e8\u5458",
+       "AR": "\u062d\u0627\u0631\u0633 \u0645\u0631\u0645\u0649"
+      },
+      "shortName": {
+       "EN": "Ramazanov",
+       "FR": "Ramazanov",
+       "DE": "Ramazanov",
+       "ES": "Ramazanov",
+       "PT": "Ramazanov",
+       "IT": "Ramazanov",
+       "RU": "\u0420\u0430\u043c\u0430\u0437\u0430\u043d\u043e\u0432",
+       "ZH": "\u62c9\u9a6c\u624e\u8bfa\u592b",
+       "AR": "\u0631\u0645\u0636\u0627\u0646\u0648\u0641"
+      }
+     }
+    },
+    "type": "GOALKEEPER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 94,
+    "player": {
+     "age": "21",
+     "birthDate": "2005-08-02",
+     "clubId": "2609356",
+     "clubJerseyNumber": "94",
+     "clubShirtName": "Ravan",
+     "countryCode": "AZE",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "GOALKEEPER",
+     "gender": "MALE",
+     "id": "250193107",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250193107.jpg",
+     "internationalName": "Ravan Mirzammadov",
+     "nationalFieldPosition": "GOALKEEPER",
+     "nationalJerseyNumber": "23",
+     "nationalShirtName": "Ravan",
+     "nationalTeamId": "57154",
+     "translations": {
+      "countryName": {
+       "EN": "Azerbaijan",
+       "FR": "Azerba\u00efdjan",
+       "DE": "Aserbaidschan",
+       "ES": "Azerbaiy\u00e1n",
+       "PT": "Azerbaij\u00e3o",
+       "IT": "Azerbaigian",
+       "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+       "ZH": "\u963f\u8d5b\u62dc\u7586",
+       "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+      },
+      "fieldPosition": {
+       "EN": "Goalkeeper",
+       "FR": "Gardien",
+       "DE": "Torh\u00fcter",
+       "ES": "Portero",
+       "PT": "Guarda-redes",
+       "IT": "Portiere",
+       "RU": "\u0412\u0440\u0430\u0442\u0430\u0440\u044c",
+       "ZH": "\u5b88\u95e8\u5458",
+       "AR": "\u062d\u0627\u0631\u0633 \u0645\u0631\u0645\u0649"
+      },
+      "firstName": {
+       "EN": "Ravan",
+       "FR": "Ravan",
+       "DE": "Ravan",
+       "ES": "Ravan",
+       "PT": "Ravan",
+       "IT": "Ravan",
+       "RU": "\u0420\u0430\u0437\u0432\u0430\u043d",
+       "ZH": "\u62c9\u4e07",
+       "AR": "\u0631\u0627\u0641\u0627\u0646 "
+      },
+      "lastName": {
+       "EN": "Mirzammadov",
+       "FR": "Mirzammadov",
+       "DE": "Mirzammadov",
+       "ES": "Mirzammadov",
+       "PT": "Mirzammadov",
+       "IT": "Mirzammadov",
+       "RU": "\u041c\u0438\u0440\u0437\u0430\u043c\u043c\u0430\u0434\u043e\u0432",
+       "ZH": "\u7c73\u5c14\u624e\u9a6c\u591a\u592b",
+       "AR": "\u0645\u064a\u0631\u0632\u0627\u0645\u0627\u062f\u0648\u0641"
+      },
+      "name": {
+       "EN": "Ravan Mirzammadov",
+       "FR": "Ravan Mirzammadov",
+       "DE": "Ravan Mirzammadov",
+       "ES": "Ravan Mirzammadov",
+       "PT": "Ravan Mirzammadov",
+       "IT": "Ravan Mirzammadov",
+       "RU": "\u0420\u0430\u0437\u0432\u0430\u043d \u041c\u0438\u0440\u0437\u0430\u043c\u043c\u0430\u0434\u043e\u0432",
+       "ZH": "\u62c9\u4e07\u00b7\u7c73\u5c14\u624e\u9a6c\u591a\u592b",
+       "AR": "\u0631\u0627\u0641\u0627\u0646 \u0645\u064a\u0631\u0632\u0627\u0645\u0627\u062f\u0648\u0641"
+      },
+      "nationalFieldPosition": {
+       "EN": "Goalkeeper",
+       "FR": "Gardien",
+       "DE": "Torh\u00fcter",
+       "ES": "Portero",
+       "PT": "Guarda-redes",
+       "IT": "Portiere",
+       "RU": "\u0412\u0440\u0430\u0442\u0430\u0440\u044c",
+       "ZH": "\u5b88\u95e8\u5458",
+       "AR": "\u062d\u0627\u0631\u0633 \u0645\u0631\u0645\u0649"
+      },
+      "shortName": {
+       "EN": "Mirzammadov",
+       "FR": "Mirzammadov",
+       "DE": "Mirzammadov",
+       "ES": "Mirzammadov",
+       "PT": "Mirzammadov",
+       "IT": "Mirzammadov",
+       "RU": "\u041c\u0438\u0440\u0437\u0430\u043c\u043c\u0430\u0434\u043e\u0432",
+       "ZH": "\u7c73\u5c14\u624e\u9a6c\u591a\u592b",
+       "AR": "\u0645\u064a\u0631\u0632\u0627\u0645\u0627\u062f\u0648\u0641"
+      }
+     }
+    },
+    "type": "GOALKEEPER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 4,
+    "player": {
+     "age": "22",
+     "birthDate": "2003-12-04",
+     "clubId": "2609356",
+     "clubJerseyNumber": "4",
+     "clubShirtName": "MC CARTHY",
+     "countryCode": "RSA",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250221230",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250221230.jpg",
+     "internationalName": "Aden McCarthy",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalShirtName": "MC Carthy",
+     "translations": {
+      "countryName": {
+       "EN": "South Africa",
+       "FR": "Afrique du Sud",
+       "DE": "S\u00fcdafrika",
+       "ES": "Sud\u00e1frica",
+       "PT": "\u00c1frica do Sul",
+       "IT": "Sud Africa",
+       "RU": "\u042e\u0410\u0420",
+       "ZH": "\u5357\u975e",
+       "AR": "\u062c\u0646\u0648\u0628 \u0623\u0641\u0631\u064a\u0642\u064a\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Aden",
+       "FR": "Aden",
+       "DE": "Aden",
+       "ES": "Aden",
+       "PT": "Aden",
+       "IT": "Aden",
+       "RU": "\u0410\u0434\u0435\u043d",
+       "ZH": "\u827e\u767b",
+       "AR": "\u0623\u062f\u064a\u0646 "
+      },
+      "lastName": {
+       "EN": "McCarthy",
+       "FR": "McCarthy",
+       "DE": "McCarthy",
+       "ES": "McCarthy",
+       "PT": "McCarthy",
+       "IT": "McCarthy",
+       "RU": "\u041c\u0430\u043a\u043a\u0430\u0440\u0442\u0438",
+       "ZH": "\u9ea6\u5361\u9521",
+       "AR": "\u0645\u0643\u0627\u0631\u062b\u064a"
+      },
+      "name": {
+       "EN": "Aden McCarthy",
+       "FR": "Aden McCarthy",
+       "DE": "Aden McCarthy",
+       "ES": "Aden McCarthy",
+       "PT": "Aden McCarthy",
+       "IT": "Aden McCarthy",
+       "RU": "\u0410\u0434\u0435\u043d \u041c\u0430\u043a\u043a\u0430\u0440\u0442\u0438",
+       "ZH": "\u827e\u767b\u00b7\u9ea6\u5361\u9521",
+       "AR": "\u0623\u062f\u064a\u0646 \u0645\u0643\u0627\u0631\u062b\u064a"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "McCarthy",
+       "FR": "McCarthy",
+       "DE": "McCarthy",
+       "ES": "McCarthy",
+       "PT": "McCarthy",
+       "IT": "McCarthy",
+       "RU": "\u041c\u0430\u043a\u043a\u0430\u0440\u0442\u0438",
+       "ZH": "\u9ea6\u5361\u9521",
+       "AR": "\u0645\u0643\u0627\u0631\u062b\u064a"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 6,
+    "player": {
+     "age": "25",
+     "birthDate": "2001-08-19",
+     "clubId": "2609356",
+     "clubJerseyNumber": "6",
+     "clubShirtName": "KHAIBULAEV",
+     "countryCode": "AZE",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250171312",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250171312.jpg",
+     "internationalName": "Abdulakh Khaibulaev",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalJerseyNumber": "6",
+     "nationalShirtName": "Khaibulaev",
+     "nationalTeamId": "57154",
+     "translations": {
+      "countryName": {
+       "EN": "Azerbaijan",
+       "FR": "Azerba\u00efdjan",
+       "DE": "Aserbaidschan",
+       "ES": "Azerbaiy\u00e1n",
+       "PT": "Azerbaij\u00e3o",
+       "IT": "Azerbaigian",
+       "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+       "ZH": "\u963f\u8d5b\u62dc\u7586",
+       "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Abdulakh",
+       "FR": "Abdulakh",
+       "DE": "Abdulakh",
+       "ES": "Abdulakh",
+       "PT": "Abdulakh",
+       "IT": "Abdulakh",
+       "RU": "\u0410\u0431\u0434\u0443\u043b\u0430",
+       "ZH": "\u963f\u535c\u675c\u62c9\u8d6b",
+       "AR": "\u0639\u0628\u062f \u0627\u0644\u0644\u0647 "
+      },
+      "lastName": {
+       "EN": "Khaibulaev",
+       "FR": "Khaibulaev",
+       "DE": "Khaibulaev",
+       "ES": "Khaibulaev",
+       "PT": "Khaibulaev",
+       "IT": "Khaibulaev",
+       "RU": "\u0425\u0430\u0439\u0431\u0443\u043b\u0430\u0435\u0432",
+       "ZH": "\u54c8\u6bd4\u5e03\u62c9\u8036\u592b",
+       "AR": "\u062e\u0627\u064a\u0628\u0648\u0644\u0627\u064a\u064a\u0641"
+      },
+      "name": {
+       "EN": "Abdulakh Khaibulaev",
+       "FR": "Abdulakh Khaibulaev",
+       "DE": "Abdulakh Khaibulaev",
+       "ES": "Abdulakh Khaibulaev",
+       "PT": "Abdulakh Khaibulaev",
+       "IT": "Abdulakh Khaibulaev",
+       "RU": "\u0410\u0431\u0434\u0443\u043b\u0430 \u0425\u0430\u0439\u0431\u0443\u043b\u0430\u0435\u0432",
+       "ZH": "\u963f\u535c\u675c\u62c9\u8d6b\u00b7\u54c8\u6bd4\u5e03\u62c9\u8036\u592b",
+       "AR": "\u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u062e\u0627\u064a\u0628\u0648\u0644\u0627\u064a\u064a\u0641"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Khaibulaev",
+       "FR": "Khaibulaev",
+       "DE": "Khaibulaev",
+       "ES": "Khaibulaev",
+       "PT": "Khaibulaev",
+       "IT": "Khaibulaev",
+       "RU": "\u0425\u0430\u0439\u0431\u0443\u043b\u0430\u0435\u0432",
+       "ZH": "\u54c8\u6bd4\u5e03\u62c9\u8036\u592b",
+       "AR": "\u062e\u0627\u064a\u0628\u0648\u0644\u0627\u064a\u064a\u0641"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 11,
+    "player": {
+     "age": "26",
+     "birthDate": "2000-01-06",
+     "clubId": "2609356",
+     "clubJerseyNumber": "11",
+     "clubShirtName": "K.PARRIS",
+     "countryCode": "JAM",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250174049",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250174049.jpg",
+     "internationalName": "Kaheem Parris",
+     "nationalFieldPosition": "FORWARD",
+     "nationalShirtName": "Parris",
+     "translations": {
+      "countryName": {
+       "EN": "Jamaica",
+       "FR": "Jama\u00efque",
+       "DE": "Jamaika",
+       "ES": "Jamaica",
+       "PT": "Jamaica",
+       "IT": "Giamaica",
+       "RU": "\u042f\u043c\u0430\u0439\u043a\u0430",
+       "ZH": "\u7259\u4e70\u52a0",
+       "AR": "\u062c\u0627\u0645\u064a\u0643\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Kaheem",
+       "FR": "Kaheem",
+       "DE": "Kaheem",
+       "ES": "Kaheem",
+       "PT": "Kaheem",
+       "IT": "Kaheem",
+       "RU": "\u041a\u0430\u0445\u0438\u043c",
+       "ZH": "\u5361\u897f\u59c6",
+       "AR": "\u0643\u0627\u0647\u064a\u0645 "
+      },
+      "lastName": {
+       "EN": "Parris",
+       "FR": "Parris",
+       "DE": "Parris",
+       "ES": "Parris",
+       "PT": "Parris",
+       "IT": "Parris",
+       "RU": "\u041f\u044d\u0440\u0440\u0438\u0441",
+       "ZH": "\u5e15\u91cc\u65af",
+       "AR": "\u0628\u0627\u0631\u064a\u0633"
+      },
+      "name": {
+       "EN": "Kaheem Parris",
+       "FR": "Kaheem Parris",
+       "DE": "Kaheem Parris",
+       "ES": "Kaheem Parris",
+       "PT": "Kaheem Parris",
+       "IT": "Kaheem Parris",
+       "RU": "\u041a\u0430\u0445\u0438\u043c \u041f\u044d\u0440\u0440\u0438\u0441",
+       "ZH": "\u5361\u897f\u59c6\u00b7\u5e15\u91cc\u65af",
+       "AR": "\u0643\u0627\u0647\u064a\u0645 \u0628\u0627\u0631\u064a\u0633"
+      },
+      "nationalFieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "shortName": {
+       "EN": "Parris",
+       "FR": "Parris",
+       "DE": "Parris",
+       "ES": "Parris",
+       "PT": "Parris",
+       "IT": "Parris",
+       "RU": "\u041f\u044d\u0440\u0440\u0438\u0441",
+       "ZH": "\u5e15\u91cc\u65af",
+       "AR": "\u0628\u0627\u0631\u064a\u0633"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 16,
+    "player": {
+     "age": "23",
+     "birthDate": "2003-01-11",
+     "clubId": "2609356",
+     "clubJerseyNumber": "16",
+     "clubShirtName": "RUSTAMLI",
+     "countryCode": "AZE",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250130045",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250130045.jpg",
+     "internationalName": "Rauf Rustamli",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalJerseyNumber": "18",
+     "nationalShirtName": "R\u00fcst\u0259mli",
+     "nationalTeamId": "57154",
+     "translations": {
+      "countryName": {
+       "EN": "Azerbaijan",
+       "FR": "Azerba\u00efdjan",
+       "DE": "Aserbaidschan",
+       "ES": "Azerbaiy\u00e1n",
+       "PT": "Azerbaij\u00e3o",
+       "IT": "Azerbaigian",
+       "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+       "ZH": "\u963f\u8d5b\u62dc\u7586",
+       "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Rauf",
+       "FR": "Rauf",
+       "DE": "Rauf",
+       "ES": "Rauf",
+       "PT": "Rauf",
+       "IT": "Rauf",
+       "RU": "\u0420\u0430\u0443\u0444",
+       "ZH": "\u52b3\u592b",
+       "AR": "\u0631\u0624\u0648\u0641 "
+      },
+      "lastName": {
+       "EN": "Rustamli",
+       "FR": "Rustamli",
+       "DE": "Rustamli",
+       "ES": "Rustamli",
+       "PT": "Rustamli",
+       "IT": "Rustamli",
+       "RU": "\u0420\u0443\u0441\u0442\u0430\u043c\u043b\u0438",
+       "ZH": "\u9c81\u65af\u5854\u59c6\u5229",
+       "AR": "\u0631\u0633\u062a\u0645\u0644\u064a"
+      },
+      "name": {
+       "EN": "Rauf Rustamli",
+       "FR": "Rauf Rustamli",
+       "DE": "Rauf Rustamli",
+       "ES": "Rauf Rustamli",
+       "PT": "Rauf Rustamli",
+       "IT": "Rauf Rustamli",
+       "RU": "\u0420\u0430\u0443\u0444 \u0420\u0443\u0441\u0442\u0430\u043c\u043b\u0438",
+       "ZH": "\u52b3\u592b\u00b7\u9c81\u65af\u5854\u59c6\u5229",
+       "AR": "\u0631\u0624\u0648\u0641 \u0631\u0633\u062a\u0645\u0644\u064a"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Rustamli",
+       "FR": "Rustamli",
+       "DE": "Rustamli",
+       "ES": "Rustamli",
+       "PT": "Rustamli",
+       "IT": "Rustamli",
+       "RU": "\u0420\u0443\u0441\u0442\u0430\u043c\u043b\u0438",
+       "ZH": "\u9c81\u65af\u5854\u59c6\u5229",
+       "AR": "\u0631\u0633\u062a\u0645\u0644\u064a"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 17,
+    "player": {
+     "age": "31",
+     "birthDate": "1995-04-08",
+     "clubId": "2609356",
+     "clubJerseyNumber": "17",
+     "clubShirtName": "TELLUR",
+     "countryCode": "AZE",
+     "detailedFieldPosition": "CENTRAL_MIDFIELDER",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250087979",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250087979.jpg",
+     "internationalName": "Tellur Mutallimov",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalJerseyNumber": "17",
+     "nationalShirtName": "M\u00fct\u0259llimov",
+     "nationalTeamId": "57154",
+     "translations": {
+      "countryName": {
+       "EN": "Azerbaijan",
+       "FR": "Azerba\u00efdjan",
+       "DE": "Aserbaidschan",
+       "ES": "Azerbaiy\u00e1n",
+       "PT": "Azerbaij\u00e3o",
+       "IT": "Azerbaigian",
+       "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+       "ZH": "\u963f\u8d5b\u62dc\u7586",
+       "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Tellur",
+       "FR": "Tellur",
+       "DE": "Tellur",
+       "ES": "Tellur",
+       "PT": "Tellur",
+       "IT": "Tellur",
+       "RU": "\u0422\u0435\u043b\u043b\u0443\u0440",
+       "ZH": "\u7279\u9c81\u5c14",
+       "AR": "\u062a\u064a\u0644\u0648\u0631 "
+      },
+      "lastName": {
+       "EN": "Mutallimov",
+       "FR": "Mutallimov",
+       "DE": "Mutallimov",
+       "ES": "Mutallimov",
+       "PT": "Mutallimov",
+       "IT": "Mutallimov",
+       "RU": "\u041c\u0443\u0442\u0430\u043b\u043b\u0438\u043c\u043e\u0432",
+       "ZH": "\u7a46\u5854\u5229\u83ab\u592b",
+       "AR": "\u0645\u0648\u062a\u0627\u0644\u064a\u0645\u0648\u0641"
+      },
+      "name": {
+       "EN": "Tellur Mutallimov",
+       "FR": "Tellur Mutallimov",
+       "DE": "Tellur Mutallimov",
+       "ES": "Tellur Mutallimov",
+       "PT": "Tellur Mutallimov",
+       "IT": "Tellur Mutallimov",
+       "RU": "\u0422\u0435\u043b\u043b\u0443\u0440 \u041c\u0443\u0442\u0430\u043b\u043b\u0438\u043c\u043e\u0432",
+       "ZH": "\u7279\u9c81\u5c14\u00b7\u7a46\u5854\u5229\u83ab\u592b",
+       "AR": "\u062a\u064a\u0644\u0648\u0631 \u0645\u0648\u062a\u0627\u0644\u064a\u0645\u0648\u0641"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "Mutallimov",
+       "FR": "Mutallimov",
+       "DE": "Mutallimov",
+       "ES": "Mutallimov",
+       "PT": "Mutallimov",
+       "IT": "Mutallimov",
+       "RU": "\u041c\u0443\u0442\u0430\u043b\u043b\u0438\u043c\u043e\u0432",
+       "ZH": "\u7a46\u5854\u5229\u83ab\u592b",
+       "AR": "\u0645\u0648\u062a\u0627\u0644\u064a\u0645\u0648\u0641"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 23,
+    "player": {
+     "age": "21",
+     "birthDate": "2005-01-06",
+     "clubId": "2609356",
+     "clubJerseyNumber": "23",
+     "clubShirtName": "LACHAAB",
+     "countryCode": "FRA",
+     "fieldPosition": "FORWARD",
+     "gender": "MALE",
+     "id": "250201731",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250201731.jpg",
+     "internationalName": "Younes Lachaab",
+     "nationalFieldPosition": "FORWARD",
+     "nationalShirtName": "Lachaab",
+     "translations": {
+      "countryName": {
+       "EN": "France",
+       "FR": "France",
+       "DE": "Frankreich",
+       "ES": "Francia",
+       "PT": "Fran\u00e7a",
+       "IT": "Francia",
+       "RU": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+       "ZH": "\u6cd5\u56fd",
+       "AR": "\u0641\u0631\u0646\u0633\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "firstName": {
+       "EN": "Younes",
+       "FR": "Younes",
+       "DE": "Younes",
+       "ES": "Younes",
+       "PT": "Younes",
+       "IT": "Younes",
+       "RU": "\u042e\u043d\u0435\u0441",
+       "ZH": "\u5c24\u5c3c\u65af",
+       "AR": "\u064a\u0648\u0646\u0633 "
+      },
+      "lastName": {
+       "EN": "Lachaab",
+       "FR": "Lachaab",
+       "DE": "Lachaab",
+       "ES": "Lachaab",
+       "PT": "Lachaab",
+       "IT": "Lachaab",
+       "RU": "\u041b\u0430\u0448\u0430\u0430\u0431",
+       "ZH": "\u62c9\u67e5\u5e03",
+       "AR": "\u0644\u0634\u0639\u0628"
+      },
+      "name": {
+       "EN": "Younes Lachaab",
+       "FR": "Younes Lachaab",
+       "DE": "Younes Lachaab",
+       "ES": "Younes Lachaab",
+       "PT": "Younes Lachaab",
+       "IT": "Younes Lachaab",
+       "RU": "\u042e\u043d\u0435\u0441 \u041b\u0430\u0448\u0430\u0430\u0431",
+       "ZH": "\u5c24\u5c3c\u65af\u00b7\u62c9\u67e5\u5e03",
+       "AR": "\u064a\u0648\u0646\u0633 \u0644\u0634\u0639\u0628"
+      },
+      "nationalFieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "shortName": {
+       "EN": "Lachaab",
+       "FR": "Lachaab",
+       "DE": "Lachaab",
+       "ES": "Lachaab",
+       "PT": "Lachaab",
+       "IT": "Lachaab",
+       "RU": "\u041b\u0430\u0448\u0430\u0430\u0431",
+       "ZH": "\u62c9\u67e5\u5e03",
+       "AR": "\u0644\u0634\u0639\u0628"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 33,
+    "player": {
+     "age": "26",
+     "birthDate": "2000-01-15",
+     "clubId": "2609356",
+     "clubJerseyNumber": "33",
+     "clubShirtName": "JR ALMEIDA",
+     "countryCode": "BRA",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250221486",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250221486.jpg",
+     "internationalName": "Erivaldo Almeida",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalShirtName": "Jr ALMEIDA",
+     "translations": {
+      "countryName": {
+       "EN": "Brazil",
+       "FR": "Br\u00e9sil",
+       "DE": "Brasilien",
+       "ES": "Brasil",
+       "PT": "Brasil",
+       "IT": "Brasile",
+       "RU": "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f",
+       "ZH": "\u5df4\u897f",
+       "AR": "\u0627\u0644\u0628\u0631\u0627\u0632\u064a\u0644"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "lastName": {
+       "EN": "Erivaldo Almeida",
+       "FR": "Erivaldo Almeida",
+       "DE": "Erivaldo Almeida",
+       "ES": "Erivaldo Almeida",
+       "PT": "Erivaldo Almeida",
+       "IT": "Erivaldo Almeida",
+       "RU": "\u042d\u0440\u0438\u0432\u0430\u043b\u0434\u043e \u0410\u043b\u043c\u0435\u0439\u0434\u0430",
+       "ZH": "\u57c3\u91cc\u74e6\u5c14\u591a\u00b7\u963f\u5c14\u6885\u8fbe",
+       "AR": " \u0625\u0631\u064a\u0641\u0627\u0644\u062f\u0648 \u0623\u0644\u0645\u064a\u062f\u0627"
+      },
+      "name": {
+       "EN": "Erivaldo Almeida",
+       "FR": "Erivaldo Almeida",
+       "DE": "Erivaldo Almeida",
+       "ES": "Erivaldo Almeida",
+       "PT": "Erivaldo Almeida",
+       "IT": "Erivaldo Almeida",
+       "RU": "\u042d\u0440\u0438\u0432\u0430\u043b\u0434\u043e \u0410\u043b\u043c\u0435\u0439\u0434\u0430",
+       "ZH": "\u57c3\u91cc\u74e6\u5c14\u591a\u00b7\u963f\u5c14\u6885\u8fbe",
+       "AR": " \u0625\u0631\u064a\u0641\u0627\u0644\u062f\u0648 \u0623\u0644\u0645\u064a\u062f\u0627"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "Erivaldo Almeida",
+       "FR": "Erivaldo Almeida",
+       "DE": "Erivaldo Almeida",
+       "ES": "Erivaldo Almeida",
+       "PT": "Erivaldo Almeida",
+       "IT": "Erivaldo Almeida",
+       "RU": "\u042d\u0440\u0438\u0432\u0430\u043b\u0434\u043e \u0410\u043b\u043c\u0435\u0439\u0434\u0430",
+       "ZH": "\u963f\u5c14\u6885\u8fbe",
+       "AR": " \u0625\u0631\u064a\u0641\u0627\u0644\u062f\u0648 \u0623\u0644\u0645\u064a\u062f\u0627"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 34,
+    "player": {
+     "age": "25",
+     "birthDate": "2001-04-12",
+     "clubId": "2609356",
+     "clubJerseyNumber": "34",
+     "clubShirtName": "SEVERINA",
+     "countryCode": "CUW",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "FORWARD",
+     "gender": "MALE",
+     "id": "250221487",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250221487.jpg",
+     "internationalName": "Xander Severina",
+     "nationalFieldPosition": "FORWARD",
+     "nationalShirtName": "SEVERINA",
+     "translations": {
+      "countryName": {
+       "EN": "Curacao",
+       "FR": "Cura\u00e7ao",
+       "DE": "Curacao",
+       "ES": "Curazao",
+       "PT": "Cura\u00e7ao",
+       "IT": "Curacao",
+       "RU": "\u041a\u044e\u0440\u0430\u0441\u0430\u043e",
+       "ZH": "Curacao",
+       "AR": "\u0643\u0648\u0631\u0627\u0633\u0627\u0648"
+      },
+      "fieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "firstName": {
+       "EN": "Xander",
+       "FR": "Xander",
+       "DE": "Xander",
+       "ES": "Xander",
+       "PT": "Xander",
+       "IT": "Xander",
+       "RU": "\u041a\u0441\u0430\u043d\u0434\u0435\u0440",
+       "ZH": "\u6851\u5fb7",
+       "AR": "\u0632\u0627\u0646\u062f\u0631 "
+      },
+      "lastName": {
+       "EN": "Severina",
+       "FR": "Severina",
+       "DE": "Severina",
+       "ES": "Severina",
+       "PT": "Severina",
+       "IT": "Severina",
+       "RU": "\u0421\u0435\u0432\u0435\u0440\u0438\u043d\u0430",
+       "ZH": "\u585e\u97e6\u91cc\u7eb3",
+       "AR": "\u0633\u064a\u0641\u064a\u0631\u064a\u0646\u0627"
+      },
+      "name": {
+       "EN": "Xander Severina",
+       "FR": "Xander Severina",
+       "DE": "Xander Severina",
+       "ES": "Xander Severina",
+       "PT": "Xander Severina",
+       "IT": "Xander Severina",
+       "RU": "\u041a\u0441\u0430\u043d\u0434\u0435\u0440 \u0421\u0435\u0432\u0435\u0440\u0438\u043d\u0430",
+       "ZH": "\u6851\u5fb7\u00b7\u585e\u97e6\u91cc\u7eb3",
+       "AR": " \u0632\u0627\u0646\u062f\u0631 \u0633\u064a\u0641\u064a\u0631\u064a\u0646\u0627"
+      },
+      "nationalFieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "shortName": {
+       "EN": "Severina",
+       "FR": "Severina",
+       "DE": "Severina",
+       "ES": "Severina",
+       "PT": "Severina",
+       "IT": "Severina",
+       "RU": "\u0421\u0435\u0432\u0435\u0440\u0438\u043d\u0430",
+       "ZH": "\u585e\u97e6\u91cc\u7eb3",
+       "AR": "\u0633\u064a\u0641\u064a\u0631\u064a\u0646\u0627"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 88,
+    "player": {
+     "age": "25",
+     "birthDate": "2001-03-23",
+     "clubId": "2609356",
+     "clubJerseyNumber": "88",
+     "clubShirtName": "RODRIGO.F",
+     "countryCode": "POR",
+     "detailedFieldPosition": "CENTRAL_MIDFIELDER",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250106774",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250106774.jpg",
+     "internationalName": "Rodrigo Fernandes",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalJerseyNumber": "17",
+     "nationalShirtName": "Rodrigo Fernandes",
+     "nationalTeamId": "300110",
+     "translations": {
+      "countryName": {
+       "EN": "Portugal",
+       "FR": "Portugal",
+       "DE": "Portugal",
+       "ES": "Portugal",
+       "PT": "Portugal",
+       "IT": "Portogallo",
+       "RU": "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f",
+       "ZH": "\u8461\u8404\u7259",
+       "AR": "\u0627\u0644\u0628\u0631\u062a\u063a\u0627\u0644"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "lastName": {
+       "EN": "Rodrigo Fernandes",
+       "FR": "Rodrigo Fernandes",
+       "DE": "Rodrigo Fernandes",
+       "ES": "Rodrigo Fernandes",
+       "PT": "Rodrigo Fernandes",
+       "IT": "Rodrigo Fernandes",
+       "RU": "\u0420\u043e\u0434\u0440\u0438\u0433\u0443 \u0424\u0435\u0440\u043d\u0430\u043d\u0434\u0435\u0448",
+       "ZH": "\u7f57\u5fb7\u91cc\u6208\u00b7\u8d39\u5c14\u5357\u5fb7\u65af",
+       "AR": "\u0631\u0648\u062f\u0631\u064a\u062c\u0648 \u0641\u0631\u0646\u0627\u0646\u062f\u064a\u0632"
+      },
+      "name": {
+       "EN": "Rodrigo Fernandes",
+       "FR": "Rodrigo Fernandes",
+       "DE": "Rodrigo Fernandes",
+       "ES": "Rodrigo Fernandes",
+       "PT": "Rodrigo Fernandes",
+       "IT": "Rodrigo Fernandes",
+       "RU": "\u0420\u043e\u0434\u0440\u0438\u0433\u0443 \u0424\u0435\u0440\u043d\u0430\u043d\u0434\u0435\u0448",
+       "ZH": "\u7f57\u5fb7\u91cc\u6208\u00b7\u8d39\u5c14\u5357\u5fb7\u65af",
+       "AR": "\u0631\u0648\u062f\u0631\u064a\u062c\u0648 \u0641\u0631\u0646\u0627\u0646\u062f\u064a\u0632"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Rodrigo Fernandes",
+       "FR": "Rodrigo Fernandes",
+       "DE": "Rodrigo Fernandes",
+       "ES": "Rodrigo Fernandes",
+       "PT": "Rodrigo Fernandes",
+       "IT": "Rodrigo Fernandes",
+       "RU": "\u0420\u043e\u0434\u0440\u0438\u0433\u0443 \u0424\u0435\u0440\u043d\u0430\u043d\u0434\u0435\u0448",
+       "ZH": "\u7f57\u5fb7\u91cc\u6208\u00b7\u8d39\u5c14\u5357\u5fb7\u65af",
+       "AR": "\u0631\u0648\u062f\u0631\u064a\u062c\u0648 \u0641\u0631\u0646\u0627\u0646\u062f\u064a\u0632"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "isLateUpdate": false,
+    "jerseyNumber": 99,
+    "player": {
+     "age": "26",
+     "birthDate": "2000-11-02",
+     "clubId": "2609356",
+     "clubJerseyNumber": "99",
+     "clubShirtName": "ORPHE MBINA",
+     "countryCode": "GAB",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "FORWARD",
+     "gender": "MALE",
+     "id": "250198298",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250198298.jpg",
+     "internationalName": "Orph\u00e9 Mbina",
+     "nationalFieldPosition": "FORWARD",
+     "nationalShirtName": "Mbina",
+     "translations": {
+      "countryName": {
+       "EN": "Gabon",
+       "FR": "Gabon",
+       "DE": "Gabun",
+       "ES": "Gab\u00f3n",
+       "PT": "Gab\u00e3o",
+       "IT": "Gabon",
+       "RU": "\u0413\u0430\u0431\u043e\u043d",
+       "ZH": "Gabon",
+       "AR": "\u0627\u0644\u062c\u0627\u0628\u0648\u0646"
+      },
+      "fieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "firstName": {
+       "EN": "Orph\u00e9",
+       "FR": "Orph\u00e9",
+       "DE": "Orph\u00e9",
+       "ES": "Orph\u00e9",
+       "PT": "Orph\u00e9",
+       "IT": "Orph\u00e9",
+       "RU": "\u041e\u0440\u0444\u0435",
+       "ZH": "\u5965\u83f2",
+       "AR": "\u0623\u0648\u0631\u0641\u064a "
+      },
+      "lastName": {
+       "EN": "Mbina",
+       "FR": "Mbina",
+       "DE": "Mbina",
+       "ES": "Mbina",
+       "PT": "Mbina",
+       "IT": "Mbina",
+       "RU": "\u041c\u0431\u0438\u043d\u0430",
+       "ZH": "\u59c6\u6bd4\u7eb3",
+       "AR": "\u0645\u0628\u064a\u0646\u0627"
+      },
+      "name": {
+       "EN": "Orph\u00e9 Mbina",
+       "FR": "Orph\u00e9 Mbina",
+       "DE": "Orph\u00e9 Mbina",
+       "ES": "Orph\u00e9 Mbina",
+       "PT": "Orph\u00e9 Mbina",
+       "IT": "Orph\u00e9 Mbina",
+       "RU": "\u041e\u0440\u0444\u0435 \u041c\u0431\u0438\u043d\u0430",
+       "ZH": "\u5965\u83f2\u00b7\u59c6\u6bd4\u7eb3",
+       "AR": "\u0623\u0648\u0631\u0641\u064a \u0645\u0628\u064a\u0646\u0627"
+      },
+      "nationalFieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "shortName": {
+       "EN": "Mbina",
+       "FR": "Mbina",
+       "DE": "Mbina",
+       "ES": "Mbina",
+       "PT": "Mbina",
+       "IT": "Mbina",
+       "RU": "\u041c\u0431\u0438\u043d\u0430",
+       "ZH": "\u59c6\u6bd4\u7eb3",
+       "AR": "\u0645\u0628\u064a\u0646\u0627"
+      }
+     }
+    },
+    "type": "PLAYER"
+   }
+  ],
+  "coaches": [
+   {
+    "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250013785.jpg",
+    "person": {
+     "countryCode": "LTU",
+     "gender": "MALE",
+     "id": "250013785",
+     "translations": {
+      "countryName": {
+       "EN": "Lithuania",
+       "FR": "Lituanie",
+       "DE": "Litauen",
+       "ES": "Lituania",
+       "PT": "Litu\u00e2nia",
+       "IT": "Lituania",
+       "RU": "\u041b\u0438\u0442\u0432\u0430",
+       "ZH": "\u7acb\u9676\u5b9b",
+       "AR": "\u0644\u064a\u062a\u0648\u0627\u0646\u064a\u0627"
+      },
+      "firstName": {
+       "EN": "Valdas",
+       "FR": "Valdas",
+       "DE": "Valdas",
+       "ES": "Valdas",
+       "PT": "Valdas",
+       "IT": "Valdas",
+       "RU": "Valdas",
+       "ZH": "Valdas",
+       "AR": "\u0641\u0627\u0644\u062f\u0627\u0633 "
+      },
+      "lastName": {
+       "EN": "Dambrauskas",
+       "FR": "Dambrauskas",
+       "DE": "Dambrauskas",
+       "ES": "Dambrauskas",
+       "PT": "Dambrauskas",
+       "IT": "Dambrauskas",
+       "RU": "Dambrauskas",
+       "ZH": "Dambrauskas",
+       "AR": "\u062f\u0627\u0645\u0628\u0631\u0627\u0648\u0633\u0643\u0627\u0633"
+      },
+      "name": {
+       "EN": "Valdas Dambrauskas",
+       "FR": "Valdas Dambrauskas",
+       "DE": "Valdas Dambrauskas",
+       "ES": "Valdas Dambrauskas",
+       "PT": "Valdas Dambrauskas",
+       "IT": "Valdas Dambrauskas",
+       "RU": "\u0412\u0430\u043b\u044c\u0434\u0430\u0441 \u0414\u0430\u043c\u0431\u0440\u0430\u0443\u0441\u043a\u0430\u0441",
+       "ZH": "\u74e6\u5c14\u8fbe\u65af\u00b7\u8fbe\u59c6\u5e03\u52b3\u65af\u5361\u65af",
+       "AR": "\u0641\u0627\u0644\u062f\u0627\u0633 \u062f\u0627\u0645\u0628\u0631\u0627\u0648\u0633\u0643\u0627\u0633"
+      },
+      "shortName": {
+       "EN": "Dambrauskas",
+       "FR": "Dambrauskas",
+       "DE": "Dambrauskas",
+       "ES": "Dambrauskas",
+       "PT": "Dambrauskas",
+       "IT": "Dambrauskas",
+       "RU": "\u0414\u0430\u043c\u0431\u0440\u0430\u0443\u0441\u043a\u0430\u0441",
+       "ZH": "\u8fbe\u59c6\u5e03\u52b3\u65af\u5361\u65af",
+       "AR": "\u062f\u0627\u0645\u0628\u0631\u0627\u0648\u0633\u0643\u0627\u0633"
+      }
+     }
+    },
+    "role": "COACH",
+    "translations": {
+     "role": {
+      "EN": "Coach",
+      "FR": "Entra\u00eeneur",
+      "DE": "Trainer",
+      "ES": "Entrenador",
+      "PT": "Treinador",
+      "IT": "Allenatore",
+      "RU": "\u0422\u0440\u0435\u043d\u0435\u0440",
+      "ZH": "Treinador",
+      "AR": "\u0645\u062f\u064a\u0631 \u0641\u0646\u064a"
+     }
+    }
+   }
+  ],
+  "field": [
+   {
+    "fieldCoordinate": {
+     "x": 297,
+     "y": 186
+    },
+    "fspFieldCoordinate": {
+     "x": -3297,
+     "y": -1379
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 3,
+    "player": {
+     "age": "30",
+     "birthDate": "1996-03-20",
+     "clubId": "2609356",
+     "clubJerseyNumber": "3",
+     "clubShirtName": "SOLVET",
+     "countryCode": "GLP",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250209341",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250209341.jpg",
+     "internationalName": "Steve Solvet",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalShirtName": "Solvet",
+     "translations": {
+      "countryName": {
+       "EN": "Guadeloupe",
+       "FR": "Guadeloupe",
+       "DE": "Guadeloupe",
+       "ES": "Guadalupe",
+       "PT": "Guadeloupe",
+       "IT": "Guadeloupe",
+       "RU": "Guadeloupe",
+       "ZH": "Guadeloupe",
+       "AR": "\u062c\u0648\u0627\u062f\u0644\u0648\u0628"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Steve",
+       "FR": "Steve",
+       "DE": "Steve",
+       "ES": "Steve",
+       "PT": "Steve",
+       "IT": "Steve",
+       "RU": "\u0421\u0442\u0438\u0432",
+       "ZH": "\u53f2\u8482\u592b",
+       "AR": "\u0633\u062a\u064a\u0641 "
+      },
+      "lastName": {
+       "EN": "Solvet",
+       "FR": "Solvet",
+       "DE": "Solvet",
+       "ES": "Solvet",
+       "PT": "Solvet",
+       "IT": "Solvet",
+       "RU": "\u0421\u043e\u043b\u044c\u0432\u0435",
+       "ZH": "\u7d22\u5c14\u97e6",
+       "AR": "\u0633\u0648\u0644\u0641\u064a\u062a"
+      },
+      "name": {
+       "EN": "Steve Solvet",
+       "FR": "Steve Solvet",
+       "DE": "Steve Solvet",
+       "ES": "Steve Solvet",
+       "PT": "Steve Solvet",
+       "IT": "Steve Solvet",
+       "RU": "\u0421\u0442\u0438\u0432 \u0421\u043e\u043b\u044c\u0432\u0435",
+       "ZH": "\u53f2\u8482\u592b\u00b7\u7d22\u5c14\u97e6",
+       "AR": "\u0633\u062a\u064a\u0641 \u0633\u0648\u0644\u0641\u064a\u062a"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "Solvet",
+       "FR": "Solvet",
+       "DE": "Solvet",
+       "ES": "Solvet",
+       "PT": "Solvet",
+       "IT": "Solvet",
+       "RU": "\u0421\u043e\u043b\u044c\u0432\u0435",
+       "ZH": "\u7d22\u5c14\u97e6",
+       "AR": "\u0633\u0648\u0644\u0641\u064a\u062a"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 677,
+     "y": 192
+    },
+    "fspFieldCoordinate": {
+     "x": -3234,
+     "y": 1204
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 5,
+    "player": {
+     "age": "27",
+     "birthDate": "1999-10-20",
+     "clubId": "2609356",
+     "clubJerseyNumber": "5",
+     "clubShirtName": "RAHMAN",
+     "countryCode": "AZE",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250186986",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250186986.jpg",
+     "internationalName": "Rahman Dashdamirov",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalJerseyNumber": "2",
+     "nationalShirtName": "Da\u015fd\u0259mirov",
+     "nationalTeamId": "57154",
+     "translations": {
+      "countryName": {
+       "EN": "Azerbaijan",
+       "FR": "Azerba\u00efdjan",
+       "DE": "Aserbaidschan",
+       "ES": "Azerbaiy\u00e1n",
+       "PT": "Azerbaij\u00e3o",
+       "IT": "Azerbaigian",
+       "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+       "ZH": "\u963f\u8d5b\u62dc\u7586",
+       "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Rahman",
+       "FR": "Rahman",
+       "DE": "Rahman",
+       "ES": "Rahman",
+       "PT": "Rahman",
+       "IT": "Rahman",
+       "RU": "\u0420\u0430\u0445\u043c\u0430\u043d",
+       "ZH": "\u62c9\u8d6b\u66fc",
+       "AR": "\u0631\u062d\u0645\u0646 "
+      },
+      "lastName": {
+       "EN": "Dashdamirov",
+       "FR": "Dashdamirov",
+       "DE": "Dashdamirov",
+       "ES": "Dashdamirov",
+       "PT": "Dashdamirov",
+       "IT": "Dashdamirov",
+       "RU": "\u0414\u0430\u0448\u0434\u0430\u043c\u0438\u0440\u043e\u0432",
+       "ZH": "\u8fbe\u4ec0\u8fbe\u7c73\u7f57\u592b",
+       "AR": "\u062f\u0627\u0634\u062f\u0627\u0645\u064a\u0631\u0648\u0641"
+      },
+      "name": {
+       "EN": "Rahman Dashdamirov",
+       "FR": "Rahman Dashdamirov",
+       "DE": "Rahman Dashdamirov",
+       "ES": "Rahman Dashdamirov",
+       "PT": "Rahman Dashdamirov",
+       "IT": "Rahman Dashdamirov",
+       "RU": "\u0420\u0430\u0445\u043c\u0430\u043d \u0414\u0430\u0448\u0434\u0430\u043c\u0438\u0440\u043e\u0432",
+       "ZH": "\u62c9\u8d6b\u66fc\u00b7\u8fbe\u4ec0\u8fbe\u7c73\u7f57\u592b",
+       "AR": "\u0631\u062d\u0645\u0646 \u062f\u0627\u0634\u062f\u0627\u0645\u064a\u0631\u0648\u0641"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "Dashdamirov",
+       "FR": "Dashdamirov",
+       "DE": "Dashdamirov",
+       "ES": "Dashdamirov",
+       "PT": "Dashdamirov",
+       "IT": "Dashdamirov",
+       "RU": "\u0414\u0430\u0448\u0434\u0430\u043c\u0438\u0440\u043e\u0432",
+       "ZH": "\u8fbe\u4ec0\u8fbe\u7c73\u7f57\u592b",
+       "AR": "\u062f\u0627\u0634\u062f\u0627\u0645\u064a\u0631\u0648\u0641"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 357,
+     "y": 420
+    },
+    "fspFieldCoordinate": {
+     "x": -840,
+     "y": -966
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 7,
+    "player": {
+     "age": "23",
+     "birthDate": "2003-08-18",
+     "clubId": "2609356",
+     "clubJerseyNumber": "7",
+     "clubShirtName": "RAKHMONALIEV",
+     "countryCode": "UZB",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250209340",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250209340.jpg",
+     "internationalName": "Umarali Rakhmonaliev",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalJerseyNumber": "26",
+     "nationalShirtName": "Raxmonaliyev",
+     "nationalTeamId": "65158",
+     "translations": {
+      "countryName": {
+       "EN": "Uzbekistan",
+       "FR": "Ouzb\u00e9kistan",
+       "DE": "Usbekistan",
+       "ES": "Uzbekist\u00e1n",
+       "PT": "Uzbequist\u00e3o",
+       "IT": "Uzbekistan",
+       "RU": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+       "ZH": "\u4e4c\u5179\u522b\u514b\u65af\u5766",
+       "AR": "\u0623\u0648\u0632\u0628\u0643\u0633\u062a\u0627\u0646"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Umarali",
+       "FR": "Umarali",
+       "DE": "Umarali",
+       "ES": "Umarali",
+       "PT": "Umarali",
+       "IT": "Umarali",
+       "RU": "\u0423\u043c\u0430\u0440\u0430\u043b\u0438",
+       "ZH": "\u4e4c\u739b\u62c9\u5229",
+       "AR": "\u0639\u0645\u0631 "
+      },
+      "lastName": {
+       "EN": "Rakhmonaliev",
+       "FR": "Rakhmonaliev",
+       "DE": "Rakhmonaliev",
+       "ES": "Rakhmonaliev",
+       "PT": "Rakhmonaliev",
+       "IT": "Rakhmonaliev",
+       "RU": "\u0420\u0430\u0445\u043c\u043e\u043d\u0430\u043b\u0438\u0435\u0432",
+       "ZH": "\u62c9\u8d6b\u83ab\u7eb3\u5229\u8036\u592b",
+       "AR": "\u0631\u062d\u0645\u0648\u0646\u0627\u0644\u064a\u064a\u0641"
+      },
+      "name": {
+       "EN": "Umarali Rakhmonaliev",
+       "FR": "Umarali Rakhmonaliev",
+       "DE": "Umarali Rakhmonaliev",
+       "ES": "Umarali Rakhmonaliev",
+       "PT": "Umarali Rakhmonaliev",
+       "IT": "Umarali Rakhmonaliev",
+       "RU": "\u0423\u043c\u0430\u0440\u0430\u043b\u0438 \u0420\u0430\u0445\u043c\u043e\u043d\u0430\u043b\u0438\u0435\u0432",
+       "ZH": "\u4e4c\u739b\u62c9\u5229\u00b7\u62c9\u8d6b\u83ab\u7eb3\u5229\u8036\u592b",
+       "AR": "\u0639\u0645\u0631 \u0639\u0644\u064a \u0631\u062d\u0645\u0648\u0646\u0627\u0644\u064a\u064a\u0641"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Rakhmonaliev",
+       "FR": "Rakhmonaliev",
+       "DE": "Rakhmonaliev",
+       "ES": "Rakhmonaliev",
+       "PT": "Rakhmonaliev",
+       "IT": "Rakhmonaliev",
+       "RU": "\u0420\u0430\u0445\u043c\u043e\u043d\u0430\u043b\u0438\u0435\u0432",
+       "ZH": "\u62c9\u8d6b\u83ab\u7eb3\u5229\u8036\u592b",
+       "AR": "\u0631\u062d\u0645\u0648\u0646\u0627\u0644\u064a\u064a\u0641"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 497,
+     "y": 538
+    },
+    "fspFieldCoordinate": {
+     "x": 399,
+     "y": -14
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 10,
+    "player": {
+     "age": "31",
+     "birthDate": "1995-11-09",
+     "clubId": "2609356",
+     "clubJerseyNumber": "10",
+     "clubShirtName": "ISAEV",
+     "countryCode": "AZE",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250129032",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250129032.jpg",
+     "internationalName": "Aleksey Isaev",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalJerseyNumber": "20",
+     "nationalShirtName": "Isaev",
+     "nationalTeamId": "57154",
+     "translations": {
+      "countryName": {
+       "EN": "Azerbaijan",
+       "FR": "Azerba\u00efdjan",
+       "DE": "Aserbaidschan",
+       "ES": "Azerbaiy\u00e1n",
+       "PT": "Azerbaij\u00e3o",
+       "IT": "Azerbaigian",
+       "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+       "ZH": "\u963f\u8d5b\u62dc\u7586",
+       "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Aleksey",
+       "FR": "Aleksey",
+       "DE": "Aleksey",
+       "ES": "Aleksey",
+       "PT": "Aleksey",
+       "IT": "Aleksey",
+       "RU": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+       "ZH": "\u963f\u5217\u514b\u8c22",
+       "AR": "\u0623\u0644\u064a\u0643\u0633\u064a "
+      },
+      "lastName": {
+       "EN": "Isaev",
+       "FR": "Isaev",
+       "DE": "Isaev",
+       "ES": "Isaev",
+       "PT": "Isaev",
+       "IT": "Isaev",
+       "RU": "\u0418\u0441\u0430\u0435\u0432",
+       "ZH": "\u4f0a\u8428\u8036\u592b",
+       "AR": "\u0625\u064a\u0633\u0627\u064a\u0641"
+      },
+      "name": {
+       "EN": "Aleksey Isaev",
+       "FR": "Aleksey Isaev",
+       "DE": "Aleksey Isaev",
+       "ES": "Aleksey Isaev",
+       "PT": "Aleksey Isaev",
+       "IT": "Aleksey Isaev",
+       "RU": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0418\u0441\u0430\u0435\u0432",
+       "ZH": "\u963f\u5217\u514b\u8c22\u00b7\u4f0a\u8428\u8036\u592b",
+       "AR": "\u0623\u0644\u064a\u0643\u0633\u064a \u0625\u064a\u0633\u0627\u064a\u0641"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Isaev",
+       "FR": "Isaev",
+       "DE": "Isaev",
+       "ES": "Isaev",
+       "PT": "Isaev",
+       "IT": "Isaev",
+       "RU": "\u0418\u0441\u0430\u0435\u0432",
+       "ZH": "\u4f0a\u8428\u8036\u592b",
+       "AR": "\u0625\u064a\u0633\u0627\u064a\u0641"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 640,
+     "y": 419
+    },
+    "fspFieldCoordinate": {
+     "x": -850,
+     "y": 952
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 13,
+    "player": {
+     "age": "27",
+     "birthDate": "1999-07-09",
+     "clubId": "2609356",
+     "clubJerseyNumber": "13",
+     "clubShirtName": "LEPINJICA",
+     "countryCode": "CRO",
+     "detailedFieldPosition": "CENTRAL_MIDFIELDER",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250110583",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250110583.jpg",
+     "internationalName": "Ivan Lepinjica",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalJerseyNumber": "20",
+     "nationalShirtName": "Lepinjica",
+     "nationalTeamId": "256370",
+     "translations": {
+      "countryName": {
+       "EN": "Croatia",
+       "FR": "Croatie",
+       "DE": "Kroatien",
+       "ES": "Croacia",
+       "PT": "Cro\u00e1cia",
+       "IT": "Croazia",
+       "RU": "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f",
+       "ZH": "\u514b\u7f57\u5730\u4e9a",
+       "AR": "\u0643\u0631\u0648\u0627\u062a\u064a\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Ivan",
+       "FR": "Ivan",
+       "DE": "Ivan",
+       "ES": "Ivan",
+       "PT": "Ivan",
+       "IT": "Ivan",
+       "RU": "\u0418\u0432\u0430\u043d",
+       "ZH": "\u4f0a\u4e07",
+       "AR": "\u0625\u064a\u0641\u0627\u0646 "
+      },
+      "lastName": {
+       "EN": "Lepinjica",
+       "FR": "Lepinjica",
+       "DE": "Lepinjica",
+       "ES": "Lepinjica",
+       "PT": "Lepinjica",
+       "IT": "Lepinjica",
+       "RU": "\u041b\u0435\u043f\u0438\u043d\u0438\u0446\u0430",
+       "ZH": "\u5217\u5e73\u5229\u5bdf",
+       "AR": "\u0644\u064a\u0628\u064a\u0646\u064a\u062a\u0633\u0627"
+      },
+      "name": {
+       "EN": "Ivan Lepinjica",
+       "FR": "Ivan Lepinjica",
+       "DE": "Ivan Lepinjica",
+       "ES": "Ivan Lepinjica",
+       "PT": "Ivan Lepinjica",
+       "IT": "Ivan Lepinjica",
+       "RU": "\u0418\u0432\u0430\u043d \u041b\u0435\u043f\u0438\u043d\u0438\u0446\u0430",
+       "ZH": "\u4f0a\u4e07\u00b7\u5217\u5e73\u5229\u5bdf",
+       "AR": "\u0625\u064a\u0641\u0627\u0646 \u0644\u064a\u0628\u064a\u0646\u064a\u062a\u0633\u0627"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Lepinjica",
+       "FR": "Lepinjica",
+       "DE": "Lepinjica",
+       "ES": "Lepinjica",
+       "PT": "Lepinjica",
+       "IT": "Lepinjica",
+       "RU": "\u041b\u0435\u043f\u0438\u043d\u0438\u0446\u0430",
+       "ZH": "\u5217\u5e73\u5229\u5bdf",
+       "AR": "\u0644\u064a\u0628\u064a\u0646\u064a\u062a\u0633\u0627"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 752,
+     "y": 702
+    },
+    "fspFieldCoordinate": {
+     "x": 2121,
+     "y": 1719
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 19,
+    "player": {
+     "age": "20",
+     "birthDate": "2005-11-30",
+     "clubId": "2609356",
+     "clubJerseyNumber": "19",
+     "clubShirtName": "AARON. M",
+     "countryCode": "FRA",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250188244",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250188244.jpg",
+     "internationalName": "Aaron Malouda",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalShirtName": "AARON.M",
+     "translations": {
+      "countryName": {
+       "EN": "France",
+       "FR": "France",
+       "DE": "Frankreich",
+       "ES": "Francia",
+       "PT": "Fran\u00e7a",
+       "IT": "Francia",
+       "RU": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f",
+       "ZH": "\u6cd5\u56fd",
+       "AR": "\u0641\u0631\u0646\u0633\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Aaron",
+       "FR": "Aaron",
+       "DE": "Aaron",
+       "ES": "Aaron",
+       "PT": "Aaron",
+       "IT": "Aaron",
+       "RU": "\u0410\u0430\u0440\u043e\u043d",
+       "ZH": "\u963f\u4f26",
+       "AR": "\u0622\u0631\u0648\u0646 "
+      },
+      "lastName": {
+       "EN": "Malouda",
+       "FR": "Malouda",
+       "DE": "Malouda",
+       "ES": "Malouda",
+       "PT": "Malouda",
+       "IT": "Malouda",
+       "RU": "\u041c\u0430\u043b\u0443\u0434\u0430",
+       "ZH": "\u9a6c\u5362\u8fbe",
+       "AR": "\u0645\u0627\u0644\u0648\u062f\u0627"
+      },
+      "name": {
+       "EN": "Aaron Malouda",
+       "FR": "Aaron Malouda",
+       "DE": "Aaron Malouda",
+       "ES": "Aaron Malouda",
+       "PT": "Aaron Malouda",
+       "IT": "Aaron Malouda",
+       "RU": "\u0410\u0430\u0440\u043e\u043d \u041c\u0430\u043b\u0443\u0434\u0430",
+       "ZH": "\u963f\u4f26\u00b7\u9a6c\u5362\u8fbe",
+       "AR": "\u0622\u0631\u0648\u0646 \u0645\u0627\u0644\u0648\u062f\u0627"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Malouda",
+       "FR": "Malouda",
+       "DE": "Malouda",
+       "ES": "Malouda",
+       "PT": "Malouda",
+       "IT": "Malouda",
+       "RU": "\u041c\u0430\u043b\u0443\u0434\u0430",
+       "ZH": "\u9a6c\u5362\u8fbe",
+       "AR": "\u0645\u0627\u0644\u0648\u062f\u0627"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 487,
+     "y": 708
+    },
+    "fspFieldCoordinate": {
+     "x": 2184,
+     "y": -82
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 20,
+    "player": {
+     "age": "32",
+     "birthDate": "1994-03-29",
+     "clubId": "2609356",
+     "clubJerseyNumber": "20",
+     "clubShirtName": "MICKELS",
+     "countryCode": "RWA",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "FORWARD",
+     "gender": "MALE",
+     "height": 181,
+     "id": "250081185",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250081185.jpg",
+     "internationalName": "Joy-Lance Mickels",
+     "nationalFieldPosition": "FORWARD",
+     "nationalJerseyNumber": "20",
+     "nationalShirtName": "Mickels",
+     "nationalTeamId": "114",
+     "translations": {
+      "countryName": {
+       "EN": "Rwanda",
+       "FR": "Rwanda",
+       "DE": "Ruanda",
+       "ES": "Ruanda",
+       "PT": "Ruanda",
+       "IT": "Ruanda",
+       "RU": "\u0420\u0443\u0430\u043d\u0434\u0430",
+       "ZH": "Rwanda",
+       "AR": "\u0631\u0648\u0627\u0646\u062f\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "firstName": {
+       "EN": "Joy-Lance",
+       "FR": "Joy-Lance",
+       "DE": "Joy-Lance",
+       "ES": "Joy-Lance",
+       "PT": "Joy-Lance",
+       "IT": "Joy-Lance",
+       "RU": "\u0414\u0436\u043e\u0439-\u041b\u0435\u043d\u0441",
+       "ZH": "\u4e54\u4f0a-\u5170\u65af",
+       "AR": "\u062c\u0648\u064a \u0644\u0627\u0646\u0633"
+      },
+      "lastName": {
+       "EN": "Mickels",
+       "FR": "Mickels",
+       "DE": "Mickels",
+       "ES": "Mickels",
+       "PT": "Mickels",
+       "IT": "Mickels",
+       "RU": "\u041c\u0438\u043a\u0435\u043b\u0441",
+       "ZH": "\u7c73\u514b\u5c14\u65af",
+       "AR": "\u0645\u064a\u0643\u0644\u0632"
+      },
+      "name": {
+       "EN": "Joy-Lance Mickels",
+       "FR": "Joy-Lance Mickels",
+       "DE": "Joy-Lance Mickels",
+       "ES": "Joy-Lance Mickels",
+       "PT": "Joy-Lance Mickels",
+       "IT": "Joy-Lance Mickels",
+       "RU": "\u0414\u0436\u043e\u0439-\u041b\u0435\u043d\u0441 \u041c\u0438\u043a\u0435\u043b\u0441",
+       "ZH": "\u4e54\u4f0a-\u5170\u65af\u00b7\u7c73\u514b\u5c14\u65af",
+       "AR": "\u062c\u0648\u064a \u0644\u0627\u0646\u0633 \u0645\u064a\u0643\u0644\u0632"
+      },
+      "nationalFieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "shortName": {
+       "EN": "Mickels",
+       "FR": "Mickels",
+       "DE": "Mickels",
+       "ES": "Mickels",
+       "PT": "Mickels",
+       "IT": "Mickels",
+       "RU": "\u041c\u0438\u043a\u0435\u043b\u0441",
+       "ZH": "\u7c73\u514b\u5c14\u65af",
+       "AR": "\u0645\u064a\u0643\u0644\u0632"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 227,
+     "y": 704
+    },
+    "fspFieldCoordinate": {
+     "x": 2142,
+     "y": -1850
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 21,
+    "player": {
+     "age": "31",
+     "birthDate": "1995-02-17",
+     "clubId": "2609356",
+     "clubJerseyNumber": "21",
+     "clubShirtName": "V.SIMIC",
+     "countryCode": "SRB",
+     "detailedFieldPosition": "WINGER",
+     "fieldPosition": "FORWARD",
+     "gender": "MALE",
+     "id": "250042209",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250042209.jpg",
+     "internationalName": "Veljko Simi\u0107",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalJerseyNumber": "7",
+     "nationalShirtName": "Simic",
+     "nationalTeamId": "300147",
+     "translations": {
+      "countryName": {
+       "EN": "Serbia",
+       "FR": "Serbie",
+       "DE": "Serbien",
+       "ES": "Serbia",
+       "PT": "S\u00e9rvia",
+       "IT": "Serbia",
+       "RU": "\u0421\u0435\u0440\u0431\u0438\u044f",
+       "ZH": "\u585e\u5c14\u7ef4\u4e9a",
+       "AR": "\u0635\u0631\u0628\u064a\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "firstName": {
+       "EN": "Veljko",
+       "FR": "Veljko",
+       "DE": "Veljko",
+       "ES": "Veljko",
+       "PT": "Veljko",
+       "IT": "Veljko",
+       "RU": "\u0412\u0435\u043b\u044c\u043a\u043e",
+       "ZH": "\u7ef4\u5c14\u79d1",
+       "AR": "\u0641\u064a\u0644\u064a\u0643\u0648 "
+      },
+      "lastName": {
+       "EN": "Simi\u0107",
+       "FR": "Simi\u0107",
+       "DE": "Simi\u0107",
+       "ES": "Simi\u0107",
+       "PT": "Simi\u0107",
+       "IT": "Simi\u0107",
+       "RU": "\u0421\u0438\u043c\u0438\u0447",
+       "ZH": "\u897f\u7c73\u5947",
+       "AR": "\u0633\u064a\u0645\u064a\u062a\u0634"
+      },
+      "name": {
+       "EN": "Veljko Simi\u0107",
+       "FR": "Veljko Simi\u0107",
+       "DE": "Veljko Simi\u0107",
+       "ES": "Veljko Simi\u0107",
+       "PT": "Veljko Simi\u0107",
+       "IT": "Veljko Simi\u0107",
+       "RU": "\u0412\u0435\u043b\u044c\u043a\u043e \u0421\u0438\u043c\u0438\u0447",
+       "ZH": "\u7ef4\u5c14\u79d1\u00b7\u897f\u7c73\u5947",
+       "AR": "\u0641\u064a\u0644\u064a\u0643\u0648 \u0633\u064a\u0645\u064a\u062a\u0634"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Simi\u0107",
+       "FR": "Simi\u0107",
+       "DE": "Simi\u0107",
+       "ES": "Simi\u0107",
+       "PT": "Simi\u0107",
+       "IT": "Simi\u0107",
+       "RU": "\u0421\u0438\u043c\u0438\u0447",
+       "ZH": "\u897f\u7c73\u5947",
+       "AR": "\u0633\u064a\u0645\u064a\u062a\u0634"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 852,
+     "y": 305
+    },
+    "fspFieldCoordinate": {
+     "x": -2047,
+     "y": 2399
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 27,
+    "player": {
+     "age": "27",
+     "birthDate": "1999-01-23",
+     "clubId": "2609356",
+     "clubJerseyNumber": "27",
+     "clubShirtName": "PUCHACZ",
+     "countryCode": "POL",
+     "countryOfBirthCode": "POL",
+     "detailedFieldPosition": "FULL_BACK",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250090285",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250090285.jpg",
+     "internationalName": "Tymoteusz Puchacz",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalJerseyNumber": "15",
+     "nationalShirtName": "Puchacz",
+     "nationalTeamId": "109",
+     "translations": {
+      "countryName": {
+       "EN": "Poland",
+       "FR": "Pologne",
+       "DE": "Polen",
+       "ES": "Polonia",
+       "PT": "Pol\u00f3nia",
+       "IT": "Polonia",
+       "RU": "\u041f\u043e\u043b\u044c\u0448\u0430",
+       "ZH": "\u6ce2\u5170",
+       "AR": "\u0628\u0648\u0644\u0646\u062f\u0627"
+      },
+      "countryOfBirthName": {
+       "EN": "Poland",
+       "FR": "Pologne",
+       "DE": "Polen",
+       "ES": "Polonia",
+       "PT": "Pol\u00f3nia",
+       "IT": "Polonia",
+       "RU": "\u041f\u043e\u043b\u044c\u0448\u0430",
+       "ZH": "\u6ce2\u5170",
+       "AR": "\u0628\u0648\u0644\u0646\u062f\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Tymoteusz",
+       "FR": "Tymoteusz",
+       "DE": "Tymoteusz",
+       "ES": "Tymoteusz",
+       "PT": "Tymoteusz",
+       "IT": "Tymoteusz",
+       "RU": "\u0422\u0438\u043c\u043e\u0442\u0435\u0443\u0448",
+       "ZH": "\u8482\u83ab\u7279\u65af",
+       "AR": "\u062a\u064a\u0645\u0648\u062a\u064a\u0648\u0633 "
+      },
+      "lastName": {
+       "EN": "Puchacz",
+       "FR": "Puchacz",
+       "DE": "Puchacz",
+       "ES": "Puchacz",
+       "PT": "Puchacz",
+       "IT": "Puchacz",
+       "RU": "\u041f\u0443\u0445\u0430\u0447",
+       "ZH": "\u666e\u6070\u8328",
+       "AR": "\u0628\u0648\u062a\u0634\u0627\u062a\u0634"
+      },
+      "name": {
+       "EN": "Tymoteusz Puchacz",
+       "FR": "Tymoteusz Puchacz",
+       "DE": "Tymoteusz Puchacz",
+       "ES": "Tymoteusz Puchacz",
+       "PT": "Tymoteusz Puchacz",
+       "IT": "Tymoteusz Puchacz",
+       "RU": "\u0422\u0438\u043c\u043e\u0442\u0435\u0443\u0448 \u041f\u0443\u0445\u0430\u0447",
+       "ZH": "\u8482\u83ab\u7279\u65af\u00b7\u666e\u6070\u8328",
+       "AR": "\u062a\u064a\u0645\u0648\u062a\u064a\u0648\u0633 \u0628\u0648\u062a\u0634\u0627\u062a\u0634"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "Puchacz",
+       "FR": "Puchacz",
+       "DE": "Puchacz",
+       "ES": "Puchacz",
+       "PT": "Puchacz",
+       "IT": "Puchacz",
+       "RU": "\u041f\u0443\u0445\u0430\u0447",
+       "ZH": "\u666e\u6070\u8328",
+       "AR": "\u0628\u0648\u062a\u0634\u0627\u062a\u0634"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 126,
+     "y": 299
+    },
+    "fspFieldCoordinate": {
+     "x": -2110,
+     "y": -2542
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 80,
+    "player": {
+     "age": "31",
+     "birthDate": "1995-05-30",
+     "clubId": "2609356",
+     "clubJerseyNumber": "80",
+     "clubShirtName": "ZEDADKA",
+     "countryCode": "ALG",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250188243",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250188243.jpg",
+     "internationalName": "Akim Zedadka",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalShirtName": "ZEDADKA",
+     "translations": {
+      "countryName": {
+       "EN": "Algeria",
+       "FR": "Alg\u00e9rie",
+       "DE": "Algerien",
+       "ES": "Argelia",
+       "PT": "Arg\u00e9lia",
+       "IT": "Algeria",
+       "RU": "\u0410\u043b\u0436\u0438\u0440",
+       "ZH": "Algeria",
+       "AR": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Akim",
+       "FR": "Akim",
+       "DE": "Akim",
+       "ES": "Akim",
+       "PT": "Akim",
+       "IT": "Akim",
+       "RU": "\u0410\u043a\u0438\u043c",
+       "ZH": "\u963f\u57fa\u59c6",
+       "AR": "\u0623\u0643\u064a\u0645 "
+      },
+      "lastName": {
+       "EN": "Zedadka",
+       "FR": "Zedadka",
+       "DE": "Zedadka",
+       "ES": "Zedadka",
+       "PT": "Zedadka",
+       "IT": "Zedadka",
+       "RU": "\u0417\u0435\u0434\u0430\u0434\u043a\u0430",
+       "ZH": "\u6cfd\u8fbe\u5fb7\u5361",
+       "AR": "\u0632\u064a\u062f\u0627\u062f\u0643\u0627"
+      },
+      "name": {
+       "EN": "Akim Zedadka",
+       "FR": "Akim Zedadka",
+       "DE": "Akim Zedadka",
+       "ES": "Akim Zedadka",
+       "PT": "Akim Zedadka",
+       "IT": "Akim Zedadka",
+       "RU": "\u0410\u043a\u0438\u043c \u0417\u0435\u0434\u0430\u0434\u043a\u0430",
+       "ZH": "\u963f\u57fa\u59c6\u00b7\u6cfd\u8fbe\u5fb7\u5361",
+       "AR": "\u0623\u0643\u064a\u0645 \u0632\u064a\u062f\u0627\u062f\u0643\u0627"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "Zedadka",
+       "FR": "Zedadka",
+       "DE": "Zedadka",
+       "ES": "Zedadka",
+       "PT": "Zedadka",
+       "IT": "Zedadka",
+       "RU": "\u0417\u0435\u0434\u0430\u0434\u043a\u0430",
+       "ZH": "\u6cfd\u8fbe\u5fb7\u5361",
+       "AR": "\u0632\u064a\u062f\u0627\u062f\u0643\u0627"
+      }
+     }
+    },
+    "type": "PLAYER"
+   },
+   {
+    "fieldCoordinate": {
+     "x": 500,
+     "y": 50
+    },
+    "fspFieldCoordinate": {
+     "x": -4725,
+     "y": 0
+    },
+    "isLateUpdate": false,
+    "jerseyNumber": 92,
+    "player": {
+     "age": "33",
+     "birthDate": "1992-12-08",
+     "clubId": "2609356",
+     "clubJerseyNumber": "92",
+     "clubShirtName": "POKATILOV",
+     "countryCode": "KAZ",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "GOALKEEPER",
+     "gender": "MALE",
+     "height": 190,
+     "id": "250059361",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250059361.jpg",
+     "internationalName": "Stas Pokatilov",
+     "nationalFieldPosition": "GOALKEEPER",
+     "nationalJerseyNumber": "1",
+     "nationalShirtName": "Pokatilov",
+     "nationalTeamId": "65146",
+     "translations": {
+      "countryName": {
+       "EN": "Kazakhstan",
+       "FR": "Kazakhstan",
+       "DE": "Kasachstan",
+       "ES": "Kazajst\u00e1n",
+       "PT": "Cazaquist\u00e3o",
+       "IT": "Kazakistan",
+       "RU": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+       "ZH": "\u54c8\u8428\u514b\u65af\u5766",
+       "AR": "\u0643\u0627\u0632\u0627\u062e\u0633\u062a\u0627\u0646"
+      },
+      "fieldPosition": {
+       "EN": "Goalkeeper",
+       "FR": "Gardien",
+       "DE": "Torh\u00fcter",
+       "ES": "Portero",
+       "PT": "Guarda-redes",
+       "IT": "Portiere",
+       "RU": "\u0412\u0440\u0430\u0442\u0430\u0440\u044c",
+       "ZH": "\u5b88\u95e8\u5458",
+       "AR": "\u062d\u0627\u0631\u0633 \u0645\u0631\u0645\u0649"
+      },
+      "firstName": {
+       "EN": "Stas",
+       "FR": "Stas",
+       "DE": "Stas",
+       "ES": "Stas",
+       "PT": "Stas",
+       "IT": "Stas",
+       "RU": "\u0421\u0442\u0430\u0441",
+       "ZH": "\u65af\u5854\u65af",
+       "AR": "\u0633\u062a\u0627\u0633 "
+      },
+      "lastName": {
+       "EN": "Pokatilov",
+       "FR": "Pokatilov",
+       "DE": "Pokatilov",
+       "ES": "Pokatilov",
+       "PT": "Pokatilov",
+       "IT": "Pokatilov",
+       "RU": "\u041f\u043e\u043a\u0430\u0442\u0438\u043b\u043e\u0432",
+       "ZH": "\u6ce2\u5361\u5b63\u6d1b\u592b",
+       "AR": "\u0628\u0648\u0643\u0627\u062a\u064a\u0644\u0648\u0641"
+      },
+      "name": {
+       "EN": "Stas Pokatilov",
+       "FR": "Stas Pokatilov",
+       "DE": "Stas Pokatilov",
+       "ES": "Stas Pokatilov",
+       "PT": "Stas Pokatilov",
+       "IT": "Stas Pokatilov",
+       "RU": "\u0421\u0442\u0430\u0441 \u041f\u043e\u043a\u0430\u0442\u0438\u043b\u043e\u0432",
+       "ZH": "\u65af\u5854\u65af\u00b7\u6ce2\u5361\u5b63\u6d1b\u592b",
+       "AR": "\u0633\u062a\u0627\u0633 \u0628\u0648\u0643\u0627\u062a\u064a\u0644\u0648\u0641"
+      },
+      "nationalFieldPosition": {
+       "EN": "Goalkeeper",
+       "FR": "Gardien",
+       "DE": "Torh\u00fcter",
+       "ES": "Portero",
+       "PT": "Guarda-redes",
+       "IT": "Portiere",
+       "RU": "\u0412\u0440\u0430\u0442\u0430\u0440\u044c",
+       "ZH": "\u5b88\u95e8\u5458",
+       "AR": "\u062d\u0627\u0631\u0633 \u0645\u0631\u0645\u0649"
+      },
+      "shortName": {
+       "EN": "Pokatilov",
+       "FR": "Pokatilov",
+       "DE": "Pokatilov",
+       "ES": "Pokatilov",
+       "PT": "Pokatilov",
+       "IT": "Pokatilov",
+       "RU": "\u041f\u043e\u043a\u0430\u0442\u0438\u043b\u043e\u0432",
+       "ZH": "\u6ce2\u5361\u5b63\u6d1b\u592b",
+       "AR": "\u0628\u0648\u0643\u0627\u062a\u064a\u0644\u0648\u0641"
+      }
+     },
+     "weight": 84
+    },
+    "type": "GOALKEEPER_CAPTAIN"
+   }
+  ],
+  "shirtColor": "#400080",
+  "team": {
+   "associationId": "257154",
+   "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/AZE.svg",
+   "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2609356.png",
+   "confederationType": "UEFA",
+   "countryCode": "AZE",
+   "id": "2609356",
+   "idProvider": "FAME",
+   "internationalName": "Sabah",
+   "isPlaceHolder": false,
+   "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2609356.png",
+   "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2609356.png",
+   "organizationId": "250006728",
+   "teamCode": "SAB",
+   "teamTypeDetail": "DOMESTIC_MEN_TEAM_A",
+   "translations": {
+    "countryName": {
+     "EN": "Azerbaijan",
+     "FR": "Azerba\u00efdjan",
+     "DE": "Aserbaidschan",
+     "ES": "Azerbaiy\u00e1n",
+     "PT": "Azerbaij\u00e3o",
+     "IT": "Azerbaigian",
+     "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+     "ZH": "\u963f\u8d5b\u62dc\u7586",
+     "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+    },
+    "displayName": {
+     "EN": "Sabah",
+     "FR": "Sabah",
+     "DE": "Sabah",
+     "ES": "Sabah",
+     "PT": "Sabah",
+     "IT": "Sabah",
+     "RU": "\u0421\u0430\u0431\u0430\u0445",
+     "ZH": "Sabah",
+     "AR": "\u0635\u0628\u0627\u062d"
+    },
+    "displayOfficialName": {
+     "EN": "Sabah FC",
+     "FR": "Sabah FC",
+     "DE": "Sabah FC",
+     "ES": "Sabah FC",
+     "PT": "Sabah FC",
+     "IT": "Sabah FC",
+     "RU": "\u0421\u0430\u0431\u0430\u0445",
+     "ZH": "Sabah",
+     "AR": "\u0635\u0628\u0627\u062d"
+    },
+    "displayTeamCode": {
+     "EN": "SAB",
+     "FR": "SAB",
+     "DE": "SAB",
+     "ES": "SAB",
+     "PT": "SAB",
+     "IT": "SAB",
+     "RU": "SAB",
+     "ZH": "SAB",
+     "AR": "SAB"
+    },
+    "shortName": {
+     "EN": "Sabah",
+     "FR": "Sabah",
+     "DE": "Sabah",
+     "ES": "Sabah",
+     "PT": "Sabah",
+     "IT": "Sabah",
+     "RU": "\u0421\u0430\u0431\u0430\u0445",
+     "ZH": "Sabah",
+     "AR": "\u0635\u0628\u0627\u062d"
+    }
+   },
+   "typeIsNational": false,
+   "typeTeam": "DOMESTIC"
+  }
+ },
+ "lineupStatus": "TACTICAL_AVAILABLE",
+ "matchId": "2048621"
+}

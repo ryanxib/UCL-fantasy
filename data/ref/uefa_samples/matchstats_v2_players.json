@@ -1,0 +1,3757 @@
+[
+ {
+  "idProvider": "FAME",
+  "playerId": "250042209",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "1"
+   },
+   {
+    "name": "attempts",
+    "value": "3"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "2"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "3",
+     "Num": "2"
+    },
+    "name": "attempts_accuracy",
+    "value": "67"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "1"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "5883"
+    },
+    "name": "played_time_without_conceding",
+    "value": "99"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250058997",
+  "statistics": [
+   {
+    "attributes": {
+     "Percentage": "16",
+     "TotalMinutesAndSeconds": "13'47\"",
+     "TotalSeconds": "827"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "14"
+   },
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "22"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "657"
+    },
+    "name": "played_time_without_conceding",
+    "value": "11"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250059361",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "5883"
+    },
+    "name": "played_time_without_conceding",
+    "value": "99"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250081185",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "3"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "1"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "1"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "2"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "1"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "2"
+   },
+   {
+    "attributes": {
+     "Den": "3",
+     "Num": "1"
+    },
+    "name": "attempts_accuracy",
+    "value": "33"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "89"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "5833"
+    },
+    "name": "played_time_without_conceding",
+    "value": "98"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250087979",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250090285",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "2"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "1"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "1"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "8"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "2",
+     "Num": "1"
+    },
+    "name": "attempts_accuracy",
+    "value": "50"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "1"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "1"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "5883"
+    },
+    "name": "played_time_without_conceding",
+    "value": "99"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250106774",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250108248",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "1"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "657"
+    },
+    "name": "played_time_without_conceding",
+    "value": "11"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250109786",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "68"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "81"
+    },
+    "name": "played_time_without_conceding",
+    "value": "2"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250110583",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "1"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "1"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "5883"
+    },
+    "name": "played_time_without_conceding",
+    "value": "99"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250113116",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "657"
+    },
+    "name": "played_time_without_conceding",
+    "value": "11"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250116632",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "657"
+    },
+    "name": "played_time_without_conceding",
+    "value": "11"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250120246",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "657"
+    },
+    "name": "played_time_without_conceding",
+    "value": "11"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250124395",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "1"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "2"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "657"
+    },
+    "name": "played_time_without_conceding",
+    "value": "11"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250129032",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "1"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "3"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "77"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "4826"
+    },
+    "name": "played_time_without_conceding",
+    "value": "81"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250130045",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250138479",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250141377",
+  "statistics": [
+   {
+    "attributes": {
+     "Percentage": "6",
+     "TotalMinutesAndSeconds": "6'15\"",
+     "TotalSeconds": "375"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "7"
+   },
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "1"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "375"
+    },
+    "name": "played_time_without_conceding",
+    "value": "7"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250141881",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "2"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "1"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "2",
+     "Num": "1"
+    },
+    "name": "attempts_accuracy",
+    "value": "50"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "1"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "657"
+    },
+    "name": "played_time_without_conceding",
+    "value": "11"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250147059",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "3"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "2"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "1"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "657"
+    },
+    "name": "played_time_without_conceding",
+    "value": "11"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250156231",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "2"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "1"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "657"
+    },
+    "name": "played_time_without_conceding",
+    "value": "11"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250157295",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250157299",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "1"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "1"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "89"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "282"
+    },
+    "name": "played_time_without_conceding",
+    "value": "5"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250171312",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250173991",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250173994",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250174049",
+  "statistics": [
+   {
+    "attributes": {
+     "Percentage": "6",
+     "TotalMinutesAndSeconds": "4'55\"",
+     "TotalSeconds": "295"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "5"
+   },
+   {
+    "name": "goals",
+    "value": "1"
+   },
+   {
+    "name": "attempts",
+    "value": "1"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "1"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "1"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "1",
+     "Num": "1"
+    },
+    "name": "attempts_accuracy",
+    "value": "100"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "13"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "1110"
+    },
+    "name": "played_time_without_conceding",
+    "value": "19"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250186685",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250186986",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "1"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "5883"
+    },
+    "name": "played_time_without_conceding",
+    "value": "99"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250188243",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "2"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "2"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "1"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "2"
+   },
+   {
+    "attributes": {
+     "Den": "2",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "5883"
+    },
+    "name": "played_time_without_conceding",
+    "value": "99"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250188244",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "1"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "1"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "Den": "1",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "77"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "4773"
+    },
+    "name": "played_time_without_conceding",
+    "value": "80"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250193107",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250198298",
+  "statistics": [
+   {
+    "attributes": {
+     "Percentage": "6",
+     "TotalMinutesAndSeconds": "3'43\"",
+     "TotalSeconds": "223"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "4"
+   },
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "1"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "30"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "2088"
+    },
+    "name": "played_time_without_conceding",
+    "value": "35"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250201731",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250209340",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "1"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "60"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "3795"
+    },
+    "name": "played_time_without_conceding",
+    "value": "64"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250209341",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "2"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "1"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "2"
+   },
+   {
+    "name": "red_cards",
+    "value": "1"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "Den": "2",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "1"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "5716"
+    },
+    "name": "played_time_without_conceding",
+    "value": "96"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250209409",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250209410",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250209412",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250221118",
+  "statistics": [
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "1"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "3"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Percentage": "100",
+     "TotalMinutesAndSeconds": "53'28\"",
+     "TotalSeconds": "3208"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "54"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "90"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "657"
+    },
+    "name": "played_time_without_conceding",
+    "value": "11"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250221119",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250221230",
+  "statistics": [
+   {
+    "attributes": {
+     "Percentage": "1",
+     "TotalMinutesAndSeconds": "50\"",
+     "TotalSeconds": "50"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "1"
+   },
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "1"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "50"
+    },
+    "name": "played_time_without_conceding",
+    "value": "1"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250221474",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "60457"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250221486",
+  "statistics": [
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   }
+  ],
+  "teamId": "2609356"
+ },
+ {
+  "idProvider": "FAME",
+  "playerId": "250221487",
+  "statistics": [
+   {
+    "attributes": {
+     "Percentage": "5",
+     "TotalMinutesAndSeconds": "4'02\"",
+     "TotalSeconds": "242"
+    },
+    "name": "played_time",
+    "unit": "MINUTE",
+    "value": "5"
+   },
+   {
+    "name": "goals",
+    "value": "0"
+   },
+   {
+    "name": "attempts",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_target",
+    "value": "0"
+   },
+   {
+    "name": "goals_conceded",
+    "value": "0"
+   },
+   {
+    "name": "offsides",
+    "value": "0"
+   },
+   {
+    "name": "fouls_committed",
+    "value": "0"
+   },
+   {
+    "name": "fouls_suffered",
+    "value": "0"
+   },
+   {
+    "name": "yellow_cards",
+    "value": "0"
+   },
+   {
+    "name": "red_cards",
+    "value": "0"
+   },
+   {
+    "name": "corners",
+    "value": "0"
+   },
+   {
+    "name": "attempts_off_target",
+    "value": "0"
+   },
+   {
+    "attributes": {
+     "Den": "0",
+     "Num": "0"
+    },
+    "name": "attempts_accuracy",
+    "value": "0"
+   },
+   {
+    "name": "free_kicks_on_goal",
+    "value": "0"
+   },
+   {
+    "name": "blocked",
+    "value": "0"
+   },
+   {
+    "name": "assists",
+    "value": "0"
+   },
+   {
+    "name": "attempts_blocked",
+    "value": "0"
+   },
+   {
+    "name": "attempts_saved",
+    "value": "0"
+   },
+   {
+    "name": "own_goal_conceded",
+    "value": "0"
+   },
+   {
+    "name": "clearance_completed",
+    "value": "0"
+   },
+   {
+    "name": "minutes_played_official",
+    "unit": "MINUTE",
+    "value": "13"
+   },
+   {
+    "name": "attempts_on_woodwork",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_bar",
+    "value": "0"
+   },
+   {
+    "name": "attempts_on_post",
+    "value": "0"
+   },
+   {
+    "name": "matches_appearance",
+    "value": "1"
+   },
+   {
+    "attributes": {
+     "TotalSeconds": "1057"
+    },
+    "name": "played_time_without_conceding",
+    "value": "18"
+   }
+  ],
+  "teamId": "2609356"
+ }
+]

@@ -1,0 +1,2032 @@
+{
+ "awayTeam": {
+  "associationId": "200144",
+  "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/WAL.svg",
+  "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/60457.png",
+  "confederationType": "UEFA",
+  "countryCode": "WAL",
+  "id": "60457",
+  "idProvider": "FAME",
+  "internationalName": "The New Saints",
+  "isPlaceHolder": false,
+  "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/60457.png",
+  "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/60457.png",
+  "organizationId": "260457",
+  "teamCode": "TNS",
+  "teamTypeDetail": "DOMESTIC_MEN_TEAM_A",
+  "translations": {
+   "countryName": {
+    "EN": "Wales",
+    "FR": "Pays de Galles",
+    "DE": "Wales",
+    "ES": "Gales",
+    "PT": "Pa\u00eds de Gales",
+    "IT": "Galles",
+    "RU": "\u0423\u044d\u043b\u044c\u0441",
+    "ZH": "\u5a01\u5c14\u58eb",
+    "AR": "\u0648\u064a\u0644\u0632"
+   },
+   "displayName": {
+    "EN": "The New Saints",
+    "FR": "The New Saints",
+    "DE": "The New Saints",
+    "ES": "The New Saints",
+    "PT": "The New Saints",
+    "IT": "The New Saints",
+    "RU": "\u0422\u041d\u0421",
+    "ZH": "\u65b0\u5723\u5f92",
+    "AR": "\u0630\u0627 \u0646\u064a\u0648 \u0633\u064a\u0646\u062a\u0633"
+   },
+   "displayOfficialName": {
+    "EN": "The New Saints FC",
+    "FR": "The New Saints FC",
+    "DE": "The New Saints FC",
+    "ES": "The New Saints FC",
+    "PT": "The New Saints FC",
+    "IT": "The New Saints FC",
+    "RU": "\u0422\u041d\u0421",
+    "ZH": "\u65b0\u5723\u5f92",
+    "AR": "\u0630\u0627 \u0646\u064a\u0648 \u0633\u064a\u0646\u062a\u0633"
+   },
+   "displayTeamCode": {
+    "EN": "TNS",
+    "FR": "TNS",
+    "DE": "TNS",
+    "ES": "TNS",
+    "PT": "TNS",
+    "IT": "TNS",
+    "RU": "TNS",
+    "ZH": "TNS",
+    "AR": "TNS"
+   },
+   "shortName": {
+    "EN": "TNS",
+    "FR": "TNS",
+    "DE": "TNS",
+    "ES": "TNS",
+    "PT": "TNS",
+    "IT": "TNS",
+    "RU": "\u0422\u041d\u0421",
+    "ZH": "\u65b0\u5723\u5f92",
+    "AR": "TNS"
+   }
+  },
+  "typeIsNational": false,
+  "typeTeam": "DOMESTIC"
+ },
+ "behindClosedDoors": false,
+ "competition": {
+  "age": "ADULT",
+  "code": "UCL",
+  "id": "1",
+  "images": {
+   "FULL_LOGO": "https://img.uefa.com/imgml/uefacom/elements/logos/competitions/color/full/1.svg"
+  },
+  "metaData": {
+   "name": "UEFA Champions League"
+  },
+  "region": "CONTINENTAL",
+  "sex": "MALE",
+  "sportsType": "FOOTBALL",
+  "teamCategory": "CLUB",
+  "translations": {
+   "name": {
+    "EN": "UEFA Champions League",
+    "FR": "UEFA Champions League",
+    "DE": "UEFA Champions League",
+    "ES": "UEFA Champions League",
+    "PT": "UEFA Champions League",
+    "IT": "UEFA Champions League",
+    "RU": "\u041b\u0438\u0433\u0430 \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u043e\u0432 \u0423\u0415\u0424\u0410",
+    "ZH": "\u6b27\u6d32\u51a0\u519b\u8054\u8d5b",
+    "AR": "\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627"
+   },
+   "prequalifyingName": {
+    "EN": "UEFA Champions League",
+    "FR": "UEFA Champions League",
+    "DE": "UEFA Champions League",
+    "ES": "UEFA Champions League",
+    "PT": "UEFA Champions League",
+    "IT": "UEFA Champions League",
+    "RU": "\u041b\u0438\u0433\u0430 \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u043e\u0432 \u0423\u0415\u0424\u0410",
+    "ZH": "\u6b27\u6d32\u51a0\u519b\u8054\u8d5b",
+    "AR": "\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627"
+   },
+   "qualifyingName": {
+    "EN": "UEFA Champions League",
+    "FR": "UEFA Champions League",
+    "DE": "UEFA Champions League",
+    "ES": "UEFA Champions League",
+    "PT": "UEFA Champions League",
+    "IT": "UEFA Champions League",
+    "RU": "\u041b\u0438\u0433\u0430 \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u043e\u0432 \u0423\u0415\u0424\u0410",
+    "ZH": "\u6b27\u6d32\u51a0\u519b\u8054\u8d5b",
+    "AR": "\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627"
+   },
+   "shortName": {},
+   "tournamentName": {
+    "EN": "UEFA Champions League",
+    "FR": "UEFA Champions League",
+    "DE": "UEFA Champions League",
+    "ES": "UEFA Champions League",
+    "PT": "UEFA Champions League",
+    "IT": "UEFA Champions League",
+    "RU": "\u041b\u0438\u0433\u0430 \u0447\u0435\u043c\u043f\u0438\u043e\u043d\u043e\u0432 \u0423\u0415\u0424\u0410",
+    "ZH": "\u6b27\u6d32\u51a0\u519b\u8054\u8d5b",
+    "AR": "\u062f\u0648\u0631\u064a \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627"
+   }
+  },
+  "type": "CUP"
+ },
+ "competitionPhase": "QUALIFYING",
+ "condition": {
+  "pitchCondition": "EXCELLENT",
+  "temperature": 25,
+  "translations": {
+   "pitchConditionName": {
+    "EN": "excellent",
+    "FR": "impeccable",
+    "DE": "exzellent",
+    "ES": "excelente",
+    "PT": "excelente",
+    "IT": "eccellente",
+    "RU": "\u043f\u0440\u0435\u0432\u043e\u0441\u0445\u043e\u0434\u043d\u043e\u0435",
+    "ZH": "\u975e\u5e38\u597d",
+    "AR": "\u0645\u0645\u062a\u0627\u0632"
+   },
+   "weatherConditionName": {
+    "EN": "Sunny",
+    "FR": "ensoleill\u00e9",
+    "DE": "Sonnig",
+    "ES": "Soleado",
+    "PT": "Sol",
+    "IT": "Soleggiato",
+    "RU": "\u0421\u043e\u043b\u043d\u0435\u0447\u043d\u043e",
+    "ZH": "\u6674\u5929",
+    "AR": "\u0645\u0634\u0645\u0633"
+   }
+  },
+  "weatherCondition": "SUNNY"
+ },
+ "fullTimeAt": "2026-07-07T17:54:23.927Z",
+ "homeTeam": {
+  "associationId": "257154",
+  "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/AZE.svg",
+  "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2609356.png",
+  "confederationType": "UEFA",
+  "countryCode": "AZE",
+  "id": "2609356",
+  "idProvider": "FAME",
+  "internationalName": "Sabah",
+  "isPlaceHolder": false,
+  "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2609356.png",
+  "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2609356.png",
+  "organizationId": "250006728",
+  "teamCode": "SAB",
+  "teamTypeDetail": "DOMESTIC_MEN_TEAM_A",
+  "translations": {
+   "countryName": {
+    "EN": "Azerbaijan",
+    "FR": "Azerba\u00efdjan",
+    "DE": "Aserbaidschan",
+    "ES": "Azerbaiy\u00e1n",
+    "PT": "Azerbaij\u00e3o",
+    "IT": "Azerbaigian",
+    "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+    "ZH": "\u963f\u8d5b\u62dc\u7586",
+    "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+   },
+   "displayName": {
+    "EN": "Sabah",
+    "FR": "Sabah",
+    "DE": "Sabah",
+    "ES": "Sabah",
+    "PT": "Sabah",
+    "IT": "Sabah",
+    "RU": "\u0421\u0430\u0431\u0430\u0445",
+    "ZH": "Sabah",
+    "AR": "\u0635\u0628\u0627\u062d"
+   },
+   "displayOfficialName": {
+    "EN": "Sabah FC",
+    "FR": "Sabah FC",
+    "DE": "Sabah FC",
+    "ES": "Sabah FC",
+    "PT": "Sabah FC",
+    "IT": "Sabah FC",
+    "RU": "\u0421\u0430\u0431\u0430\u0445",
+    "ZH": "Sabah",
+    "AR": "\u0635\u0628\u0627\u062d"
+   },
+   "displayTeamCode": {
+    "EN": "SAB",
+    "FR": "SAB",
+    "DE": "SAB",
+    "ES": "SAB",
+    "PT": "SAB",
+    "IT": "SAB",
+    "RU": "SAB",
+    "ZH": "SAB",
+    "AR": "SAB"
+   },
+   "shortName": {
+    "EN": "Sabah",
+    "FR": "Sabah",
+    "DE": "Sabah",
+    "ES": "Sabah",
+    "PT": "Sabah",
+    "IT": "Sabah",
+    "RU": "\u0421\u0430\u0431\u0430\u0445",
+    "ZH": "Sabah",
+    "AR": "\u0635\u0628\u0627\u062d"
+   }
+  },
+  "typeIsNational": false,
+  "typeTeam": "DOMESTIC"
+ },
+ "id": "2048621",
+ "kickOffTime": {
+  "date": "2026-07-07",
+  "dateTime": "2026-07-07T16:00:00Z",
+  "utcOffsetInHours": 4
+ },
+ "leg": {
+  "dateTimeFrom": "2026-07-07T06:00:00Z",
+  "dateTimeTo": "2026-07-09T21:59:59Z",
+  "number": 1,
+  "translations": {
+   "name": {
+    "EN": "1st leg",
+    "FR": "aller",
+    "DE": "Hinspiel",
+    "ES": "Partido de ida",
+    "PT": "1\u00aa m\u00e3o",
+    "IT": "andata",
+    "RU": "1-\u0439 \u043c\u0430\u0442\u0447",
+    "ZH": "\u9996\u56de\u5408",
+    "AR": "\u0627\u0644\u0630\u0647\u0627\u0628"
+   }
+  }
+ },
+ "lineupStatus": "TACTICAL_AVAILABLE",
+ "matchAttendance": 7000,
+ "matchday": {
+  "competitionId": "1",
+  "dateFrom": "2026-07-07T06:00:00+0000",
+  "dateTo": "2026-07-09T21:59:59+0000",
+  "format": "REGULAR",
+  "id": "36590",
+  "longName": "Matchday 1",
+  "name": "MD1",
+  "phase": "QUALIFYING",
+  "roundId": "2002235",
+  "seasonYear": "2027",
+  "sequenceNumber": "1",
+  "translations": {
+   "longName": {
+    "EN": "Matchday 1",
+    "FR": "Journ\u00e9e 1",
+    "DE": "Spieltag 1",
+    "ES": "Jornada 1",
+    "PT": "Jornada 1",
+    "IT": "Giornata 1",
+    "RU": "\u0422\u0443\u0440 1",
+    "ZH": "\u6bd4\u8d5b\u65e5 1",
+    "AR": "\u0627\u0644\u062c\u0648\u0644\u0629 1"
+   },
+   "name": {
+    "EN": "MD 1",
+    "FR": "J 1",
+    "DE": "ST 1",
+    "ES": "JOR 1",
+    "PT": "J 1",
+    "IT": "G 1",
+    "RU": "\u0422\u0443\u0440 1",
+    "ZH": "\u6bd4\u8d5b\u65e5 1",
+    "AR": "MD 1"
+   }
+  },
+  "type": "FIRST_LEG"
+ },
+ "playerEvents": {
+  "redCards": [
+   {
+    "id": "7817c13d-4e78-467c-a88f-e4d9cbb3960c",
+    "phase": "SECOND_HALF",
+    "player": {
+     "age": "30",
+     "birthDate": "1996-03-20",
+     "clubId": "2609356",
+     "clubJerseyNumber": "3",
+     "clubShirtName": "SOLVET",
+     "countryCode": "GLP",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "DEFENDER",
+     "gender": "MALE",
+     "id": "250209341",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250209341.jpg",
+     "internationalName": "Steve Solvet",
+     "nationalFieldPosition": "DEFENDER",
+     "nationalShirtName": "Solvet",
+     "translations": {
+      "countryName": {
+       "EN": "Guadeloupe",
+       "FR": "Guadeloupe",
+       "DE": "Guadeloupe",
+       "ES": "Guadalupe",
+       "PT": "Guadeloupe",
+       "IT": "Guadeloupe",
+       "RU": "Guadeloupe",
+       "ZH": "Guadeloupe",
+       "AR": "\u062c\u0648\u0627\u062f\u0644\u0648\u0628"
+      },
+      "fieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "firstName": {
+       "EN": "Steve",
+       "FR": "Steve",
+       "DE": "Steve",
+       "ES": "Steve",
+       "PT": "Steve",
+       "IT": "Steve",
+       "RU": "\u0421\u0442\u0438\u0432",
+       "ZH": "\u53f2\u8482\u592b",
+       "AR": "\u0633\u062a\u064a\u0641 "
+      },
+      "lastName": {
+       "EN": "Solvet",
+       "FR": "Solvet",
+       "DE": "Solvet",
+       "ES": "Solvet",
+       "PT": "Solvet",
+       "IT": "Solvet",
+       "RU": "\u0421\u043e\u043b\u044c\u0432\u0435",
+       "ZH": "\u7d22\u5c14\u97e6",
+       "AR": "\u0633\u0648\u0644\u0641\u064a\u062a"
+      },
+      "name": {
+       "EN": "Steve Solvet",
+       "FR": "Steve Solvet",
+       "DE": "Steve Solvet",
+       "ES": "Steve Solvet",
+       "PT": "Steve Solvet",
+       "IT": "Steve Solvet",
+       "RU": "\u0421\u0442\u0438\u0432 \u0421\u043e\u043b\u044c\u0432\u0435",
+       "ZH": "\u53f2\u8482\u592b\u00b7\u7d22\u5c14\u97e6",
+       "AR": "\u0633\u062a\u064a\u0641 \u0633\u0648\u0644\u0641\u064a\u062a"
+      },
+      "nationalFieldPosition": {
+       "EN": "Defender",
+       "FR": "D\u00e9fenseur",
+       "DE": "Verteidiger",
+       "ES": "Defensa",
+       "PT": "Defesa",
+       "IT": "Difensore",
+       "RU": "\u0417\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u540e\u536b",
+       "AR": "\u0645\u062f\u0627\u0641\u0639"
+      },
+      "shortName": {
+       "EN": "Solvet",
+       "FR": "Solvet",
+       "DE": "Solvet",
+       "ES": "Solvet",
+       "PT": "Solvet",
+       "IT": "Solvet",
+       "RU": "\u0421\u043e\u043b\u044c\u0432\u0435",
+       "ZH": "\u7d22\u5c14\u97e6",
+       "AR": "\u0633\u0648\u0644\u0641\u064a\u062a"
+      }
+     }
+    },
+    "teamId": "2609356",
+    "teamIdProvider": "FAME",
+    "time": {
+     "injuryMinute": 2,
+     "minute": 90,
+     "second": 48
+    }
+   }
+  ],
+  "scorers": [
+   {
+    "goalType": "SCORED",
+    "id": "04518b6b-00af-4ea8-8624-726233ad86da",
+    "phase": "SECOND_HALF",
+    "player": {
+     "age": "31",
+     "birthDate": "1995-02-17",
+     "clubId": "2609356",
+     "clubJerseyNumber": "21",
+     "clubShirtName": "V.SIMIC",
+     "countryCode": "SRB",
+     "detailedFieldPosition": "WINGER",
+     "fieldPosition": "FORWARD",
+     "gender": "MALE",
+     "id": "250042209",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250042209.jpg",
+     "internationalName": "Veljko Simi\u0107",
+     "nationalFieldPosition": "MIDFIELDER",
+     "nationalJerseyNumber": "7",
+     "nationalShirtName": "Simic",
+     "nationalTeamId": "300147",
+     "translations": {
+      "countryName": {
+       "EN": "Serbia",
+       "FR": "Serbie",
+       "DE": "Serbien",
+       "ES": "Serbia",
+       "PT": "S\u00e9rvia",
+       "IT": "Serbia",
+       "RU": "\u0421\u0435\u0440\u0431\u0438\u044f",
+       "ZH": "\u585e\u5c14\u7ef4\u4e9a",
+       "AR": "\u0635\u0631\u0628\u064a\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "firstName": {
+       "EN": "Veljko",
+       "FR": "Veljko",
+       "DE": "Veljko",
+       "ES": "Veljko",
+       "PT": "Veljko",
+       "IT": "Veljko",
+       "RU": "\u0412\u0435\u043b\u044c\u043a\u043e",
+       "ZH": "\u7ef4\u5c14\u79d1",
+       "AR": "\u0641\u064a\u0644\u064a\u0643\u0648 "
+      },
+      "lastName": {
+       "EN": "Simi\u0107",
+       "FR": "Simi\u0107",
+       "DE": "Simi\u0107",
+       "ES": "Simi\u0107",
+       "PT": "Simi\u0107",
+       "IT": "Simi\u0107",
+       "RU": "\u0421\u0438\u043c\u0438\u0447",
+       "ZH": "\u897f\u7c73\u5947",
+       "AR": "\u0633\u064a\u0645\u064a\u062a\u0634"
+      },
+      "name": {
+       "EN": "Veljko Simi\u0107",
+       "FR": "Veljko Simi\u0107",
+       "DE": "Veljko Simi\u0107",
+       "ES": "Veljko Simi\u0107",
+       "PT": "Veljko Simi\u0107",
+       "IT": "Veljko Simi\u0107",
+       "RU": "\u0412\u0435\u043b\u044c\u043a\u043e \u0421\u0438\u043c\u0438\u0447",
+       "ZH": "\u7ef4\u5c14\u79d1\u00b7\u897f\u7c73\u5947",
+       "AR": "\u0641\u064a\u0644\u064a\u0643\u0648 \u0633\u064a\u0645\u064a\u062a\u0634"
+      },
+      "nationalFieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "shortName": {
+       "EN": "Simi\u0107",
+       "FR": "Simi\u0107",
+       "DE": "Simi\u0107",
+       "ES": "Simi\u0107",
+       "PT": "Simi\u0107",
+       "IT": "Simi\u0107",
+       "RU": "\u0421\u0438\u043c\u0438\u0447",
+       "ZH": "\u897f\u7c73\u5947",
+       "AR": "\u0633\u064a\u0645\u064a\u062a\u0634"
+      }
+     }
+    },
+    "teamId": "2609356",
+    "teamIdProvider": "FAME",
+    "time": {
+     "minute": 66,
+     "second": 52
+    }
+   },
+   {
+    "goalType": "SCORED",
+    "id": "1e77f697-8b9e-4bbb-96ca-0c5f29edc63d",
+    "phase": "SECOND_HALF",
+    "player": {
+     "age": "26",
+     "birthDate": "2000-01-06",
+     "clubId": "2609356",
+     "clubJerseyNumber": "11",
+     "clubShirtName": "K.PARRIS",
+     "countryCode": "JAM",
+     "detailedFieldPosition": "UNKNOWN",
+     "fieldPosition": "MIDFIELDER",
+     "gender": "MALE",
+     "id": "250174049",
+     "imageUrl": "https://img.uefa.com/imgml/TP/players/1/2027/324x324/250174049.jpg",
+     "internationalName": "Kaheem Parris",
+     "nationalFieldPosition": "FORWARD",
+     "nationalShirtName": "Parris",
+     "translations": {
+      "countryName": {
+       "EN": "Jamaica",
+       "FR": "Jama\u00efque",
+       "DE": "Jamaika",
+       "ES": "Jamaica",
+       "PT": "Jamaica",
+       "IT": "Giamaica",
+       "RU": "\u042f\u043c\u0430\u0439\u043a\u0430",
+       "ZH": "\u7259\u4e70\u52a0",
+       "AR": "\u062c\u0627\u0645\u064a\u0643\u0627"
+      },
+      "fieldPosition": {
+       "EN": "Midfielder",
+       "FR": "Milieu",
+       "DE": "Mittelfeldspieler",
+       "ES": "Centrocampista",
+       "PT": "M\u00e9dio",
+       "IT": "Centrocampista",
+       "RU": "\u041f\u043e\u043b\u0443\u0437\u0430\u0449\u0438\u0442\u043d\u0438\u043a",
+       "ZH": "\u4e2d\u573a\u7403\u5458",
+       "AR": "\u0644\u0627\u0639\u0628 \u0648\u0633\u0637"
+      },
+      "firstName": {
+       "EN": "Kaheem",
+       "FR": "Kaheem",
+       "DE": "Kaheem",
+       "ES": "Kaheem",
+       "PT": "Kaheem",
+       "IT": "Kaheem",
+       "RU": "\u041a\u0430\u0445\u0438\u043c",
+       "ZH": "\u5361\u897f\u59c6",
+       "AR": "\u0643\u0627\u0647\u064a\u0645 "
+      },
+      "lastName": {
+       "EN": "Parris",
+       "FR": "Parris",
+       "DE": "Parris",
+       "ES": "Parris",
+       "PT": "Parris",
+       "IT": "Parris",
+       "RU": "\u041f\u044d\u0440\u0440\u0438\u0441",
+       "ZH": "\u5e15\u91cc\u65af",
+       "AR": "\u0628\u0627\u0631\u064a\u0633"
+      },
+      "name": {
+       "EN": "Kaheem Parris",
+       "FR": "Kaheem Parris",
+       "DE": "Kaheem Parris",
+       "ES": "Kaheem Parris",
+       "PT": "Kaheem Parris",
+       "IT": "Kaheem Parris",
+       "RU": "\u041a\u0430\u0445\u0438\u043c \u041f\u044d\u0440\u0440\u0438\u0441",
+       "ZH": "\u5361\u897f\u59c6\u00b7\u5e15\u91cc\u65af",
+       "AR": "\u0643\u0627\u0647\u064a\u0645 \u0628\u0627\u0631\u064a\u0633"
+      },
+      "nationalFieldPosition": {
+       "EN": "Forward",
+       "FR": "Attaquant",
+       "DE": "St\u00fcrmer",
+       "ES": "Delantero",
+       "PT": "Avan\u00e7ado",
+       "IT": "Attaccante",
+       "RU": "\u041d\u0430\u043f\u0430\u0434\u0430\u044e\u0449\u0438\u0439",
+       "ZH": "\u524d\u950b",
+       "AR": "\u0645\u0647\u0627\u062c\u0645"
+      },
+      "shortName": {
+       "EN": "Parris",
+       "FR": "Parris",
+       "DE": "Parris",
+       "ES": "Parris",
+       "PT": "Parris",
+       "IT": "Parris",
+       "RU": "\u041f\u044d\u0440\u0440\u0438\u0441",
+       "ZH": "\u5e15\u91cc\u65af",
+       "AR": "\u0628\u0627\u0631\u064a\u0633"
+      }
+     }
+    },
+    "teamId": "2609356",
+    "teamIdProvider": "FAME",
+    "time": {
+     "minute": 84,
+     "second": 38
+    }
+   }
+  ]
+ },
+ "referees": [
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/250155999.jpg"
+   },
+   "person": {
+    "countryCode": "ESP",
+    "gender": "FEMALE",
+    "id": "250155999",
+    "translations": {
+     "countryName": {
+      "EN": "Spain",
+      "FR": "Espagne",
+      "DE": "Spanien",
+      "ES": "Espa\u00f1a",
+      "PT": "Espanha",
+      "IT": "Spagna",
+      "RU": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f",
+      "ZH": "\u897f\u73ed\u7259",
+      "AR": "\u0625\u0633\u0628\u0627\u0646\u064a\u0627"
+     },
+     "firstName": {
+      "EN": "Patricia",
+      "FR": "Patricia",
+      "DE": "Patricia",
+      "ES": "Patricia",
+      "PT": "Patricia",
+      "IT": "Patricia",
+      "RU": "Patricia",
+      "ZH": "Patricia",
+      "AR": "\u0628\u0627\u062a\u0631\u064a\u0634\u064a\u0627 "
+     },
+     "lastName": {
+      "EN": "Gonz\u00e1lez Garc\u00eda",
+      "FR": "Gonz\u00e1lez Garc\u00eda",
+      "DE": "Gonz\u00e1lez Garc\u00eda",
+      "ES": "Gonz\u00e1lez Garc\u00eda",
+      "PT": "Gonz\u00e1lez Garc\u00eda",
+      "IT": "Gonz\u00e1lez Garc\u00eda",
+      "RU": "Gonz\u00e1lez Garc\u00eda",
+      "ZH": "Gonz\u00e1lez Garc\u00eda",
+      "AR": "\u062c\u0648\u0646\u0632\u0627\u0644\u064a\u0633 \u062c\u0627\u0631\u0633\u064a\u0627"
+     },
+     "name": {
+      "EN": "Patricia Gonz\u00e1lez Garc\u00eda",
+      "FR": "Patricia Gonz\u00e1lez Garc\u00eda",
+      "DE": "Patricia Gonz\u00e1lez Garc\u00eda",
+      "ES": "Patricia Gonz\u00e1lez Garc\u00eda",
+      "PT": "Patricia Gonz\u00e1lez Garc\u00eda",
+      "IT": "Patricia Gonz\u00e1lez Garc\u00eda",
+      "RU": "Patricia Gonz\u00e1lez Garc\u00eda",
+      "ZH": "Patricia Gonz\u00e1lez Garc\u00eda",
+      "AR": "\u0628\u0627\u062a\u0631\u064a\u0634\u064a\u0627 \u062c\u0648\u0646\u0632\u0627\u0644\u064a\u0633 \u062c\u0627\u0631\u0633\u064a\u0627"
+     },
+     "shortName": {
+      "EN": "Gonz\u00e1lez Garc\u00eda",
+      "FR": "Gonz\u00e1lez Garc\u00eda",
+      "DE": "Gonz\u00e1lez Garc\u00eda",
+      "ES": "Gonz\u00e1lez Garc\u00eda",
+      "PT": "Gonz\u00e1lez Garc\u00eda",
+      "IT": "Gonz\u00e1lez Garc\u00eda",
+      "RU": "Gonz\u00e1lez Garc\u00eda",
+      "ZH": "Gonz\u00e1lez Garc\u00eda",
+      "AR": "\u062c\u0648\u0646\u0632\u0627\u0644\u064a\u0633 \u062c\u0627\u0631\u0633\u064a\u0627"
+     }
+    }
+   },
+   "role": "UEFA_DELEGATE",
+   "translations": {
+    "roleName": {
+     "EN": "UEFA Delegate",
+     "FR": "D\u00e9l\u00e9gu\u00e9 ou d\u00e9l\u00e9gu\u00e9e UEFA",
+     "DE": "UEFA-Delegierte",
+     "ES": "Delegada UEFA",
+     "PT": "Delegada da UEFA",
+     "IT": "Delegata UEFA",
+     "RU": "\u0414\u0435\u043b\u0435\u0433\u0430\u0442 \u0423\u0415\u0424\u0410",
+     "ZH": "UEFA delegate",
+     "AR": "\u0645\u0646\u062f\u0648\u0628 UEFA"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/250117259.jpg"
+   },
+   "person": {
+    "countryCode": "POL",
+    "gender": "MALE",
+    "id": "250117259",
+    "translations": {
+     "countryName": {
+      "EN": "Poland",
+      "FR": "Pologne",
+      "DE": "Polen",
+      "ES": "Polonia",
+      "PT": "Pol\u00f3nia",
+      "IT": "Polonia",
+      "RU": "\u041f\u043e\u043b\u044c\u0448\u0430",
+      "ZH": "\u6ce2\u5170",
+      "AR": "\u0628\u0648\u0644\u0646\u062f\u0627"
+     },
+     "firstName": {
+      "EN": "Bartosz",
+      "FR": "Bartosz",
+      "DE": "Bartosz",
+      "ES": "Bartosz",
+      "PT": "Bartosz",
+      "IT": "Bartosz",
+      "RU": "\u0411\u0430\u0440\u0442\u043e\u0448",
+      "ZH": "Bartosz",
+      "AR": "Bartosz"
+     },
+     "lastName": {
+      "EN": "Kaszy\u0144ski",
+      "FR": "Kaszy\u0144ski",
+      "DE": "Kaszy\u0144ski",
+      "ES": "Kaszy\u0144ski",
+      "PT": "Kaszy\u0144ski",
+      "IT": "Kaszy\u0144ski",
+      "RU": "\u041a\u0430\u0448\u0438\u043d\u044c\u0441\u043a\u0438",
+      "ZH": "Kaszynski",
+      "AR": "Kaszy\u0144ski"
+     },
+     "name": {
+      "EN": "Bartosz Kaszy\u0144ski",
+      "FR": "Bartosz Kaszy\u0144ski",
+      "DE": "Bartosz Kaszy\u0144ski",
+      "ES": "Bartosz Kaszy\u0144ski",
+      "PT": "Bartosz Kaszy\u0144ski",
+      "IT": "Bartosz Kaszy\u0144ski",
+      "RU": "\u0411\u0430\u0440\u0442\u043e\u0448 \u041a\u0430\u0448\u0438\u043d\u044c\u0441\u043a\u0438",
+      "ZH": "Bartosz Kaszynski",
+      "AR": "Bartosz Kaszy\u0144ski"
+     },
+     "shortName": {
+      "EN": "Kaszy\u0144ski",
+      "FR": "Kaszy\u0144ski",
+      "DE": "Kaszy\u0144ski",
+      "ES": "Kaszy\u0144ski",
+      "PT": "Kaszy\u0144ski",
+      "IT": "Kaszy\u0144ski",
+      "RU": "\u041a\u0430\u0448\u0438\u043d\u044c\u0441\u043a\u0438",
+      "ZH": "Kaszynski",
+      "AR": "Kaszy\u0144ski"
+     }
+    }
+   },
+   "role": "ASSISTANT_REFEREE_TWO",
+   "translations": {
+    "roleName": {
+     "EN": "Assistant referee two",
+     "FR": "Arbitre assistant n\u00b02",
+     "DE": "Schiedsrichterassistent zwei",
+     "ES": "Segundo \u00e1rbitro asistente",
+     "PT": "\u00c1rbitro assistente 2",
+     "IT": "Guardalinee due",
+     "RU": "\u0410\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0440\u0435\u0444\u0435\u0440\u0438 2",
+     "ZH": "\u00c1rbitro-assistente 2",
+     "AR": "\u0645\u0633\u0627\u0639\u062f \u0627\u0644\u062d\u0643\u0645 \u0627\u0644\u062b\u0627\u0646\u064a"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/250058838.jpg"
+   },
+   "person": {
+    "countryCode": "POL",
+    "gender": "MALE",
+    "id": "250058838",
+    "translations": {
+     "countryName": {
+      "EN": "Poland",
+      "FR": "Pologne",
+      "DE": "Polen",
+      "ES": "Polonia",
+      "PT": "Pol\u00f3nia",
+      "IT": "Polonia",
+      "RU": "\u041f\u043e\u043b\u044c\u0448\u0430",
+      "ZH": "\u6ce2\u5170",
+      "AR": "\u0628\u0648\u0644\u0646\u062f\u0627"
+     },
+     "firstName": {
+      "EN": "Bartosz",
+      "FR": "Bartosz",
+      "DE": "Bartosz",
+      "ES": "Bartosz",
+      "PT": "Bartosz",
+      "IT": "Bartosz",
+      "RU": "Bartosz",
+      "ZH": "Bartosz",
+      "AR": "\u0628\u0627\u0631\u062a\u0648\u0634 "
+     },
+     "lastName": {
+      "EN": "Frankowski",
+      "FR": "Frankowski",
+      "DE": "Frankowski",
+      "ES": "Frankowski",
+      "PT": "Frankowski",
+      "IT": "Frankowski",
+      "RU": "Frankowski",
+      "ZH": "Frankowski",
+      "AR": "\u0641\u0631\u0627\u0646\u0643\u0648\u0641\u0633\u0643\u064a"
+     },
+     "name": {
+      "EN": "Bartosz Frankowski",
+      "FR": "Bartosz Frankowski",
+      "DE": "Bartosz Frankowski",
+      "ES": "Bartosz Frankowski",
+      "PT": "Bartosz Frankowski",
+      "IT": "Bartosz Frankowski",
+      "RU": "\u0411\u0430\u0440\u0442\u043e\u0448 \u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438",
+      "ZH": "\u5df4\u6258\u5179\u00b7\u5f17\u6717\u79d1\u6c83\u65af\u57fa",
+      "AR": "\u0628\u0627\u0631\u062a\u0648\u0634 \u0641\u0631\u0627\u0646\u0643\u0648\u0641\u0633\u0643\u064a"
+     },
+     "shortName": {
+      "EN": "Frankowski",
+      "FR": "Frankowski",
+      "DE": "Frankowski",
+      "ES": "Frankowski",
+      "PT": "Frankowski",
+      "IT": "Frankowski",
+      "RU": "\u0424\u0440\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u0438",
+      "ZH": "\u5f17\u6717\u79d1\u6c83\u65af\u57fa",
+      "AR": "\u0641\u0631\u0627\u0646\u0643\u0648\u0641\u0633\u0643\u064a"
+     }
+    }
+   },
+   "role": "ASSISTANT_VIDEO_ASSISTANT_REFEREE",
+   "translations": {
+    "roleName": {
+     "EN": "Assistant Video Assistant Referee",
+     "FR": "Assistant de l'Arbitre Assistant Vid\u00e9o",
+     "DE": "Erster Assistent des Videoassistenten",
+     "ES": "Asistente del \u00c1rbitro Asistente de V\u00eddeo",
+     "PT": "Assistente de V\u00eddeo \u00c1rbitro Assistente",
+     "IT": "Assistente Video Assistant Referee",
+     "RU": "\u0410\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442 \u0432\u0438\u0434\u0435\u043e\u043f\u043e\u043c\u043e\u0449\u043d\u0438\u043a\u0430 \u0440\u0435\u0444\u0435\u0440\u0438",
+     "ZH": "Assistente de V\u00eddeo \u00c1rbitro Assistente",
+     "AR": "\u0645\u0633\u0627\u0639\u062f \u062d\u0643\u0645 \u0627\u0644\u0641\u064a\u062f\u064a\u0648 \u0627\u0644\u0645\u0633\u0627\u0639\u062f"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/250072012.jpg"
+   },
+   "person": {
+    "countryCode": "POL",
+    "gender": "MALE",
+    "id": "250072012",
+    "translations": {
+     "countryName": {
+      "EN": "Poland",
+      "FR": "Pologne",
+      "DE": "Polen",
+      "ES": "Polonia",
+      "PT": "Pol\u00f3nia",
+      "IT": "Polonia",
+      "RU": "\u041f\u043e\u043b\u044c\u0448\u0430",
+      "ZH": "\u6ce2\u5170",
+      "AR": "\u0628\u0648\u0644\u0646\u062f\u0627"
+     },
+     "firstName": {
+      "EN": "Marcin",
+      "FR": "Marcin",
+      "DE": "Marcin",
+      "ES": "Marcin",
+      "PT": "Marcin",
+      "IT": "Marcin",
+      "RU": "Marcin",
+      "ZH": "Marcin",
+      "AR": "\u0645\u0627\u0631\u0633\u064a\u0646 "
+     },
+     "lastName": {
+      "EN": "Boniek",
+      "FR": "Boniek",
+      "DE": "Boniek",
+      "ES": "Boniek",
+      "PT": "Boniek",
+      "IT": "Boniek",
+      "RU": "Boniek",
+      "ZH": "Boniek",
+      "AR": "\u0628\u0648\u0646\u064a\u0643"
+     },
+     "name": {
+      "EN": "Marcin Boniek",
+      "FR": "Marcin Boniek",
+      "DE": "Marcin Boniek",
+      "ES": "Marcin Boniek",
+      "PT": "Marcin Boniek",
+      "IT": "Marcin Boniek",
+      "RU": "\u041c\u0430\u0440\u0446\u0438\u043d \u0411\u043e\u043d\u0435\u043a",
+      "ZH": "\u9a6c\u5c14\u8f9b\u00b7\u535a\u6d85\u514b",
+      "AR": "\u0645\u0627\u0631\u0633\u064a\u0646 \u0628\u0648\u0646\u064a\u0643"
+     },
+     "shortName": {
+      "EN": "Boniek",
+      "FR": "Boniek",
+      "DE": "Boniek",
+      "ES": "Boniek",
+      "PT": "Boniek",
+      "IT": "Boniek",
+      "RU": "\u0411\u043e\u043d\u0435\u043a",
+      "ZH": "\u535a\u6d85\u514b",
+      "AR": "\u0628\u0648\u0646\u064a\u0643"
+     }
+    }
+   },
+   "role": "ASSISTANT_REFEREE_ONE",
+   "translations": {
+    "roleName": {
+     "EN": "Assistant referees",
+     "FR": "Arbitres assistants",
+     "DE": "Schiedsrichterassistenten",
+     "ES": "\u00c1rbitros asistentes",
+     "PT": "\u00c1rbitros assistentes",
+     "IT": "Assistenti arbitrali",
+     "RU": "\u0410\u0441\u0441\u0438\u0441\u0442\u0435\u043d\u0442\u044b \u0440\u0435\u0444\u0435\u0440\u0438",
+     "ZH": "\u00c1rbitros assistentes",
+     "AR": "\u0627\u0644\u062d\u0643\u0627\u0645 \u0627\u0644\u0645\u0633\u0627\u0639\u062f\u0648\u0646"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/250085295.jpg"
+   },
+   "person": {
+    "countryCode": "POL",
+    "gender": "MALE",
+    "id": "250085295",
+    "translations": {
+     "countryName": {
+      "EN": "Poland",
+      "FR": "Pologne",
+      "DE": "Polen",
+      "ES": "Polonia",
+      "PT": "Pol\u00f3nia",
+      "IT": "Polonia",
+      "RU": "\u041f\u043e\u043b\u044c\u0448\u0430",
+      "ZH": "\u6ce2\u5170",
+      "AR": "\u0628\u0648\u0644\u0646\u062f\u0627"
+     },
+     "firstName": {
+      "EN": "Kornel",
+      "FR": "Kornel",
+      "DE": "Kornel",
+      "ES": "Kornel",
+      "PT": "Kornel",
+      "IT": "Kornel",
+      "RU": "\u041a\u043e\u0440\u043d\u0435\u043b\u044c",
+      "ZH": "Kornel",
+      "AR": "\u0643\u0648\u0631\u0646\u064a\u0644 "
+     },
+     "lastName": {
+      "EN": "Paszkiewicz",
+      "FR": "Paszkiewicz",
+      "DE": "Paszkiewicz",
+      "ES": "Paszkiewicz",
+      "PT": "Paszkiewicz",
+      "IT": "Paszkiewicz",
+      "RU": "\u041f\u0430\u0448\u043a\u0435\u0432\u0438\u0447",
+      "ZH": "Paszkiewicz",
+      "AR": "\u0628\u0627\u0634\u0643\u064a\u064a\u0641\u064a\u062a\u0634"
+     },
+     "name": {
+      "EN": "Kornel Paszkiewicz",
+      "FR": "Kornel Paszkiewicz",
+      "DE": "Kornel Paszkiewicz",
+      "ES": "Kornel Paszkiewicz",
+      "PT": "Kornel Paszkiewicz",
+      "IT": "Kornel Paszkiewicz",
+      "RU": "\u041a\u043e\u0440\u043d\u0435\u043b\u044c \u041f\u0430\u0448\u043a\u0435\u0432\u0438\u0447",
+      "ZH": "Kornel Paszkiewicz",
+      "AR": "\u0643\u0648\u0631\u0646\u064a\u0644 \u0628\u0627\u0634\u0643\u064a\u064a\u0641\u064a\u062a\u0634"
+     },
+     "shortName": {
+      "EN": "Paszkiewicz",
+      "FR": "Paszkiewicz",
+      "DE": "Paszkiewicz",
+      "ES": "Paszkiewicz",
+      "PT": "Paszkiewicz",
+      "IT": "Paszkiewicz",
+      "RU": "\u041f\u0430\u0448\u043a\u0435\u0432\u0438\u0447",
+      "ZH": "Paszkiewicz",
+      "AR": "\u0628\u0627\u0634\u0643\u064a\u064a\u0641\u064a\u062a\u0634"
+     }
+    }
+   },
+   "role": "VIDEO_ASSISTANT_REFEREE",
+   "translations": {
+    "roleName": {
+     "EN": "Video Assistant Referee",
+     "FR": "Arbitre assistant vid\u00e9o",
+     "DE": "Videoassistent",
+     "ES": "\u00c1rbitro Asistente de V\u00eddeo",
+     "PT": "V\u00eddeo \u00c1rbitro Assistente",
+     "IT": "Video Assistant Referee",
+     "RU": "\u0412\u0438\u0434\u0435\u043e\u043f\u043e\u043c\u043e\u0449\u043d\u0438\u043a \u0440\u0435\u0444\u0435\u0440\u0438",
+     "ZH": "V\u00eddeo \u00c1rbitro Assistente",
+     "AR": "\u062d\u0643\u0645 \u0627\u0644\u0641\u064a\u062f\u064a\u0648 \u0627\u0644\u0645\u0633\u0627\u0639\u062f"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/21890.jpg"
+   },
+   "person": {
+    "countryCode": "EST",
+    "gender": "MALE",
+    "id": "21890",
+    "translations": {
+     "countryName": {
+      "EN": "Estonia",
+      "FR": "Estonie",
+      "DE": "Estland",
+      "ES": "Estonia",
+      "PT": "Est\u00f3nia",
+      "IT": "Estonia",
+      "RU": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f",
+      "ZH": "\u7231\u6c99\u5c3c\u4e9a",
+      "AR": "\u0625\u0633\u062a\u0648\u0646\u064a\u0627"
+     },
+     "firstName": {
+      "EN": "Hannes",
+      "FR": "Hannes",
+      "DE": "Hannes",
+      "ES": "Hannes",
+      "PT": "Hannes",
+      "IT": "Hannes",
+      "RU": "Hannes",
+      "ZH": "Hannes",
+      "AR": "\u0647\u0627\u0646\u0632 "
+     },
+     "lastName": {
+      "EN": "Kaasik",
+      "FR": "Kaasik",
+      "DE": "Kaasik",
+      "ES": "Kaasik",
+      "PT": "Kaasik",
+      "IT": "Kaasik",
+      "RU": "KAASIK",
+      "ZH": "Kaasik",
+      "AR": "\u0643\u0627\u0633\u064a\u0643"
+     },
+     "name": {
+      "EN": "Hannes Kaasik",
+      "FR": "Hannes Kaasik",
+      "DE": "Hannes Kaasik",
+      "ES": "Hannes Kaasik",
+      "PT": "Hannes Kaasik",
+      "IT": "Hannes Kaasik",
+      "RU": "\u0425\u0430\u043d\u043d\u0435\u0441 \u041a\u0430\u0430\u0441\u0438\u043a",
+      "ZH": "\u6d77\u5185\u65af\u00b7\u5361\u897f\u514b",
+      "AR": "\u0647\u0627\u0646\u0632 \u0643\u0627\u0633\u064a\u0643"
+     },
+     "shortName": {
+      "EN": "Kaasik",
+      "FR": "Kaasik",
+      "DE": "Kaasik",
+      "ES": "Kaasik",
+      "PT": "Kaasik",
+      "IT": "Kaasik",
+      "RU": "\u041a\u0430\u0430\u0441\u0438\u043a",
+      "ZH": "\u5361\u897f\u514b",
+      "AR": "\u0643\u0627\u0633\u064a\u0643"
+     }
+    }
+   },
+   "role": "REFEREE_OBSERVER",
+   "translations": {
+    "roleName": {
+     "EN": "Referee observer",
+     "FR": "Observateur d'arbitres",
+     "DE": "Referee observer",
+     "ES": "Observador arbitral",
+     "PT": "Observador de \u00e1rbitro",
+     "IT": "Referee observer",
+     "RU": "\u0421\u0443\u0434\u0435\u0439\u0441\u043a\u0438\u0439 \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0442\u0435\u043b\u044c",
+     "ZH": "Referee observer",
+     "AR": "\u0645\u0631\u0627\u0642\u0628 \u0627\u0644\u062d\u0643\u0627\u0645"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/250136582.jpg"
+   },
+   "person": {
+    "countryCode": "POL",
+    "gender": "MALE",
+    "id": "250136582",
+    "translations": {
+     "countryName": {
+      "EN": "Poland",
+      "FR": "Pologne",
+      "DE": "Polen",
+      "ES": "Polonia",
+      "PT": "Pol\u00f3nia",
+      "IT": "Polonia",
+      "RU": "\u041f\u043e\u043b\u044c\u0448\u0430",
+      "ZH": "\u6ce2\u5170",
+      "AR": "\u0628\u0648\u0644\u0646\u062f\u0627"
+     },
+     "firstName": {
+      "EN": "Patryk",
+      "FR": "Patryk",
+      "DE": "Patryk",
+      "ES": "Patryk",
+      "PT": "Patryk",
+      "IT": "Patryk",
+      "RU": "Patryk",
+      "ZH": "Patryk",
+      "AR": "\u0628\u0627\u062a\u0631\u064a\u0643 "
+     },
+     "lastName": {
+      "EN": "Gryckiewicz",
+      "FR": "Gryckiewicz",
+      "DE": "Gryckiewicz",
+      "ES": "Gryckiewicz",
+      "PT": "Gryckiewicz",
+      "IT": "Gryckiewicz",
+      "RU": "Gryckiewicz",
+      "ZH": "Gryckiewicz",
+      "AR": "\u062c\u0631\u064a\u0643\u064a\u0641\u064a\u062a\u0634"
+     },
+     "name": {
+      "EN": "Patryk Gryckiewicz",
+      "FR": "Patryk Gryckiewicz",
+      "DE": "Patryk Gryckiewicz",
+      "ES": "Patryk Gryckiewicz",
+      "PT": "Patryk Gryckiewicz",
+      "IT": "Patryk Gryckiewicz",
+      "RU": "\u041f\u0430\u0442\u0440\u0438\u043a \u0413\u0440\u0438\u0446\u043a\u0435\u0432\u0438\u0447",
+      "ZH": "Patryk Gryckiewicz",
+      "AR": "\u0628\u0627\u062a\u0631\u064a\u0643 \u062c\u0631\u064a\u0643\u064a\u0641\u064a\u062a\u0634"
+     },
+     "shortName": {
+      "EN": "Gryckiewicz",
+      "FR": "Gryckiewicz",
+      "DE": "Gryckiewicz",
+      "ES": "Gryckiewicz",
+      "PT": "Gryckiewicz",
+      "IT": "Gryckiewicz",
+      "RU": "\u0413\u0440\u0438\u0446\u043a\u0435\u0432\u0438\u0447",
+      "ZH": "Gryckiewicz",
+      "AR": "\u062c\u0631\u064a\u0643\u064a\u0641\u064a\u062a\u0634"
+     }
+    }
+   },
+   "role": "REFEREE",
+   "translations": {
+    "roleName": {
+     "EN": "Referee",
+     "FR": "Arbitre",
+     "DE": "Schiedsrichter",
+     "ES": "\u00c1rbitro",
+     "PT": "\u00c1rbitro",
+     "IT": "Arbitro",
+     "RU": "\u0420\u0435\u0444\u0435\u0440\u0438",
+     "ZH": "\u00c1rbitro",
+     "AR": "\u0627\u0644\u062d\u0643\u0645"
+    }
+   }
+  },
+  {
+   "images": {
+    "SMALL_SQUARE": "https://img.uefa.com/imgml/referees/75x75/250117258.jpg"
+   },
+   "person": {
+    "countryCode": "POL",
+    "gender": "MALE",
+    "id": "250117258",
+    "translations": {
+     "countryName": {
+      "EN": "Poland",
+      "FR": "Pologne",
+      "DE": "Polen",
+      "ES": "Polonia",
+      "PT": "Pol\u00f3nia",
+      "IT": "Polonia",
+      "RU": "\u041f\u043e\u043b\u044c\u0448\u0430",
+      "ZH": "\u6ce2\u5170",
+      "AR": "\u0628\u0648\u0644\u0646\u062f\u0627"
+     },
+     "firstName": {
+      "EN": "Wojciech",
+      "FR": "Wojciech",
+      "DE": "Wojciech",
+      "ES": "Wojciech",
+      "PT": "Wojciech",
+      "IT": "Wojciech",
+      "RU": "\u0412\u043e\u0439\u0446\u0435\u0445",
+      "ZH": "Wojciech",
+      "AR": "\u0641\u0648\u064a\u062a\u0634\u064a\u0643 "
+     },
+     "lastName": {
+      "EN": "Myc",
+      "FR": "Myc",
+      "DE": "Myc",
+      "ES": "Myc",
+      "PT": "Myc",
+      "IT": "Myc",
+      "RU": "\u041c\u044b\u0446",
+      "ZH": "Myc",
+      "AR": "\u0645\u064a\u062a\u0634"
+     },
+     "name": {
+      "EN": "Wojciech Myc",
+      "FR": "Wojciech Myc",
+      "DE": "Wojciech Myc",
+      "ES": "Wojciech Myc",
+      "PT": "Wojciech Myc",
+      "IT": "Wojciech Myc",
+      "RU": "\u0412\u043e\u0439\u0446\u0435\u0445 \u041c\u044b\u0446",
+      "ZH": "Wojciech Myc",
+      "AR": "\u0641\u0648\u064a\u062a\u0634\u064a\u0643 \u0645\u064a\u062a\u0634"
+     },
+     "shortName": {
+      "EN": "Myc",
+      "FR": "Myc",
+      "DE": "Myc",
+      "ES": "Myc",
+      "PT": "Myc",
+      "IT": "Myc",
+      "RU": "\u041c\u044b\u0446",
+      "ZH": "Myc",
+      "AR": "\u0645\u064a\u062a\u0634"
+     }
+    }
+   },
+   "role": "FOURTH_OFFICIAL",
+   "translations": {
+    "roleName": {
+     "EN": "Fourth official",
+     "FR": "Quatri\u00e8me arbitre",
+     "DE": "Vierter Offizieller",
+     "ES": "Cuarto \u00e1rbitro",
+     "PT": "Quarto \u00e1rbitro",
+     "IT": "Quarto uomo",
+     "RU": "\u0427\u0435\u0442\u0432\u0435\u0440\u0442\u044b\u0439 \u0440\u0435\u0444\u0435\u0440\u0438",
+     "ZH": "Quarto \u00e1rbitro",
+     "AR": "\u0627\u0644\u062d\u0643\u0645 \u0627\u0644\u0631\u0627\u0628\u0639"
+    }
+   }
+  }
+ ],
+ "relatedMatches": [
+  {
+   "awayTeam": {
+    "associationId": "257154",
+    "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/AZE.svg",
+    "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2609356.png",
+    "confederationType": "UEFA",
+    "countryCode": "AZE",
+    "id": "2609356",
+    "idProvider": "FAME",
+    "internationalName": "Sabah",
+    "isPlaceHolder": false,
+    "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2609356.png",
+    "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2609356.png",
+    "organizationId": "250006728",
+    "teamCode": "SAB",
+    "teamTypeDetail": "DOMESTIC_MEN_TEAM_A",
+    "translations": {
+     "countryName": {
+      "EN": "Azerbaijan",
+      "FR": "Azerba\u00efdjan",
+      "DE": "Aserbaidschan",
+      "ES": "Azerbaiy\u00e1n",
+      "PT": "Azerbaij\u00e3o",
+      "IT": "Azerbaigian",
+      "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+      "ZH": "\u963f\u8d5b\u62dc\u7586",
+      "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+     },
+     "displayName": {
+      "EN": "Sabah",
+      "FR": "Sabah",
+      "DE": "Sabah",
+      "ES": "Sabah",
+      "PT": "Sabah",
+      "IT": "Sabah",
+      "RU": "\u0421\u0430\u0431\u0430\u0445",
+      "ZH": "Sabah",
+      "AR": "\u0635\u0628\u0627\u062d"
+     },
+     "displayOfficialName": {
+      "EN": "Sabah FC",
+      "FR": "Sabah FC",
+      "DE": "Sabah FC",
+      "ES": "Sabah FC",
+      "PT": "Sabah FC",
+      "IT": "Sabah FC",
+      "RU": "\u0421\u0430\u0431\u0430\u0445",
+      "ZH": "Sabah",
+      "AR": "\u0635\u0628\u0627\u062d"
+     },
+     "displayTeamCode": {
+      "EN": "SAB",
+      "FR": "SAB",
+      "DE": "SAB",
+      "ES": "SAB",
+      "PT": "SAB",
+      "IT": "SAB",
+      "RU": "SAB",
+      "ZH": "SAB",
+      "AR": "SAB"
+     },
+     "shortName": {
+      "EN": "Sabah",
+      "FR": "Sabah",
+      "DE": "Sabah",
+      "ES": "Sabah",
+      "PT": "Sabah",
+      "IT": "Sabah",
+      "RU": "\u0421\u0430\u0431\u0430\u0445",
+      "ZH": "Sabah",
+      "AR": "\u0635\u0628\u0627\u062d"
+     }
+    },
+    "typeIsNational": false,
+    "typeTeam": "DOMESTIC"
+   },
+   "homeTeam": {
+    "associationId": "200144",
+    "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/WAL.svg",
+    "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/60457.png",
+    "confederationType": "UEFA",
+    "countryCode": "WAL",
+    "id": "60457",
+    "idProvider": "FAME",
+    "internationalName": "The New Saints",
+    "isPlaceHolder": false,
+    "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/60457.png",
+    "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/60457.png",
+    "organizationId": "260457",
+    "teamCode": "TNS",
+    "teamTypeDetail": "DOMESTIC_MEN_TEAM_A",
+    "translations": {
+     "countryName": {
+      "EN": "Wales",
+      "FR": "Pays de Galles",
+      "DE": "Wales",
+      "ES": "Gales",
+      "PT": "Pa\u00eds de Gales",
+      "IT": "Galles",
+      "RU": "\u0423\u044d\u043b\u044c\u0441",
+      "ZH": "\u5a01\u5c14\u58eb",
+      "AR": "\u0648\u064a\u0644\u0632"
+     },
+     "displayName": {
+      "EN": "The New Saints",
+      "FR": "The New Saints",
+      "DE": "The New Saints",
+      "ES": "The New Saints",
+      "PT": "The New Saints",
+      "IT": "The New Saints",
+      "RU": "\u0422\u041d\u0421",
+      "ZH": "\u65b0\u5723\u5f92",
+      "AR": "\u0630\u0627 \u0646\u064a\u0648 \u0633\u064a\u0646\u062a\u0633"
+     },
+     "displayOfficialName": {
+      "EN": "The New Saints FC",
+      "FR": "The New Saints FC",
+      "DE": "The New Saints FC",
+      "ES": "The New Saints FC",
+      "PT": "The New Saints FC",
+      "IT": "The New Saints FC",
+      "RU": "\u0422\u041d\u0421",
+      "ZH": "\u65b0\u5723\u5f92",
+      "AR": "\u0630\u0627 \u0646\u064a\u0648 \u0633\u064a\u0646\u062a\u0633"
+     },
+     "displayTeamCode": {
+      "EN": "TNS",
+      "FR": "TNS",
+      "DE": "TNS",
+      "ES": "TNS",
+      "PT": "TNS",
+      "IT": "TNS",
+      "RU": "TNS",
+      "ZH": "TNS",
+      "AR": "TNS"
+     },
+     "shortName": {
+      "EN": "TNS",
+      "FR": "TNS",
+      "DE": "TNS",
+      "ES": "TNS",
+      "PT": "TNS",
+      "IT": "TNS",
+      "RU": "\u0422\u041d\u0421",
+      "ZH": "\u65b0\u5723\u5f92",
+      "AR": "TNS"
+     }
+    },
+    "typeIsNational": false,
+    "typeTeam": "DOMESTIC"
+   },
+   "id": "2048635",
+   "kickOffTime": {
+    "date": "2026-07-14",
+    "dateTime": "2026-07-14T17:30:00Z",
+    "utcOffsetInHours": 1
+   },
+   "score": {
+    "aggregate": {
+     "away": 4,
+     "home": 1
+    },
+    "regular": {
+     "away": 2,
+     "home": 1
+    },
+    "total": {
+     "away": 2,
+     "home": 1
+    }
+   },
+   "status": "FINISHED",
+   "type": "SECOND_LEG",
+   "winner": {
+    "aggregate": {
+     "reason": "WIN_ON_AGGREGATE",
+     "team": {
+      "associationId": "257154",
+      "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/AZE.svg",
+      "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2609356.png",
+      "confederationType": "UEFA",
+      "countryCode": "AZE",
+      "id": "2609356",
+      "idProvider": "FAME",
+      "internationalName": "Sabah",
+      "isPlaceHolder": false,
+      "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2609356.png",
+      "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2609356.png",
+      "organizationId": "250006728",
+      "teamCode": "SAB",
+      "teamTypeDetail": "DOMESTIC_MEN_TEAM_A",
+      "translations": {
+       "countryName": {
+        "EN": "Azerbaijan",
+        "FR": "Azerba\u00efdjan",
+        "DE": "Aserbaidschan",
+        "ES": "Azerbaiy\u00e1n",
+        "PT": "Azerbaij\u00e3o",
+        "IT": "Azerbaigian",
+        "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+        "ZH": "\u963f\u8d5b\u62dc\u7586",
+        "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+       },
+       "displayName": {
+        "EN": "Sabah",
+        "FR": "Sabah",
+        "DE": "Sabah",
+        "ES": "Sabah",
+        "PT": "Sabah",
+        "IT": "Sabah",
+        "RU": "\u0421\u0430\u0431\u0430\u0445",
+        "ZH": "Sabah",
+        "AR": "\u0635\u0628\u0627\u062d"
+       },
+       "displayOfficialName": {
+        "EN": "Sabah FC",
+        "FR": "Sabah FC",
+        "DE": "Sabah FC",
+        "ES": "Sabah FC",
+        "PT": "Sabah FC",
+        "IT": "Sabah FC",
+        "RU": "\u0421\u0430\u0431\u0430\u0445",
+        "ZH": "Sabah",
+        "AR": "\u0635\u0628\u0627\u062d"
+       },
+       "displayTeamCode": {
+        "EN": "SAB",
+        "FR": "SAB",
+        "DE": "SAB",
+        "ES": "SAB",
+        "PT": "SAB",
+        "IT": "SAB",
+        "RU": "SAB",
+        "ZH": "SAB",
+        "AR": "SAB"
+       },
+       "shortName": {
+        "EN": "Sabah",
+        "FR": "Sabah",
+        "DE": "Sabah",
+        "ES": "Sabah",
+        "PT": "Sabah",
+        "IT": "Sabah",
+        "RU": "\u0421\u0430\u0431\u0430\u0445",
+        "ZH": "Sabah",
+        "AR": "\u0635\u0628\u0627\u062d"
+       }
+      },
+      "typeIsNational": false,
+      "typeTeam": "DOMESTIC"
+     },
+     "translations": {
+      "reasonTextAbbr": {
+       "ZH": "Sabah \u603b\u6bd4\u5206\u53d6\u80dc",
+       "PT": "Sabah vence",
+       "FR": "Sabah: vainqueur",
+       "RU": "\u0421\u0430\u0431\u0430\u0445 \u043f\u043e\u0431\u0435\u0436\u0434\u0430\u0435\u0442",
+       "EN": "Sabah win",
+       "DE": "Sabah gewinnt",
+       "AR": " \u0641\u0627\u0632 \u0635\u0628\u0627\u062d \u0628\u0645\u062c\u0645\u0648\u0639 \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u062a\u064a\u0646  ",
+       "IT": "Sabah vince",
+       "ES": "Gana Sabah"
+      }
+     }
+    },
+    "match": {
+     "reason": "WIN_REGULAR",
+     "team": {
+      "associationId": "257154",
+      "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/AZE.svg",
+      "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2609356.png",
+      "confederationType": "UEFA",
+      "countryCode": "AZE",
+      "id": "2609356",
+      "idProvider": "FAME",
+      "internationalName": "Sabah",
+      "isPlaceHolder": false,
+      "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2609356.png",
+      "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2609356.png",
+      "organizationId": "250006728",
+      "teamCode": "SAB",
+      "teamTypeDetail": "DOMESTIC_MEN_TEAM_A",
+      "translations": {
+       "countryName": {
+        "EN": "Azerbaijan",
+        "FR": "Azerba\u00efdjan",
+        "DE": "Aserbaidschan",
+        "ES": "Azerbaiy\u00e1n",
+        "PT": "Azerbaij\u00e3o",
+        "IT": "Azerbaigian",
+        "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+        "ZH": "\u963f\u8d5b\u62dc\u7586",
+        "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+       },
+       "displayName": {
+        "EN": "Sabah",
+        "FR": "Sabah",
+        "DE": "Sabah",
+        "ES": "Sabah",
+        "PT": "Sabah",
+        "IT": "Sabah",
+        "RU": "\u0421\u0430\u0431\u0430\u0445",
+        "ZH": "Sabah",
+        "AR": "\u0635\u0628\u0627\u062d"
+       },
+       "displayOfficialName": {
+        "EN": "Sabah FC",
+        "FR": "Sabah FC",
+        "DE": "Sabah FC",
+        "ES": "Sabah FC",
+        "PT": "Sabah FC",
+        "IT": "Sabah FC",
+        "RU": "\u0421\u0430\u0431\u0430\u0445",
+        "ZH": "Sabah",
+        "AR": "\u0635\u0628\u0627\u062d"
+       },
+       "displayTeamCode": {
+        "EN": "SAB",
+        "FR": "SAB",
+        "DE": "SAB",
+        "ES": "SAB",
+        "PT": "SAB",
+        "IT": "SAB",
+        "RU": "SAB",
+        "ZH": "SAB",
+        "AR": "SAB"
+       },
+       "shortName": {
+        "EN": "Sabah",
+        "FR": "Sabah",
+        "DE": "Sabah",
+        "ES": "Sabah",
+        "PT": "Sabah",
+        "IT": "Sabah",
+        "RU": "\u0421\u0430\u0431\u0430\u0445",
+        "ZH": "Sabah",
+        "AR": "\u0635\u0628\u0627\u062d"
+       }
+      },
+      "typeIsNational": false,
+      "typeTeam": "DOMESTIC"
+     }
+    }
+   }
+  }
+ ],
+ "round": {
+  "active": false,
+  "benchGKCount": 12,
+  "benchPlayersCount": 12,
+  "benchStaffCount": 15,
+  "coefficientWinnerBonus": 0.0,
+  "competitionId": "1",
+  "dateFrom": "2026-07-07T06:00:00+0000",
+  "dateTo": "2026-07-16T21:59:59+0000",
+  "fieldPlayersCount": 11,
+  "groupCount": 14,
+  "id": "2002235",
+  "metaData": {
+   "name": "First qualifying round",
+   "type": "FIRST_QUALIFYING"
+  },
+  "mode": "KNOCK_OUT",
+  "modeDetail": "KNOCK_OUT_TWO_LEGS",
+  "orderInCompetition": 1,
+  "phase": "QUALIFYING",
+  "seasonYear": "2027",
+  "secondaryType": "QUALIFYING",
+  "stadiumNameType": "OFFICIAL_NAME",
+  "status": "FINISHED",
+  "substitutionCount": 5,
+  "teamCount": 28,
+  "teams": [
+   "53080",
+   "63401",
+   "59341",
+   "64514",
+   "2607924",
+   "2605907",
+   "50092",
+   "2605905",
+   "79970",
+   "2610304",
+   "52350",
+   "60457",
+   "52697",
+   "88148",
+   "73936",
+   "2608290",
+   "52381",
+   "85009",
+   "2613945",
+   "50044",
+   "57475",
+   "52287",
+   "2606501",
+   "50104",
+   "2609356",
+   "2605351",
+   "2607112",
+   "2605572"
+  ],
+  "translations": {
+   "abbreviation": {
+    "EN": "1QR",
+    "FR": "Q1",
+    "DE": "QR1",
+    "ES": "1\u00aa FC",
+    "PT": "1\u00aa pr\u00e9.",
+    "IT": "1QL",
+    "RU": "1\u041e\u0420",
+    "ZH": "1QR",
+    "AR": "1QR"
+   },
+   "name": {
+    "EN": "First qualifying round",
+    "FR": "Premier tour de qualification",
+    "DE": "Erste Qualifikationsrunde",
+    "ES": "Primera fase de clasificaci\u00f3n",
+    "PT": "1\u00aa pr\u00e9-eliminat\u00f3ria",
+    "IT": "Primo turno di qualificazione",
+    "RU": "\u041f\u0435\u0440\u0432\u044b\u0439 \u043e\u0442\u0431\u043e\u0440\u043e\u0447\u043d\u044b\u0439 \u0440\u0430\u0443\u043d\u0434",
+    "ZH": "First qualifying round",
+    "AR": "\u0627\u0644\u062f\u0648\u0631 \u0627\u0644\u062a\u0623\u0647\u064a\u0644\u064a \u0627\u0644\u0623\u0648\u0644"
+   },
+   "shortName": {
+    "EN": "Qualif. 1",
+    "FR": "1er tr. qual.",
+    "DE": "Qual. 1",
+    "ES": "1\u00aa Ronda Clas.",
+    "PT": "1\u00aa pr\u00e9-elim.",
+    "IT": "1QL",
+    "RU": "\u041e\u0442\u0431. 1",
+    "ZH": "1QR",
+    "AR": "\u0627\u0644\u062a\u0623\u0647\u064a\u0644\u064a 1"
+   }
+  }
+ },
+ "score": {
+  "aggregate": {
+   "away": 1,
+   "home": 4
+  },
+  "regular": {
+   "away": 0,
+   "home": 2
+  },
+  "total": {
+   "away": 0,
+   "home": 2
+  }
+ },
+ "seasonYear": "2027",
+ "sessionNumber": 1,
+ "stadium": {
+  "address": "Masazir settlement, Gurtulush 93",
+  "capacity": 8569,
+  "city": {
+   "countryCode": "AZE",
+   "id": "1162",
+   "translations": {
+    "name": {
+     "EN": "Baku",
+     "FR": "Bakou",
+     "DE": "Baku",
+     "ES": "Bak\u00fa",
+     "PT": "Bacu",
+     "IT": "Baku",
+     "RU": "\u0411\u0430\u043a\u0443",
+     "ZH": "\u5df4\u5e93",
+     "AR": "\u0628\u0627\u0643\u0648"
+    }
+   }
+  },
+  "countryCode": "AZE",
+  "geolocation": {
+   "latitude": 40.472451,
+   "longitude": 49.756404
+  },
+  "id": "250002938",
+  "images": {
+   "MEDIUM_WIDE": "https://img.uefa.com/imgml/stadium/matchinfo/w1/250002938.jpg",
+   "LARGE_ULTRA_WIDE": "https://img.uefa.com/imgml/stadium/matchinfo/uw/250002938.jpg"
+  },
+  "openingDate": "2014-01-01",
+  "pitch": {
+   "length": 105,
+   "width": 68
+  },
+  "translations": {
+   "mediaName": {
+    "EN": "Alinja Stadium",
+    "FR": "Alinja Stadium",
+    "DE": "Alinja Stadium",
+    "ES": "Alinja Stadium",
+    "PT": "Alinja Stadium",
+    "IT": "Alinja Stadium",
+    "RU": "\u0410\u043b\u0438\u043d\u0434\u0436\u0430 \u0410\u0440\u0435\u043d\u0430",
+    "ZH": "Alinja Stadium",
+    "AR": "\u0623\u0644\u064a\u0646\u062c\u0627 \u0633\u062a\u0627\u062f\u064a\u0648\u0645"
+   },
+   "name": {
+    "EN": "Alinja Stadium",
+    "FR": "Alinja Stadium",
+    "DE": "Alinja Stadium",
+    "ES": "Alinja Stadium",
+    "PT": "Alinja Stadium",
+    "IT": "Alinja Stadium",
+    "RU": "\u0410\u043b\u0438\u043d\u0434\u0436\u0430 \u0410\u0440\u0435\u043d\u0430",
+    "ZH": "Alinja Stadium",
+    "AR": "\u0623\u0644\u064a\u0646\u062c\u0627 \u0633\u062a\u0627\u062f\u064a\u0648\u0645"
+   },
+   "officialName": {
+    "EN": "Alinja Stadium",
+    "FR": "Alinja Stadium",
+    "DE": "Alinja Stadium",
+    "ES": "Alinja Stadium",
+    "PT": "Alinja Stadium",
+    "IT": "Alinja Stadium",
+    "RU": "\u0410\u043b\u0438\u043d\u0434\u0436\u0430 \u0410\u0440\u0435\u043d\u0430",
+    "ZH": "Alinja Stadium",
+    "AR": "\u0623\u0644\u064a\u0646\u062c\u0627 \u0633\u062a\u0627\u062f\u064a\u0648\u0645"
+   },
+   "specialEventsName": {
+    "EN": "Alinja Stadium",
+    "FR": "Alinja Stadium",
+    "DE": "Alinja Stadium",
+    "ES": "Alinja Stadium",
+    "PT": "Alinja Stadium",
+    "IT": "Alinja Stadium",
+    "RU": "\u0410\u043b\u0438\u043d\u0434\u0436\u0430 \u0410\u0440\u0435\u043d\u0430",
+    "ZH": "Alinja Stadium",
+    "AR": "\u0623\u0644\u064a\u0646\u062c\u0627 \u0633\u062a\u0627\u062f\u064a\u0648\u0645"
+   },
+   "sponsorName": {
+    "EN": "Bank Respublika Arena",
+    "FR": "Bank Respublika Arena",
+    "DE": "Bank Respublika Arena",
+    "ES": "Bank Respublika Arena",
+    "PT": "Bank Respublika Arena",
+    "IT": "Bank Respublika Arena",
+    "RU": "Bank Respublika \u0410\u0440\u0435\u043d\u0430",
+    "ZH": "Bank Respublika Arena",
+    "AR": "\u0628\u0646\u0643 \u0631\u064a\u0633\u0628\u0648\u0628\u0644\u064a\u0643\u0627 \u0623\u0631\u064a\u0646\u0627"
+   }
+  }
+ },
+ "status": "FINISHED",
+ "type": "FIRST_LEG",
+ "winner": {
+  "aggregate": {
+   "reason": "WIN_ON_AGGREGATE",
+   "team": {
+    "associationId": "257154",
+    "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/AZE.svg",
+    "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2609356.png",
+    "confederationType": "UEFA",
+    "countryCode": "AZE",
+    "id": "2609356",
+    "idProvider": "FAME",
+    "internationalName": "Sabah",
+    "isPlaceHolder": false,
+    "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2609356.png",
+    "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2609356.png",
+    "organizationId": "250006728",
+    "teamCode": "SAB",
+    "teamTypeDetail": "DOMESTIC_MEN_TEAM_A",
+    "translations": {
+     "countryName": {
+      "EN": "Azerbaijan",
+      "FR": "Azerba\u00efdjan",
+      "DE": "Aserbaidschan",
+      "ES": "Azerbaiy\u00e1n",
+      "PT": "Azerbaij\u00e3o",
+      "IT": "Azerbaigian",
+      "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+      "ZH": "\u963f\u8d5b\u62dc\u7586",
+      "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+     },
+     "displayName": {
+      "EN": "Sabah",
+      "FR": "Sabah",
+      "DE": "Sabah",
+      "ES": "Sabah",
+      "PT": "Sabah",
+      "IT": "Sabah",
+      "RU": "\u0421\u0430\u0431\u0430\u0445",
+      "ZH": "Sabah",
+      "AR": "\u0635\u0628\u0627\u062d"
+     },
+     "displayOfficialName": {
+      "EN": "Sabah FC",
+      "FR": "Sabah FC",
+      "DE": "Sabah FC",
+      "ES": "Sabah FC",
+      "PT": "Sabah FC",
+      "IT": "Sabah FC",
+      "RU": "\u0421\u0430\u0431\u0430\u0445",
+      "ZH": "Sabah",
+      "AR": "\u0635\u0628\u0627\u062d"
+     },
+     "displayTeamCode": {
+      "EN": "SAB",
+      "FR": "SAB",
+      "DE": "SAB",
+      "ES": "SAB",
+      "PT": "SAB",
+      "IT": "SAB",
+      "RU": "SAB",
+      "ZH": "SAB",
+      "AR": "SAB"
+     },
+     "shortName": {
+      "EN": "Sabah",
+      "FR": "Sabah",
+      "DE": "Sabah",
+      "ES": "Sabah",
+      "PT": "Sabah",
+      "IT": "Sabah",
+      "RU": "\u0421\u0430\u0431\u0430\u0445",
+      "ZH": "Sabah",
+      "AR": "\u0635\u0628\u0627\u062d"
+     }
+    },
+    "typeIsNational": false,
+    "typeTeam": "DOMESTIC"
+   },
+   "translations": {
+    "reasonTextAbbr": {
+     "ZH": "Sabah \u603b\u6bd4\u5206\u53d6\u80dc",
+     "PT": "Sabah vence",
+     "FR": "Sabah: vainqueur",
+     "RU": "\u0421\u0430\u0431\u0430\u0445 \u043f\u043e\u0431\u0435\u0436\u0434\u0430\u0435\u0442",
+     "EN": "Sabah win",
+     "DE": "Sabah gewinnt",
+     "AR": " \u0641\u0627\u0632 \u0635\u0628\u0627\u062d \u0628\u0645\u062c\u0645\u0648\u0639 \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u062a\u064a\u0646  ",
+     "IT": "Sabah vince",
+     "ES": "Gana Sabah"
+    }
+   }
+  },
+  "match": {
+   "reason": "WIN_REGULAR",
+   "team": {
+    "associationId": "257154",
+    "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/AZE.svg",
+    "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2609356.png",
+    "confederationType": "UEFA",
+    "countryCode": "AZE",
+    "id": "2609356",
+    "idProvider": "FAME",
+    "internationalName": "Sabah",
+    "isPlaceHolder": false,
+    "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2609356.png",
+    "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2609356.png",
+    "organizationId": "250006728",
+    "teamCode": "SAB",
+    "teamTypeDetail": "DOMESTIC_MEN_TEAM_A",
+    "translations": {
+     "countryName": {
+      "EN": "Azerbaijan",
+      "FR": "Azerba\u00efdjan",
+      "DE": "Aserbaidschan",
+      "ES": "Azerbaiy\u00e1n",
+      "PT": "Azerbaij\u00e3o",
+      "IT": "Azerbaigian",
+      "RU": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d",
+      "ZH": "\u963f\u8d5b\u62dc\u7586",
+      "AR": "\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646"
+     },
+     "displayName": {
+      "EN": "Sabah",
+      "FR": "Sabah",
+      "DE": "Sabah",
+      "ES": "Sabah",
+      "PT": "Sabah",
+      "IT": "Sabah",
+      "RU": "\u0421\u0430\u0431\u0430\u0445",
+      "ZH": "Sabah",
+      "AR": "\u0635\u0628\u0627\u062d"
+     },
+     "displayOfficialName": {
+      "EN": "Sabah FC",
+      "FR": "Sabah FC",
+      "DE": "Sabah FC",
+      "ES": "Sabah FC",
+      "PT": "Sabah FC",
+      "IT": "Sabah FC",
+      "RU": "\u0421\u0430\u0431\u0430\u0445",
+      "ZH": "Sabah",
+      "AR": "\u0635\u0628\u0627\u062d"
+     },
+     "displayTeamCode": {
+      "EN": "SAB",
+      "FR": "SAB",
+      "DE": "SAB",
+      "ES": "SAB",
+      "PT": "SAB",
+      "IT": "SAB",
+      "RU": "SAB",
+      "ZH": "SAB",
+      "AR": "SAB"
+     },
+     "shortName": {
+      "EN": "Sabah",
+      "FR": "Sabah",
+      "DE": "Sabah",
+      "ES": "Sabah",
+      "PT": "Sabah",
+      "IT": "Sabah",
+      "RU": "\u0421\u0430\u0431\u0430\u0445",
+      "ZH": "Sabah",
+      "AR": "\u0635\u0628\u0627\u062d"
+     }
+    },
+    "typeIsNational": false,
+    "typeTeam": "DOMESTIC"
+   },
+   "translations": {
+    "reasonText": {
+     "ZH": "Sabah \u51ed\u501f\u9996\u56de\u5408\u6bd4\u8d5b\u7ed3\u679c\u664b\u7ea7",
+     "PT": "Sabah venceu a primeira m\u00e3o",
+     "FR": "Sabah a gagn\u00e9 l'aller",
+     "RU": "\u0421\u0430\u0431\u0430\u0445 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0435\u0442 \u043f\u0435\u0440\u0432\u044b\u0439 \u043c\u0430\u0442\u0447",
+     "EN": "Sabah won the first leg",
+     "DE": "Sabah gewann das Hinspiel",
+     "AR": "\u0635\u0628\u0627\u062d \u0641\u0627\u0632 \u0641\u064a \u0645\u0628\u0627\u0631\u0627\u0629 \u0627\u0644\u0630\u0647\u0627\u0628",
+     "IT": "Sabah ha vinto l'andata",
+     "ES": "Sabah gan\u00f3 en la ida"
+    },
+    "reasonTextAbbr": {
+     "ZH": "Sabah \u83b7\u80dc",
+     "PT": "Sabah venceu",
+     "FR": "Sabah: vainqueur",
+     "RU": "\u0421\u0430\u0431\u0430\u0445 \u043f\u043e\u0431\u0435\u0436\u0434\u0430\u0435\u0442",
+     "EN": "Sabah won",
+     "DE": "Sabah gewinnt",
+     "AR": "\u0635\u0628\u0627\u062d \u0641\u0627\u0632",
+     "IT": "Sabah ha vinto",
+     "ES": "Gan\u00f3 Sabah"
+    }
+   }
+  }
+ }
+}
