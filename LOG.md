@@ -1,5 +1,11 @@
 # Log (newest first)
 
+## 2026-11-24 Raw probe copied; key check Action
+- Owner approved committing raw bookmaker data for the probe. Copied `data/ref/ucl_props_probe_raw.json` from
+  `ryanxib/epl.dfs`, branch `ucl-probe`, commit `fc6e3788d43f8bb0280fb0a725ae325f2dbf55f5` (unchanged, 420 KB). Checked: no key in it.
+- Added `scripts/check_odds_key.py` + `key_check` Action: confirms the `ODDS_API` secret works using the free /sports
+  endpoint (0 credits). Writes `data/ref/odds_key_check.md`. Prints no key or URL. Workspace cannot read repo secrets directly.
+
 ## 2026-11-24 Stage 0: repo skeleton
 - Repo set: `ryanxib/UCL-fantasy` (public, owner's choice). Replaces the planned `ucl.dfs`, which was never created.
 - Added README, PLAN, METHOD, CHECKLIST, NEXT, LOG.
