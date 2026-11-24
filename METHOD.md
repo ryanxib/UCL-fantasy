@@ -44,6 +44,11 @@ Data notes (24 Nov): UEFA `minutes_played_official` = 60 can be under 60 full mi
 UEFA per-player `goals_conceded` is 0 for outfield players: use team score + time on pitch instead.
 
 ## Model rules (v1)
+Code: `model/daily_proj.py CONTEST [--freeze]` (stage 2, 24 Nov). Scoring in `model/scoring.py`. Output `data/proj/`.
+INFERRED (not from data yet; calibrate in stage 4): Lineup -> P(start) confirmed 1.0, expected 0.85, possible 0.45,
+unexpected 0.05, injured / suspended 0; sub-on chance = UEFA bench rate (0.42), halved for 'unexpected'.
+Measured from UEFA MD1-4: assists per goal 0.84, SoT per goal 2.80 (GK saves), own-goal share 0.031, yellows per team-game 1.76.
+Approximations: clean sheet = P(team CS) ^ (share of match played) x P(60+); impact = full-time result x share played.
 - Bookmaker prices first. Remove margin; mean of books.
 - Goals: anytime scorer. Shots, SoT, assists, tackles, cards: player props.
 - Clean sheet, goals conceded, win: score grid fitted to team markets.

@@ -14,7 +14,7 @@ Done when: files pushed to main, copy logged.
 - `ODDS_API` secret set and checked (24 Nov).
 Done when: `props` and `pool` have each run once on UCL with clean output, credits logged.
 
-## Stage 2. Projection (spec updated 24 Nov 2026)
+## Stage 2. Projection (spec updated 24 Nov 2026; BUILT 24 Nov, first run contest 1170340, tests pass)
 Goal: projected FanTeam points per pool player for one contest, saved before lock.
 Copy from `epl.dfs` (log commit): `model/team_lines.py`, `model/score_matrix.py`, `model/daily_proj.py` (+ their tests).
 Inputs: `data/clean/props/*_latest.csv`, `data/clean/props/team_latest.csv` (ignore `h2h_lay`), contest pool CSV + JSON,
@@ -31,7 +31,7 @@ Steps:
 5. GK: saves = opponent expected SoT minus expected goals, x 0.5 (UEFA saves overcount; calibrate to FanTeam later).
 6. Cards: props where listed, else position base rate from UEFA MD1-4. Ignore own goal / penalty events (tiny).
 7. Games or players with no props (Porto-Feyenoord today): FALLBACK = team expected goals from the score grid, shared
-   over players by their UEFA MD1-4 per-90 share of team goals / assists / SoT. Marked `fallback=1`. OWNER DECISION NEEDED.
+   over players by their UEFA MD1-4 per-90 share of team goals / assists / SoT. Marked `fallback=1`. Owner approved 24 Nov.
 8. Safety net: a non-starter is swapped for the dearest same-club same-position player at or below his price: value
    P(start) x own projection + (1 - P(start)) x replacement projection.
 Outputs: `data/proj/<contest>_<stamp>.csv` (player, club, pos, price, P(start), each points part, total, fallback flag,

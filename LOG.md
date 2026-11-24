@@ -1,5 +1,18 @@
 # Log (newest first)
 
+## 2026-11-24 Stage 2 built: projection
+- Owner approved step 7 fallback (games with no player props: UEFA MD1-4 per-90 shares, flagged).
+- Copied from `ryanxib/epl.dfs` commit efa3cb9: `model/team_lines.py`, `model/score_matrix.py` (unchanged). `model/daily_proj.py`
+  rewritten for UCL: EPL helpers kept (e_floor, lam_from_ladder, odds_match, safety net, freeze); FPL history replaced by UEFA.
+- New: `model/scoring.py` (confirmed table), `tests/test_stage2.py` (scoring arithmetic, no player dropped, parts rebuild the
+  total, team goal sums = team xG, fallback exactly FCP/FEY). Stage 1 and 2 tests pass.
+- First run, contest 1170340 (props + team markets of 09:35 UTC): 345 of 345 projected; goals from props 213, UEFA 118,
+  position average 14; 329 linked to UEFA. Fallback: FCP, FEY. Warning: SLV goal anchor 1.73 (thin props; 10 expected SLV
+  starters have no price). Card props calibration k 0.88. FROZEN 24 Nov ~14:30 UTC: `data/proj/1170340_frozen.csv`.
+- Level check v FanTeam MD2-4 starters (not like for like): GK 3.83 v 3.87, DEF 2.85 v 2.45, MID 4.13 v 3.81, FWD 4.60 v 4.82.
+  DEF and MID may run 0.3-0.4 high. Calibrate in stage 4, do not tune by eye.
+- Not done: props refresh near lock, start overrides once XIs are out, Wednesday contest (needs id + props pull).
+
 ## 2026-11-24 Stage 2 spec written into PLAN.md
 - Inputs, 8 steps, outputs, checks, done-when. Open owner decision: fallback for games with no player props (step 7).
 

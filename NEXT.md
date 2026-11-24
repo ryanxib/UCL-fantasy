@@ -1,13 +1,15 @@
 # Next
 
-## State (24 Nov 2026)
-- Stages 0 and 1 done. `props` ran on tonight's 9 games (18482 credits left). `pool` ran on contest 1170340
-  (Tuesday Main Event GW5, 7 games at 20:00 UTC, budget 121, max 3 per club, captain 2x, safety net team).
-- No projection, lineup or review code yet.
+## State (24 Nov 2026, ~14:30 UTC)
+- Stages 0, 1, 2 done. Projection: `python model/daily_proj.py CONTEST [--freeze]` -> `data/proj/`.
+- Contest 1170340 (Tue Main Event, 7 games 20:00 UTC) projected and frozen with 09:35 UTC props (first version).
+- Scoring confirmed. UEFA MD1-4 stats and FanTeam MD2-4 points in the repo.
 
 ## Next step
-Stage 2 (projection), a new build chat. Or a research chat first: pull UCL 2026-27 player match stats (MD1-5) from
-FanTeam (past contest ids via a scan; raw stats via `/fantasy_teams/{id}`), check against FanTeam points.
+1. Tonight, if entering 1170340: once XIs are out (~19:00 UTC) refresh props (`requests/props.txt`), write overrides
+   (`data/manual/overrides_1170340.csv`: player,p_start), re-run, re-freeze before 20:00 UTC. Lineup build = stage 3.
+2. Wednesday MD5 games: owner sends contest id(s) -> pool Action; props pull with `--hours` covering 25 Nov 20:00 UTC.
+3. Stage 3 (lineups and freeze), a build chat.
 
 ## Open items
 1. Scoring CONFIRMED 24 Nov (rules screenshots + UEFA stats v FanTeam points, 93% match; METHOD.md). A goal is not also a

@@ -1,0 +1,10 @@
+game,home,away,start,lam_h,lam_a,p_cs_h,p_cs_a,p_h,p_d,p_a,fit_rmse,n_totals
+AEK Athens @ Como,Como,AEK Athens,2026-11-24T20:00:00Z,2.79,0.9176,0.3995,0.0614,0.7623,0.1426,0.095,0.0019,2
+Aston Villa @ Galatasaray,Galatasaray,Aston Villa,2026-11-24T17:45:00Z,1.6364,1.9065,0.1486,0.1947,0.3183,0.2503,0.4314,0.0376,4
+Borussia Dortmund @ Arsenal,Arsenal,Borussia Dortmund,2026-11-24T20:00:00Z,1.983,0.771,0.4625,0.1377,0.6584,0.2041,0.1375,0.0188,2
+LASK @ Bodø/Glimt,Bodø/Glimt,LASK,2026-11-24T17:45:00Z,2.6817,1.3678,0.2547,0.0684,0.6507,0.1807,0.1686,0.0386,4
+Napoli @ Manchester City,Manchester City,Napoli,2026-11-24T20:00:00Z,2.7506,1.0157,0.3622,0.0639,0.7364,0.1521,0.1114,0.0146,3
+PSV Eindhoven @ Real Madrid,Real Madrid,PSV Eindhoven,2026-11-24T20:00:00Z,3.6584,1.0504,0.3498,0.0258,0.8391,0.0975,0.0634,0.0191,3
+Porto @ Feyenoord,Feyenoord,Porto,2026-11-24T20:00:00Z,1.4146,1.7036,0.182,0.243,0.3069,0.2588,0.4344,0.0459,4
+RC Lens @ RB Leipzig,RB Leipzig,RC Lens,2026-11-24T20:00:00Z,2.6393,1.1193,0.3265,0.0714,0.697,0.1676,0.1354,0.0142,3
+Real Betis @ ŠK Slovan Bratislava,ŠK Slovan Bratislava,Real Betis,2026-11-24T20:00:00Z,0.8913,2.7415,0.0645,0.4101,0.0927,0.1468,0.7606,0.0025,2
