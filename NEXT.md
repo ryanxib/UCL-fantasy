@@ -21,5 +21,6 @@ FanTeam (past contest ids via a scan; raw stats via `/fantasy_teams/{id}`), chec
 6. Raw prices policy (option A): review at stage 4.
 7. Past FanTeam points: `data/clean/points/ucl_points_md{2,3,4}.csv`. Coverage MD1 0/18, MD2 14/18, MD3 14/18, MD4 7/18 games
    (dailies skip 18:45 CET games; no dailies found for MD1 or MD4 Tue). Flag only until it lowers projection error.
-8. Fill gaps from UEFA: match.uefa.com and compstats.uefa.com answer from Actions. Research chat: map endpoints for
-   per-player per-match stats (minutes, goals, assists, shots, tackles, saves), all 18 games x MD1-4.
+8. UEFA stats MD1-4 DONE: `data/clean/uefa/player_match.csv` (all 72 games; minutes, goals, assists, SoT, saves, tackles, CS,
+   cards). After each matchday: commit `requests/uefa_stats.txt` with the new matchday list to refresh.
+   Open: link UEFA ids to FanTeam ids (stage 2); convert to FanTeam points once UCL scoring is confirmed.

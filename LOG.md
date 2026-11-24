@@ -1,5 +1,16 @@
 # Log (newest first)
 
+## 2026-11-24 UEFA per-player per-match stats, MD1-4 (research)
+- Probe (`uefa` Action, `scripts/probe_uefa.py`): found the per-match player stats endpoint. Facts in `data/ref/uefa_api.md`.
+- Pull (`uefa_stats` Action, `scripts/fetch_uefa_stats.py`): `data/clean/uefa/player_match.csv`, report `pull_report.md`.
+  All 72 league-phase games of MD1-4, 3,196 rows, 2,259 with minutes (561-569 per matchday). 0 failures.
+- Checks: per-match goals + own goals = final score in 72 of 72. 147 goalkeeper appearances, 522 saves (max 9).
+  Tackles avg 0.93 per player-match. 2 rows with no name (no minutes; one is a card with no team, likely staff): ignore.
+- Kept player name, club, position, starter flag and 23 stats. No ages or birth dates (public repo).
+- Removed probe samples that were cut off at 400 KB (invalid JSON). Kept match list, lineups samples.
+- NOT done: link UEFA player ids to FanTeam player ids (names + club; stage 2). Not converted to FanTeam points:
+  scoring still TBC for UCL. Flag only until it lowers projection error.
+
 ## 2026-11-24 History run 2 results (step 10, ids 1135500-1158800)
 - 2,665 ids tried, 193 UCL contests. Still NO daily contest for MD1 and none for MD4 Tuesday. MD4 file unchanged (Wed, 7 games).
 - Likely FanTeam ran no dailies on those days. Not proven: a cluster smaller than 10 ids could be missed.

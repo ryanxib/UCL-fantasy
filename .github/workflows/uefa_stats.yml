@@ -1,5 +1,5 @@
 name: uefa_stats
-# UEFA API probe (match list + candidate per-match player stats endpoints). UEFA is blocked from the chat workspace.
+# UEFA per-player per-match stats pull (lineups + matchstats v2). UEFA is blocked from the chat workspace.
 # Run: commit to requests/uefa_stats.txt (first line: matchdays, e.g. 1,2,3,4).
 # Output: data/clean/uefa/player_match.csv, data/clean/uefa/pull_report.md
 on:
